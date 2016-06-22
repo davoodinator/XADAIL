@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,0,
+effectFile,fx/particlesystems/skillsclass03/pfx_posession_selfloop_02.pfx,
+localOrientFix,1,

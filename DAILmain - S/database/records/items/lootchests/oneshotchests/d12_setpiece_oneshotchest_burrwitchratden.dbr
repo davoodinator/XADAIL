@@ -1,0 +1,5 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+placementChance,100.000000,
+pool1,records/items/lootchests/oneshotchests/d12_set_oneshotchest_burrwitchratden.dbr,
+weight1,100,

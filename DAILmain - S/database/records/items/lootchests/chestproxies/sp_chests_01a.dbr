@@ -1,0 +1,6 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+placementChance,30.000000,
+weight1,70,
+weight2,25,
+weight3,5,

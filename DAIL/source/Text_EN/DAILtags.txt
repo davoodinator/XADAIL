@@ -1,0 +1,42 @@
+#NPCS
+tagDailDavoodFactioner=^oDavood the Aetherial Interdictor
+tagDailHardyFactioner=^oHardy the Aetherial Interdictor
+tagDailKhalanosFactioner=^oKhalanos the Aetherial Interdictor
+tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
+
+
+#DAIL MERCHANTS
+tagDailThentyZShopping0001=^oThentyZ the Soldier Emissary of Davood
+tagDailThentyZShopping0002=^osomeone0002 the Demolitionist Emissary of Davood
+tagDailThentyZShopping0003=^oDavood the Occultist Emissary of Davood
+tagDailThentyZShopping0004=^osomeone0004 the Nightblade Emissary of Davood
+tagDailThentyZShopping0005=^osomeone0005 the Arcanist Emissary of Davood
+tagDailThentyZShopping0006=^osomeone0006 the Shaman Emissary of Davood
+tagDailThentyZShopping0007=^osomeone0007 the ????
+tagDailThentyZShopping0008=^osomeone0008 the ????
+tagDailThentyZShopping0009=^osomeone0009 the ????
+tagDailThentyZShopping0010=^osomeone0010 the ????
+tagDailThentyZShopping0011=^osomeone0011 the ????
+tagDailThentyZShopping0012=^osomeone0012 the ????
+tagDailThentyZShopping0013=^osomeone0013 the ????
+tagDailThentyZShopping0014=^osomeone0014 the ????
+tagDailThentyZShopping0015=^osomeone0015 the ????
+tagDailThentyZShopping0016=^osomeone0016 the ????
+tagDailThentyZShopping0017=^osomeone0017 the ????
+tagDailThentyZShopping0018=^osomeone0018 the ????
+tagDailThentyZShopping0019=^osomeone0019 the ????
+tagDailThentyZShopping0010=^osomeone0020 the ????
+tagDailThentyZShopping0021=^osomeone0021 the ????
+tagDailThentyZShopping0022=^osomeone0022 the ????
+tagDailThentyZShopping0023=^osomeone0023 the ????
+tagDailThentyZShopping0024=^osomeone0024 the ????
+tagDailThentyZShopping0025=^osomeone0025 the ????
+tagDailThentyZShopping0026=^osomeone0026 the ????
+tagDailThentyZShopping0027=^osomeone0027 the ????
+tagDailThentyZShopping0028=^osomeone0028 the ????
+tagDailThentyZShopping0029=^osomeone0029 the ????
+tagDailThentyZShopping0030=^osomeone0030 the ????
+
+#components
+dailCompDesc0000000=^pThis is a test item mk?
+dailCompText0000000=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)

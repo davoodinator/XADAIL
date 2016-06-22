@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/insects/dermapteran01.msh,
+editorScale,1.500000,
+onAddToWorld,gd.quests.areaCQuestInfestedFields.infestation06OnAddToWorld,
+onDestroy,gd.quests.areaCQuestInfestedFields.infestation06OnDestroy,
+pathing,0,

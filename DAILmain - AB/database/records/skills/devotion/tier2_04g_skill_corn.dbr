@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+FileDescription,Huntress - Rend,
+buffSkillName,records/skills/devotion/tier2_04g_skill_buff.dbr,
+pointBlank,0,

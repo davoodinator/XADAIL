@@ -1,0 +1,7 @@
+templateName,database/templates/spawnondeathpool.tpl,
+alwaysSpawn1,1,
+limit1,1,
+name1,records/creatures/enemies/special/clone_d03.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,100,

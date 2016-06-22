@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;12,
+records,records/omega/items/loottables/materia/omega_tdyn_comp_magical_a01.dbr;records/omega/items/loottables/materia/omega_tdyn_comp_magical_a01.dbr,

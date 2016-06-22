@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,ui/character/faction_tiermark.tex,
+bitmapPositionX,600,
+bitmapPositionY,109,

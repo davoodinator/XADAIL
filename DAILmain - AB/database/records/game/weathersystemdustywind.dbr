@@ -1,0 +1,8 @@
+templateName,database/templates/weathersystem.tpl,
+name,DustyWind,
+particleSize,14.000000,
+particleSpeed,5.000000,
+sound,records/sounds/environmental/windloop.dbr,
+spawnRadius,25.000000,
+texture,fx/textures/weather_dustcloud01.tex,
+type,Fog,

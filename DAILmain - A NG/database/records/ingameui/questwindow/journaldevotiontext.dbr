@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/textstring.tpl,
+style,records/ui/styles/text/style_quest_description.dbr,
+textAlignmentX,Left,
+textAlignmentY,Top;Center;Botton;,
+textBoxX,5,
+textBoxXSize,315,
+textBoxY,7,
+textBoxYSize,20,

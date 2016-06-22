@@ -1,0 +1,3 @@
+templateName,database/templates/staticrespawner.tpl,
+Class,StaticRespawner,
+bindRadius,8.000000,

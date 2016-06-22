@@ -1,0 +1,6 @@
+templateName,database/templates/lootrandomizertabledynamic.tpl,
+Class,LootRandomizerTable,
+randomizerLevelMax1,500,
+randomizerLevelMin1,1,
+randomizerName1,records/items/lootaffixes/completion/b45_kilrian_kilrianflame.dbr,
+randomizerWeight1,100,

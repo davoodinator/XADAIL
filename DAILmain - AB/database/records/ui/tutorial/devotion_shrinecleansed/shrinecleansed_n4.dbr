@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/uitutorianuggetplus.tpl,
+FileDescription,Text,
+TextStyle,records/ui/styles/text/style_quest_description.dbr,
+TextTag,tagTutorialTip59TextB,
+TopSpacing,5,
+keyOperation,SkillWindow,

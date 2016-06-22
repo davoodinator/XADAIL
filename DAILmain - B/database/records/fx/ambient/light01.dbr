@@ -1,0 +1,6 @@
+templateName,database/templates/engine/light.tpl,
+Class,Light,
+color.b,1.000000,
+color.g,1.000000,
+color.r,1.000000,
+radius,200.000000,

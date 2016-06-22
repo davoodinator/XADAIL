@@ -1,0 +1,7 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+baseTexture,creatures/enemies/proxytexture_factionteal.tex,
+mesh,creatures/enemies/proxyfaction01.msh,
+placementChance,100.000000,
+pool1,records/proxies/factionspawns/setpieceproxies/set_random_chthonian_tier1_cultists.dbr,
+weight1,100,

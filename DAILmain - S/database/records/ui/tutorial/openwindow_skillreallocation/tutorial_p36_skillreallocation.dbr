@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Skill Reallocation,
+NuggetArray,records/ui/tutorial/openwindow_skillreallocation/skillreallocation_n1.dbr;records/ui/tutorial/openwindow_skillreallocation/skillreallocation_n2.dbr;records/ui/tutorial/openwindow_skillreallocation/skillreallocation_n3.dbr,
+quickTag,tagQuickTip36,

@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Drains health from target,
+buffSkillName,records/skills/nonplayerskills/heroskills/ordarion_chaosdrain_buff.dbr,
+projectileNames,records/fx/skillsother/buffoffensive/chaosdrain_fxprojectile.dbr,

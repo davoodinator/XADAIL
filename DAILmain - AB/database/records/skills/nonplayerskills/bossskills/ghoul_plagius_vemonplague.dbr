@@ -1,0 +1,3 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+buffSkillName,records/skills/nonplayerskills/bossskills/ghoul_plagius_venomplague_buff.dbr,

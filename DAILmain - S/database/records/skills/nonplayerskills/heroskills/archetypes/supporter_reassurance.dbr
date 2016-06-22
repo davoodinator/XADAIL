@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies Reassurance buff,
+buffSkillName,records/skills/nonplayerskills/heroskills/archetypes/supporter_reassurance_buff.dbr,
+instantCast,1,

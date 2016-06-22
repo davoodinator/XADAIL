@@ -1,0 +1,4 @@
+templateName,database/templates/climate.tpl,
+climate1chance,100,
+climate1dbr,records/fx/climate_weather/molderingfields_d_spores.dbr,
+climate1time,Always,

@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/elasticwidget.tpl,
+firstEndTexture,ui/generic/scrollbox_scrollslidertop.tex,
+lastEndTexture,ui/generic/scrollbox_scrollsliderbottom.tex,
+middleTexture,ui/generic/scrollbox_scrollslidercenter.tex,
+positionX,0,
+positionY,0,

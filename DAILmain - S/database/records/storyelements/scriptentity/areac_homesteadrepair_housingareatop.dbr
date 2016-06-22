@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/signature/hs_housingarea01_after_top.msh,
+editorScale,1.000000,
+onAddToWorld,gd.homesteadRepairs.housingTopOnAddToWorld,
+onDestroy,gd.homesteadRepairs.housingTopOnDestroy,
+pathing,1,

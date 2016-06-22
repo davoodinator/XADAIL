@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,mod_wanez/skills/playerclass01/fieldcommand1buff.dbr,
+instantCast,1,

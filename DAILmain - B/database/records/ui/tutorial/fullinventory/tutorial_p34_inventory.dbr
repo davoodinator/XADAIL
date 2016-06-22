@@ -1,0 +1,4 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Inventory Full,
+NuggetArray,records/ui/tutorial/fullinventory/inventory_n1.dbr;records/ui/tutorial/fullinventory/inventory_n2.dbr;records/ui/tutorial/fullinventory/inventory_n3.dbr,

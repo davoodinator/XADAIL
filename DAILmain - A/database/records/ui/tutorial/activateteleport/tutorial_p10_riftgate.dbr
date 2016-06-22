@@ -1,0 +1,4 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Rift Gate,
+NuggetArray,records/ui/tutorial/activateteleport/riftgate_n1.dbr;records/ui/tutorial/activateteleport/riftgate_n2.dbr;records/ui/tutorial/activateteleport/riftgate_n4.dbr;records/ui/tutorial/activateteleport/riftgate_n3.dbr;records/ui/tutorial/activateteleport/riftgate_n6.dbr;records/ui/tutorial/activateteleport/riftgate_n5.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/questrewardicon.tpl,
+FileDescription,UIQuestRewardIcon,
+bitmapName,ui/quest/questrewardicon_unlockfaction.tex,
+rolloverStyleName,records/ui/styles/rollover/style_default.dbr,
+rolloverTag,FactionUnlocked,
+rolloverTag2,FactionUnlocked,
+textStyleName,records/ui/styles/text/style_nooutline_textwhite_sizen.dbr,

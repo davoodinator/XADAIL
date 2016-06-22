@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;80,
+records,records/items/loottables/gearhead/tdyn_head_c03_witchgodguardian.dbr;records/items/loottables/gearhead/tdyn_head_d02_witchgodguardian.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Constitution Activated,
+NuggetArray,records/ui/tutorial/constitutionactivated/constitution_n1.dbr;records/ui/tutorial/constitutionactivated/constitution_n2.dbr;records/ui/tutorial/constitutionactivated/constitution_n2b.dbr;records/ui/tutorial/constitutionactivated/constitution_n3.dbr;records/ui/tutorial/constitutionactivated/constitution_n4.dbr;records/ui/tutorial/constitutionactivated/constitution_n5.dbr,

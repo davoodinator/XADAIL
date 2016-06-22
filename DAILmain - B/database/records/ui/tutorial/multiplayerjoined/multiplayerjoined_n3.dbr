@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/uitutorianuggetplus.tpl,
+FileDescription,Caption,
+TextCentering,1,
+TextStyle,records/ui/styles/text/style_quest_description.dbr,
+TextTag,tagTutorialTip27CaptionA,
+TopSpacing,5,
+keyOperation,PartyWindow,

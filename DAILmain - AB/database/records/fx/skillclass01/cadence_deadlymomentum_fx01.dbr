@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+canBeSoft,0,
+effectFile,fx/particlesystems/skillsclass01/pfx_cadence_deadlymomentum01.pfx,
+localOrientFix,0,

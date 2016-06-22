@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies Veil of Shadows,
+buffSkillName,records/skills/nonplayerskills/heroskills/serul_veilofshadows_buff.dbr,
+instantCast,1,

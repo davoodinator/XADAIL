@@ -1,0 +1,7 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/breakables/b01_obsidianshard01_break.dbr,
+fixedItemName2,records/items/lootchests/breakables/b01_obsidianshard02_break.dbr,
+fixedItemWeight1,50,
+fixedItemWeight2,50,

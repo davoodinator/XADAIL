@@ -1,0 +1,7 @@
+templateName,database/templates/market.tpl,
+FileDescription,New Merchant Table,
+marketCostAdjustment,0.000000,
+marketDepreciation,0.000000,
+marketRefreshTimeMax,30.000000,
+marketRefreshTimeMin,15.000000,
+maxPlayerPurchase,500000,

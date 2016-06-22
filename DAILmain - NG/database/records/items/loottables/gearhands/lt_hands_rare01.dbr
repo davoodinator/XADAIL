@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;22;40;55,
+records,records/items/loottables/gearhands/tdyn_hands_rare01.dbr;records/items/loottables/gearhands/tdyn_hands_rare02.dbr;records/items/loottables/gearhands/tdyn_hands_rare03.dbr;records/items/loottables/gearhands/tdyn_hands_rare04.dbr,

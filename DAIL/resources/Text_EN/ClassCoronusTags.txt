@@ -1,0 +1,89 @@
+﻿#All skill/class names are based on song names because I lost my imagination while living life
+#Class08
+tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and other masters in the art of summoning, the Coronus were a small group of people who wanted to gain more knowledge enveloping all forms of summoning. Neither masters nor beginners, they can summon the dead and otherworldly creatures to their aid to defend themselves in battle. Until the Grim Dawn, not once did they made themselves known to the public.
+
+tagClassCoronusSkillName00=Coronus
+tagClassCoronusSkillDescription00=The Coronus uses Necromancy and other forms of summoning to thrive in battle.
+
+tagClassCoronusSkillName01A=Cold Dead
+tagClassCoronusSkillDescription01A=Summon an undead skeleton named Abaddon to aid you in battle.
+tagClassCoronusSkillName01B=The Protest
+tagClassCoronusSkillDescription01B=Self buff for Abaddon with some of the power of the Order of Death Vigils.
+tagClassCoronusSkillName01C=Obligatory Cadence
+tagClassCoronusSkillDescription01C=Strike in a 200 radius AoE. ^o Needs Abaddon alive so he can use it
+tagClassCoronusSkillName01D=Never Catch Me
+tagClassCoronusSkillDescription01D=Abaddon launches ice shards in a cone in the direction of his current target.
+tagClassCoronusSkillName01E=Andras Sodom
+tagClassCoronusSkillDescription01E=Your skeletor ain't that shite.
+
+tagClassCoronusSkillName02A=Apathy
+tagClassCoronusSkillDescription02A=A heal for your minions that also resplenish their energy ^o Use (CTRL+Assigned Key) by default to target your pets.
+tagClassCoronusSkillName02B=Emerged From Smoke
+tagClassCoronusSkillDescription02B=Increases the DA and OA of the target for a short period of time. ^o Use (CTRL+Assigned Key) by default to target your pets.
+
+tagClassCoronusSkillName03A=Song for the Dead
+tagClassCoronusSkillDescription03A=Summon multiple skeleton armed with crossbows for a very short period of time to take out your enemies in a barrage of bolts.
+tagClassCoronusSkillName03B=Ten Days of Falling
+tagClassCoronusSkillDescription03B=Tap into the knowledge of the Order of Death Vigil and imbue the archers weapons with ice.
+tagClassCoronusSkillName03C=Safe
+tagClassCoronusSkillDescription03C=Muscle Rollers at your service.
+tagClassCoronusSkillName03D=Forces From Above
+tagClassCoronusSkillDescription03D=Destroyer is a good artist and Poison Season is his best work yet.
+
+tagClassCoronusSkillName04B=Goetia
+tagClassCoronusSkillDescription04B=Invoke the spirits of the dead to increase the power of your minions.
+
+tagClassCoronusSkillName05A=
+tagClassCoronusSkillDescription05A=
+
+tagClassCoronusSkillName06A=Remains
+tagClassCoronusSkillDescription06A=Summon a monstruosity to aid you in battle for some time. ^o Uroboruuk would be proud of you.
+tagClassCoronusSkillName06B=Fading
+tagClassCoronusSkillDescription06B=
+tagClassCoronusSkillName06C=Relentless
+tagClassCoronusSkillDescription06C=
+tagClassCoronusSkillName06D=Dead Man Tetris
+tagClassCoronusSkillDescription06D=
+tagClassCoronusSkillName06E=Theme
+tagClassCoronusSkillDescription06E=
+
+#Grigori: summon, innate, spell 1, buff, spell 2, spell ultimate, spell basic
+tagClassCoronusSkillName07A=Grigori
+tagClassCoronusSkillDescription07A=Summon the powerful undead warlock named Grigori alongside you. Uses a fireball spell named "Chorazin" as his basic attack.
+tagClassCoronusSkillName07B=Broken Mantra
+tagClassCoronusSkillDescription07B=The un-life of Grigori is only temporary, his strong powers are consuming him from the inside.
+tagClassCoronusSkillName07C=Eternal Sanctity
+tagClassCoronusSkillDescription07C=Make the ground explode in fire under the target and scorch the earth for a few seconds.
+tagClassCoronusSkillName07D=Closer
+tagClassCoronusSkillDescription07D=Buff the spellcraft of Grigori with even more fire power.
+tagClassCoronusSkillName07E=SIN
+tagClassCoronusSkillDescription07E=Burns Grigori's target at its core.
+tagClassCoronusSkillName07F=Babel
+tagClassCoronusSkillDescription07F=Let Grigori charge his inner spirit and unleash a powerful fire storm in a small area.
+tagClassCoronusSkillName07G=Chorazin
+tagClassCoronusSkillDescription07G=Launch a fireball.
+tagClassCoronusSkillName07H=Terrible Fate
+tagClassCoronusSkillDescription07H=
+
+tagClassCoronusSkillName08A=Gatekeepers
+tagClassCoronusSkillDescription08A=
+tagClassCoronusSkillName08B=The Right of Action
+tagClassCoronusSkillDescription08B=
+
+tagClassCoronusSkillName09A=Hem Ljuva Hem
+tagClassCoronusSkillDescription09A=Increase the %health of any ally pet for one hour. ^o Use (CTRL+Assigned Key) by default to target your pets.
+
+tagClassCoronusSkillName10A=Rymden I En Lada
+tagClassCoronusSkillDescription10A=Increase the %energy of any ally for one hour. ^o Use (CTRL+Assigned Key) by default to target your pets.
+
+tagClassCoronusSkillName11A=Awake
+tagClassCoronusSkillDescription11A=Launch a lobbed ice bomb, exploding after hitting the ground and slowing the attack speed of enemies caught within the blast.
+tagClassCoronusSkillName11B=Overdrive
+tagClassCoronusSkillDescription11B=Now slows the movement of enemies and has a chance to freeze.
+
+
+tagPetTrouble01=Abaddon
+tagPetPinned01=Archer of Frost
+tagPetRemains01=Abomination
+tagPetGrigori01=Warlock Grigori
+

@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/scrollbar.tpl,
+downButton,records/ui/inventor/craftingpanel/crafting_scrollbox_vscrollbuttondown.dbr,
+positionX,0,
+positionY,0,
+scrollBar,records/ui/inventor/craftingpanel/crafting_scrollbox_vscrollsquare.dbr,
+scrollTrack,records/ui/inventor/craftingpanel/crafting_scrollbox_vscrolltrack.dbr,
+upButton,records/ui/inventor/craftingpanel/crafting_scrollbox_vscrollbuttonup.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/fixeditemskill_buff.tpl,
+Class,FixedItemSkill_Buff,
+FileDescription,Posion DoT nova,
+buffSkillName,records/skills/playerclass03/pox1.dbr,
+skillActivateSound,records/sounds/objects/containers/spak_lootchestcorpse_a01.dbr,
+skillActiveDuration,8.000000,
+targetRadius,3.000000,

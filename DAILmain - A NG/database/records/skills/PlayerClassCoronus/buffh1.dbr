@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,buff linker health bonus,
+buffSkillName,records/skills/playerclasscoronus/buffh2.dbr,

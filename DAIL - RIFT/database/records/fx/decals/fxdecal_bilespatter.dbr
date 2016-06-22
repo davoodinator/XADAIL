@@ -1,0 +1,6 @@
+templateName,database/templates/decaltype.tpl,
+Class,DecalType,
+height,2.000000,
+shader,shaders/effects/fxdecal.ssh,
+texture,fx/textures/spatteredcloudgreen.tex,
+width,2.000000,

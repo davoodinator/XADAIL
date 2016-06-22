@@ -1,0 +1,7 @@
+templateName,database/templates/shrineicon.tpl,
+FileDescription,Burial Hill,
+WindowLocationX,342,
+WindowLocationY,742,
+corruptedShrine,0,
+hideUndiscovered,1,
+ruinedShrine,1,

@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,items/chests/proxy_chestsecret01_blue.msh,
+editorScale,1.000000,
+onAddToWorld,gd.dungeonChests.bonusChests.bonusB03OnAddToWorld,
+onDestroy,gd.dungeonChests.bonusChests.bonusB03OnDestroy,
+pathing,0,

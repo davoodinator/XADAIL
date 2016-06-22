@@ -1,0 +1,6 @@
+templateName,database/templates/shrineicon.tpl,
+FileDescription,Chthonian Roguelike,
+WindowLocationX,-760,
+WindowLocationY,-635,
+corruptedShrine,1,
+hideUndiscovered,1,

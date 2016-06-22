@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Fires a projectile that increase bleed vulnerability,
+buffSkillName,records/skills/nonplayerskills/heroskills/bloodyjack_anticlottinginjection_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/throwingknife_bloody_projectile_fx.dbr,

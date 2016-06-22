@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/enemies/vocalizations/loghorrean/spak_loghorrean_ambientroar01.dbr,
+cameraShakeAmplitude,0.250000,
+cameraShakeDuration,1.700000,
+disturbanceRadius,0.000000,

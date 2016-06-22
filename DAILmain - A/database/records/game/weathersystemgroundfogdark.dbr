@@ -1,0 +1,8 @@
+templateName,database/templates/weathersystem.tpl,
+name,GroundFogDark,
+particleLife,10.000000,
+particleSize,8.000000,
+particleSpeed,0.250000,
+spawnRadius,25.000000,
+texture,fx/textures/weather_fogdark01.tex,
+type,GroundFog,

@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/buttonstatic.tpl,
+FileDescription,ButtonStatic,
+bitmapNameDown,ui/generic/buttonnumberincrementdown.tex,
+bitmapNameInFocus,ui/generic/buttonnumberincrementover.tex,
+bitmapNameUp,ui/generic/buttonnumberincrementup.tex,
+bitmapPositionX,1,
+bitmapPositionY,1,
+isCircular,0,

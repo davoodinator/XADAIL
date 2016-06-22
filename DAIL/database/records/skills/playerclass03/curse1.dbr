@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/playerclass03/curse1_buff.dbr,
+pointBlank,0,

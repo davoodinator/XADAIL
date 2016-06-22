@@ -1,0 +1,7 @@
+templateName,database/templates/rolloverline2.tpl,
+Line1FormatTag,SimpleStringFormat,
+Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
+Line1Tag,tagCraftTabArtifactA,
+Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
+Line2Tag,tagCraftTabArtifactB,
+rolloverStyle,records/ui/styles/rollover/style_default.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/skillsounds/class02/spak_canisterbomb_fragmentexplosion01.dbr,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.100000,
+disturbanceRadius,24.000000,
+particleEffectNames,records/fx/skillclass28/shock_radius_fx01.dbr,

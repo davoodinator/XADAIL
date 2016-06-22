@@ -1,0 +1,5 @@
+templateName,database/templates/controllercharacter.tpl,
+Class,ControllerCharacter,
+controllerFollowAngle,20.000000,
+controllerFollowDistance,1.000000,
+controllerObstructionDistance,3.000000,

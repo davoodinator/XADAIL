@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;30,
+records,records/items/loottables/materia/tdyn_comp_chaos_a01.dbr;records/items/loottables/blueprints/tdyn_cultistsigil_a01.dbr,

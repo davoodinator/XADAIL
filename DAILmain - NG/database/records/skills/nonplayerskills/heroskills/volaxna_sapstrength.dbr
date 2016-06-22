@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies debuff,
+buffSkillName,records/skills/nonplayerskills/heroskills/volaxna_sapstrength_buff.dbr,

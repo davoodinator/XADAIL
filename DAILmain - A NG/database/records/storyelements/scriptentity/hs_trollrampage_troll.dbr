@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/troll/troll_01a.msh,
+editorScale,2.000000,
+onAddToWorld,gd.quests.homesteadQuestTrollRampage.trollOnAddToWorld,
+onDestroy,gd.quests.homesteadQuestTrollRampage.trollOnDestroy,
+pathing,0,

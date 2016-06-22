@@ -1,0 +1,3 @@
+templateName,database/templates/skill_targetedspawnpet.tpl,
+Class,Skill_TargetedSpawnPet,
+FileDescription,Spawns pet at the target point,

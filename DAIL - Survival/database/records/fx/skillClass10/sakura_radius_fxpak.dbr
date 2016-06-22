@@ -1,0 +1,6 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,0.600000,
+colorGreen,0.700000,
+colorRed,1.000000,
+particleEffectNames,records/fx/skillclass10/sakura_radius_fx01.dbr,
+useTintColor,1,

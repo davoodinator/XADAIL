@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/structures/bridges/bridgewood_constructionpile_01a.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaDBridges.necropolisBridgeSiteOnAddToWorld,
+onDestroy,gd.quests.areaDBridges.necropolisBridgeSiteOnDestroy,
+pathing,0,

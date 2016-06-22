@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,2nd Mastery,
+altPage,records/ui/tutorial/openwindow_skills/tutorial_p17_mastery1st.dbr,
+quickTag,tagQuickTip21,

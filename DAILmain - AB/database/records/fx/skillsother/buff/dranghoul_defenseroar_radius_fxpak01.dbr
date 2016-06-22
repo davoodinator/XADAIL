@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.100000,
+disturbanceRadius,12.000000,
+particleEffectNames,records/fx/skillsother/buff/dranghoul_defenseroar_radius_fx01.dbr,

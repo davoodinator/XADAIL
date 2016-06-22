@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/scrollablewindow.tpl,
+height,200,
+positionX,22,
+positionY,65,
+verticalScrollbar,records/ingameui/player quests/window elements/vscrollbar.dbr,
+width,306,

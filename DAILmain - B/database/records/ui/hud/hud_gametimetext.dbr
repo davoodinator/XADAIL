@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/textstring.tpl,
+FileDescription,TextStringStatic,
+style,records/ui/styles/text/style_special_compassregionname.dbr,
+textAlignmentX,Left,
+textAlignmentY,Top,
+textBoxX,10,
+textBoxY,30,

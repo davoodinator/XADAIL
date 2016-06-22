@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies Brittle Bones Plague,
+buffSkillName,records/skills/itemskills/granted/item_plagueofbrittlebones_buff.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,1,
+effectFile,fx/particlesystems/skillsother/buff/pfx_magicshield_blue_vanish.pfx,
+localOrientFix,0,

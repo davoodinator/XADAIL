@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/itemskills/legendary/item_battlecry_buff.dbr,
+instantCast,1,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskills/heroskills/archetypes/swift_frenzyaura_buff.dbr,
+instantCast,1,

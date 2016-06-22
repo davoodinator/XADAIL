@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_buffradius.tpl,
+Class,SkillSecondary_BuffRadius,
+FileDescription,A skill modifier which adds a secondary AoE buff to the original skill. Ideal for creating an aura inside of an AoE. Must have a buff assigned to it,
+buffSkillName,records/skills/base_template skills/skill_skillbuff_passive.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/waterinteraction.tpl,
+BodySplashEffect,records/level art/water/watersplash.dbr,
+ObjectSplashEffect,records/level art/water/watersplash.dbr,
+WakeSplashEffect,records/level art/water/watersplash.dbr,

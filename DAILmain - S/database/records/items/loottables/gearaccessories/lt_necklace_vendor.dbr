@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;8;32,
+records,records/items/loottables/gearaccessories/tdyn_weaponstandin_a01.dbr;records/items/loottables/gearaccessories/tdyn_necklace_a01.dbr;records/items/loottables/gearaccessories/tdyn_necklace_a02.dbr,

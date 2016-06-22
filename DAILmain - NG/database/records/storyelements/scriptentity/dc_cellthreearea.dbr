@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/signature/dc_cellthreearea_wrecked.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.devilsCrossingQuestRestoreDC.cellThreeOnAddToWorld,
+onDestroy,gd.quests.devilsCrossingQuestRestoreDC.cellThreeOnDestroy,
+pathing,1,

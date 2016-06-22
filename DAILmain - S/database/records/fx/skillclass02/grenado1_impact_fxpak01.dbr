@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.200000,
+cameraShakeDuration,0.300000,
+disturbanceRadius,6.000000,
+particleEffectNames,records/fx/skillclass02/grenado1_impact_fx.dbr,

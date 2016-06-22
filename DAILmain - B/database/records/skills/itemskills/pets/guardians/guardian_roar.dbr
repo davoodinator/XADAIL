@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffother.tpl,
+Class,Skill_BuffOther,
+FileDescription,Offensive guardian aoe buff,
+buffSkillName,records/skills/itemskills/pets/guardians/guardian_roar_buff.dbr,

@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/combatshared/spak_damagedefaultabs_electric.dbr,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.120000,
+particleEffectNames,records/fx/skillsother/attackmelee/elementalstrike01_fx.dbr,

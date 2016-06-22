@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies Chaos Skin,
+buffSkillName,records/skills/nonplayerskills/heroskills/banezal_chaosskin_buff.dbr,
+instantCast,1,

@@ -1,0 +1,7 @@
+templateName,database/templates/templatebase/lootcontainer.tpl,
+Class,FixedItem,
+FileDescription,Elite Shrine level 55-80,
+lootClassification,Boss,
+lootTable,records/interactive/devotionloot/devotion_loot_c03.dbr,
+maxLevel,80,
+minLevel,55,

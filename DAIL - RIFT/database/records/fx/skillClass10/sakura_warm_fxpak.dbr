@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/skillsounds/class01/spak_cadenceimpact01.dbr,
+cameraShakeAmplitude,0.300000,
+cameraShakeDuration,0.120000,
+particleEffectNames,records/fx/skillclass10/sakura_warm_fx.dbr,

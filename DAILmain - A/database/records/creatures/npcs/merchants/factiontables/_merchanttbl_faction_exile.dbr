@@ -1,0 +1,8 @@
+templateName,database/templates/factionmarket.tpl,
+honoredNormalTable,records/creatures/npcs/merchants/factiontables/exile_honored_01.dbr,
+marketCostAdjustment,0.000000,
+marketDepreciation,98.000000,
+marketRefreshTimeMax,30.000000,
+marketRefreshTimeMin,15.000000,
+maxPlayerPurchase,3500;5000;8000,
+reveredNormalTable,records/creatures/npcs/merchants/factiontables/exile_revered_01.dbr,

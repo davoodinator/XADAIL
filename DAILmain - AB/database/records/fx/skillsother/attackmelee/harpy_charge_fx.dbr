@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.100000,
+canBeSoft,0,
+effectFile,fx/particlesystems/skillsother/attackmelee/pfx_harpy_windborne_impact.pfx,
+localOrientFix,0,

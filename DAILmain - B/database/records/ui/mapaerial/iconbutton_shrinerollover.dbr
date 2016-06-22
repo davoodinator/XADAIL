@@ -1,0 +1,8 @@
+templateName,database/templates/rolloverline2.tpl,
+FileDescription,RolloverLine2,
+Line1FormatTag,SimpleStringFormat,
+Line1Style,records/ui/fontstyles/textstandard_white_bold.dbr,
+Line1Tag,tagMapSymbolShrine,
+Line2Style,records/ui/fontstyles/textstandard_grey.dbr,
+Line2Tag,tagMapSymbolShrineDesc,
+rolloverStyle,records/ui/styles/rollover/style_genericrolloverbox.dbr,

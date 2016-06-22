@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,ui/hud/hud_progressbaroverlay.tex,
+bitmapPositionX,96,
+bitmapPositionY,23,

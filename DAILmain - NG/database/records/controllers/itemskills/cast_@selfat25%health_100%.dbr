@@ -1,0 +1,6 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,100%,
+chanceToRun,100,
+targetType,Self,
+triggerParam,25.000000,
+triggerType,LowHealth,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffother.tpl,
+Class,Skill_BuffOther,
+FileDescription,Used to apply a buff to target. Requires a buff assigned to it.,
+buffSkillName,records/skills/base_template skills/skill_skillbuff_passive.dbr,

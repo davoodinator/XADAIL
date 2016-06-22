@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;15,
+records,records/items/loottables/materia/tdyn_comp_aether_a01.dbr;records/items/loottables/blueprints/tdyn_taintedbrain_a01.dbr,

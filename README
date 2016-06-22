@@ -1,0 +1,66 @@
+PLEASE HELP with these files
+many of them do not use dynamic references. they are hard references to specific folders. i got lazy and didnt look for work arounds.
+
+
+******************************************
+FOLDERS
+******************************************
+\DAIL\					BASE MOD which is vanilla+ some map modifications
+\DAIL - RIFT\			THIS IS RIFTS/DGA MOD FROM WAREBARE+ALEXEI
+\DAIL - Survival\		THIS IS ETERNAL MOD FROM PRINCESS LUNA
+
+the other 6 folders are root game replacers for database.arz to choose different settings
+A = tiny spiders
+B = Grimmest 0.5 (regular spawns, slightly increased star mobs and full grimmest boss scripts)
+S = full Grimmest everything
+NG = No Grimmest
+
+Finally:
+\VanillaBak\
+This folder contains the un-install files needed to reset your grim dawn game back to how it was before DAIL. (SADFACE)
+
+Combinations of the above include
+A
+B
+S
+AB
+NG
+ANG
+
+******************************************
+Individual files sitting in the root dir:
+******************************************
+DAIL*.NSI are the NSS scripts to build versions of DAIL. older ones are there for posterity. if someone wants to update this and make it sexier . please suggest update to it.  it currently need a proper uninstall option also remember to go into \VanillaBak\ and decompress the .7z files without path into the folder so that NSIS can pull the vanilla files out
+SKILLMERGER.BAT brings files from \DAIL\ into the other folders as needed in the case of some shared data that needs to be edited. if someone can suggest a better file. I will merge it in.
+changelog.txt = obvious
+README = this file
+XAGIT.bat = brings only the changed files from this working folder to a subfolder named XADAIL which should be your git repo folder.. you can edit this if you want. just offering it for convenience. youll have to edit this heavily to make it work - if someone can suggest a better file I will merge it in
+DAIL\
+
+******************************************
+Special files of interest for the modding curious
+******************************************
+\DAIL\database\DAIL\
+dail builder 0.bat	manually created file that preps the DAIL folders for the skill+ merchants, their loot tables and item dbrs
+dail builder 1.bat	auto generated file that creates some data for above
+dail builder 2.bat	auto generated file that creates some data for above
+*.xlsm				auto generator for dail builder 1/2
+dail_base.dbr	base file for +1 to specific skills components
+dail_base2.dbr	base file for +x to ALL skills for specific mastery components
+dail_base3dbr	base file for +3 and +5 to specific skills components
+some files i am going to move before naming/referencing them need to update alot of scripts first
+??	base merchant dbr
+??  base loot table dbr
+??  base loot drop dbr
+
+
+note to self
+    Hit ~ to open up the repository in the Git Shell
+    Run 'git add -A' to stage the changes
+    Run 'git commit -m "your commit message here"' to commit the changes
+	Run git push to upload the damn stuff
+	
+remove bad (>100mb) files accidentally included in working dir
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.DAIL\"/' -f HEAD
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.debug\"/' -f HEAD
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.good\"/' -f HEAD	

@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,1,
+decal,records/fx/decals/decal_groundimpact_orange01.dbr,
+effectFile,fx/particlesystems/skillsother/projectiles/pfx_groble_fireball_massive_impact01.pfx,
+localOrientFix,0,

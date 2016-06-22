@@ -1,0 +1,5 @@
+templateName,database/templates/charfxpak.tpl,
+activeSound,records/sounds/skillsounds/class05/spak_arcanemirror_drone.dbr,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/skillclass05/arcanemirror_loop_fx.dbr,
+useTintColor,0,

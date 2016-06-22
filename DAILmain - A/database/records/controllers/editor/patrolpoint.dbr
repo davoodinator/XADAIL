@@ -1,0 +1,7 @@
+templateName,database/templates/patrolpoint.tpl,
+Class,PatrolPoint,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,system/textures/teal.tex,
+mesh,sandbox/20m_radius.msh,
+scale,0.400000,

@@ -1,0 +1,200 @@
+echo lootName1,DAIL/items/materia/class0001/Soldier1.dbr, >> ./items/materia/class0001/Soldier1.dbr
+echo lootName2,DAIL/items/materia/class0001/Soldier2.dbr, >> ./items/materia/class0001/Soldier2.dbr
+echo lootName3,DAIL/items/materia/class0001/Soldier3.dbr, >> ./items/materia/class0001/Soldier3.dbr
+echo lootName4,DAIL/items/materia/class0001/Soldier4.dbr, >> ./items/materia/class0001/Soldier4.dbr
+echo lootName5,DAIL/items/materia/class0001/Soldier5.dbr, >> ./items/materia/class0001/Soldier5.dbr
+echo lootName6,DAIL/items/materia/class0001/Soldier6.dbr, >> ./items/materia/class0001/Soldier6.dbr
+echo lootName7,DAIL/items/materia/class0001/Soldier7.dbr, >> ./items/materia/class0001/Soldier7.dbr
+echo lootName8,DAIL/items/materia/class0001/Soldier8.dbr, >> ./items/materia/class0001/Soldier8.dbr
+echo lootName9,DAIL/items/materia/class0001/Soldier9.dbr, >> ./items/materia/class0001/Soldier9.dbr
+echo lootName10,DAIL/items/materia/class0001/Soldier10.dbr, >> ./items/materia/class0001/Soldier10.dbr
+echo lootName11,DAIL/items/materia/class0001/Soldier11.dbr, >> ./items/materia/class0001/Soldier11.dbr
+echo lootName12,DAIL/items/materia/class0001/Soldier12.dbr, >> ./items/materia/class0001/Soldier12.dbr
+echo lootName13,DAIL/items/materia/class0001/Soldier13.dbr, >> ./items/materia/class0001/Soldier13.dbr
+echo lootName14,DAIL/items/materia/class0001/Soldier14.dbr, >> ./items/materia/class0001/Soldier14.dbr
+echo lootName15,DAIL/items/materia/class0001/Soldier15.dbr, >> ./items/materia/class0001/Soldier15.dbr
+echo lootName16,DAIL/items/materia/class0001/Soldier16.dbr, >> ./items/materia/class0001/Soldier16.dbr
+echo lootName17,DAIL/items/materia/class0001/Soldier17.dbr, >> ./items/materia/class0001/Soldier17.dbr
+echo lootName18,DAIL/items/materia/class0001/Soldier18.dbr, >> ./items/materia/class0001/Soldier18.dbr
+echo lootName19,DAIL/items/materia/class0001/Soldier19.dbr, >> ./items/materia/class0001/Soldier19.dbr
+echo lootName20,DAIL/items/materia/class0001/Soldier20.dbr, >> ./items/materia/class0001/Soldier20.dbr
+echo lootName21,DAIL/items/materia/class0001/Soldier21.dbr, >> ./items/materia/class0001/Soldier21.dbr
+echo lootName22,DAIL/items/materia/class0001/Soldier22.dbr, >> ./items/materia/class0001/Soldier22.dbr
+echo lootName23,DAIL/items/materia/class0001/Soldier23.dbr, >> ./items/materia/class0001/Soldier23.dbr
+echo lootName24,DAIL/items/materia/class0001/Soldier24.dbr, >> ./items/materia/class0001/Soldier24.dbr
+echo lootName25,DAIL/items/materia/class0001/Soldier25.dbr, >> ./items/materia/class0001/Soldier25.dbr
+echo lootName26,DAIL/items/materia/class0001/Soldier26.dbr, >> ./items/materia/class0001/Soldier26.dbr
+echo lootName27,DAIL/items/materia/class0001/Soldier27.dbr, >> ./items/materia/class0001/Soldier27.dbr
+echo lootName28,DAIL/items/materia/class0001/Soldier28.dbr, >> ./items/materia/class0001/Soldier28.dbr
+echo lootName29,DAIL/items/materia/class0001/Soldier29.dbr, >> ./items/materia/class0001/Soldier29.dbr
+echo lootName30,DAIL/items/materia/class0001/Soldier30.dbr, >> ./items/materia/class0001/Soldier30.dbr
+echo lootName31,DAIL/items/materia/class0001/Soldier31.dbr, >> ./items/materia/class0001/Soldier31.dbr
+echo lootName32,DAIL/items/materia/class0001/Soldier32.dbr, >> ./items/materia/class0001/Soldier32.dbr
+echo lootName33,DAIL/items/materia/class0001/Soldier33.dbr, >> ./items/materia/class0001/Soldier33.dbr
+echo lootName34,DAIL/items/materia/class0001/Soldier34.dbr, >> ./items/materia/class0001/Soldier34.dbr
+echo lootName35,DAIL/items/materia/class0001/Soldier35.dbr, >> ./items/materia/class0001/Soldier35.dbr
+echo lootName36,DAIL/items/materia/class0001/Soldier36.dbr, >> ./items/materia/class0001/Soldier36.dbr
+echo lootName37,DAIL/items/materia/class0001/Soldier37.dbr, >> ./items/materia/class0001/Soldier37.dbr
+echo lootName38,DAIL/items/materia/class0001/Soldier38.dbr, >> ./items/materia/class0001/Soldier38.dbr
+echo lootName39,DAIL/items/materia/class0001/Soldier39.dbr, >> ./items/materia/class0001/Soldier39.dbr
+echo lootName40,DAIL/items/materia/class0001/Soldier40.dbr, >> ./items/materia/class0001/Soldier40.dbr
+echo lootName41,DAIL/items/materia/class0001/Soldier41.dbr, >> ./items/materia/class0001/Soldier41.dbr
+echo lootName42,DAIL/items/materia/class0001/Soldier42.dbr, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootWeight1,1, >> ./items/materia/class0001/Soldier1.dbr
+echo lootWeight2,1, >> ./items/materia/class0001/Soldier2.dbr
+echo lootWeight3,1, >> ./items/materia/class0001/Soldier3.dbr
+echo lootWeight4,1, >> ./items/materia/class0001/Soldier4.dbr
+echo lootWeight5,1, >> ./items/materia/class0001/Soldier5.dbr
+echo lootWeight6,1, >> ./items/materia/class0001/Soldier6.dbr
+echo lootWeight7,1, >> ./items/materia/class0001/Soldier7.dbr
+echo lootWeight8,1, >> ./items/materia/class0001/Soldier8.dbr
+echo lootWeight9,1, >> ./items/materia/class0001/Soldier9.dbr
+echo lootWeight10,1, >> ./items/materia/class0001/Soldier10.dbr
+echo lootWeight11,1, >> ./items/materia/class0001/Soldier11.dbr
+echo lootWeight12,1, >> ./items/materia/class0001/Soldier12.dbr
+echo lootWeight13,1, >> ./items/materia/class0001/Soldier13.dbr
+echo lootWeight14,1, >> ./items/materia/class0001/Soldier14.dbr
+echo lootWeight15,1, >> ./items/materia/class0001/Soldier15.dbr
+echo lootWeight16,1, >> ./items/materia/class0001/Soldier16.dbr
+echo lootWeight17,1, >> ./items/materia/class0001/Soldier17.dbr
+echo lootWeight18,1, >> ./items/materia/class0001/Soldier18.dbr
+echo lootWeight19,1, >> ./items/materia/class0001/Soldier19.dbr
+echo lootWeight20,1, >> ./items/materia/class0001/Soldier20.dbr
+echo lootWeight21,1, >> ./items/materia/class0001/Soldier21.dbr
+echo lootWeight22,1, >> ./items/materia/class0001/Soldier22.dbr
+echo lootWeight23,1, >> ./items/materia/class0001/Soldier23.dbr
+echo lootWeight24,1, >> ./items/materia/class0001/Soldier24.dbr
+echo lootWeight25,1, >> ./items/materia/class0001/Soldier25.dbr
+echo lootWeight26,1, >> ./items/materia/class0001/Soldier26.dbr
+echo lootWeight27,1, >> ./items/materia/class0001/Soldier27.dbr
+echo lootWeight28,1, >> ./items/materia/class0001/Soldier28.dbr
+echo lootWeight29,1, >> ./items/materia/class0001/Soldier29.dbr
+echo lootWeight30,1, >> ./items/materia/class0001/Soldier30.dbr
+echo lootWeight31,1, >> ./items/materia/class0001/Soldier31.dbr
+echo lootWeight32,1, >> ./items/materia/class0001/Soldier32.dbr
+echo lootWeight33,1, >> ./items/materia/class0001/Soldier33.dbr
+echo lootWeight34,1, >> ./items/materia/class0001/Soldier34.dbr
+echo lootWeight35,1, >> ./items/materia/class0001/Soldier35.dbr
+echo lootWeight36,1, >> ./items/materia/class0001/Soldier36.dbr
+echo lootWeight37,1, >> ./items/materia/class0001/Soldier37.dbr
+echo lootWeight38,1, >> ./items/materia/class0001/Soldier38.dbr
+echo lootWeight39,1, >> ./items/materia/class0001/Soldier39.dbr
+echo lootWeight40,1, >> ./items/materia/class0001/Soldier40.dbr
+echo lootWeight41,1, >> ./items/materia/class0001/Soldier41.dbr
+echo lootWeight42,1, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

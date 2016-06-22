@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/questjournallistwindow.tpl,
+height,136,
+positionX,21,
+positionY,83,
+verticalScrollbar,records/ui/chat/vscrollbar.dbr,
+width,296,

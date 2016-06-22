@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies Consumption Plague,
+buffSkillName,records/skills/itemskills/legendary/item_plagueofconsumption_buff.dbr,

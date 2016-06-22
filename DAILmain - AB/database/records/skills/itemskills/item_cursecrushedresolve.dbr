@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+FileDescription,Applies crushed resolve,
+buffSkillName,records/skills/itemskills/item_cursecrushedresolve_buff.dbr,

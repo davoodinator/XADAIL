@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Tree of Life - Healing Rain,
+buffSkillName,records/skills/devotion/tier3_09f_skill_buff.dbr,
+instantCast,1,

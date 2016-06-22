@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Applies weakness to elemental attacks,
+buffSkillName,records/skills/nonplayerskills/heroskills/soulrend_exposesoul_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/spirit_fireball_projectile_burstfx01.dbr,

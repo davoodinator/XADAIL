@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,ui/hud/hud_petnormal.tex,
+bitmapPositionX,120,
+bitmapPositionY,6,

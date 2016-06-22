@@ -1,0 +1,3 @@
+templateName,database/templates/skill_buffother.tpl,
+Class,Skill_BuffOther,
+buffSkillName,records/skills/playerclass03/bysmielssanctuary1_buff.dbr,

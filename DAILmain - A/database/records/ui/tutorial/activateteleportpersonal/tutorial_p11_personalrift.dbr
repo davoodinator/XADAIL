@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Personal Riftgate,
+altPage,records/ui/tutorial/activateteleport/tutorial_p10_riftgate.dbr,
+quickTag,tagQuickTip11,

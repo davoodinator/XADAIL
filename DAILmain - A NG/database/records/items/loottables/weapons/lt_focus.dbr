@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;29;40;60,
+records,records/items/loottables/weapons/tdyn_focus_a01.dbr;records/items/loottables/weapons/tdyn_focus_a02.dbr;records/items/loottables/weapons/tdyn_focus_a03.dbr;records/items/loottables/weapons/tdyn_focus_a04.dbr,

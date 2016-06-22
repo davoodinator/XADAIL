@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/objects/riftgate/spak_riftgate_open.dbr,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records/fx/creatures/aetherriftspawn_fx01.dbr,

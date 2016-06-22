@@ -1,0 +1,4 @@
+templateName,database/templates/ingameui/uitutorianugget.tpl,
+FileDescription,Image,
+Image,items/craftingparts/materials/blueprint_a001_magical.tex;items/craftingparts/materials/blueprint_a002_rare.tex;items/craftingparts/materials/blueprint_a003_epic.tex,
+TopSpacing,0,

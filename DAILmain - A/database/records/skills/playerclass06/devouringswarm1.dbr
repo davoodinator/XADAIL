@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/skills/playerclass06/devouringswarm1_buff.dbr,
+projectileNames,records/fx/skillclass06/devouringswarm_projectilefx_nocollide.dbr,

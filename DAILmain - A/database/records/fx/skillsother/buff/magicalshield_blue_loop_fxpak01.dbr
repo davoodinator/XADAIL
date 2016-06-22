@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+disturbanceRadius,5.000000,
+particleEffectNames,records/fx/skillsother/buff/magicalshield_blue_loop_fx01.dbr,

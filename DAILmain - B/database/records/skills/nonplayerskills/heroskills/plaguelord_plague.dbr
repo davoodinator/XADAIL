@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies jumping debuff,
+buffSkillName,records/skills/nonplayerskills/heroskills/plaguelord_plague_buff.dbr,

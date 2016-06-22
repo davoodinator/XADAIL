@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Fire_EarthPet_Core02,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/environmentfx/npceffect01.pfx,

@@ -1,0 +1,6 @@
+templateName,database/templates/controllerplayer.tpl,
+Class,ControllerPlayer,
+controllerDeathDelay,3.000000,
+controllerFollowAngle,20.000000,
+controllerFollowDistance,1.000000,
+controllerObstructionDistance,3.000000,

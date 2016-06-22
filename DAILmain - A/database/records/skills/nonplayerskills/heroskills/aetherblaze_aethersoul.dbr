@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Toggles aura that grants fire attacks to nearby allies,
+buffSkillName,records/skills/nonplayerskills/heroskills/aetherblaze_aethersoul_buff.dbr,
+instantCast,1,

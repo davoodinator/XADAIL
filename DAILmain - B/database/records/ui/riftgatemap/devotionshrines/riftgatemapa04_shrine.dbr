@@ -1,0 +1,6 @@
+templateName,database/templates/shrineicon.tpl,
+FileDescription,Flooded Passage,
+WindowLocationX,445,
+WindowLocationY,495,
+corruptedShrine,1,
+hideUndiscovered,1,

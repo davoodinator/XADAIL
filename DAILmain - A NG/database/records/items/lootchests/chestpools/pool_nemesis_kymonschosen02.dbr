@@ -1,0 +1,5 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/n01_nemesischest_kymonchosen02.dbr,
+fixedItemWeight1,100,

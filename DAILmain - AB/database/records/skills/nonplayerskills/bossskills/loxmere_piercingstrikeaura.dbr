@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies piercing strike buff,
+buffSkillName,records/skills/nonplayerskills/bossskills/loxmere_piercingstrikeaura_buff.dbr,
+instantCast,1,

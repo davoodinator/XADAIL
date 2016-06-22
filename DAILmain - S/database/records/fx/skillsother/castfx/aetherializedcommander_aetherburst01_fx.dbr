@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,0,
+effectFile,fx/particlesystems/skillsother/castfx/pfx_aetherializedcommander_aetherburst01.pfx,
+emitterType,Standard,
+localOrientFix,1,

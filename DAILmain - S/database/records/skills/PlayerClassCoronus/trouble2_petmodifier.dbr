@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,icebolt,
+petChanges,,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_trouble_icebolt.dbr,
+fileNameHistoryEntry,mods/coronus/records/skills/playerclasscoronus/trouble2_petmodifier.dbr,

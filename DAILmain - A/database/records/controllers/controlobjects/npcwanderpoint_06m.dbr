@@ -1,0 +1,8 @@
+templateName,database/templates/npcwanderpoint.tpl,
+Class,NpcWanderPoint,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,system/textures/orange.tex,
+mesh,fx/meshfx/ui_exclamation01.msh,
+radius,6.000000,
+scale,5.000000,

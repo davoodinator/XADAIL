@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Activates Skeleton Outcast Aura Buff,
+buffSkillName,records/skills/nonplayerskills/bossskills/skeleton_outcast_aura_buff.dbr,
+instantCast,1,

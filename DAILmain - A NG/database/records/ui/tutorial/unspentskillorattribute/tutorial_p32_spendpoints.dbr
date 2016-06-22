@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Use Attribute and Skill Points,
+altPage,records/ui/tutorial/skillsfirstmasterypoint/tutorial_pg23_assigningskills.dbr,
+quickTag,tagQuickTip32,

@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Applies the webbed debuff,
+buffSkillName,records/skills/nonplayerskills/attackprojectile/spidergiant_web_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/web_fxprojectile.dbr,

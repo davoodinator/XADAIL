@@ -1,0 +1,2 @@
+echo description,tagDailThentyZShopping0001, >> DAILclassplusser0001.dbr
+echo marketFileName,DAIL/creatures/npcs/merchants/dailTBLoneskilldash0001.dbr, >> DAILclassplusser0001.dbr

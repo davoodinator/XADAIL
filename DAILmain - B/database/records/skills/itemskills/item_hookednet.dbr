@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Projectile applies a net to target,
+buffSkillName,records/skills/itemskills/item_hookednet_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/hookednet_projectile_fx01.dbr,

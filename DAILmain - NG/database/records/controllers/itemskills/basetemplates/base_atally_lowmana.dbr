@@ -1,0 +1,5 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,Cast Skill at Ally on Low Mana,
+chanceToRun,100,
+targetType,Ally,
+triggerType,LowMana,

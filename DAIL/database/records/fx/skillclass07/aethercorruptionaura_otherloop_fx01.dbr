@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Class,EffectEntity,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+canBeSoft,0,
+effectFile,fx/pes/class07/bonearmor.pfx,
+localOrientFix,1,

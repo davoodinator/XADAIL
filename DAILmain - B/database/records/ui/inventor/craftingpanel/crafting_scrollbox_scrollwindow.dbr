@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/scrollablewindow.tpl,
+height,230,
+positionX,10,
+positionY,125,
+scrollbarPositionAdjust,-5,
+scrollbarSizeAdjust,5,
+verticalScrollbar,records/ui/inventor/craftingpanel/crafting_scrollbox_vscroll.dbr,
+width,324,

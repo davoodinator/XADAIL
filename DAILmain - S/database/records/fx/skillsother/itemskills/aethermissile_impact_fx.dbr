@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,1,
+decal,records/fx/decals/ambdecal_energyblastgreen.dbr,
+effectFile,fx/particlesystems/skillsother/itemskills/pfx_aethermissile_impact01.pfx,
+localOrientFix,0,

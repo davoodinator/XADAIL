@@ -1,0 +1,6 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+FileDescription,Used in lower crossing,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/a01_chestrackweapons01.dbr,
+fixedItemWeight1,100,

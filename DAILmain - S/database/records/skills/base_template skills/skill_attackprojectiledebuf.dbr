@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,Fires a projectile that applies a debuff. Requires a debuff assigned to it,
+buffSkillName,records/skills/base_template skills/skill_skillbuff_debuf.dbr,

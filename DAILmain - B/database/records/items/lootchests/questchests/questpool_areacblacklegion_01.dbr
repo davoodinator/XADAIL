@@ -1,0 +1,7 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/questchests/questchest_areacblacklegioncorpsechest_01.dbr,
+fixedItemName2,records/items/lootchests/questchests/questchest_areacblacklegioncorpsechest_02.dbr,
+fixedItemWeight1,70,
+fixedItemWeight2,30,

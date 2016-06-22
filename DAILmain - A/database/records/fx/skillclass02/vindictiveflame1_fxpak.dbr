@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/skillsounds/class02/spak_ammomod01.dbr,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.150000,
+disturbanceRadius,3.000000,
+particleEffectNames,records/fx/skillclass02/vindictiveflame1_fx01.dbr,

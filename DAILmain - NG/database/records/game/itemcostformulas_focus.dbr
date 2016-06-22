@@ -1,0 +1,6 @@
+templateName,database/templates/itemcost.tpl,
+FileDescription,Focus + Waist,
+armorCostEquation,((defenseAttrArmor*1+itemLevel*4)^1.1)+0.8*(itemPrefixCost+itemSuffixCost)+(itemLevel*(totalAttCount-1))*35+90,
+offhandCostEquation,(itemLevel*7)^1.1+0.8*(itemPrefixCost+itemSuffixCost)+(itemLevel*(totalAttCount-1))*35+150,
+offhandIntelligenceEquation,2.62*(itemLevel*6.55)^1.233-1.95*(itemLevel*5.84)^1.2785+((itemLevel^1.5)*0.0125-1)*-15+15,
+waistStrengthEquation,(0.94*(itemLevel*6.7)^1.377-5.8*(itemLevel*1.62)^1.4+0.46*(2.6*defenseAttrArmor)^1.28-1.2*(1.2*defenseAttrArmor)^1.28+13*defenseAttrArmor)*0.55+8+(itemLevel*10)*(totalAttCount/100),

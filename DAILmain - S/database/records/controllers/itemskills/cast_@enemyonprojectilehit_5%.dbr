@@ -1,0 +1,6 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,5%,
+autoTargetRadius,22.000000,
+chanceToRun,5,
+targetType,Enemy,
+triggerType,HitByProjectile,

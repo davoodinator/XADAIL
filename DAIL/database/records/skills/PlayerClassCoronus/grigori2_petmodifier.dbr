@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Eternal Sanctity,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_grigori_eternalsanctity.dbr,
+petChanges,,

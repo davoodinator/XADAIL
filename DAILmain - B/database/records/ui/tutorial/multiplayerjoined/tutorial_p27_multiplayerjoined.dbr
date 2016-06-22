@@ -1,0 +1,4 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Multiplayer Joined,
+NuggetArray,records/ui/tutorial/multiplayerjoined/multiplayerjoined_n1.dbr;records/ui/tutorial/multiplayerjoined/multiplayerjoined_n2.dbr;records/ui/tutorial/multiplayerjoined/multiplayerjoined_n2b.dbr;records/ui/tutorial/multiplayerjoined/multiplayerjoined_n4.dbr;records/ui/tutorial/multiplayerjoined/multiplayerjoined_n5.dbr,

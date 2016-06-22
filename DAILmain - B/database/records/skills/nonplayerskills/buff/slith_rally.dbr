@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies rally buff,
+buffSkillName,records/skills/nonplayerskills/buff/slith_rallybuff.dbr,
+instantCast,0,

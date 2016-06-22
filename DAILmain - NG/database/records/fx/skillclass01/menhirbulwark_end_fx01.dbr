@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,1,
+effectFile,fx/particlesystems/skillsclass01/pfx_menhirbulwark_end01.pfx,
+localOrientFix,0,

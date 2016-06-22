@@ -1,0 +1,8 @@
+templateName,database/templates/proxypool.tpl,
+championChance,0.000000,
+championMax,0,
+championMin,0,
+name1,records/level art/structures/houses/a_housefoundation_01.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,50,

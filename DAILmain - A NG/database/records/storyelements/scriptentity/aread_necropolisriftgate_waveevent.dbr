@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/aetherial/aetherialobelisk01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaDQuestNecropolis.waveEventOnAddToWorld,
+onRemoveFromWorld,gd.quests.areaDQuestNecropolis.waveEventOnRemoveFromWorld,
+pathing,0,

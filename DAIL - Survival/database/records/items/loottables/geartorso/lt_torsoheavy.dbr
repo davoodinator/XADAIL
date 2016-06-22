@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;18;32;50,
+records,records/items/loottables/geartorso/tdyn_torsoheavy_a01.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a02.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a03.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a04.dbr,

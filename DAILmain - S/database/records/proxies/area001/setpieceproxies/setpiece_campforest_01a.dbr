@@ -1,0 +1,7 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+placementChance,75.000000,
+pool1,records/proxies/area001/setpieceproxies/set_campgroble_01a.dbr,
+pool2,records/proxies/area001/setpieceproxies/set_campgrobleabandoned_01a.dbr,
+weight1,75,
+weight2,25,

@@ -1,0 +1,7 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/c01_chestsarcophagus_catacomb01.dbr,
+fixedItemName2,records/items/lootchests/d01_chestsarcophagus_catacomb.dbr,
+fixedItemWeight1,60,
+fixedItemWeight2,40,

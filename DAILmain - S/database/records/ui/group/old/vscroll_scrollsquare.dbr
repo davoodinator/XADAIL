@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/elasticwidget.tpl,
+firstEndTexture,ingameui/quest/scrollbartop.tex,
+lastEndTexture,ingameui/quest/scrollbarbottom.tex,
+middleTexture,ingameui/quest/scrollbarmiddle.tex,
+positionX,0,
+positionY,0,

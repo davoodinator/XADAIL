@@ -1,0 +1,5 @@
+templateName,database/templates/charfxpak.tpl,
+activeSound,records/sounds/skillsounds/class02/spak_flame_mine_firelooping01.dbr,
+particleEffectAttachPoints,FXCenteredUnparented,
+particleEffectNames,records/fx/skillclass02/thermitemine1_fireaoe_fx.dbr,
+startSound,records/sounds/skillsounds/class02/spak_flame_mine_activate01.dbr,

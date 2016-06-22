@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/pc/hero01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.devilsCrossingTownAttacks.DCGuardIdle02OnAddToWorld,
+onDestroy,gd.quests.devilsCrossingTownAttacks.DCGuardIdle02OnOnDestroy,
+pathing,0,

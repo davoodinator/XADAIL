@@ -1,0 +1,8 @@
+templateName,database/templates/weathersystem.tpl,
+name,Spores,
+particleLife,6.250000,
+particleSize,0.200000,
+particleSpeed,2.000000,
+spawnRadius,20.000000,
+texture,fx/textures/weather_moldspore01.tex,
+type,WindParticle,

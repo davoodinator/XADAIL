@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;1;1;18;18;18;32;32;32;50;50;50,
+records,records/items/loottables/geartorso/tdyn_torsolight_a01.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a01.dbr;records/items/loottables/geartorso/tdyn_torsocaster_a01.dbr;records/items/loottables/geartorso/tdyn_torsolight_a02.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a02.dbr;records/items/loottables/geartorso/tdyn_torsocaster_a02.dbr;records/items/loottables/geartorso/tdyn_torsolight_a03.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a03.dbr;records/items/loottables/geartorso/tdyn_torsocaster_a03.dbr;records/items/loottables/geartorso/tdyn_torsolight_a04.dbr;records/items/loottables/geartorso/tdyn_torsoheavy_a04.dbr;records/items/loottables/geartorso/tdyn_torsocaster_a04.dbr,

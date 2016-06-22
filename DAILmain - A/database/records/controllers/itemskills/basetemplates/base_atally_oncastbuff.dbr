@@ -1,0 +1,5 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,Cast Skill at Ally on Casting a Buff,
+chanceToRun,100,
+targetType,Ally,
+triggerType,CastBuff,

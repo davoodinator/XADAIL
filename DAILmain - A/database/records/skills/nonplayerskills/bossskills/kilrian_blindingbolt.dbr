@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/skills/nonplayerskills/bossskills/kilrian_blindingbolt_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/kilrian_blindingbolt_projectilefx01.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies Rot Plague,
+buffSkillName,records/skills/itemskills/legendary/item_plagueofrot_buff.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/charongeysermarker.tpl,
+Class,CharonGeyserMarker,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,system/textures/purple.tex,
+mesh,fx/meshfx/aethercrystals01_summon.msh,
+scale,1.000000,

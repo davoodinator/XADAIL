@@ -1,0 +1,6 @@
+templateName,database/templates/shrineicon.tpl,
+FileDescription,Undercity,
+WindowLocationX,35,
+WindowLocationY,720,
+hideUndiscovered,1,
+ruinedShrine,1,

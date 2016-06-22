@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/playerclass02/blastshield1_buff.dbr,
+instantCast,1,

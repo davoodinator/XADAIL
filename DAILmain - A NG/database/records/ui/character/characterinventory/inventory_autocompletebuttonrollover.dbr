@@ -1,0 +1,6 @@
+templateName,database/templates/rolloverline1.tpl,
+FileDescription,RolloverLine1,
+Line1FormatTag,SimpleStringFormat,
+Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
+Line1Tag,tagAutoComplete,
+rolloverStyle,records/ui/styles/rollover/style_genericrolloverbox.dbr,

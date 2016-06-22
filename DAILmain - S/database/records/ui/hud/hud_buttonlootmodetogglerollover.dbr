@@ -1,0 +1,7 @@
+templateName,database/templates/rolloverline2.tpl,
+Line1FormatTag,SimpleStringFormat,
+Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
+Line1Tag,tagHUD_LootModeToggleOff,
+Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
+Line2Tag,tagHUD_LootModeToggleDescription,
+rolloverStyle,records/ui/styles/rollover/style_default_delaylong.dbr,

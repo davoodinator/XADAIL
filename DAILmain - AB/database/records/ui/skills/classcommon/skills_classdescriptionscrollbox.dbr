@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/scrollablewindow.tpl,
+FileDescription,ScrollableWindow,
+height,172,
+positionX,32,
+positionY,276,
+verticalScrollbar,records/ui/generic/scrollbox_vscroll.dbr,
+width,172,

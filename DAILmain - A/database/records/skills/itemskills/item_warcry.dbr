@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Applies Warcry aoe buff,
+buffSkillName,records/skills/itemskills/item_warcry_buff.dbr,
+instantCast,1,

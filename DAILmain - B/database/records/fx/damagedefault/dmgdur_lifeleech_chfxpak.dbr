@@ -1,0 +1,4 @@
+templateName,database/templates/charfxpak.tpl,
+activeSound,records/sounds/combatshared/spak_damagedefaultabs_lifeleech.dbr,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/damagedefault/dmgdur_lifeleech_fx01.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/textboxmeasureable.tpl,
+fontStyle,records/ui/styles/text/style_textblack_sizen_bold.dbr,
+positionX,30,
+positionY,30,
+textBoxHeight,-1,
+textBoxWidth,250,
+textTag,tagQuestLogNoQuests,

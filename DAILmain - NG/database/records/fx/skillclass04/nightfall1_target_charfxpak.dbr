@@ -1,0 +1,4 @@
+templateName,database/templates/charfxpak.tpl,
+particleEffectAttachPoints,FXUnparentedCenter,
+particleEffectNames,records/fx/skillclass04/nightfall1_target_loopfx.dbr,
+startSound,records/sounds/skillsounds/class03/spak_curse1_cast01.dbr,

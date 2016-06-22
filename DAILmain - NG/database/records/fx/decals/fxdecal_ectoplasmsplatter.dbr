@@ -1,0 +1,6 @@
+templateName,database/templates/decaltype.tpl,
+Class,DecalType,
+height,3.000000,
+shader,shaders/effects/decal_selfillum.ssh,
+texture,fx/decals/ectoplasmsplatter01.tex,
+width,3.000000,

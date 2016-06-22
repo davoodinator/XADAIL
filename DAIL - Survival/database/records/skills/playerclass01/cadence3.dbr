@@ -1,0 +1,3 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+Class,SkillSecondary_BuffSelfDuration,
+buffSkillName,records/skills/playerclass01/cadence3_buff.dbr,

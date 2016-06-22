@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,applies gaze weakness buff,
+buffSkillName,records/skills/itemskills/granted/item_gazeweakness_buff.dbr,
+instantCast,0,

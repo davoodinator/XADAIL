@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies Aether Aura buff,
+buffSkillName,records/skills/nonplayerskills/heroskills/archetypes/corrupted_aetheraura_buff.dbr,
+instantCast,1,

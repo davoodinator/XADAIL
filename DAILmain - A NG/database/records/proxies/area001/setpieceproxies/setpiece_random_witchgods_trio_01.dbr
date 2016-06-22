@@ -1,0 +1,8 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+baseTexture,creatures/enemies/proxytexture_gray.tex,
+mesh,creatures/enemies/hellhound/hellhound01a.msh,
+placementChance,100.000000,
+pool1,records/proxies/area001/setpieceproxies/set_random_witchgods_trio_01.dbr,
+scale,1.000000,
+weight1,100,

@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Claiming Shrine,
+altPage,records/ui/tutorial/devotion_shrinecleansed/tutorial_p59_shrinecleansed.dbr,
+quickTag,tagQuickTip58,

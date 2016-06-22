@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskills/buff/spider_terrorweaveaura_buff.dbr,
+instantCast,1,

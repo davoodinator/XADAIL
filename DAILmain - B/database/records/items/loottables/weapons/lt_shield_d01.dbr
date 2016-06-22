@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;8;12;50,
+records,records/items/loottables/weapons/tdyn_shield_a01.dbr;records/items/loottables/weapons/tdyn_blunt1h_c01.dbr;records/items/loottables/weapons/tdyn_shield_c01.dbr;records/items/loottables/weapons/tdyn_shield_d01.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorianugget.tpl,
+FileDescription,Subtitle,
+TextStyle,records/ui/styles/text/style_quest_description.dbr,
+TextTag,tagTutorialTip58SubtitleA,
+TopSpacing,5,

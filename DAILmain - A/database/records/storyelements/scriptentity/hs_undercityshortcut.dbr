@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/structures/ruins/wallruinedslate_rubble_lgx01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.homesteadQuestOldArkovia.undercityShortcutOnAddToWorld,
+onDestroy,gd.quests.homesteadQuestOldArkovia.undercityShortcutOnDestroy,
+pathing,0,

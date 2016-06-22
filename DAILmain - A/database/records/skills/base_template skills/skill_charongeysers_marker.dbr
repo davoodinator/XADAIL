@@ -1,0 +1,8 @@
+templateName,database/templates/charongeysermarker.tpl,
+Class,CharonGeyserMarker,
+FileDescription,Marker required for Charon Geyser,
+actorHeight,0.000000,
+actorRadius,0.000000,
+baseTexture,system/textures/white.tex,
+mesh,system/meshes/sphere.msh,
+scale,1.000000,

@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;2,
+records,records/omega/items/loottables/weapons/om_loot_weapons_1.dbr;records/omega/items/loottables/weapons/om_loot_weapons_1.dbr,

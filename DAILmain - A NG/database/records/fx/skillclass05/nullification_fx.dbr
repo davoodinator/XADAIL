@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,fx/particlesystems/skillsclass05/pfx_nullification_01.pfx,

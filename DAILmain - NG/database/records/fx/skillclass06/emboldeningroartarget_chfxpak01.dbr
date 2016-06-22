@@ -1,0 +1,7 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,0.000000,
+colorGreen,0.100000,
+colorRed,1.000000,
+particleEffectAttachPoints,HeadFXUP,
+particleEffectNames,records/fx/skillclass06/emboldeningroartarget_fx01.dbr,
+useTintColor,0,

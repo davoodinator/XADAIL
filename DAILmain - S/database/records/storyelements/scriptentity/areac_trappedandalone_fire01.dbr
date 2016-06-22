@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/setdress/barrel_cooking01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaCQuestTrappedAndAlone.fire01OnAddToWorld,
+onDestroy,gd.quests.areaCQuestTrappedAndAlone.fire01OnDestroy,
+pathing,0,

@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/questrewardicon.tpl,
+FileDescription,UIQuestRewardIcon,
+bitmapName,ui/quest/questrewardicon_attribute.tex,
+rollover,records/ingameui/questrewardwindow/attributepointiconrollover.dbr,
+rolloverStyleName,records/ui/styles/rollover/style_default.dbr,
+rolloverTag,tagActionGiveAttributePoint,
+rolloverTag2,tagActionGiveAttributePoints,
+textStyleName,records/ui/styles/text/style_nooutline_textwhite_sizen.dbr,

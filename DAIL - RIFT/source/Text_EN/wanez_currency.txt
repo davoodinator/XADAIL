@@ -1,0 +1,29 @@
+# New type of item you can use at the blacksmith
+
+# CURRENCY
+# Common Currency - I
+tagWaCurrencyNormal01_NAME=Strange Substance (Currency)
+tagWaCurrencyNormal01_DESC=Something a Blacksmith might be looking for.
+# Common Currency - II
+tagWaCurrencyNormal02_NAME=Old Book Page (Currency)
+tagWaCurrencyNormal02_DESC=Something a Blacksmith might be looking for.
+# Common Currency - III
+tagWaCurrencyNormal03_NAME=Shiny Scale (Currency)
+tagWaCurrencyNormal03_DESC=Something a Blacksmith might be looking for.
+# Common Currency - IV
+tagWaCurrencyNormal04_NAME=Piece of old Metal (Currency)
+tagWaCurrencyNormal04_DESC=Something a Blacksmith might be looking for.
+# Common Currency - V
+tagWaCurrencyNormal05_NAME=Valuable Stone (Currency)
+tagWaCurrencyNormal05_DESC=Something a Blacksmith might be looking for.
+# Tradable Token
+tagWaCurrencyNormalTradable_NAME=Lesser Essence Transfer (Currency)
+tagWaCurrencyNormalTradable_DESC=Can be used to move essences to a new character, but at the cost of losing 20%.
+
+# TOKEN
+tagWaUpgradeTokenBeginner_NAME=Lesser Essence (Token)
+tagWaUpgradeTokenBeginner_DESC=Essences are used for Upgrading artifacts. You can also get Crafting Materials with them.
+
+
+
+tagWaEmpty=

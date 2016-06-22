@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/bargraph.tpl,
+FileDescription,BarGraph,
+FontStyle,records/ui/styles/text/style_special_statusbarenergy.dbr,
+bitmapCapName,ui/hud/hud_progressbarpowerreservedcap.tex,
+bitmapFullName,ui/hud/hud_progressbarpowerreserved.tex,
+bitmapPositionX,551,
+bitmapPositionY,50,

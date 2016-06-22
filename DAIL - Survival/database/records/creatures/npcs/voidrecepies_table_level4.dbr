@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,Feet Blueprints,
+levels,1,
+records,records/creatures/npcs/voidrecepies_table_bpfeet.dbr,

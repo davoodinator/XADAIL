@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bip01 R Hand,
+canBeSoft,0,
+effectFile,fx/particlesystems/skillsother/attackmelee/pfx_clawslash_electrical_charge00fx.pfx,
+emitterType,BoneList,
+localOrientFix,0,

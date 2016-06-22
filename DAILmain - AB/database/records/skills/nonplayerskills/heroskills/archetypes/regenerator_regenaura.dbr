@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Applies Regen Aura buff,
+buffSkillName,records/skills/nonplayerskills/heroskills/archetypes/regenerator_regenaura_buff.dbr,
+instantCast,1,

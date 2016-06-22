@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/editbox.tpl,
+ErrorStyle,records/ui/styles/text/style_nooutline_textred_sizen.dbr,
+Height,18,
+LocationX,32,
+LocationY,137,
+NumericOnly,1,
+Style,records/ui/styles/text/style_nooutline_textlightgold_sizen.dbr,
+Width,120,

@@ -1,0 +1,8 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/signature/dc_blacksmitharea.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.devilsCrossingNPCBlacksmith.blacksmithAreaOnAddToWorld,
+onDestroy,gd.quests.devilsCrossingNPCBlacksmith.blacksmithAreaOnDestroy,
+onRemoveFromWorld,gd.quests.devilsCrossingNPCBlacksmith.blacksmithAreaOnRemoveFromWorld,
+pathing,1,

@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/uitutorianugget.tpl,
+FileDescription,Text,
+TextCentering,0,
+TextStyle,records/ui/styles/text/style_quest_description.dbr,
+TextTag,tagTutorialTip47TextC,
+TopSpacing,5,

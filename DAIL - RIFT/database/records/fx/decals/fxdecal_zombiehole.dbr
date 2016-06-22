@@ -1,0 +1,7 @@
+templateName,database/templates/decaltype.tpl,
+ActorName,Decal_MudPuddle01,
+Class,DecalType,
+height,2.500000,
+shader,shaders/effects/decal_standard.ssh,
+texture,fx/decals/mudpuddle01.tex,
+width,2.500000,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/playerclass06/natureblessing1_buff.dbr,
+instantCast,0,

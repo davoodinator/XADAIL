@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+cameraShakeAmplitude,0.000000,
+cameraShakeDuration,0.000000,
+canBeSoft,0,
+effectFile,fx/pes/class10/ult_fire.pfx,
+localOrientFix,1,

@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+ActorName,,
+Class,,
+FileDescription,BitmapSingle,
+bitmapName,ui/skills/skillallocation/skills_classimage10.tex,
+bitmapPositionX,20,
+bitmapPositionY,20,
+rollover,,

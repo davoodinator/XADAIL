@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Assassin Blade - Assassin's Mark,
+buffSkillName,records/skills/devotion/tier1_08e_skill_buff.dbr,

@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/scrollablewindow.tpl,
+height,100,
+positionX,2,
+positionY,140,
+verticalScrollbar,records/ui/chat/vscrollbar.dbr,
+width,514,

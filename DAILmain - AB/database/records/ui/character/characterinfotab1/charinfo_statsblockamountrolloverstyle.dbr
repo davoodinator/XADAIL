@@ -1,0 +1,8 @@
+templateName,database/templates/rolloverline2.tpl,
+FileDescription,RolloverLine2,
+Line1FormatTag,tagRollFormat01,
+Line1Style,records/ui/styles/text/style_special_charstatsrollovername.dbr,
+Line1Tag,tagCharStatsBlockAmount,
+Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
+Line2Tag,tagCharStatsBlockAmountDescription,
+rolloverStyle,records/ui/styles/rollover/style_default.dbr,

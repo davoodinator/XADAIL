@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1,
+records,records/items/loottables/weapons/tdynx_enemy_gun2h.dbr,

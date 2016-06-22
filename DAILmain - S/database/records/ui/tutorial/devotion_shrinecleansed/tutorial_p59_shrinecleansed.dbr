@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Shrine Cleansed,
+NuggetArray,records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n1.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n2.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n3.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n4.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n4c.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n4b.dbr;records/ui/tutorial/devotion_shrinecleansed/shrinecleansed_n5.dbr,
+quickTag,tagQuickTip59,
+quickTagKey,SkillWindow,

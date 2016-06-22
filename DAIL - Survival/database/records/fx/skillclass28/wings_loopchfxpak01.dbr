@@ -1,0 +1,5 @@
+templateName,database/templates/charfxpak.tpl,
+colorGreen,0.700000,
+colorRed,0.800000,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/skillclass28/wings_loopfx01.dbr,

@@ -1,0 +1,6 @@
+templateName,database/templates/decaltype.tpl,
+Class,DecalType,
+height,2.500000,
+shader,shaders/effects/decal_selfillum.ssh,
+texture,fx/textures/burningcoals.tex,
+width,2.500000,

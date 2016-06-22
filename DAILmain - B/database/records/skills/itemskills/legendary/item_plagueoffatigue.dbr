@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Applies Fatigue Plague,
+buffSkillName,records/skills/itemskills/legendary/item_plagueoffatigue_buff.dbr,

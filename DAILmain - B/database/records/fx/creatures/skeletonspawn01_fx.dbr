@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,0,
+decal,records/fx/decals/decal_zombiehole.dbr,
+effectFile,fx/particlesystems/creature/pfx_skeletonspawn_01.pfx,
+localOrientFix,1,

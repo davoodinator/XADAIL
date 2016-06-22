@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/skillsounds/class05/spak_arcanetempest.dbr,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.150000,
+disturbanceRadius,3.000000,
+particleEffectNames,records/fx/skillsother/aoe/aethervindictiveflame1_fx01.dbr,

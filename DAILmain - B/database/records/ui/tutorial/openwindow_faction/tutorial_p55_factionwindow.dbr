@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Faction Window,
+NuggetArray,records/ui/tutorial/openwindow_faction/factionwindow_n1.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n2.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n3.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n4.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n5.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n6.dbr;records/ui/tutorial/openwindow_faction/factionwindow_n7.dbr,
+quickTag,tagQuickTip55,

@@ -1,0 +1,7 @@
+itemCost,100000,
+description,dailCompDesc0000000,
+itemText,dailCompText0000000,
+augmentMasteryLevel1,2,
+augmentMasteryName1,records/skills/playerclass01/_classtraining_class01.dbr,
+augmentSkillLevel1,2,
+augmentSkillName1,records/skills/playerclass01/fightingspirit1.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorianugget.tpl,
+FileDescription,Title,
+TextStyle,records/ui/styles/text/style_help_title.dbr,
+TextTag,tagTutorialTip33Title,
+TopSpacing,0,

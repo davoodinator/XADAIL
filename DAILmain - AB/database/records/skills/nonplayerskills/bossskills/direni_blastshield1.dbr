@@ -1,0 +1,3 @@
+templateName,database/templates/skill_buffother.tpl,
+Class,Skill_BuffOther,
+buffSkillName,records/skills/nonplayerskills/bossskills/direni_blastshield1_buff.dbr,

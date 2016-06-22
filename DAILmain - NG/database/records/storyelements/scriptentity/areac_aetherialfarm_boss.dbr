@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/aetherial abomination/aetherialabomination01a.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaCQuestAetherialFarm.bossOnAddToWorld,
+onDestroy,gd.quests.areaCQuestAetherialFarm.bossOnDestroy,
+pathing,0,

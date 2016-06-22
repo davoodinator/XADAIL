@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Toned down version for player pet,
+buffSkillName,records/skills/itemskills/pets/petskill_harbinger_spectralmiasma_buff.dbr,

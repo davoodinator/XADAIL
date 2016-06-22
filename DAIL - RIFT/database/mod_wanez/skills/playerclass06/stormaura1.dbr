@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,mod_wanez/skills/playerclass06/stormaura1_buff.dbr,
+instantCast,0,

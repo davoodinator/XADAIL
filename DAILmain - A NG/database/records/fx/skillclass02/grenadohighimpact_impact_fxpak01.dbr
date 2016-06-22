@@ -1,0 +1,3 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+particleEffectNames,records/fx/skillclass02/grenadohighimpact_impact_fx.dbr,

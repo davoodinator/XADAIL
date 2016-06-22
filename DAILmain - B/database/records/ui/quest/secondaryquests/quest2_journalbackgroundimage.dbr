@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,ui/quest/quest_windowbackgroundimage.tex,
+bitmapPositionX,15,
+bitmapPositionY,79,

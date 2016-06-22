@@ -1,0 +1,5 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/skeleton/skeleton01.msh,
+editorScale,1.000000,
+pathing,0,

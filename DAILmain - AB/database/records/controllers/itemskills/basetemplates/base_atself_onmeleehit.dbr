@@ -1,0 +1,5 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,Cast Skill at Self on Taking Melee Damage,
+chanceToRun,100,
+targetType,Self,
+triggerType,HitByMelee,

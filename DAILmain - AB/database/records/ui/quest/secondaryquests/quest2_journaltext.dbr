@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/textboxmeasureable.tpl,
+fontStyle,records/ui/styles/text/style_textgray_sizen.dbr,
+positionX,3,
+positionY,3,
+textBoxHeight,-1,
+textBoxWidth,263,

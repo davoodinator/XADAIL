@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/partylistbox.tpl,
+FontStyle,records/ui/styles/text/style_nooutline_textwhite_sizen.dbr,
+IconXPosition,5,
+LevelXPosition,250,
+LineHeight,24,
+NameXPosition,55,

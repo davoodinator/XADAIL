@@ -1,0 +1,8 @@
+templateName,database/templates/weathersystem.tpl,
+name,CaveDustMotes,
+particleLife,6.250000,
+particleSize,0.090000,
+particleSpeed,1.000000,
+spawnRadius,20.000000,
+texture,fx/textures/weather_dustmote01.tex,
+type,WindParticle,

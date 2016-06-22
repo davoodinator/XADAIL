@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1,
+records,mod_wanez/items/dga/loottable_reward_03_tdyn.dbr,

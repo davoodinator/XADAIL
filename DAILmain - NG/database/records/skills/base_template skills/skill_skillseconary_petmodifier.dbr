@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+Class,SkillSecondary_PetModifier,
+FileDescription,A mastery pet modifier which adds additional stats or skills to summoned pets. Must have a pet skill assigned to it.,
+petSkillName,records/skills/base_template skills/skill_skillbuff_passive.dbr,

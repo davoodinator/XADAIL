@@ -1,0 +1,3 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/playerclass06/devouringswarm1_buff.dbr,

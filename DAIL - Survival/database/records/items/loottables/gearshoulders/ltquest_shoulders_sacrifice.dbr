@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;35;60,
+records,records/items/loottables/gearshoulders/tdyn_shoulders_b04_sacrifice.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_b05_sacrifice.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_b06_sacrifice.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,fx/meshfx/ui_questicon_dynamite01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.devilsCrossingBarricades.lowerCrossingDetonationSiteOnAddToWorld,
+onDestroy,gd.devilsCrossingBarricades.lowerCrossingDetonationSiteOnDestroy,
+pathing,0,

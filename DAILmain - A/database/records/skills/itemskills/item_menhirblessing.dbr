@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Applies menhir's blessing buff,
+buffSkillName,records/skills/itemskills/item_menhirblessing_buff.dbr,
+instantCast,0,

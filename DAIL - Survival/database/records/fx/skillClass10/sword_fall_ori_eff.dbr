@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+canBeSoft,1,
+effectFile,fx/pes/class10/sword_fall_1.pfx,
+localOrientFix,0,

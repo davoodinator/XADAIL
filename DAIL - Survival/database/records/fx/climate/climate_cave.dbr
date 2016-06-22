@@ -1,0 +1,4 @@
+templateName,database/templates/climate.tpl,
+climate1chance,100,
+climate1dbr,records/fx/climate_weather/cavenatural_darkwind.dbr,
+climate1time,Always,

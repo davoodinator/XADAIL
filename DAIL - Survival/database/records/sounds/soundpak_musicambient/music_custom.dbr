@@ -1,0 +1,6 @@
+templateName,database/templates/musicpak.tpl,
+ActorName,,
+Class,MusicSession,
+FileDescription,,
+tracks,sound/music/gd_ost2_finalboss_stage1.ogg,
+randomize,0,

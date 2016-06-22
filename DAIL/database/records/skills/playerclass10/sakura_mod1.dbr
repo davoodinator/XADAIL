@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,Spear of the Heavens - Spear of the Heavens,
+buffSkillName,records/skills/playerclass10/sakura_bladebarrier1.dbr,

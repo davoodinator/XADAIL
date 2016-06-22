@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/playerclass03/bloodofdreeg1_buff.dbr,
+instantCast,1,

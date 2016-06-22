@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Single target spell used to apply a buff to target without a projectile. Requires a buff assigned to it,
+buffSkillName,records/skills/base_template skills/skill_skillbuff_passive.dbr,

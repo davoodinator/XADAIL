@@ -1,0 +1,3 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/itemskills/relics/relic_deathchillaura_buff.dbr,

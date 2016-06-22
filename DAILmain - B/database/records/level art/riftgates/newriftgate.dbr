@@ -1,0 +1,7 @@
+templateName,database/templates/staticteleporter.tpl,
+Class,StaticTeleporter,
+activeEffect,records/fx/ui/riftgateactive_fx01.dbr,
+activeSound,records/sounds/environmental/supernatural/riftgate_loop01.dbr,
+description,tagMap01_RiftgateA01,
+dormantEffect,records/fx/ui/riftgatedormant_fx01.dbr,
+radius,2.000000,

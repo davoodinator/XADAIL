@@ -1,0 +1,8 @@
+templateName,database/templates/specialcharhandler_fadenearplayer.tpl,
+fadeColorAlpha,0.000000,
+fadeColorBlue,0.000000,
+fadeColorGreen,0.000000,
+fadeColorRed,0.000000,
+farDistance,10.000000,
+handlerType,FadeNearPlayer,
+nearDistance,5.000000,

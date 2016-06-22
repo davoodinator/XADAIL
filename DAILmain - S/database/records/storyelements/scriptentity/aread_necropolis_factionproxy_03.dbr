@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/proxyfaction01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaDQuestNecropolis.factionProxy03OnAddToWorld,
+onDestroy,gd.quests.areaDQuestNecropolis.factionProxy03OnDestroy,
+pathing,0,

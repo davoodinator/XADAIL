@@ -1,0 +1,7 @@
+templateName,database/templates/templatebase/lootcontainer.tpl,
+Class,FixedItem,
+FileDescription,Challenge Shrine level 45-80,
+lootClassification,Hero,
+lootTable,records/interactive/devotionloot/devotion_loot_b03.dbr,
+maxLevel,80,
+minLevel,45,

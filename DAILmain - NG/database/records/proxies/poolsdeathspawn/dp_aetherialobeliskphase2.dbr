@@ -1,0 +1,5 @@
+templateName,database/templates/spawnondeathpool.tpl,
+name1,records/creatures/enemies/boss&quest/aetherialobelisk_01.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,100,

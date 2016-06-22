@@ -1,0 +1,8 @@
+templateName,database/templates/rolloverline2.tpl,
+FileDescription,RolloverLine2,
+Line1FormatTag,tagRollFormat04,
+Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
+Line1Tag,tagHUDButtonHelp,
+Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
+Line2Tag,tagHUDButtonRollHelp,
+rolloverStyle,records/ui/styles/rollover/style_genericrolloverbox.dbr,

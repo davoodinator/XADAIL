@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Weapon Comparison,
+NuggetArray,records/ui/tutorial/weaponcomparison/weaponcompare_n1.dbr;records/ui/tutorial/weaponcomparison/weaponcompare_n2.dbr;records/ui/tutorial/weaponcomparison/weaponcompare_n3.dbr;records/ui/tutorial/weaponcomparison/weaponcompare_n4.dbr,
+quickTag,tagQuickTip49,

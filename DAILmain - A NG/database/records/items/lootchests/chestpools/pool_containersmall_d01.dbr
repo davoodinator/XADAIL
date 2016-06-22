@@ -1,0 +1,7 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/c01_chestmetal01.dbr,
+fixedItemName2,records/items/lootchests/d01_chestwood01.dbr,
+fixedItemWeight1,70,
+fixedItemWeight2,30,

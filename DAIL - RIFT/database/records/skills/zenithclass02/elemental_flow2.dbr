@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/skills/zenithclass02/elemental_flow2_buff.dbr,

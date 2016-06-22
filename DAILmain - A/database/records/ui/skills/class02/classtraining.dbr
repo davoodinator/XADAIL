@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/skillbutton.tpl,
+FileDescription,Demolition,
+bitmapPositionX,157,
+bitmapPositionY,502,
+isCircular,1,
+skillName,records/skills/playerclass02/_classtraining_class02.dbr,
+soundNameDown,records/sounds/ui/spak_buttonskillmasteryincrement.dbr,

@@ -1,0 +1,8 @@
+templateName,database/templates/healthmanaregen.tpl,
+healthFeedRate,10.000000,
+healthOverStorageLimit,1.000000,
+lifeRegenEquation,(lifeRegen + ((physique-50)/25))  * elapsedTime,
+manaDrainRate,1.000000,
+manaFeedRate,10.000000,
+manaOverStorageLimit,1.000000,
+manaRegenEquation,(((manaRegen*((intelligence/400)+1))+((intelligence-50)/100))+6.5) * elapsedTime,

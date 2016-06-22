@@ -1,0 +1,4 @@
+templateName,database/templates/charfxpak.tpl,
+particleEffectAttachPoints,HeadFXUP,
+particleEffectNames,records/fx/damagedefault/dmgdur_physicaldmgreduction_fx01.dbr,
+startSound,records/sounds/combatshared/spak_damagedefaultabs_life.dbr,

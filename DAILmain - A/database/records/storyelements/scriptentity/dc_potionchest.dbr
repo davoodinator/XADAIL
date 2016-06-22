@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,level art/carnage/corpse_human_a01_lying_06c.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.devilsCrossing.introPotionChestOnAddToWorld,
+onDestroy,gd.quests.devilsCrossing.introPotionChestOnDestroy,
+pathing,0,

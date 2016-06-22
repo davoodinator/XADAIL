@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;35,
+records,records/items/loottables/misc/tdyn_aethercrystals_01.dbr;records/items/loottables/misc/tdyn_aethercrystals_02.dbr,

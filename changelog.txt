@@ -1,0 +1,325 @@
+LATEST CHANGES GLOSSARY
+* = not done yet
+? = time not set as it isn't released yet !
+
+0035 - ?
+reviewed the 18 build options and fixed the NG versions. i uhh seem to have had them "inverted" kekeke
+cleaned up various loose ends. extra scripts and other crap that was sitting around
+cleaned up the installer
+cleaned up the install dirs and prep dirs quite a bit
+*moved some more default/template files i created so they can be found / organized more effectively
+*tag bug in elementalist - fixed
+*dawn of heroes updated to 1.3 unfortunately mage cannot be merged in at this time :~(
+*cornucopia 1.3 update added affixes and devotions
+*updated DGA / rifts to 3.1
+*update coronus to 1.1
+
+0034 - 2:11 PM 6/20/2016
+crate box click kills enemies - fixed
+cftx masteries updated to 0.51
+something is up with NG databases - overleveled enemies. is this a thing? - fixed had offsets +100 hehe whups
+
+0033 - 9:18 AM 6/19/2016
+Frost Knight mastery goes to 100 now as was intended originally. ultimate stats are there too.
+LOTS of tag mis-matches fixed.
+fixed more wrongly assigned tags for mastery names
+fixed some missing ranger and necro tags
+fixed necro / frost knight mis/cross-allocation of skill requirements DISPLAY. was just a tag issue after all
+added medal slot for +1 skill items from the various special DAIL npc component vendors scattered through Cairn
+review grimmest mod merge. did i mess with the scripts/spawns for bosses? - seems like i used the right scripts. so i dunno. maybe i should release my source kek
+fixed nonworking skill merchants (classes 11 and 13)
+
+0032 - 2:22 AM 6/18/2016
+major fix of the + skill components
+there are now ~2700 components. yesterday was only 800.
+now they are fully generative - so should be 0 errors and new masteries will receive the royal treatment with one click of the button
+no more invalid skills
+some of the skill assignments have moved around. sorry about that. they will stay in place now unless the original mastery creator fiddles with adding/removing skills
+
+0031 - 4:10 PM 6/17/2016
+fixed more animations fangshi etc
+LOTS more tags for mastery combo names
+updated NCFF to 0.42
+updated chanter/fk to 1.2
+fixed eternal mod item merge - nothign to fix. items folder is IDENTICAL to eternal
+received no less than 20 complaints about depravities in DAIL. fixed the little f* to be regular sized enjoy the loots. someone poke Jiaco to fix grimm*
+transparency for the mastery screen so you dont have to see the black bars.
+decrease file size of 0031.zip using teh black arts
+
+
+0030 - 11:23 AM 6/17/2016
+fixed some tag issues with Cenobite Mastery
+pre add credit for Arlequin
+fixed bug with cenobite mastery switching to soldier - weird. class enumation was improperly named. - note "SkillClass" needs the correct capitalization.
+some npcs appear They sell + to skill augments. Please enjoy. i have a script. i ran it for the 15 available masteries and will run it for the other 15 when they (are) ready/exist
+See the OP for the list of npcs and general area to find them
+
+0029 - 9:38 PM 6/15/2016
+fixed major problem with xp
+huge tag update
+added placeholder for engineer mastery
+fixed cornucopia devotion merge - its baack :P and its version 0.2g
+fixed some mis-merged stuff with omega
+dawn of heroes updated to v1.1
+update necromancer, ranger and fangshi to 0.41
+merged cenobite into DAIL.... 2 slots left !
+increased cenobite max mastery level to 100 and added appropriate bonuses
+only 2 mastery spots left. where will they go ? :P
+
+0028 - 1:39 AM 6/14/2016
+actually fixed the tags for first load of game. forgot to add the NSIS code for it
+merged enchanter mastery from 3Jiou
+expanded enchanter mastery bar to 100 with appropriate bonuses
+updated frost knight mastery
+pre-expanded the mastery hybrid tags to the full 426 possible combinations for 30 masteries. go to the OP in GD forums to help out with the naming.
+rewards might be in the form of copies of my helper npcs with your forum name or other npcs/things i eventually add to the game.
+[b]only 4 more mastery slots left. crate needs to raise the limit.. again hahaha......[b]
+
+
+0027 - 3:28 AM 6/13/2016
+added npc Khalanos and Hardy that will help you with your factions if you are in ikon or homestead
+added credit for Khalanos for helping me with the OP
+added more tag magic so when you first load GD youll see the correct class name(s)
+updated elementalist to 0.3
+merged in terror knight
+upped mastery limit of terror knight to 100 with appropriate powerups
+reserverd spot for Stargazer mastery from DraonCC
+pre added credit for titan quest masteries (Asylum101) to save me time later on
+pre added credit for darkest dawn masteries (Kir4) to save me time later on
+pre added credit for Stargazer mastery mod to DraonCC
+checked >50 mastery level on last 3 masteries. they work fine.
+fixed tags on elementalist mastery
+
+0026 - 12:12 AM 6/12/2016
+updated to RIFT/DGA 0.3
+updated omega mod to 0.3
+updated eternal/survival to 0.976
+re-fixed xp in *NG modes I swear i did! xp per level is the same as before though so it might seem slower starting around level 50
+really REALLY cleaned up, and roughed out all 30 masteries. only 6 slots left for more to be placed and 12 of them are not availablet to merge yet. "PH" means placeholder and that mastery not available at the moment
+mergeds Ceno's Elementalist into DAIL
+increased elemenalist mastery cap to 100
+general mastery bugfixes - no more double same mastery etc
+added mastery ultimate abilities for fangshi, frost knight and elemenalist past mastery level 50. increasing quickly to 72 and tapering off to 100 like the other masteries
+added Hardy to credits for helping me sort out the OP
+
+0025 - 1:13 PM 6/10/2016
+updated frost knight mastery to v1.1
+fixed frost knight mastery in survival/DGA mode - if I broke your save file please send it to me and i will fix it
+fixed reversed fangshi image
+fixed the outhouse npc new conversation line
+merged with 1.0.0.4 Hotfix 1
+
+0024 - 2:22 AM 6/10/2016
+the guy at the outhouse offers a free alternative if you want your "choice" based factions to start at 0 again
+fixed NG and ANG for real this time - just needed some script cleanup
+merged frost kngiht and set mastery bar to max of 100 (still missing ultimate abilities)
+potions stack to 1000 again
+laid the groundwork for 30 masteries - i can merge a masteyr in a short amount of time now.
+fangshi mastery bar goes to 100 now and fangshi works(still missing ultimate abilities)
+installer now automagically finds your steam dir if it exists - otherwise youll have to choose the dir if you are using the GoG version
+fangshi and frost knight are upside down for many of the images. im stupid i know ill fix it later.
+
+0023 - 1:09 AM 6/8/2016
+merged fangshi mastery in BUT it wont appear. i set everything up as class10 and even the ui buttons to be 50 pixels below coronus. pulling hair out on this one. i even tried shoving it as a hard mod. filling a bug report.
+fellow at the outhouse is back
+B and AB modes are fixed
+sot boc doors are gone again. sorry about that.
+unused areas are unlocked again
+NG modes have regular xp
+
+0022 - 5:58 PM 6/7/2016
+fixed default path for installer was \mods\ shoudl have been \
+fixed arachnophobia for 1.0.0.4 due to all the creature changes
+merged in eternal 0.973
+Merged 1.0.0.4 patch
+
+0021 - 2:00 PM 6/6/2016
+NEW NPC check out the npc in front of the outhouse in devils crossing.. he can help you with factions...
+fixed various tags related to mastery combinations
+added some tags to maps
+fixed disabled grimmest script pack - (NG) option for people who dont want grimmest.. it had the grimmest scripts in it (whoops haha)
+updated to latest cornucopia hotfix DEVOTIONS ONLY - not merging skills at this time
+updated omega to 0.2
+updated eternal mod to .971 - removed the attribute/skill points as rewards. left devotion points in place since there is a cap.
+merged in stasher v5
+added a few more install options for people who like being swarmed but dont have the star trek holodeck computer they need for full grimmest.
+
+
+0020 - 10:43 AM 6/02/2016
+clean up of installer build scripts so i can quickly generate updates without thinking about it too hard
+user reported that DAIL doesnt install the database. it does.
+user reported coronus togglebable musically named skills not working as toggles - its an hour long buff. it works not gonna fiddle too much
+DGA can't craft essense - i think its fixed now please check 0020
+refreshed grimmest just in case will be observing behaviour of two new monsters for 0021
+updated to 2.0 DGA - alexei added as developer credit on this mod
+updated to eternal mod version 0.964
+
+0019 - 11:02 PM 5/31/2016
+re-release as an installer. don't ask how i figured out NSIS. i had to contact aetherials. thanks for the suggestion Mamba....
+enjoy it casuls
+
+0019 - 7:30 AM 5/31/2016
+xp fixed - no longer weird slow slogs of 3 xp per kill (wups)
+fixed good-loooking skel to be a transmog smith again.
+updated to necro/ranger v0.22 RIP fangshi can only have 9 masteries i already added coronus maybe if crate raises mastery limit........
+updated to 0.962 survival mod
+
+0018 - 7:46 AM 5/30/2016
+*new/updated features*
+unlocked another hidden area - north of burrwitch screenshot in first post
+omega mod updated to 0.1P
+survivalmod updated to 0.94
+
+*bugfixes*
+fix stash button placement - thanks cyberreefer for the dbr edits
+lots of broken tags removed / fixed
+some hybrid classes renamed
+readme cleaned up
+pet bonuses linked up properly
+devotion cap is 59 again
+hide the goodlooking skeleton smith from combat
+ensured items are properly linked between mods so you can loot up in rifts and use the items in dail / survival
+fixed darius event for people who dont want grimmest enabled. oops
+
+*questionmarks*
+"iwearbeanies" said there was a problem with ranger dual weilding when he was streaming 0017 on 2015-05-29. i couldn't figure our specifically what the problem is/was
+
+0017 - 10:30 AM 5/29/2016
+moved the grimmest and arachnophobia changes into database.arz for convenience switching versions. check the readme for instructions
+merged in cornucopia mod v0002 - just the devotion changes. the skill changes were missing some items. maybe will merge later versions
+cleaned up some of the 50+ ultimate masteries
+cleaned up alot of merged assets
+updated survivalmod to 0.891
+updated grimmest to 0.7m1
+updated coronus to 1.0
+updated omega to O
+opened up some secret paths - secret path 1 -> old grove -> south bridge in devils crossing
+more secret paths (there are many unused areas) ill open later.. I am not sure if I should do anything with these areas. they seem like well prepped expansion areas ;o
+merged in cornucopia mod v0002!
+
+0016d - 8:22 AM 5/28/2016
+Hotfix for database.arz -> soldier mastery limit raised to 100 instead of default
+
+0016c - 4:10 PM 5/27/2016
+hotfix
+arachnophobia is working now
+no more level 250 stuff (hah)
+spawns not sparse anymore.
+updated grimmest to 0.7
+
+0016 - 10:43 AM 5/27/2016
+stasher mod update to v4 - now with transparency!!!!!
+good looking mod merged in !
+skills fixed in survival mod - let me know if issues
+fixed item levels/affixes in DAIL survival/rift/arachnophobia - let me know if issues
+affixes / loot tables for coronus/necro/ranger items. i copied their files... i dont know where to go to test hah
+grimmest 0.666 proxies injected -proxy pool values left intact.. its actually not bad in 0666
+survivalmod updated to 0.81
+omega mod updated to N
+rift/dga mod updated to v1.3
+
+0015 - 10:31 AM 5/25/2016
+potions will stack properly to 1000 now
+some ultimate masteries fixed
+no more level 1 uber items shoudl appear. affixes should roll more in line with item level now
+added 20% mana recovery to food/con pots
+
+0014 - 5:16 PM 5/24/2016
+Set potions/ointments to stack to 1000 instead of 100
+xp recurved again! sorry :P see image at top of post
+10 skills per level (instead of 2) after level 90 to 100 (so total of 100 skill points from 91 to 100 !)
+reverted items back to being leveled. garbage was consistantly dropping for high level characters (unacceptable)
+updated survival to 0.6
+
+SoT and BoC
+*doors have been forcibly removed. giving multiplayer games more uptime
+in the event of a lag raid death from the massive amount of spawns.
+*the teleports still dont work inside but thats ok. you can set one up just outside and run back in if you die.
+
+Changes that require updating the main game database.arz
+->MaxDevotion set to 59 (maximum legitimately possible in maingame atm)
+->All masteries go to level 100 now
+->your maingame saves STILL won't be broken with this change
+
+0011 - 2:48 PM 5/23/2016
+XP can be curved - monster xp was set to 25% of regular.
+I've changed monster xp to 80% of regular and I've curved the xp using a
+math formula so that xp is "vanilla" until level 50ish then it ramps up
+quickly to 53% extra xp per level by 100
+Omega updated to 0.1k
+Surival mode updated to 0.41
+Removed level restrictions on items and affixes
+Rift/Mapping mod from WareBare has been added successfully! As a separate mod since its it's own world.
+I toned back the spawns a bit more. should'nt be any x4 purple bosses anymore.
+
+0010 - 10:20 AM 5/22/2016
+fixed the icons so they aren't upside down
+cleaned up alot more tags
+omegamod update to version J - many bugfixes and new omega bosses added as well as 3 new icons
+added a "DAIL - Survival" build as an alternative to leveling and
+gearing up if you just want to fight waves of monsters one after another
+in the "GrimDawn: Eternal" from PrincessLuna (imho it is Princess LUA)
+
+0009 - 10:24 PM 5/21/2016
+quick fix for projectiles and other fx
+
+0008 - 1:58 PM 5/21/2016
+merged cftx ranger/necro mod
+also renamed the arachnophobia mod because if it has a diff name they
+wont be able to play with regular DAIL users. its just a graphical thing
+so why restrict them?
+cleaned up some tags and .tex files
+next up: updates on necro, coronus, grimmest dawn, and any release of the rift mod will be incorporated.
+maybe some initial research into cornucopia.. if it breaks vanilla chars . it might be annoying.
+dont be shy about suggestions people. the way mods work for GD is annoying so we really do need these compilations ;\
+
+0007 - 12:12 AM 5/21/2016
+merged in the tt300 version of stasher mod for all our stashing needs
+next up: gonna take another crack at merging the ranger / necro
+masteries with coronus now that i know a bit more about .tex/etc
+trickery
+added an arachnophobia version too
+
+0006 - 6:08 PM 5/20/2016
+Merged in Coronus Mod
+Attempted to merge Necro/Ranger/etc mod - cancelled. after unpacking it.
+it was too big and contained too much stuff that seemed redundantly
+stored like the base masteries. Needs more analysis
+Added mod credits in the loading tips
+
+0005-3:50 PM 5/19/2016
+toned down grimmest a bit since i was having issues just wading through
+on my rig (i7 5820K with 970x2) so I want to have a challenge but i also
+want silky smooth 120 fps. this means i've also nerfed XP
+tremendously. that is ok.
+also omega mod added. works 100%
+
+0004-3:13 PM 5/19/2016
+I figured out the legendary affix stuff thanks to NateATon. I had to run
+a full folder diff to find all the changes. basically the changes are
+purely in the lootttable DBR files. the affix files were to increase run
+speed only. and there were many global edits to items which i did not
+use such as components usable in all slots.
+definately level>100 is broken as heck. so i set the max level to 100
+for now. maybe its ok. can i increase devotion skill levels? that
+could be fun.
+
+0003-9:50 AM 5/19/2016
+elfe in http://www.grimdawn.com/forums/showthread.php?t=38578
+is saying that I can go over level 100, so i set the max level back to 200 and will do more testing.
+i tried looking at what he suggested, it doest seem like there are limits set. i copied the grimmest stuff
+also level>100 seems to break access to the challenge areas. the doors are unresponsive.
+
+also i wonder can i globally edit dbr files or run sql like queries
+against them??? ill look into it. as it is the only way to do massive
+edits like this.....
+
+0002-2:51 AM 5/19/2016
+grimmest worked. yay - but only if i set the cap to level 100.. thats not soo bad. 15 more levels ;\
+still need to figure out legendary/epic affixes from NateATon's hard research and work. Thank you again senpai.
+
+0001-2:52 PM 5/18/2016
+initial version
+not done *affixes will be added to epic and legendary items
+done * levels will be uncapped for players and monster scaling
+levels are 200 but monsters aren't spawning must merge in grimmest`

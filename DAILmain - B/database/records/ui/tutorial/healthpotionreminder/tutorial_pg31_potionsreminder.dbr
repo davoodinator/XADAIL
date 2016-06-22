@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Potions Reminder,
+altPage,records/ui/tutorial/pickuppotion/tutorial_p14_potions.dbr,
+quickTag,tagQuickTip31,

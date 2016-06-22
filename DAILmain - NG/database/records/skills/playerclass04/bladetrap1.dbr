@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/skills/playerclass04/bladetrap1_buff.dbr,
+projectileNames,records/fx/skillclass04/bladetrap1_projectile_fx.dbr,

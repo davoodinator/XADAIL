@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;10;50,
+records,records/items/loottables/blueprints/tdyn_blueprints_coronus.dbr,

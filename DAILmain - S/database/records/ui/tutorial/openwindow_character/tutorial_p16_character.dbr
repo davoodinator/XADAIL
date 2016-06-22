@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Character Window,
+NuggetArray,records/ui/tutorial/openwindow_character/character_n1.dbr;records/ui/tutorial/openwindow_character/character_n2.dbr;records/ui/tutorial/openwindow_character/character_n3.dbr;records/ui/tutorial/openwindow_character/character_n4.dbr;records/ui/tutorial/openwindow_character/character_n5.dbr;records/ui/tutorial/openwindow_character/character_n6.dbr,
+quickTag,tagQuickTip16,

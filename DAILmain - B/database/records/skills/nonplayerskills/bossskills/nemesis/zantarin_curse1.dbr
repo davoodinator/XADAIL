@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/nonplayerskills/bossskills/nemesis/zantarin_curse1_buff.dbr,
+pointBlank,1,

@@ -1,0 +1,6 @@
+templateName,database/templates/spawnondeathpool.tpl,
+levelVarianceEquation1,records/proxies/lv4_champion.dbr,
+name1,records/creatures/npcs/questnpcs/gdareab/npc_edmunddoyle_01.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,100,

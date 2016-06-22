@@ -1,0 +1,7 @@
+templateName,database/templates/specialcharhandler_freeze.tpl,
+freezeSound,records/sounds/combatshared/spak_damage_freeze_freeze.dbr,
+handlerType,Freeze,
+iceCubeName,records/fx/meshfx/damagepetrify_stonechunk01.dbr,
+icyEffectName,fx/textures/damagepetrify_overlay.tex,
+shatterSound,records/sounds/combatshared/spak_damage_petrify_shatter.dbr,
+thawSound,records/sounds/combatshared/spak_damage_petrify_unpetrify.dbr,

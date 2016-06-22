@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,items/chests/proxy_chestsecret01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.homesteadQuestMurderersAndWorse.chestOnAddToWorld,
+onDestroy,gd.quests.homesteadQuestMurderersAndWorse.chestOnDestroy,
+pathing,0,

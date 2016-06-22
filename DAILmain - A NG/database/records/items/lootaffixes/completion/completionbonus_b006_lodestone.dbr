@@ -1,0 +1,6 @@
+templateName,database/templates/lootrandomizertabledynamic.tpl,
+Class,LootRandomizerTable,
+randomizerLevelMax1,500,
+randomizerLevelMin1,1,
+randomizerName1,records/items/lootaffixes/completion/b01_lodestone_staticcharge.dbr,
+randomizerWeight1,100,

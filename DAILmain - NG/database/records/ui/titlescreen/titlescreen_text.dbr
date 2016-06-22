@@ -1,0 +1,3 @@
+templateName,database/templates/ingameui/textbox.tpl,
+FileDescription,TextStringStatic,
+style,records/ui/styles/text/style_special_titlescreentext.dbr,

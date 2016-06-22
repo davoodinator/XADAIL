@@ -1,0 +1,5 @@
+templateName,database/templates/navblocker.tpl,
+Class,NavBlocker,
+FileDescription,Used to block pathing for repairable bridges,
+height,3.000000,
+radius,2.500000,

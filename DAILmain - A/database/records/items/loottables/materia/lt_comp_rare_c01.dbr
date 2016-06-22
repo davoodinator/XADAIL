@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;12,
+records,records/items/loottables/materia/tdyn_comp_magical_a01.dbr;records/items/loottables/materia/tdyn_comp_rare_a01.dbr,

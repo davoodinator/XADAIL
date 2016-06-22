@@ -1,0 +1,7 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/pc/hero01.msh,
+editorScale,1.000000,
+onAddToWorld,gd.quests.areaCFactionSelection.orderEmissaryHomesteadOnAddToWorld,
+onDestroy,gd.quests.areaCFactionSelection.orderEmissaryHomesteadOnDestroy,
+pathing,0,
