@@ -77,7 +77,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0034"
+!define PRODUCT_VERSION "0035"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -107,7 +107,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0034.exe"
+OutFile "DAIL 0035.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"
@@ -141,6 +141,11 @@ Section "Common Files" SEC99
   SetOutPath "$INSTDIR\mods\DAIL - Survival\resources"
   SetOverwrite on
   File /nonfatal /a ".\DAIL - Survival\resources\"
+
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILmain - S\Resources\Text_En.arc"
+
 SectionEnd
 
 ;SectionGroup "DAIL INSTALLATION OPTIONS"
@@ -150,6 +155,10 @@ Section "(S)" SEC01
   SetOutPath "$INSTDIR\database"
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - S\database\DAILmain - S.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - S\resources\scripts.arc"
 
 ;  SetOutPath "$INSTDIR\resources\"
 ; SetOverwrite on
@@ -161,6 +170,10 @@ Section /o "(A)" SEC02
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - A\database\DAILmain - A.arz"
 
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - S\resources\scripts.arc"
+
 ;  SetOutPath "$INSTDIR\resources\"
 ;  SetOverwrite on
 ;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.A"
@@ -171,9 +184,9 @@ Section /o "(NG)" SEC03
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - NG\database\DAILmain - NG.arz"
 
-  SetOutPath "$INSTDIR\mods\DAIL\resources"
-  SetOverwrite on
-  File ".\DAILmain - S\resources\scripts.arc"
+;  SetOutPath "$INSTDIR\mods\DAIL\resources"
+;  SetOverwrite on
+;  File ".\DAILmain - S\resources\scripts.arc"
 
 ;  SetOutPath "$INSTDIR\resources\"
 ;  SetOverwrite on
@@ -185,9 +198,9 @@ Section /o "(ANG)" SEC04
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - A NG\database\DAILmain - A NG.arz"
 
-  File /nonfatal /a ".\DAIL - Survival\resources\"
-  SetOverwrite on
-  File ".\DAILmain - S\resources\scripts.arc"
+;  File /nonfatal /a ".\DAIL - Survival\resources\"
+;  SetOverwrite on
+;  File ".\DAILmain - S\resources\scripts.arc"
 
 ;  SetOutPath "$INSTDIR\resources\"
 ;  SetOverwrite on
@@ -199,6 +212,10 @@ Section /o "(B)" SEC05
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - B\database\DAILmain - B.arz"
 
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - S\resources\scripts.arc"
+
 ;  SetOutPath "$INSTDIR\resources\"
 ;  SetOverwrite on
 ;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.B"
@@ -208,6 +225,10 @@ Section /o "(AB)" SEC06
   SetOutPath "$INSTDIR\database"
   SetOverwrite on
   File /oname=database.arz ".\DAILmain - AB\database\DAILmain - AB.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - S\resources\scripts.arc"
 
 ;  SetOutPath "$INSTDIR\resources\"
 ;  SetOverwrite on
