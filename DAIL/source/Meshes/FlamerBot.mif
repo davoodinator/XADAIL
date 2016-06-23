@@ -1,0 +1,87 @@
+AttachPoint
+{
+    name   = "AuraFX"
+    parent = "Bone001"
+    origin = (0.016799, -0.314843, -0.000043)
+    xAxis  = (1.000045, -0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000045, 0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "HeadFXUP"
+    parent = "Bone001"
+    origin = (-0.351463, 0.446400, -0.117311)
+    xAxis  = (1.000023, -0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000023, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Target"
+    parent = "Bone001"
+    origin = (0.000000, 0.000000, -0.000000)
+    xAxis  = (1.000000, -0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000000, -0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "CastFX"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "L Hand"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "R Hand"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXForward"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "PilotLightFX"
+    parent = "Bone002"
+    origin = (0.270568, 0.000003, -0.000000)
+    xAxis  = (1.000028, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000028, 0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "AuraFX"
+    entity = "records\fx\skillclass02\thermitemine_ambient_01fx.dbr"
+}
+CreateEntity
+{
+    attach = "HeadFXUP"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
+}
+CreateEntity
+{
+    attach = "PilotLightFX"
+    entity = "records\fx\skillsother\buff\wpnench_fire_otherloop_fx01.dbr"
+}

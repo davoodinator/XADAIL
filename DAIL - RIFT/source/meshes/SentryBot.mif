@@ -1,0 +1,118 @@
+AttachPoint
+{
+    name   = "SpecialHit04"
+    origin = (0.000000, 0.484456, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit03"
+    origin = (0.000000, 0.484456, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "HeadFXUP"
+    parent = "Bone001"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
+    origin = (0.000000, 0.410322, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit02"
+    origin = (0.000000, 0.478354, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit01"
+    origin = (0.000000, 0.484456, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXCentered"
+    parent = "Bone001"
+    origin = (0.000000, 0.278352, 0.000000)
+    xAxis  = (1.000000, 0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Target"
+    parent = "Bone001"
+    origin = (-0.000000, -0.013683, 0.000000)
+    xAxis  = (1.000000, 0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXUnParentedCenter"
+    origin = (0.000000, 0.282340, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "CastFX"
+    parent = "Bone002"
+    origin = (-0.000001, 0.004690, -0.002800)
+    xAxis  = (1.000000, 0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000000, -0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXForward"
+    parent = "Bone002"
+    origin = (-0.000001, 0.000861, -0.003930)
+    xAxis  = (1.000000, 0.000000, -0.000000)
+    yAxis  = (0.000000, 1.000000, -0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Head"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "L Hand"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "R Hand"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "HeadFXUP"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
+}

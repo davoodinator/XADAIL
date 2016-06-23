@@ -1,0 +1,69 @@
+AttachPoint
+{
+    name   = "Target"
+    parent = "Bone001"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "L Hand"
+    parent = "Bone004"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "R Hand"
+    parent = "Bone006"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXCoilL"
+    parent = "Bone006"
+    origin = (-0.000000, -0.000000, -0.000000)
+    xAxis  = (1.000000, -0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 0.999998)
+}
+AttachPoint
+{
+    name   = "FXCoilR"
+    parent = "Bone004"
+    origin = (-0.000000, 0.000000, -0.000001)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000018, -0.000000)
+    zAxis  = (0.000001, -0.000000, 1.000014)
+}
+AttachPoint
+{
+    name   = "HeadFXUP"
+    parent = "Bone002"
+    origin = (0.313738, -0.103305, -0.000000)
+    xAxis  = (1.000000, -0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000001, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "FXCoilL"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "FXCoilR"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "HeadFXUP"
+    entity = "records\fx\ambient\fx_firecampfire01_smoldering_sm.dbr"
+}

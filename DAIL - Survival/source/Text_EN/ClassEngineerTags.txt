@@ -1,0 +1,106 @@
+#tagSkillClassName07=Engineer
+#tagSkillClassName0107=Machinist
+#tagSkillClassName0207=Tinkerer
+#tagSkillClassName0307=Sinister Technomage
+#tagSkillClassName0407=Operative
+#tagSkillClassName0507=Mad Scientist
+#tagSkillClassName0607=Oxymoron
+
+tagSkillClassDescriptionEngineer=The Engineers of the imperial army were a highly educated group of men and women responsible for immense war machines and other efficient means of destruction. They rarely saw any front-line action before the grim dawn, but are nonetheless capable of unleashing contraptions on the fly to destroy their enemies. Engineers tend to prefer firearms, but some brash individuals have devised methods to augment their own fists.
+
+#ClassEngineer
+tagClassEngineerSkillName00=Engineer
+tagClassEngineerSkillDescription00=Eureka!
+
+tagClassEngineerSkillName01A=Shirley's Shock Shot
+tagClassEngineerSkillDescription01A=Shirley was the first to invent a powerful firearm augment which was both cheap and easy to mass-produce. The apparatus connects to ranged weapons and will electrify rounds automatically. These electrified rounds are powerful enough to occasionally shock an enemy off their feet. ^oRequires a ranged weapon. Default attack.
+tagClassEngineerSkillName01B=Corona Charge Cartridges
+tagClassEngineerSkillDescription01B=Improves the shock apparatus to also cause rounds to release a devastating corona of electric energy when hitting a target.
+tagClassEngineerSkillName01C=Curious Condenser
+tagClassEngineerSkillDescription01C=Adds an aether condenser to the shock apparatus, causing all fired projectiles to become very brittle and brimming with aetherial energy just waiting to be let out.
+tagClassEngineerSkillName01D=Rocket Rounds
+tagClassEngineerSkillDescription01D=A bulky revision of Shirley's original design, using an arcane amplifier to add a bit of magical heft to fired rounds. Requires more energy, but packs a much greater punch.
+
+tagClassEngineerSkillName02A=Pascal's Pneumatic Power-Palms
+tagClassEngineerSkillDescription02A=Pascal was a rowdy one, obsessed with lining armor with special pneumatic devices to increase the stopping power of punches. The devices take a moment to warm up, but will increase your punching power greatly after that. Unfortunately, his design is surprisingly useless when it comes to swinging a weapon. ^oRequires you to be unarmed. Default attack.
+tagClassEngineerSkillName02B=Grandmaster's Greasy Grip
+tagClassEngineerSkillDescription02B=A technique inspired by the grandmaster engineer of the imperial army, whose hands always seemed to be covered in oil.
+tagClassEngineerSkillName02C=Handy Hazard Hurler
+tagClassEngineerSkillDescription02C=Every punch will cause small explosive devices to be launched forward into several nearby enemies' faces at extremely high speeds. Devious, Dangerous, Imperial Engineering.
+tagClassEngineerSkillName02D=Overpowered Oscillators
+tagClassEngineerSkillDescription02D=Pascal's original design can be tweaked to output much more power, but initial testing proved human arms can't handle the stress. In fact, the first tester's arms launched off his body like missiles after a few moments of intense high-frequency punching. Since having arms is a prerequisite for punching, users of this tweak are advised to slow down a bit.
+tagClassEngineerSkillName02E=Ignoring Safety Labels
+tagClassEngineerSkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
+
+tagClassEngineerSkillName03A=Harry's Hands-free Hyper-gadgetry
+tagClassEngineerSkillDescription03A=With deft hands and a series of clever techniques, Harry was able to provide boosts to the performance of summons, but only for short periods of time. However, there's no way you could pull this off while holding a weapon. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName04A=Samuel's Stationary Sentry
+tagClassEngineerSkillDescription04A=A simple stationary turret which exists for the sole purpose of shooting powerful rounds at enemies. No frills. Samuel had plans to make his creation mobile, but that required more power than it was capable of outputting. He settled for a stationary, but powerful, deployable defensive line.  ^oScales with pet bonuses.
+tagClassEngineerPetSentry=Sentry Gun
+tagClassEngineerSentryAttack=Cannon Shot
+
+tagClassEngineerSkillName04B=Lessons Learned: Sentry
+tagClassEngineerSkillDescription04B=From using the sentry in combat, you've learned a thing or two about summons and defense.
+
+tagClassEngineerSkillName04C=Iconic Imitation: Sentry
+tagClassEngineerSkillDescription04C=Prolonged use of the sentry has given you an idea. You have gained the ability to sacrifice your movement speed for the ability to take on aspects of your Sentry Gun. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName05A=Connie's Charged Cannonball
+tagClassEngineerSkillDescription05A=With a bit of help from some of her arcanist friends, Connie created a gadget which allowed a standard firearm to propel a volatile cannonball forward. With a bit of aetherial energy and a few quick movements to set up a shot, anything is possible! ^oRequires a ranged weapon.
+
+tagClassEngineerSkillName05B=Rapid Replicating Rig
+tagClassEngineerSkillDescription05B=It is a well known fact that aetherial energy is strange, unpredictable, and alien. However, its effects start to get especially strange when you manage to compress enough of it into one small place. Increasing efforts to improve the cannonball firing method led to an amusing discovery: more cannonballs!
+
+tagClassEngineerSkillName05C=Overcharged Ordnance
+tagClassEngineerSkillDescription05C=All of this aether nonsense really corrupted the initial goal of the Cannonball project: Crowd control. These modifications aim to help bring the project back to its roots.
+
+tagClassEngineerSkillName06A=Tommy's Turf Turner
+tagClassEngineerSkillDescription06A=Tommy saw the appeal of unarmed techniques and gadgets, but not so much for combat. He started using powerful arm augments to help him do his gardening work, and it worked quite well for turning soil. Higher-ups caught wind of this, and asked for his methods to be upgraded for combat use. Reluctantly, Tommy made the required tweaks and his gardening tool became a powerful ground-pound. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName06B=Pyro Punch
+tagClassEngineerSkillDescription06B=Adds a bit of power and a bit of fire. The added power is just enough to start knocking certain targets off their feet.
+
+tagClassEngineerSkillName07A=Stanley's Safe Space 
+tagClassEngineerSkillDescription07A=This "Safe Space" machine keeps your enemies at bay with invisible, punishing waves of energy for a short time before breaking down. Stanley made great efforts to sustain the machine longer, but it has the unfortunate tendency of tearing itself apart. This version of the machine is 30% less likely to maliciously reorganize its creator's internal organs. ^oScales with pet bonuses.
+tagClassEngineerPetSafeSpace=Safe Space Generator
+tagClassEngineerSafeSpaceAttack=Safe Space
+
+tagClassEngineerSkillName07B=Lessons Learned: Safe Space 
+tagClassEngineerSkillDescription07B=Use of the Safe Space Bot has led you to the discovery of a few defensive techniques. These techniques are applicable to both yourself and your summons.
+
+tagClassEngineerSkillName07C=Iconic Imitation: Safe Space
+tagClassEngineerSkillDescription07C=In your attempts to take on aspects of the Safe Space Bot, you found that attempting to release energy similar to the machine was rather unhealthy for your internal organs. Instead, you focused on the aspects of survival which the machine stands for. You can use this to increase your survivability in several aspects. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName08A=Frankie's Faltered Focus Finder
+tagClassEngineerSkillDescription08A=Many of the fantastical inventions and techniques Engineers are capable of utilizing require absurd amounts of energy to work. Frankie used her knowledge to develop a small device which will put the user into a meditative state. In this state, reaction time is greatly decreased, but the user will quickly feel completely revitalized. Once revitalized, it is recommended to turn the device off, as it will have no further beneficial effects to your state of being. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName09A=Paul's Prevailing Punches
+tagClassEngineerSkillDescription09A=Engineers know how to tinker, but they aren't the greatest athletes. While arm mechanisms can improve the power, they can't improve the form. Paul decided to spend some time learning how to actually punch, and then he presented his findings so other engineers would be able to quickly learn. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName10A=Derek's Dirty Dispatch
+tagClassEngineerSkillDescription10A=All enemies have weak spots, it's just a matter of knowing where to shoot. Derek compiled a large tome filled with information on the weak spots of all known creatures, a tome which many engineers facing combat situations will often study on a regular basis. ^oRequires a ranged weapon.
+
+tagClassEngineerSkillName11A=Isaac's Incendiary Implement
+tagClassEngineerSkillDescription11A=Isaac, like many Engineers, had a passion for fire. The technology for flamethrowers had existed for a long time, but Isaac was the first to adapt it to a easily-deployable version that is durable enough to not explode constantly. ^oScales with pet bonuses.
+tagClassEngineerPetFlamerBot=Flamer Bot
+tagClassEngineerFlamerAttack=Flamethrower
+
+tagClassEngineerSkillName11B=Lessons Learned: Incendiary Implement
+tagClassEngineerSkillDescription11B=The Flamer Bot has impressively resistant casing to protect its fuel. After seeing it in action, you think you can adapt it for your other summons.
+
+tagClassEngineerSkillName11C=Iconic Imitation: Incendiary Implement
+tagClassEngineerSkillDescription11C=Spitting fire is unhealthy for your face, but it may be possible to focus your energy into imitating the high resistance of the Flamer Bot. ^oThis is a toggleable skill.
+
+tagClassEngineerSkillName12A=Overdrive
+tagClassEngineerSkillDescription12A=A simple overdrive device will briefly route extra power to servos in your armor allowing for faster punches. ^oRequires you to be unarmed.
+
+tagClassEngineerSkillName12B=Excruciating Exhaust
+tagClassEngineerSkillDescription12B=Let off some extra steam, and damage your enemies in the process. The extra heat also increases fire damage.
+
+tagClassEngineerSkillName12C=Invasive Internal Improvements
+tagClassEngineerSkillDescription12C=This modification to the original device will speed up all of your other bodily functions for that extra edge in battle. And yes, all of them.
+
+tagClassEngineerSkillName13A=Foolish Occult Engineering
+tagClassEngineerSkillDescription13A=The creator of this technique was shunned for their eldritch tampering. Their name has been struck from all official documents and effectively lost to history. Hell, this technique doesn't even have a cool alliterated name. That's really saying something, since ignoring such a naming convention is blatantly against the Empire's Engineering Edicts and punishable by death. All that aside, you figured you'd try it out. It seems to imbue your attacks with a strange energy, occasionally causing a sentry to appear nearby with a flash of light and a chill down your spine. These turrets seem normal enough, but I'm an omniscient tooltip and trust me, I know better. ^oThis is a toggleable skill.
+tagClassEngineerPetSinisterSentry=Definitely Completely Mechanical Sentry Which Is Not Alive And Hungry
