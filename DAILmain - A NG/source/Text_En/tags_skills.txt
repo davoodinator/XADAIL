@@ -55,5 +55,5 @@ tagSkillClassName25=^pPH Stargazer
 tagSkillClassName26=[ms]Enchanter[fs]Enchantress
 tagSkillClassName27=Engineer
 tagSkillClassName28=Cenobite
-tagSkillClassName29=[ms]^pPH Arlequin[fs]^oPH Harlequin
+tagSkillClassName29=[ms]^pPH Arlequin[fs]^pPH Harlequin
 tagSkillClassName30=^pPH Elwar
