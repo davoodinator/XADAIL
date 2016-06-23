@@ -1,0 +1,5 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,Cast Skill at Enemy on Taking Any Damage,
+chanceToRun,100,
+targetType,Enemy,
+triggerType,HitByEnemy,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Wendigo - Mark of the Wendigo,
+buffSkillName,records/skills/devotion/tier2_03f_skill_buff.dbr,
