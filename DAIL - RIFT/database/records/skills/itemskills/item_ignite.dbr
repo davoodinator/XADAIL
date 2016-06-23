@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/itemskills/item_ignite_buff.dbr,
+pointBlank,0,

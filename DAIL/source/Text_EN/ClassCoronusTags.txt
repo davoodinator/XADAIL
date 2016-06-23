@@ -1,7 +1,16 @@
-﻿#All skill/class names are based on song names because I lost my imagination while living life
-#Class08
-tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and other masters in the art of summoning, the Coronus were a small group of people who wanted to gain more knowledge enveloping all forms of summoning. Neither masters nor beginners, they can summon the dead and otherworldly creatures to their aid to defend themselves in battle. Until the Grim Dawn, not once did they made themselves known to the public.
+tagSkillClassNameCoronus=Coronus
 
+
+tagSkillClassName08=Coronus
+tagSkillClassName0108=Zeal
+tagSkillClassName0208=Magenta
+tagSkillClassName0308=Beacon
+tagSkillClassName0408=Cryo
+tagSkillClassName0508=Velour
+tagSkillClassName0608=Organism
+#All skill/class names are based on song names because I lost my imagination while living life
+tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and other masters in the art of summoning, the Coronus were a small group of people who wanted to gain more knowledge enveloping all forms of summoning. Neither masters nor beginners, they can summon the dead and otherworldly creatures to their aid to defend themselves in battle. Until the Grim Dawn, not once did they made themselves known to the public.
+#Class08
 tagClassCoronusSkillName00=Coronus
 tagClassCoronusSkillDescription00=The Coronus uses Necromancy and other forms of summoning to thrive in battle.
 
@@ -71,19 +80,27 @@ tagClassCoronusSkillName08B=The Right of Action
 tagClassCoronusSkillDescription08B=
 
 tagClassCoronusSkillName09A=Hem Ljuva Hem
-tagClassCoronusSkillDescription09A=Increase the %health of any ally pet for one hour. ^o Use (CTRL+Assigned Key) by default to target your pets.
+tagClassCoronusSkillDescription09A=Increase the %health of any ally pet in a 30m radius. ^o Does not work on players.
 
 tagClassCoronusSkillName10A=Rymden I En Lada
-tagClassCoronusSkillDescription10A=Increase the %energy of any ally for one hour. ^o Use (CTRL+Assigned Key) by default to target your pets.
+tagClassCoronusSkillDescription10A=Increase the %energy and %health of any ally pet in a 30m radius. ^o Does not work on players.
 
 tagClassCoronusSkillName11A=Awake
 tagClassCoronusSkillDescription11A=Launch a lobbed ice bomb, exploding after hitting the ground and slowing the attack speed of enemies caught within the blast.
 tagClassCoronusSkillName11B=Overdrive
 tagClassCoronusSkillDescription11B=Now slows the movement of enemies and has a chance to freeze.
 
+tagClassCoronusSkillName12A=Y Gair
+tagClassCoronusSkillDescription12A=Summon the undead warlock named Y Gair to fight alongisde you. Uses a chain lightning spell named "Looped" as his basic attack.
+tagClassCoronusSkillName12B=Looped
+tagClassCoronusSkillName12C=Weigh Me Down
+tagClassCoronusSkillDescription12C=Y Gair conjures a cloud of lightning over your enemies, zapping them with violent electric shocks and potentially setting them on fire.
+tagClassCoronusSkillName12D=Drown
+tagClassCoronusSkillDescription12D=Y Gair weakens all enemies around him by reducing their resistance to lightning, physical and fire damage.
+
 
 tagPetTrouble01=Abaddon
 tagPetPinned01=Archer of Frost
 tagPetRemains01=Abomination
 tagPetGrigori01=Warlock Grigori
-
+tagPetYGair01=Warlock Y Gair

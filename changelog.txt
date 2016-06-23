@@ -41,8 +41,8 @@ added tt300 to credits for misc fixes to UI and included his skill selection UI 
 tweaked the class selection UI A bit more myself even.
 dawn of heroes updated to 1.3 unfortunately mage cannot be merged in at this time :~( please crate raise that mastery cap!
 updated DGA / rifts to 3.1
-*cornucopia 1.3 update added affixes and devotions
-*update coronus to 1.1 with the additional 1.1.1 hotfix to that one broken passive skill
+cornucopia 1.3 update added affixes and devotions
+update coronus to 1.1 with the additional 1.1.1 hotfix to that one broken passive skill
 *merged in and activated engineer mastery 1.0 - I think this calls for a version 35 release :D
 *extended engineer to 100 levels of mastery
 *added engineer skill items and skill item merchant - added to ??? area and line added in OP

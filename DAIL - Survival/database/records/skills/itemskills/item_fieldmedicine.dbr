@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Applies Field Medicine buff to nearby allies,
+buffSkillName,records/skills/itemskills/item_fieldmedicine_buff.dbr,
+instantCast,1,

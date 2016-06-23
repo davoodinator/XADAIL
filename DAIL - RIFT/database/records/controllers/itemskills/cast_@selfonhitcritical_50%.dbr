@@ -1,0 +1,6 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,50%,
+autoTargetRadius,5.000000,
+chanceToRun,50,
+targetType,Self,
+triggerType,HitByCrit,

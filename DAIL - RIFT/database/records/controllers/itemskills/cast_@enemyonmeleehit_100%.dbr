@@ -1,0 +1,6 @@
+templateName,database/templates/skillautocastcontroller.tpl,
+FileDescription,100%,
+autoTargetRadius,8.000000,
+chanceToRun,100,
+targetType,Enemy,
+triggerType,HitByMelee,
