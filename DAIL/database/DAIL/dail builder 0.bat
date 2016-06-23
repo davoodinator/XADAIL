@@ -1,7 +1,4 @@
 rem generate the loot tables
-rem cd creatures
-rem cd npcs
-rem cd merchants
 copy dailTBL0000.dbr .\creatures\npcs\merchants\dailTBL0001.dbr /y
 copy dailTBL0000.dbr .\creatures\npcs\merchants\dailTBL0002.dbr /y
 copy dailTBL0000.dbr .\creatures\npcs\merchants\dailTBL0003.dbr /y
@@ -161,11 +158,6 @@ echo marketFileName,DAIL/creatures/npcs/merchants/.\creatures\npcs\merchants\dai
 
 
 rem generate the items
-rem cd ..
-rem cd ..
-rem cd ..
-rem cd items
-rem cd loottables
 rem actual loot table
 copy dailoneskilldashTemplate.dbr .\items\loottables\dailoneskill0001.dbr /y
 copy dailoneskilldashTemplate.dbr .\items\loottables\dailoneskill0002.dbr /y
@@ -198,7 +190,7 @@ copy dailoneskilldashTemplate.dbr .\items\loottables\dailoneskill0028.dbr /y
 copy dailoneskilldashTemplate.dbr .\items\loottables\dailoneskill0029.dbr /y
 copy dailoneskilldashTemplate.dbr .\items\loottables\dailoneskill0030.dbr /y
 
-rem shitty loot table linker
+rem loot table linker
 copy dailoneskilltop.dbr .\items\loottables\dailTBLoneskilldash0001.dbr /y
 copy dailoneskilltop.dbr .\items\loottables\dailTBLoneskilldash0002.dbr /y
 copy dailoneskilltop.dbr .\items\loottables\dailTBLoneskilldash0003.dbr /y
@@ -262,9 +254,8 @@ echo records,DAIL/items/loottables/.\items\loottables\dailoneskill0029.dbr, >> .
 echo records,DAIL/items/loottables/.\items\loottables\dailoneskill0030.dbr, >> .\items\loottables\dailTBLoneskilldash0030.dbr
 
 rem actual items
-rem cd ..
-rem cd materia
 
+rem make the dirs for each class (mastery)
 mkdir .\items\loottables\class0001
 mkdir .\items\loottables\class0002
 mkdir .\items\loottables\class0003
@@ -295,3 +286,5 @@ mkdir .\items\loottables\class0027
 mkdir .\items\loottables\class0028
 mkdir .\items\loottables\class0029
 mkdir .\items\loottables\class0030
+
+rem other two files will handle the rest :D

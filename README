@@ -1,13 +1,15 @@
 PLEASE HELP with these files
-many of them do not use dynamic references. they are hard references to specific folders. i got lazy and didnt look for work arounds.
+Many of them do not use dynamic references. they are hard references to specific folders. I got lazy and didn't look for a proper implementation method.
 
+I am trying to fix it slowly
 
 ******************************************
 FOLDERS
 ******************************************
-\DAIL\					BASE MOD which is vanilla+ some map modifications
+\DAIL\					BASE MOD which is vanilla+ lots of map modifications
 \DAIL - RIFT\			THIS IS RIFTS/DGA MOD FROM WAREBARE+ALEXEI
 \DAIL - Survival\		THIS IS ETERNAL MOD FROM PRINCESS LUNA
+(Might add others if mod authors give permission)
 
 the other 6 folders are root game replacers for database.arz to choose different settings
 A = tiny spiders
