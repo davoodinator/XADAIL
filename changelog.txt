@@ -15,6 +15,7 @@ GLOSSARY
 Polls
 %(http://www.strawpoll.me/10551741/) removed legendary/epic affixes. you can keep the items you already got but new ones won't drop anymore at least not until DGA has post100 leveling
 %(http://www.strawpoll.me/10550732/) removed depravities from the grimmest portion of dail mod
+%(http://www.strawpoll.me/10562759/) devotion shrines combat only
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -24,6 +25,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ^removed unnecessary *tex files from \*\source\*
 ^finish the Arlequin and release it
 ^add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
+^add fights to every shrine activation - keep the turnin item requirement
 *artwork for elementalist
 *artwork for terror knight
 ***********************************************************************
@@ -43,6 +45,7 @@ dawn of heroes updated to 1.3 unfortunately mage cannot be merged in at this tim
 updated DGA / rifts to 3.1
 cornucopia 1.3 update added affixes and devotions
 update coronus to 1.1 with the additional 1.1.1 hotfix to that one broken passive skill
+fix weird DAIL0022 text appearing.. freaky time?
 *merged in and activated engineer mastery 1.0 - I think this calls for a version 35 release :D
 *extended engineer to 100 levels of mastery
 *added engineer skill items and skill item merchant - added to ??? area and line added in OP
