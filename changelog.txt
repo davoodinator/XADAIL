@@ -44,6 +44,7 @@ check component recipes are they borked? - fixed
 update vanillabak folder with 1.0.0.4HF2 arz file + NSIS script update
 cratebox still a problem. fixed - removed the clickable NPC item (cratebox) And placed the actual npc in the map in the appropriate location of the outcast hideout entrance. you can use him even if she is hostile.
 move the occultist and terrorknight component vendors to another part of BOC that is actually accessible
+*review gog version for 0036 release
 *fix DGA token icons
 *fix hero soul icons
 *check npc tags in DGA
