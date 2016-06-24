@@ -238,11 +238,11 @@ SectionEnd
 Section /o "UNINSTALL DAIL DB/TXT" SEC98
   SetOutPath "$INSTDIR\database"
   SetOverwrite on
-  File /oname=database.arz ".\VanillaBak\database.arz.1004"
+  File /oname=database.arz ".\VanillaBak\database.arz.1004HF2"
 
   SetOutPath "$INSTDIR\resources\"
   SetOverwrite on
-  File /oname=Text_En.arc ".\VanillaBak\text_en.arc.1004"
+  File /oname=Text_En.arc ".\VanillaBak\text_en.arc.1004HF1"
 SectionEnd
 
 /*
