@@ -29,31 +29,31 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\
 rem all the stuff shared between the 3 base mods
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\text_en\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\text_en\/" /S
-
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\text_en\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\text_en\/" /S
 
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\wanez\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\wanez\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\wanez\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\wanez\/" /S
+
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\Custom\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\Custom\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\Custom\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\Custom\/" /S
-
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\Custom\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\Custom\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\Custom\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\Custom\/" /S
 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\meshes\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\meshes\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\meshes\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\meshes\/" /S
-
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\meshes\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\meshes\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\meshes\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\meshes\/" /S
 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\ui\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\ui\/" /S
-
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\ui\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\ui\/" /S
 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\fx\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\fx\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\fx\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\fx\/" /S
-
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\fx\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\fx\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\fx\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\fx\/" /S
 
