@@ -1,20 +1,18 @@
 #Be sure to replace 07 with whatever masterynumeration Skelethon you assigned it to
 #exemple: tagSkillClassName0107 > tagSkillClassName0113
 tagSkillClassNameSkelethon=Skelethon
-tagSkillClassName07=Skelethon
-tagSkillClassName0107=Stigma
-tagSkillClassName0207=Eskimo Boy
-tagSkillClassName0307=Great Crow
-tagSkillClassName0407=Undead Assassin
-tagSkillClassName0507=Hollow
-tagSkillClassName0607=Gatekeeper
+#tagSkillClassName07=Skelethon
+#tagSkillClassName0107=Stigma
+#tagSkillClassName0207=Eskimo Boy
+#tagSkillClassName0307=Great Crow
+#tagSkillClassName0407=Undead Assassin
+#tagSkillClassName0507=Hollow
+#tagSkillClassName0607=Gatekeeper
 #Songs: Skelethon;Crow;Hollow;Gatekeeper;Stigma;Eskimo Boy
 tagSkillClassDescriptionSkelethon=The Skelethon is one-of-a-kind summoner dealing in the art of necromancy and war. Carrier of the secret of the Three, the Skelethon knows about Bysmiel and her web moreso than anybody else, hence his ability to control a copious amount of spirits and other undead. For bearing such knowledge, it is impossible for the Skelethon to only rely on bringing back the dead to his plane of existence, which is why the need to master powerful techniques for slaughtering his foes in close combat is required if one wants to thrive.
 
 #ClassSkelethon
 
-tagClass07SkillName00=Skelethon
-tagClass07SkillDescription00=The Skelethon is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 
 #these ones is just in case:
 

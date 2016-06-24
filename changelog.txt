@@ -28,18 +28,22 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 0036 - ?
+engineer is already 1.2
+merged in 1.0.0.4HF2 changes
+Skelethon and Ranger are both called Coronus and Necromancer is Called Skelethon. - fixed
+*fix coronus dead dogs skill
+*check component recipes are they borked?
 *cratebox still a problem. fixed
 *removed unnecessary files from \DAIL\database\DAIL\*
 *removed unnecessary *tex files from \*\source\*
 *finish the Arlequin and release it
 *add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
-*add fights to every shrine activation - keep the turnin item requirement
 *add Lumera Relendra credit and npc
-*merged in 1.0.0.4HF2 changes
 *move the occultist and terrorknight component vendors
 *fix DGA token icons
 *fix hero soul icons
 *updated dawn of heroes to 1.4
+*check npc tags in DGA
 
 0035 - 1:54 AM 6/23/2016
 reviewed the 18 build options and fixed the NG versions. i uhh seem to have had them "inverted" kekeke
