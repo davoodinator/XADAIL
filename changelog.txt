@@ -23,6 +23,8 @@ Polls
 Procrastination - also stuff other people can work on if they are keeners
 ^artwork for elementalist
 ^artwork for terror knight
+^removed unnecessary files from \DAIL\database\DAIL\*
+^finish the Arlequin and release it
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -32,11 +34,10 @@ engineer is already 1.2
 merged in 1.0.0.4HF2 changes
 Skelethon and Ranger are both called Coronus and Necromancer is Called Skelethon. - fixed
 fix coronus dead dogs skill
+removed unnecessary *tex files from \*\source\*
+updated git sync prep (XAGIT.bat) script to truly clone the work dir so i can delete stuff without double searching it
 *check component recipes are they borked?
 *cratebox still a problem. fixed - removed the clickable NPC item (cratebox) And placed the actual npc in the map in the appropriate location of the outcast hideout entrance. you can use him even if she is hostile.
-*removed unnecessary files from \DAIL\database\DAIL\*
-*removed unnecessary *tex files from \*\source\*
-*finish the Arlequin and release it
 *add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 *add Lumera Relendra credit and npc
 *move the occultist and terrorknight component vendors
@@ -45,6 +46,7 @@ fix coronus dead dogs skill
 *updated dawn of heroes to 1.4
 *check npc tags in DGA
 *update vanillabak folder with 1.0.0.4HF2 arz file
+*update engineer to 1.3
 
 0035 - 1:54 AM 6/23/2016
 reviewed the 18 build options and fixed the NG versions. i uhh seem to have had them "inverted" kekeke
