@@ -19,6 +19,8 @@ tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I a
 
 
 
+tagClass09SkillName00=Coronus
+tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 tagClassNameFK=Frost Knight
 tagClassENCH=[ms]Enchanter[fs]Enchantress
 tagSkillClassDescription10=Fangshis follow both the law of the Heaven and the Earth, Giving their bodies and minds perfect harmony, and granting them the strength to do what is necessary.
@@ -52,8 +54,8 @@ tagSkillClassName22=^pPH Earth
 tagSkillClassName23=^pPH Storm
 tagSkillClassName24=^pPH Dream
 tagSkillClassName25=^pPH Stargazer
-tagSkillClassName26=[ms]Enchanter[fs]Enchantress
+tagSkillClassName26=[ms]Priest[fs]Priestess
 tagSkillClassName27=Engineer
 tagSkillClassName28=Cenobite
-tagSkillClassName29=[ms]^pPH Arlequin[fs]^oPH Harlequin
+tagSkillClassName29=[ms]^pPH Arlequin[fs]^pPH Harlequin
 tagSkillClassName30=^pPH Elwar

@@ -1,13 +1,3 @@
-tagSkillClassNameCoronus=Coronus
-
-
-tagSkillClassName08=Coronus
-tagSkillClassName0108=Zeal
-tagSkillClassName0208=Magenta
-tagSkillClassName0308=Beacon
-tagSkillClassName0408=Cryo
-tagSkillClassName0508=Velour
-tagSkillClassName0608=Organism
 #All skill/class names are based on song names because I lost my imagination while living life
 tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and other masters in the art of summoning, the Coronus were a small group of people who wanted to gain more knowledge enveloping all forms of summoning. Neither masters nor beginners, they can summon the dead and otherworldly creatures to their aid to defend themselves in battle. Until the Grim Dawn, not once did they made themselves known to the public.
 #Class08

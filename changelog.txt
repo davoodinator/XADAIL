@@ -37,6 +37,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ???????
 
 0036 - 10:25 PM 6/24/2016
+oops last minute fix to component vendors
 engineer is already 1.2
 merged in 1.0.0.4HF2 changes
 Skelethon and Ranger are both called Coronus and Necromancer is Called Skelethon. - fixed
@@ -53,7 +54,7 @@ fix DGA token icons
 fix hero soul icons
 check npc tags in DGA - fixed
 update engineer to 1.4
-updated dawn of heroes to 1.4 -> I may have curated the "vitamancer" a little bit as I disagree with the naming / etc. the mastery actually feels more like a class RPG priest which this list of 30 masteries is sorely missing anyways :D
+updated dawn of heroes to 1.4 -> I may have curated the "vitamancer" a little bit as I disagree with the naming / etc. the mastery actually feels more like a class RPG priest which this list of 30 masteries is sorely missing anyways :D  if the original creator complains i can always change it back
 
 0035 - 1:54 AM 6/23/2016
 reviewed the 18 build options and fixed the NG versions. i uhh seem to have had them "inverted" kekeke
