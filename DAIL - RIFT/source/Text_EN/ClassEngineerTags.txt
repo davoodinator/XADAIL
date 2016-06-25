@@ -33,7 +33,7 @@ tagClassEngineerSkillName02E=Ignoring Safety Labels
 tagClassEngineerSkillDescription02E=Safety be damned! You want power, and you're confident your arms can handle these things at full capacity. You laugh at the thought of your arms shooting off your torso like missiles! Probably because that's actually a pretty funny thought to have.
 
 tagClassEngineerSkillName03A=Harry's Hands-free Hyper-gadgetry
-tagClassEngineerSkillDescription03A=With deft hands and a series of clever techniques, Harry was able to provide boosts to the performance of summons, but only for short periods of time. However, there's no way you could pull this off while holding a weapon. ^oRequires you to be unarmed.
+tagClassEngineerSkillDescription03A=With deft hands and a series of clever techniques, Harry was able to provide boosts to the performance of summons, but only for short periods of time. However, there's no way you could possibly pull this off while holding a weapon. ^oRequires you to be unarmed.
 
 tagClassEngineerSkillName04A=Samuel's Stationary Sentry
 tagClassEngineerSkillDescription04A=A simple stationary turret which exists for the sole purpose of shooting powerful rounds at enemies. No frills. Samuel had plans to make his creation mobile, but that required more power than it was capable of outputting. He settled for a stationary, but powerful, deployable defensive line.  ^oScales with pet bonuses.
@@ -41,7 +41,7 @@ tagClassEngineerPetSentry=Sentry Gun
 tagClassEngineerSentryAttack=Cannon Shot
 
 tagClassEngineerSkillName04B=Lessons Learned: Sentry
-tagClassEngineerSkillDescription04B=From using the sentry in combat, you've learned a thing or two about summons and defense.
+tagClassEngineerSkillDescription04B=From using the sentry in combat, you've learned a thing or two about summons, defense, and apparently walking slightly faster.
 
 tagClassEngineerSkillName04C=Iconic Imitation: Sentry
 tagClassEngineerSkillDescription04C=Prolonged use of the sentry has given you an idea. You have gained the ability to sacrifice your movement speed for the ability to take on aspects of your Sentry Gun. ^oThis is a toggleable skill.
@@ -102,5 +102,5 @@ tagClassEngineerSkillName12C=Invasive Internal Improvements
 tagClassEngineerSkillDescription12C=This modification to the original device will speed up all of your other bodily functions for that extra edge in battle. And yes, all of them.
 
 tagClassEngineerSkillName13A=Foolish Occult Engineering
-tagClassEngineerSkillDescription13A=The creator of this technique was shunned for their eldritch tampering. Their name has been struck from all official documents and effectively lost to history. Hell, this technique doesn't even have a cool alliterated name. That's really saying something, since ignoring such a naming convention is blatantly against the Empire's Engineering Edicts and punishable by death. All that aside, you figured you'd try it out. It seems to imbue your attacks with a strange energy, occasionally causing a sentry to appear nearby with a flash of light and a chill down your spine. These turrets seem normal enough, but I'm an omniscient tooltip and trust me, I know better. ^oThis is a toggleable skill.
+tagClassEngineerSkillDescription13A=The creator of this technique was shunned for their eldritch tampering. Their name has been struck from all official documents and effectively lost to history. Hell, this technique doesn't even have a cool alliterated name. That's really saying something, since ignoring such a naming convention is blatantly against the Empire's Engineering Edicts and punishable by death. All that aside, you figured you'd try it out. It seems to imbue your attacks with a strange energy, occasionally causing a sentry to appear nearby with a flash of light and a chill down your spine. These turrets seem normal enough, but I'm an omniscient tooltip and trust me, I know better. ^oThis is a toggleable skill. Summoned sentries will benefit from pet bonuses.
 tagClassEngineerPetSinisterSentry=Definitely Completely Mechanical Sentry Which Is Not Alive And Hungry

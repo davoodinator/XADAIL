@@ -231,9 +231,11 @@ tagClass10SkillDescription10=A special sweep attack that weakening foes.{^n}{^n}
 
 
 #Class08
-tagClassEnchName=Enchanter
-tagClassDescENCH=The Enchanters are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagClassEnchDesc=The Enchanters are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+#tagClassEnchName=Enchanter
+tagClassEnchName=[ms]Priest[fs]Priestess
+tagClassEnchDesc=Priests and Priestess are from the original order of Empyreon who still have some of the power of their lost god, their very presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+#tagClassDescENCH=The Enchanters are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+#tagClassEnchDesc=The Enchanters are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 tagEnchSkill01=Exhausting Torrent
 tagEnchDesc01={^S}AoE Crowd Control {^n}{^n}{^w}Sends forth a wave of negative energy that burns energy of all enemies on its path, causing some of them to wander aimlessly and more resolute enemies to fight less effectively.
 tagEnchSkill01A=Painful Torrent
