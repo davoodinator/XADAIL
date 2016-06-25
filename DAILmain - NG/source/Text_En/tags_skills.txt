@@ -20,9 +20,9 @@ tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I a
 
 
 tagClass09SkillName00=Coronus
-tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
+tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Coronus knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 tagClassNameFK=Frost Knight
-tagClassENCH=[ms]Enchanter[fs]Enchantress
+tagClassENCH=[ms]Priest[fs]Priestess
 tagSkillClassDescription10=Fangshis follow both the law of the Heaven and the Earth, Giving their bodies and minds perfect harmony, and granting them the strength to do what is necessary.
 tagSkillClassDescription11=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 

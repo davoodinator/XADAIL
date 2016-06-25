@@ -27,22 +27,28 @@ Procrastination - also stuff other people can work on if they are keeners
 ^finish the Arlequin and release it
 ^add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 ^try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
+^re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+^add the lazy mod for people who want auto pickups of stuff - needs more research - i havent checked it yet
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 0037 - ?
-*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
-*name the component vendors after the mastery creators and others
-*add Lumera Relendra credit and npc
-*fix tag for priest mastery. still says enchanter when in skill selection screen
+name the component vendors after the mastery creators and others
+add Lumera Relendra credit and npc
+fix tag for priest mastery. still says enchanter when in skill selection screen
+some other misc tag and text fixes
+update UI with TT300 newest update for 0036UI <3 thanks bro
+*+1 to all skills doesn't work for custom masteries
+*update cftx mod to 0.52
+*experimental merge for grim quest. yes GRIM QUEST 9 more masteries activated !  (havent done this pending permission)
 
 0036 - 10:25 PM 6/24/2016
 one more oops - dead dogs not working on rift/survival - fixed
 oops last minute fix to component vendors
 engineer is already 1.2
 merged in 1.0.0.4HF2 changes
-Skelethon and Ranger are both called Coronus and Necromancer is Called Skelethon. - fixed
+Coronus and Ranger are both called Coronus and Necromancer is Called Coronus. - fixed
 fix coronus dead dogs skill
 removed unnecessary *tex files from \*\source\*
 updated git sync prep (XAGIT.bat) script to truly clone the work dir so i can delete stuff without double searching it
