@@ -25,8 +25,6 @@ Procrastination - also stuff other people can work on if they are keeners
 ^artwork for terror knight
 ^removed unnecessary files from \DAIL\database\DAIL\*
 ^finish the Arlequin and release it
-^name the component vendors after the mastery creators and others
-^add Lumera Relendra credit and npc
 ^add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 ^try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
 ***********************************************************************
@@ -34,9 +32,13 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 0037 - ?
-???????
+*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+*name the component vendors after the mastery creators and others
+*add Lumera Relendra credit and npc
+*fix tag for priest mastery. still says enchanter when in skill selection screen
 
 0036 - 10:25 PM 6/24/2016
+one more oops - dead dogs not working on rift/survival - fixed
 oops last minute fix to component vendors
 engineer is already 1.2
 merged in 1.0.0.4HF2 changes
