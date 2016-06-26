@@ -39,9 +39,9 @@ add Lumera Relendra credit and npc
 fix tag for priest mastery. still says enchanter when in skill selection screen
 some other misc tag and text fixes
 update UI with TT300 newest update for 0036UI <3 thanks bro
-*+1 to all skills doesn't work for custom masteries
++1 to all skills doesn't work for custom masteries - FIXED
 *update cftx mod to 0.52
-*experimental merge for grim quest. yes GRIM QUEST 9 more masteries activated !  (havent done this pending permission)
+*experimental merge for grim quest. yes GRIM QUEST 9 more masteries activated !
 
 0036 - 10:25 PM 6/24/2016
 one more oops - dead dogs not working on rift/survival - fixed
