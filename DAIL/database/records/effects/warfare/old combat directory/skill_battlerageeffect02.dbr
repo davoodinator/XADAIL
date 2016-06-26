@@ -1,0 +1,3 @@
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Combat\Skill_BattleRage01.pfx,

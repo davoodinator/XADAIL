@@ -1,0 +1,4 @@
+ActorName,Skill_Rally_Aura01,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Combat\Skill_Rally02.pfx,

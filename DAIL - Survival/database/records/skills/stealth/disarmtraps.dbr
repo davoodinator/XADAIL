@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,RogueMastery_Piercing,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,,
+buffSkillName,records/skills/stealth/disarmtraps_buff.dbr,

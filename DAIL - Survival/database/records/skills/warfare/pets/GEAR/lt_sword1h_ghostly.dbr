@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1,
+records,records/skills/playerclass04/pets/gear/tdyn_sword1h_b02_ghostly.dbr,

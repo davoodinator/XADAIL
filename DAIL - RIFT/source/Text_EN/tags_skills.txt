@@ -1,23 +1,10 @@
 #PH TAGS
 tagSkillClassDescription14=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription15=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription16=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription17=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription18=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription19=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription20=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription21=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription22=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription23=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription24=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription25=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDraonCC ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription29=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oAtrosatiro ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDiacred ^wto merge a known good working copy of this mastery into DAIL.
 #END OF PH TAGS
-
-
-
-
 
 tagClass09SkillName00=Coronus
 tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Coronus knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.

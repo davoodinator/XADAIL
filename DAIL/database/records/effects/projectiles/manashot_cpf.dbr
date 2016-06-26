@@ -1,0 +1,8 @@
+Anchored,0,
+effectFile,cpf_effects\new_nmc_proj_rev3.pfx,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+FileDescription,CPF new empusa staff effect,
+localOrientFix,0,
+templateName,database\Templates\Effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,

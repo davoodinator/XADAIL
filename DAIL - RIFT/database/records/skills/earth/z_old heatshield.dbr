@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffother.tpl,
+ActorName,,
+Class,Skill_BuffOther,
+FileDescription,,
+buffSkillName,records/skills/playerclass07/heatshieldbuff.dbr,
+fileNameHistoryEntry,mods/tq import/records/skills/playerclass07/copy of heatshield.dbr,

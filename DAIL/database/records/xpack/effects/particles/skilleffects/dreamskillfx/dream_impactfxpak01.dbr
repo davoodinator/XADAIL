@@ -1,0 +1,7 @@
+activateSound,Records\XPack\Sounds\SoundPak\Player Skills\Skill_SandsofSleepHit.dbr,
+disturbanceRadius,0.000000,
+Class,FxPak,
+templateName,database\Templates\FxPak.tpl,
+cameraShakeDuration,0.000000,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\DreamSkillFX\Dream_ImpactFX.dbr,
+cameraShakeAmplitude,0.500000,

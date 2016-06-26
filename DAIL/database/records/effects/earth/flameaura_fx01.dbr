@@ -1,0 +1,4 @@
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,source\Effects\Earth\FlameAura_FX01.pfx,

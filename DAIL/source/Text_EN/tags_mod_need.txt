@@ -1,3 +1,23 @@
+#TQ (Grim Quest) Tags
+#WeaponClass
+tagOffHand=Off-Hand
+tagShield=Shield
+
+tagOneHandedSword=One-Handed Sword
+tagOneHandedMace=One-Handed Mace
+tagOneHandedAxe=One-Handed Axe
+tagOneHandedDagger=One-Handed Dagger
+tagOneHandedScepter=One-Handed Scepter
+tagOneHandedPistol=One-Handed Ranged
+
+tagTwoHandedSword=Two-Handed Sword
+tagTwoHandedMace=Two-Handed Mace
+tagTwoHandedAxe=Two-Handed Axe
+tagTwoHandedRifle=Two-Handed Ranged
+
+tagWeaponUnknown=Exotic Weapon
+
+
 tagPXNec1=Necromancer's
 
 tagClass07SkillName00=Necromancer

@@ -1,0 +1,7 @@
+activateSound,Records\XPack\Sounds\SoundPak\Player Skills\Skill_PsionicTouch_Blast.dbr,
+disturbanceRadius,0.000000,
+Class,FxPak,
+templateName,database\Templates\FXPak.tpl,
+cameraShakeDuration,0.000000,
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\DreamSkillFX\PsionicTouch_SmallFX.dbr,
+cameraShakeAmplitude,0.500000,

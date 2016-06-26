@@ -1,0 +1,4 @@
+ActorName,Effects_Transmute_Life01,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Spirit\TransmuteLife01.pfx,

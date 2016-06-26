@@ -1,0 +1,6 @@
+ActorName,Effects_Projectiles_ShardIce01,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+effectFile,Effects\projectiles\343_staffFire_ternian_impact.pfx,

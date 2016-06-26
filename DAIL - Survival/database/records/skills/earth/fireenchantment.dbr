@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,FireMastery_FlameStrike,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,,
+buffSkillName,records/skills/earth/fireenchantmentbuff.dbr,

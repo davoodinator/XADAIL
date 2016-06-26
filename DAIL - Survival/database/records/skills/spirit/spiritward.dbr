@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,SpiritMastery_TransmuteLife,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,,
+buffSkillName,records/skills/spirit/spiritwardbuff.dbr,

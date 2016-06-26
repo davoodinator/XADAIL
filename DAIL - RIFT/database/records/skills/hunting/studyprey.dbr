@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,DefensiveMastery_ArmorTraining,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/hunting/studypreybuff.dbr,
+pointBlank,,

@@ -1,0 +1,4 @@
+ActorName,Strike_Storm_Damage01,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Storm\Strike_Storm_Damage01.pfx,

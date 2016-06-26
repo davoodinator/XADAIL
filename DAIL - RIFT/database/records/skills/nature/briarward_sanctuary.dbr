@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_buffradius.tpl,
+ActorName,,
+Class,SkillSecondary_BuffRadius,
+FileDescription,AE Instant Heal / +300% Life Regen,
+buffSkillName,records/skills/nature/briarward_sanctuarybuff.dbr,

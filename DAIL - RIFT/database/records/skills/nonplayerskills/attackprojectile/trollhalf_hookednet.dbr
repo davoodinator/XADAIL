@@ -1,0 +1,5 @@
+projectileNames,records/fx/skillsother/projectile/hookednet_projectile_fx01.dbr,
+buffSkillName,records/skills/nonplayerskills/attackprojectile/trollhalf_hookednet_buff.dbr,
+Class,Skill_AttackProjectileDebuf,
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+FileDescription,Projectile applies a net to target,

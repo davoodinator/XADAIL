@@ -1,0 +1,5 @@
+ActorName,Effects_Aura_Perseverance01,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Warfare\343_AncestHorn_Summon.pfx,

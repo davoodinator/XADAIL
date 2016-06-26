@@ -1,0 +1,4 @@
+ActorName,Effects_TClap_Smoke_Blast01,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+effectFile,Effects\Storm\ThunderClap\TClapSmokeRing03.pfx,

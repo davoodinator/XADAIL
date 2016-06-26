@@ -1,0 +1,7 @@
+ActorName,Effects_Aura_Perseverance01,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+effectFile,Effects\Spirit\343_SoulBlightFlight.pfx,
+emitterType,Standard,

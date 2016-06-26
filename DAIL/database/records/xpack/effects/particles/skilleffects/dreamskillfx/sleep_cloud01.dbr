@@ -1,0 +1,6 @@
+particleEffectNames,records\xpack\effects\particles\skilleffects\dreamskillfx\sleep_cloudfx01.dbr,
+disturbanceRadius,0.000000,
+Class,FxPak,
+templateName,database\Templates\FxPak.tpl,
+cameraShakeDuration,0.000000,
+cameraShakeAmplitude,0.500000,

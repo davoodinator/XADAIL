@@ -9098,6 +9098,6306 @@ echo augmentSkillName1,records/skills/zenithclass01/mania_buff.dbr, >> .\items\m
 
 
 
+copy .\dail_base2.dbr .\items\materia\class0016\Defense1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0016\Defense2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0016\Defense3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0016\Defense22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0016\Defense63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0016\Defense1.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense2.dbr
+echo itemCost,600000, >> .\items\materia\class0016\Defense3.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense4.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense5.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense6.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense7.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense8.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense9.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense10.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense11.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense12.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense13.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense14.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense15.dbr
+echo itemCost,100000, >> .\items\materia\class0016\Defense16.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense17.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense18.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense19.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense20.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense21.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense22.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense23.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense24.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense25.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense26.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense27.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense28.dbr
+echo itemCost,300000, >> .\items\materia\class0016\Defense29.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense30.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense31.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense32.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense33.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense34.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense35.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense36.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense37.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense38.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense39.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense40.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense41.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense42.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense43.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense44.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense45.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense46.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense47.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense48.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense49.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense50.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense51.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense52.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense53.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense54.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense55.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense56.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense57.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense58.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense59.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense60.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense61.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense62.dbr
+echo itemCost,500000, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescDefense1, >> .\items\materia\class0016\Defense1.dbr
+echo description,dailCompDescDefense2, >> .\items\materia\class0016\Defense2.dbr
+echo description,dailCompDescDefense3, >> .\items\materia\class0016\Defense3.dbr
+echo description,dailCompDescDefense4, >> .\items\materia\class0016\Defense4.dbr
+echo description,dailCompDescDefense5, >> .\items\materia\class0016\Defense5.dbr
+echo description,dailCompDescDefense6, >> .\items\materia\class0016\Defense6.dbr
+echo description,dailCompDescDefense7, >> .\items\materia\class0016\Defense7.dbr
+echo description,dailCompDescDefense8, >> .\items\materia\class0016\Defense8.dbr
+echo description,dailCompDescDefense9, >> .\items\materia\class0016\Defense9.dbr
+echo description,dailCompDescDefense10, >> .\items\materia\class0016\Defense10.dbr
+echo description,dailCompDescDefense11, >> .\items\materia\class0016\Defense11.dbr
+echo description,dailCompDescDefense12, >> .\items\materia\class0016\Defense12.dbr
+echo description,dailCompDescDefense13, >> .\items\materia\class0016\Defense13.dbr
+echo description,dailCompDescDefense14, >> .\items\materia\class0016\Defense14.dbr
+echo description,dailCompDescDefense15, >> .\items\materia\class0016\Defense15.dbr
+echo description,dailCompDescDefense16, >> .\items\materia\class0016\Defense16.dbr
+echo description,dailCompDescDefense17, >> .\items\materia\class0016\Defense17.dbr
+echo description,dailCompDescDefense18, >> .\items\materia\class0016\Defense18.dbr
+echo description,dailCompDescDefense19, >> .\items\materia\class0016\Defense19.dbr
+echo description,dailCompDescDefense20, >> .\items\materia\class0016\Defense20.dbr
+echo description,dailCompDescDefense21, >> .\items\materia\class0016\Defense21.dbr
+echo description,dailCompDescDefense22, >> .\items\materia\class0016\Defense22.dbr
+echo description,dailCompDescDefense23, >> .\items\materia\class0016\Defense23.dbr
+echo description,dailCompDescDefense24, >> .\items\materia\class0016\Defense24.dbr
+echo description,dailCompDescDefense25, >> .\items\materia\class0016\Defense25.dbr
+echo description,dailCompDescDefense26, >> .\items\materia\class0016\Defense26.dbr
+echo description,dailCompDescDefense27, >> .\items\materia\class0016\Defense27.dbr
+echo description,dailCompDescDefense28, >> .\items\materia\class0016\Defense28.dbr
+echo description,dailCompDescDefense29, >> .\items\materia\class0016\Defense29.dbr
+echo description,dailCompDescDefense30, >> .\items\materia\class0016\Defense30.dbr
+echo description,dailCompDescDefense31, >> .\items\materia\class0016\Defense31.dbr
+echo description,dailCompDescDefense32, >> .\items\materia\class0016\Defense32.dbr
+echo description,dailCompDescDefense33, >> .\items\materia\class0016\Defense33.dbr
+echo description,dailCompDescDefense34, >> .\items\materia\class0016\Defense34.dbr
+echo description,dailCompDescDefense35, >> .\items\materia\class0016\Defense35.dbr
+echo description,dailCompDescDefense36, >> .\items\materia\class0016\Defense36.dbr
+echo description,dailCompDescDefense37, >> .\items\materia\class0016\Defense37.dbr
+echo description,dailCompDescDefense38, >> .\items\materia\class0016\Defense38.dbr
+echo description,dailCompDescDefense39, >> .\items\materia\class0016\Defense39.dbr
+echo description,dailCompDescDefense40, >> .\items\materia\class0016\Defense40.dbr
+echo description,dailCompDescDefense41, >> .\items\materia\class0016\Defense41.dbr
+echo description,dailCompDescDefense42, >> .\items\materia\class0016\Defense42.dbr
+echo description,dailCompDescDefense43, >> .\items\materia\class0016\Defense43.dbr
+echo description,dailCompDescDefense44, >> .\items\materia\class0016\Defense44.dbr
+echo description,dailCompDescDefense45, >> .\items\materia\class0016\Defense45.dbr
+echo description,dailCompDescDefense46, >> .\items\materia\class0016\Defense46.dbr
+echo description,dailCompDescDefense47, >> .\items\materia\class0016\Defense47.dbr
+echo description,dailCompDescDefense48, >> .\items\materia\class0016\Defense48.dbr
+echo description,dailCompDescDefense49, >> .\items\materia\class0016\Defense49.dbr
+echo description,dailCompDescDefense50, >> .\items\materia\class0016\Defense50.dbr
+echo description,dailCompDescDefense51, >> .\items\materia\class0016\Defense51.dbr
+echo description,dailCompDescDefense52, >> .\items\materia\class0016\Defense52.dbr
+echo description,dailCompDescDefense53, >> .\items\materia\class0016\Defense53.dbr
+echo description,dailCompDescDefense54, >> .\items\materia\class0016\Defense54.dbr
+echo description,dailCompDescDefense55, >> .\items\materia\class0016\Defense55.dbr
+echo description,dailCompDescDefense56, >> .\items\materia\class0016\Defense56.dbr
+echo description,dailCompDescDefense57, >> .\items\materia\class0016\Defense57.dbr
+echo description,dailCompDescDefense58, >> .\items\materia\class0016\Defense58.dbr
+echo description,dailCompDescDefense59, >> .\items\materia\class0016\Defense59.dbr
+echo description,dailCompDescDefense60, >> .\items\materia\class0016\Defense60.dbr
+echo description,dailCompDescDefense61, >> .\items\materia\class0016\Defense61.dbr
+echo description,dailCompDescDefense62, >> .\items\materia\class0016\Defense62.dbr
+echo description,dailCompDescDefense63, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextDefense1, >> .\items\materia\class0016\Defense1.dbr
+echo itemText,dailCompTextDefense2, >> .\items\materia\class0016\Defense2.dbr
+echo itemText,dailCompTextDefense3, >> .\items\materia\class0016\Defense3.dbr
+echo itemText,dailCompTextDefense4, >> .\items\materia\class0016\Defense4.dbr
+echo itemText,dailCompTextDefense5, >> .\items\materia\class0016\Defense5.dbr
+echo itemText,dailCompTextDefense6, >> .\items\materia\class0016\Defense6.dbr
+echo itemText,dailCompTextDefense7, >> .\items\materia\class0016\Defense7.dbr
+echo itemText,dailCompTextDefense8, >> .\items\materia\class0016\Defense8.dbr
+echo itemText,dailCompTextDefense9, >> .\items\materia\class0016\Defense9.dbr
+echo itemText,dailCompTextDefense10, >> .\items\materia\class0016\Defense10.dbr
+echo itemText,dailCompTextDefense11, >> .\items\materia\class0016\Defense11.dbr
+echo itemText,dailCompTextDefense12, >> .\items\materia\class0016\Defense12.dbr
+echo itemText,dailCompTextDefense13, >> .\items\materia\class0016\Defense13.dbr
+echo itemText,dailCompTextDefense14, >> .\items\materia\class0016\Defense14.dbr
+echo itemText,dailCompTextDefense15, >> .\items\materia\class0016\Defense15.dbr
+echo itemText,dailCompTextDefense16, >> .\items\materia\class0016\Defense16.dbr
+echo itemText,dailCompTextDefense17, >> .\items\materia\class0016\Defense17.dbr
+echo itemText,dailCompTextDefense18, >> .\items\materia\class0016\Defense18.dbr
+echo itemText,dailCompTextDefense19, >> .\items\materia\class0016\Defense19.dbr
+echo itemText,dailCompTextDefense20, >> .\items\materia\class0016\Defense20.dbr
+echo itemText,dailCompTextDefense21, >> .\items\materia\class0016\Defense21.dbr
+echo itemText,dailCompTextDefense22, >> .\items\materia\class0016\Defense22.dbr
+echo itemText,dailCompTextDefense23, >> .\items\materia\class0016\Defense23.dbr
+echo itemText,dailCompTextDefense24, >> .\items\materia\class0016\Defense24.dbr
+echo itemText,dailCompTextDefense25, >> .\items\materia\class0016\Defense25.dbr
+echo itemText,dailCompTextDefense26, >> .\items\materia\class0016\Defense26.dbr
+echo itemText,dailCompTextDefense27, >> .\items\materia\class0016\Defense27.dbr
+echo itemText,dailCompTextDefense28, >> .\items\materia\class0016\Defense28.dbr
+echo itemText,dailCompTextDefense29, >> .\items\materia\class0016\Defense29.dbr
+echo itemText,dailCompTextDefense30, >> .\items\materia\class0016\Defense30.dbr
+echo itemText,dailCompTextDefense31, >> .\items\materia\class0016\Defense31.dbr
+echo itemText,dailCompTextDefense32, >> .\items\materia\class0016\Defense32.dbr
+echo itemText,dailCompTextDefense33, >> .\items\materia\class0016\Defense33.dbr
+echo itemText,dailCompTextDefense34, >> .\items\materia\class0016\Defense34.dbr
+echo itemText,dailCompTextDefense35, >> .\items\materia\class0016\Defense35.dbr
+echo itemText,dailCompTextDefense36, >> .\items\materia\class0016\Defense36.dbr
+echo itemText,dailCompTextDefense37, >> .\items\materia\class0016\Defense37.dbr
+echo itemText,dailCompTextDefense38, >> .\items\materia\class0016\Defense38.dbr
+echo itemText,dailCompTextDefense39, >> .\items\materia\class0016\Defense39.dbr
+echo itemText,dailCompTextDefense40, >> .\items\materia\class0016\Defense40.dbr
+echo itemText,dailCompTextDefense41, >> .\items\materia\class0016\Defense41.dbr
+echo itemText,dailCompTextDefense42, >> .\items\materia\class0016\Defense42.dbr
+echo itemText,dailCompTextDefense43, >> .\items\materia\class0016\Defense43.dbr
+echo itemText,dailCompTextDefense44, >> .\items\materia\class0016\Defense44.dbr
+echo itemText,dailCompTextDefense45, >> .\items\materia\class0016\Defense45.dbr
+echo itemText,dailCompTextDefense46, >> .\items\materia\class0016\Defense46.dbr
+echo itemText,dailCompTextDefense47, >> .\items\materia\class0016\Defense47.dbr
+echo itemText,dailCompTextDefense48, >> .\items\materia\class0016\Defense48.dbr
+echo itemText,dailCompTextDefense49, >> .\items\materia\class0016\Defense49.dbr
+echo itemText,dailCompTextDefense50, >> .\items\materia\class0016\Defense50.dbr
+echo itemText,dailCompTextDefense51, >> .\items\materia\class0016\Defense51.dbr
+echo itemText,dailCompTextDefense52, >> .\items\materia\class0016\Defense52.dbr
+echo itemText,dailCompTextDefense53, >> .\items\materia\class0016\Defense53.dbr
+echo itemText,dailCompTextDefense54, >> .\items\materia\class0016\Defense54.dbr
+echo itemText,dailCompTextDefense55, >> .\items\materia\class0016\Defense55.dbr
+echo itemText,dailCompTextDefense56, >> .\items\materia\class0016\Defense56.dbr
+echo itemText,dailCompTextDefense57, >> .\items\materia\class0016\Defense57.dbr
+echo itemText,dailCompTextDefense58, >> .\items\materia\class0016\Defense58.dbr
+echo itemText,dailCompTextDefense59, >> .\items\materia\class0016\Defense59.dbr
+echo itemText,dailCompTextDefense60, >> .\items\materia\class0016\Defense60.dbr
+echo itemText,dailCompTextDefense61, >> .\items\materia\class0016\Defense61.dbr
+echo itemText,dailCompTextDefense62, >> .\items\materia\class0016\Defense62.dbr
+echo itemText,dailCompTextDefense63, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0016\Defense1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0016\Defense2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0016\Defense3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0016\Defense22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0016\Defense42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsdefense/defensivemastery.dbr,, >> .\items\materia\class0016\Defense1.dbr
+echo augmentMasteryName1,records/skillsdefense/defensivemastery.dbr,, >> .\items\materia\class0016\Defense2.dbr
+echo augmentMasteryName1,records/skillsdefense/defensivemastery.dbr,, >> .\items\materia\class0016\Defense3.dbr
+echo augmentSkillName1,records/skillsdefense/armorhandling.dbr,, >> .\items\materia\class0016\Defense4.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline.dbr,, >> .\items\materia\class0016\Defense5.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_resilience.dbr,, >> .\items\materia\class0016\Defense6.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_defensivereaction.dbr,, >> .\items\materia\class0016\Defense7.dbr
+echo augmentSkillName1,records/skillsdefense/rally.dbr,, >> .\items\materia\class0016\Defense8.dbr
+echo augmentSkillName1,records/skillsdefense/rally_inspiration.dbr,, >> .\items\materia\class0016\Defense9.dbr
+echo augmentSkillName1,records/skillsdefense/rally_defiance.dbr,, >> .\items\materia\class0016\Defense10.dbr
+echo augmentSkillName1,records/skillsdefense/colossusform.dbr,, >> .\items\materia\class0016\Defense11.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_shieldsmash.dbr,, >> .\items\materia\class0016\Defense12.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_disable.dbr,, >> .\items\materia\class0016\Defense13.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_pulverize.dbr,, >> .\items\materia\class0016\Defense14.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness.dbr,, >> .\items\materia\class0016\Defense15.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_focus.dbr,, >> .\items\materia\class0016\Defense16.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_ironwill.dbr,, >> .\items\materia\class0016\Defense17.dbr
+echo augmentSkillName1,records/skillsdefense/quickrecovery.dbr,, >> .\items\materia\class0016\Defense18.dbr
+echo augmentSkillName1,records/skillsdefense/batter.dbr,, >> .\items\materia\class0016\Defense19.dbr
+echo augmentSkillName1,records/skillsdefense/batter_rendarmor.dbr,, >> .\items\materia\class0016\Defense20.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge.dbr,, >> .\items\materia\class0016\Defense21.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge_disruption.dbr,, >> .\items\materia\class0016\Defense22.dbr
+echo augmentSkillName1,records/skillsdefense/concussiveblow.dbr,, >> .\items\materia\class0016\Defense23.dbr
+echo augmentSkillName1,records/skillsdefense/armorhandling.dbr,, >> .\items\materia\class0016\Defense24.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline.dbr,, >> .\items\materia\class0016\Defense25.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_resilience.dbr,, >> .\items\materia\class0016\Defense26.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_defensivereaction.dbr,, >> .\items\materia\class0016\Defense27.dbr
+echo augmentSkillName1,records/skillsdefense/rally.dbr,, >> .\items\materia\class0016\Defense28.dbr
+echo augmentSkillName1,records/skillsdefense/rally_inspiration.dbr,, >> .\items\materia\class0016\Defense29.dbr
+echo augmentSkillName1,records/skillsdefense/rally_defiance.dbr,, >> .\items\materia\class0016\Defense30.dbr
+echo augmentSkillName1,records/skillsdefense/colossusform.dbr,, >> .\items\materia\class0016\Defense31.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_shieldsmash.dbr,, >> .\items\materia\class0016\Defense32.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_disable.dbr,, >> .\items\materia\class0016\Defense33.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_pulverize.dbr,, >> .\items\materia\class0016\Defense34.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness.dbr,, >> .\items\materia\class0016\Defense35.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_focus.dbr,, >> .\items\materia\class0016\Defense36.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_ironwill.dbr,, >> .\items\materia\class0016\Defense37.dbr
+echo augmentSkillName1,records/skillsdefense/quickrecovery.dbr,, >> .\items\materia\class0016\Defense38.dbr
+echo augmentSkillName1,records/skillsdefense/batter.dbr,, >> .\items\materia\class0016\Defense39.dbr
+echo augmentSkillName1,records/skillsdefense/batter_rendarmor.dbr,, >> .\items\materia\class0016\Defense40.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge.dbr,, >> .\items\materia\class0016\Defense41.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge_disruption.dbr,, >> .\items\materia\class0016\Defense42.dbr
+echo augmentSkillName1,records/skillsdefense/concussiveblow.dbr,, >> .\items\materia\class0016\Defense43.dbr
+echo augmentSkillName1,records/skillsdefense/armorhandling.dbr,, >> .\items\materia\class0016\Defense44.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline.dbr,, >> .\items\materia\class0016\Defense45.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_resilience.dbr,, >> .\items\materia\class0016\Defense46.dbr
+echo augmentSkillName1,records/skillsdefense/adrenaline_defensivereaction.dbr,, >> .\items\materia\class0016\Defense47.dbr
+echo augmentSkillName1,records/skillsdefense/rally.dbr,, >> .\items\materia\class0016\Defense48.dbr
+echo augmentSkillName1,records/skillsdefense/rally_inspiration.dbr,, >> .\items\materia\class0016\Defense49.dbr
+echo augmentSkillName1,records/skillsdefense/rally_defiance.dbr,, >> .\items\materia\class0016\Defense50.dbr
+echo augmentSkillName1,records/skillsdefense/colossusform.dbr,, >> .\items\materia\class0016\Defense51.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_shieldsmash.dbr,, >> .\items\materia\class0016\Defense52.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_disable.dbr,, >> .\items\materia\class0016\Defense53.dbr
+echo augmentSkillName1,records/skillsdefense/weaponpool_pulverize.dbr,, >> .\items\materia\class0016\Defense54.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness.dbr,, >> .\items\materia\class0016\Defense55.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_focus.dbr,, >> .\items\materia\class0016\Defense56.dbr
+echo augmentSkillName1,records/skillsdefense/battleawareness_ironwill.dbr,, >> .\items\materia\class0016\Defense57.dbr
+echo augmentSkillName1,records/skillsdefense/quickrecovery.dbr,, >> .\items\materia\class0016\Defense58.dbr
+echo augmentSkillName1,records/skillsdefense/batter.dbr,, >> .\items\materia\class0016\Defense59.dbr
+echo augmentSkillName1,records/skillsdefense/batter_rendarmor.dbr,, >> .\items\materia\class0016\Defense60.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge.dbr,, >> .\items\materia\class0016\Defense61.dbr
+echo augmentSkillName1,records/skillsdefense/shieldcharge_disruption.dbr,, >> .\items\materia\class0016\Defense62.dbr
+echo augmentSkillName1,records/skillsdefense/concussiveblow.dbr,, >> .\items\materia\class0016\Defense63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0017\Hunting1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0017\Hunting2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0017\Hunting3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0017\Hunting22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0017\Hunting63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0017\Hunting1.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting2.dbr
+echo itemCost,600000, >> .\items\materia\class0017\Hunting3.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting4.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting5.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting6.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting7.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting8.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting9.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting10.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting11.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting12.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting13.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting14.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting15.dbr
+echo itemCost,100000, >> .\items\materia\class0017\Hunting16.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting17.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting18.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting19.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting20.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting21.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting22.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting23.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting24.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting25.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting26.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting27.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting28.dbr
+echo itemCost,300000, >> .\items\materia\class0017\Hunting29.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting30.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting31.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting32.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting33.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting34.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting35.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting36.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting37.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting38.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting39.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting40.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting41.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting42.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting43.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting44.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting45.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting46.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting47.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting48.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting49.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting50.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting51.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting52.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting53.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting54.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting55.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting56.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting57.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting58.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting59.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting60.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting61.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting62.dbr
+echo itemCost,500000, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescHunting1, >> .\items\materia\class0017\Hunting1.dbr
+echo description,dailCompDescHunting2, >> .\items\materia\class0017\Hunting2.dbr
+echo description,dailCompDescHunting3, >> .\items\materia\class0017\Hunting3.dbr
+echo description,dailCompDescHunting4, >> .\items\materia\class0017\Hunting4.dbr
+echo description,dailCompDescHunting5, >> .\items\materia\class0017\Hunting5.dbr
+echo description,dailCompDescHunting6, >> .\items\materia\class0017\Hunting6.dbr
+echo description,dailCompDescHunting7, >> .\items\materia\class0017\Hunting7.dbr
+echo description,dailCompDescHunting8, >> .\items\materia\class0017\Hunting8.dbr
+echo description,dailCompDescHunting9, >> .\items\materia\class0017\Hunting9.dbr
+echo description,dailCompDescHunting10, >> .\items\materia\class0017\Hunting10.dbr
+echo description,dailCompDescHunting11, >> .\items\materia\class0017\Hunting11.dbr
+echo description,dailCompDescHunting12, >> .\items\materia\class0017\Hunting12.dbr
+echo description,dailCompDescHunting13, >> .\items\materia\class0017\Hunting13.dbr
+echo description,dailCompDescHunting14, >> .\items\materia\class0017\Hunting14.dbr
+echo description,dailCompDescHunting15, >> .\items\materia\class0017\Hunting15.dbr
+echo description,dailCompDescHunting16, >> .\items\materia\class0017\Hunting16.dbr
+echo description,dailCompDescHunting17, >> .\items\materia\class0017\Hunting17.dbr
+echo description,dailCompDescHunting18, >> .\items\materia\class0017\Hunting18.dbr
+echo description,dailCompDescHunting19, >> .\items\materia\class0017\Hunting19.dbr
+echo description,dailCompDescHunting20, >> .\items\materia\class0017\Hunting20.dbr
+echo description,dailCompDescHunting21, >> .\items\materia\class0017\Hunting21.dbr
+echo description,dailCompDescHunting22, >> .\items\materia\class0017\Hunting22.dbr
+echo description,dailCompDescHunting23, >> .\items\materia\class0017\Hunting23.dbr
+echo description,dailCompDescHunting24, >> .\items\materia\class0017\Hunting24.dbr
+echo description,dailCompDescHunting25, >> .\items\materia\class0017\Hunting25.dbr
+echo description,dailCompDescHunting26, >> .\items\materia\class0017\Hunting26.dbr
+echo description,dailCompDescHunting27, >> .\items\materia\class0017\Hunting27.dbr
+echo description,dailCompDescHunting28, >> .\items\materia\class0017\Hunting28.dbr
+echo description,dailCompDescHunting29, >> .\items\materia\class0017\Hunting29.dbr
+echo description,dailCompDescHunting30, >> .\items\materia\class0017\Hunting30.dbr
+echo description,dailCompDescHunting31, >> .\items\materia\class0017\Hunting31.dbr
+echo description,dailCompDescHunting32, >> .\items\materia\class0017\Hunting32.dbr
+echo description,dailCompDescHunting33, >> .\items\materia\class0017\Hunting33.dbr
+echo description,dailCompDescHunting34, >> .\items\materia\class0017\Hunting34.dbr
+echo description,dailCompDescHunting35, >> .\items\materia\class0017\Hunting35.dbr
+echo description,dailCompDescHunting36, >> .\items\materia\class0017\Hunting36.dbr
+echo description,dailCompDescHunting37, >> .\items\materia\class0017\Hunting37.dbr
+echo description,dailCompDescHunting38, >> .\items\materia\class0017\Hunting38.dbr
+echo description,dailCompDescHunting39, >> .\items\materia\class0017\Hunting39.dbr
+echo description,dailCompDescHunting40, >> .\items\materia\class0017\Hunting40.dbr
+echo description,dailCompDescHunting41, >> .\items\materia\class0017\Hunting41.dbr
+echo description,dailCompDescHunting42, >> .\items\materia\class0017\Hunting42.dbr
+echo description,dailCompDescHunting43, >> .\items\materia\class0017\Hunting43.dbr
+echo description,dailCompDescHunting44, >> .\items\materia\class0017\Hunting44.dbr
+echo description,dailCompDescHunting45, >> .\items\materia\class0017\Hunting45.dbr
+echo description,dailCompDescHunting46, >> .\items\materia\class0017\Hunting46.dbr
+echo description,dailCompDescHunting47, >> .\items\materia\class0017\Hunting47.dbr
+echo description,dailCompDescHunting48, >> .\items\materia\class0017\Hunting48.dbr
+echo description,dailCompDescHunting49, >> .\items\materia\class0017\Hunting49.dbr
+echo description,dailCompDescHunting50, >> .\items\materia\class0017\Hunting50.dbr
+echo description,dailCompDescHunting51, >> .\items\materia\class0017\Hunting51.dbr
+echo description,dailCompDescHunting52, >> .\items\materia\class0017\Hunting52.dbr
+echo description,dailCompDescHunting53, >> .\items\materia\class0017\Hunting53.dbr
+echo description,dailCompDescHunting54, >> .\items\materia\class0017\Hunting54.dbr
+echo description,dailCompDescHunting55, >> .\items\materia\class0017\Hunting55.dbr
+echo description,dailCompDescHunting56, >> .\items\materia\class0017\Hunting56.dbr
+echo description,dailCompDescHunting57, >> .\items\materia\class0017\Hunting57.dbr
+echo description,dailCompDescHunting58, >> .\items\materia\class0017\Hunting58.dbr
+echo description,dailCompDescHunting59, >> .\items\materia\class0017\Hunting59.dbr
+echo description,dailCompDescHunting60, >> .\items\materia\class0017\Hunting60.dbr
+echo description,dailCompDescHunting61, >> .\items\materia\class0017\Hunting61.dbr
+echo description,dailCompDescHunting62, >> .\items\materia\class0017\Hunting62.dbr
+echo description,dailCompDescHunting63, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextHunting1, >> .\items\materia\class0017\Hunting1.dbr
+echo itemText,dailCompTextHunting2, >> .\items\materia\class0017\Hunting2.dbr
+echo itemText,dailCompTextHunting3, >> .\items\materia\class0017\Hunting3.dbr
+echo itemText,dailCompTextHunting4, >> .\items\materia\class0017\Hunting4.dbr
+echo itemText,dailCompTextHunting5, >> .\items\materia\class0017\Hunting5.dbr
+echo itemText,dailCompTextHunting6, >> .\items\materia\class0017\Hunting6.dbr
+echo itemText,dailCompTextHunting7, >> .\items\materia\class0017\Hunting7.dbr
+echo itemText,dailCompTextHunting8, >> .\items\materia\class0017\Hunting8.dbr
+echo itemText,dailCompTextHunting9, >> .\items\materia\class0017\Hunting9.dbr
+echo itemText,dailCompTextHunting10, >> .\items\materia\class0017\Hunting10.dbr
+echo itemText,dailCompTextHunting11, >> .\items\materia\class0017\Hunting11.dbr
+echo itemText,dailCompTextHunting12, >> .\items\materia\class0017\Hunting12.dbr
+echo itemText,dailCompTextHunting13, >> .\items\materia\class0017\Hunting13.dbr
+echo itemText,dailCompTextHunting14, >> .\items\materia\class0017\Hunting14.dbr
+echo itemText,dailCompTextHunting15, >> .\items\materia\class0017\Hunting15.dbr
+echo itemText,dailCompTextHunting16, >> .\items\materia\class0017\Hunting16.dbr
+echo itemText,dailCompTextHunting17, >> .\items\materia\class0017\Hunting17.dbr
+echo itemText,dailCompTextHunting18, >> .\items\materia\class0017\Hunting18.dbr
+echo itemText,dailCompTextHunting19, >> .\items\materia\class0017\Hunting19.dbr
+echo itemText,dailCompTextHunting20, >> .\items\materia\class0017\Hunting20.dbr
+echo itemText,dailCompTextHunting21, >> .\items\materia\class0017\Hunting21.dbr
+echo itemText,dailCompTextHunting22, >> .\items\materia\class0017\Hunting22.dbr
+echo itemText,dailCompTextHunting23, >> .\items\materia\class0017\Hunting23.dbr
+echo itemText,dailCompTextHunting24, >> .\items\materia\class0017\Hunting24.dbr
+echo itemText,dailCompTextHunting25, >> .\items\materia\class0017\Hunting25.dbr
+echo itemText,dailCompTextHunting26, >> .\items\materia\class0017\Hunting26.dbr
+echo itemText,dailCompTextHunting27, >> .\items\materia\class0017\Hunting27.dbr
+echo itemText,dailCompTextHunting28, >> .\items\materia\class0017\Hunting28.dbr
+echo itemText,dailCompTextHunting29, >> .\items\materia\class0017\Hunting29.dbr
+echo itemText,dailCompTextHunting30, >> .\items\materia\class0017\Hunting30.dbr
+echo itemText,dailCompTextHunting31, >> .\items\materia\class0017\Hunting31.dbr
+echo itemText,dailCompTextHunting32, >> .\items\materia\class0017\Hunting32.dbr
+echo itemText,dailCompTextHunting33, >> .\items\materia\class0017\Hunting33.dbr
+echo itemText,dailCompTextHunting34, >> .\items\materia\class0017\Hunting34.dbr
+echo itemText,dailCompTextHunting35, >> .\items\materia\class0017\Hunting35.dbr
+echo itemText,dailCompTextHunting36, >> .\items\materia\class0017\Hunting36.dbr
+echo itemText,dailCompTextHunting37, >> .\items\materia\class0017\Hunting37.dbr
+echo itemText,dailCompTextHunting38, >> .\items\materia\class0017\Hunting38.dbr
+echo itemText,dailCompTextHunting39, >> .\items\materia\class0017\Hunting39.dbr
+echo itemText,dailCompTextHunting40, >> .\items\materia\class0017\Hunting40.dbr
+echo itemText,dailCompTextHunting41, >> .\items\materia\class0017\Hunting41.dbr
+echo itemText,dailCompTextHunting42, >> .\items\materia\class0017\Hunting42.dbr
+echo itemText,dailCompTextHunting43, >> .\items\materia\class0017\Hunting43.dbr
+echo itemText,dailCompTextHunting44, >> .\items\materia\class0017\Hunting44.dbr
+echo itemText,dailCompTextHunting45, >> .\items\materia\class0017\Hunting45.dbr
+echo itemText,dailCompTextHunting46, >> .\items\materia\class0017\Hunting46.dbr
+echo itemText,dailCompTextHunting47, >> .\items\materia\class0017\Hunting47.dbr
+echo itemText,dailCompTextHunting48, >> .\items\materia\class0017\Hunting48.dbr
+echo itemText,dailCompTextHunting49, >> .\items\materia\class0017\Hunting49.dbr
+echo itemText,dailCompTextHunting50, >> .\items\materia\class0017\Hunting50.dbr
+echo itemText,dailCompTextHunting51, >> .\items\materia\class0017\Hunting51.dbr
+echo itemText,dailCompTextHunting52, >> .\items\materia\class0017\Hunting52.dbr
+echo itemText,dailCompTextHunting53, >> .\items\materia\class0017\Hunting53.dbr
+echo itemText,dailCompTextHunting54, >> .\items\materia\class0017\Hunting54.dbr
+echo itemText,dailCompTextHunting55, >> .\items\materia\class0017\Hunting55.dbr
+echo itemText,dailCompTextHunting56, >> .\items\materia\class0017\Hunting56.dbr
+echo itemText,dailCompTextHunting57, >> .\items\materia\class0017\Hunting57.dbr
+echo itemText,dailCompTextHunting58, >> .\items\materia\class0017\Hunting58.dbr
+echo itemText,dailCompTextHunting59, >> .\items\materia\class0017\Hunting59.dbr
+echo itemText,dailCompTextHunting60, >> .\items\materia\class0017\Hunting60.dbr
+echo itemText,dailCompTextHunting61, >> .\items\materia\class0017\Hunting61.dbr
+echo itemText,dailCompTextHunting62, >> .\items\materia\class0017\Hunting62.dbr
+echo itemText,dailCompTextHunting63, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0017\Hunting1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0017\Hunting2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0017\Hunting3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0017\Hunting22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0017\Hunting42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillshunting/huntingmastery.dbr,, >> .\items\materia\class0017\Hunting1.dbr
+echo augmentMasteryName1,records/skillshunting/huntingmastery.dbr,, >> .\items\materia\class0017\Hunting2.dbr
+echo augmentMasteryName1,records/skillshunting/huntingmastery.dbr,, >> .\items\materia\class0017\Hunting3.dbr
+echo augmentSkillName1,records/skillshunting/woodlore.dbr,, >> .\items\materia\class0017\Hunting4.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt.dbr,, >> .\items\materia\class0017\Hunting5.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_findcover.dbr,, >> .\items\materia\class0017\Hunting6.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_trailblazing.dbr,, >> .\items\materia\class0017\Hunting7.dbr
+echo augmentSkillName1,records/skillshunting/ensnare.dbr,, >> .\items\materia\class0017\Hunting8.dbr
+echo augmentSkillName1,records/skillshunting/ensnare_barbednetting.dbr,, >> .\items\materia\class0017\Hunting9.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt.dbr,, >> .\items\materia\class0017\Hunting10.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt_cunning.dbr,, >> .\items\materia\class0017\Hunting11.dbr
+echo augmentSkillName1,records/skillshunting/herbalism.dbr,, >> .\items\materia\class0017\Hunting12.dbr
+echo augmentSkillName1,records/skillshunting/studyprey.dbr,, >> .\items\materia\class0017\Hunting13.dbr
+echo augmentSkillName1,records/skillshunting/studyprey_flushout.dbr,, >> .\items\materia\class0017\Hunting14.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship.dbr,, >> .\items\materia\class0017\Hunting15.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_punctureshotarrows.dbr,, >> .\items\materia\class0017\Hunting16.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_scattershotarrows.dbr,, >> .\items\materia\class0017\Hunting17.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_gouge.dbr,, >> .\items\materia\class0017\Hunting18.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_volley.dbr,, >> .\items\materia\class0017\Hunting19.dbr
+echo augmentSkillName1,records/skillshunting/takedown.dbr,, >> .\items\materia\class0017\Hunting20.dbr
+echo augmentSkillName1,records/skillshunting/takedown_eviscerate.dbr,, >> .\items\materia\class0017\Hunting21.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure.dbr,, >> .\items\materia\class0017\Hunting22.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure_petmodifier_detonate.dbr,, >> .\items\materia\class0017\Hunting23.dbr
+echo augmentSkillName1,records/skillshunting/woodlore.dbr,, >> .\items\materia\class0017\Hunting24.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt.dbr,, >> .\items\materia\class0017\Hunting25.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_findcover.dbr,, >> .\items\materia\class0017\Hunting26.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_trailblazing.dbr,, >> .\items\materia\class0017\Hunting27.dbr
+echo augmentSkillName1,records/skillshunting/ensnare.dbr,, >> .\items\materia\class0017\Hunting28.dbr
+echo augmentSkillName1,records/skillshunting/ensnare_barbednetting.dbr,, >> .\items\materia\class0017\Hunting29.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt.dbr,, >> .\items\materia\class0017\Hunting30.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt_cunning.dbr,, >> .\items\materia\class0017\Hunting31.dbr
+echo augmentSkillName1,records/skillshunting/herbalism.dbr,, >> .\items\materia\class0017\Hunting32.dbr
+echo augmentSkillName1,records/skillshunting/studyprey.dbr,, >> .\items\materia\class0017\Hunting33.dbr
+echo augmentSkillName1,records/skillshunting/studyprey_flushout.dbr,, >> .\items\materia\class0017\Hunting34.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship.dbr,, >> .\items\materia\class0017\Hunting35.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_punctureshotarrows.dbr,, >> .\items\materia\class0017\Hunting36.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_scattershotarrows.dbr,, >> .\items\materia\class0017\Hunting37.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_gouge.dbr,, >> .\items\materia\class0017\Hunting38.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_volley.dbr,, >> .\items\materia\class0017\Hunting39.dbr
+echo augmentSkillName1,records/skillshunting/takedown.dbr,, >> .\items\materia\class0017\Hunting40.dbr
+echo augmentSkillName1,records/skillshunting/takedown_eviscerate.dbr,, >> .\items\materia\class0017\Hunting41.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure.dbr,, >> .\items\materia\class0017\Hunting42.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure_petmodifier_detonate.dbr,, >> .\items\materia\class0017\Hunting43.dbr
+echo augmentSkillName1,records/skillshunting/woodlore.dbr,, >> .\items\materia\class0017\Hunting44.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt.dbr,, >> .\items\materia\class0017\Hunting45.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_findcover.dbr,, >> .\items\materia\class0017\Hunting46.dbr
+echo augmentSkillName1,records/skillshunting/artofthehunt_trailblazing.dbr,, >> .\items\materia\class0017\Hunting47.dbr
+echo augmentSkillName1,records/skillshunting/ensnare.dbr,, >> .\items\materia\class0017\Hunting48.dbr
+echo augmentSkillName1,records/skillshunting/ensnare_barbednetting.dbr,, >> .\items\materia\class0017\Hunting49.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt.dbr,, >> .\items\materia\class0017\Hunting50.dbr
+echo augmentSkillName1,records/skillshunting/callofthehunt_cunning.dbr,, >> .\items\materia\class0017\Hunting51.dbr
+echo augmentSkillName1,records/skillshunting/herbalism.dbr,, >> .\items\materia\class0017\Hunting52.dbr
+echo augmentSkillName1,records/skillshunting/studyprey.dbr,, >> .\items\materia\class0017\Hunting53.dbr
+echo augmentSkillName1,records/skillshunting/studyprey_flushout.dbr,, >> .\items\materia\class0017\Hunting54.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship.dbr,, >> .\items\materia\class0017\Hunting55.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_punctureshotarrows.dbr,, >> .\items\materia\class0017\Hunting56.dbr
+echo augmentSkillName1,records/skillshunting/marksmanship_scattershotarrows.dbr,, >> .\items\materia\class0017\Hunting57.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_gouge.dbr,, >> .\items\materia\class0017\Hunting58.dbr
+echo augmentSkillName1,records/skillshunting/weaponskill_volley.dbr,, >> .\items\materia\class0017\Hunting59.dbr
+echo augmentSkillName1,records/skillshunting/takedown.dbr,, >> .\items\materia\class0017\Hunting60.dbr
+echo augmentSkillName1,records/skillshunting/takedown_eviscerate.dbr,, >> .\items\materia\class0017\Hunting61.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure.dbr,, >> .\items\materia\class0017\Hunting62.dbr
+echo augmentSkillName1,records/skillshunting/monsterlure_petmodifier_detonate.dbr,, >> .\items\materia\class0017\Hunting63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0018\Spirit1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0018\Spirit2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0018\Spirit3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0018\Spirit22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0018\Spirit63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0018\Spirit1.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit2.dbr
+echo itemCost,600000, >> .\items\materia\class0018\Spirit3.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit4.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit5.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit6.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit7.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit8.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit9.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit10.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit11.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit12.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit13.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit14.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit15.dbr
+echo itemCost,100000, >> .\items\materia\class0018\Spirit16.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit17.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit18.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit19.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit20.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit21.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit22.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit23.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit24.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit25.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit26.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit27.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit28.dbr
+echo itemCost,300000, >> .\items\materia\class0018\Spirit29.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit30.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit31.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit32.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit33.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit34.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit35.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit36.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit37.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit38.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit39.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit40.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit41.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit42.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit43.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit44.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit45.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit46.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit47.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit48.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit49.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit50.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit51.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit52.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit53.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit54.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit55.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit56.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit57.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit58.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit59.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit60.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit61.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit62.dbr
+echo itemCost,500000, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescSpirit1, >> .\items\materia\class0018\Spirit1.dbr
+echo description,dailCompDescSpirit2, >> .\items\materia\class0018\Spirit2.dbr
+echo description,dailCompDescSpirit3, >> .\items\materia\class0018\Spirit3.dbr
+echo description,dailCompDescSpirit4, >> .\items\materia\class0018\Spirit4.dbr
+echo description,dailCompDescSpirit5, >> .\items\materia\class0018\Spirit5.dbr
+echo description,dailCompDescSpirit6, >> .\items\materia\class0018\Spirit6.dbr
+echo description,dailCompDescSpirit7, >> .\items\materia\class0018\Spirit7.dbr
+echo description,dailCompDescSpirit8, >> .\items\materia\class0018\Spirit8.dbr
+echo description,dailCompDescSpirit9, >> .\items\materia\class0018\Spirit9.dbr
+echo description,dailCompDescSpirit10, >> .\items\materia\class0018\Spirit10.dbr
+echo description,dailCompDescSpirit11, >> .\items\materia\class0018\Spirit11.dbr
+echo description,dailCompDescSpirit12, >> .\items\materia\class0018\Spirit12.dbr
+echo description,dailCompDescSpirit13, >> .\items\materia\class0018\Spirit13.dbr
+echo description,dailCompDescSpirit14, >> .\items\materia\class0018\Spirit14.dbr
+echo description,dailCompDescSpirit15, >> .\items\materia\class0018\Spirit15.dbr
+echo description,dailCompDescSpirit16, >> .\items\materia\class0018\Spirit16.dbr
+echo description,dailCompDescSpirit17, >> .\items\materia\class0018\Spirit17.dbr
+echo description,dailCompDescSpirit18, >> .\items\materia\class0018\Spirit18.dbr
+echo description,dailCompDescSpirit19, >> .\items\materia\class0018\Spirit19.dbr
+echo description,dailCompDescSpirit20, >> .\items\materia\class0018\Spirit20.dbr
+echo description,dailCompDescSpirit21, >> .\items\materia\class0018\Spirit21.dbr
+echo description,dailCompDescSpirit22, >> .\items\materia\class0018\Spirit22.dbr
+echo description,dailCompDescSpirit23, >> .\items\materia\class0018\Spirit23.dbr
+echo description,dailCompDescSpirit24, >> .\items\materia\class0018\Spirit24.dbr
+echo description,dailCompDescSpirit25, >> .\items\materia\class0018\Spirit25.dbr
+echo description,dailCompDescSpirit26, >> .\items\materia\class0018\Spirit26.dbr
+echo description,dailCompDescSpirit27, >> .\items\materia\class0018\Spirit27.dbr
+echo description,dailCompDescSpirit28, >> .\items\materia\class0018\Spirit28.dbr
+echo description,dailCompDescSpirit29, >> .\items\materia\class0018\Spirit29.dbr
+echo description,dailCompDescSpirit30, >> .\items\materia\class0018\Spirit30.dbr
+echo description,dailCompDescSpirit31, >> .\items\materia\class0018\Spirit31.dbr
+echo description,dailCompDescSpirit32, >> .\items\materia\class0018\Spirit32.dbr
+echo description,dailCompDescSpirit33, >> .\items\materia\class0018\Spirit33.dbr
+echo description,dailCompDescSpirit34, >> .\items\materia\class0018\Spirit34.dbr
+echo description,dailCompDescSpirit35, >> .\items\materia\class0018\Spirit35.dbr
+echo description,dailCompDescSpirit36, >> .\items\materia\class0018\Spirit36.dbr
+echo description,dailCompDescSpirit37, >> .\items\materia\class0018\Spirit37.dbr
+echo description,dailCompDescSpirit38, >> .\items\materia\class0018\Spirit38.dbr
+echo description,dailCompDescSpirit39, >> .\items\materia\class0018\Spirit39.dbr
+echo description,dailCompDescSpirit40, >> .\items\materia\class0018\Spirit40.dbr
+echo description,dailCompDescSpirit41, >> .\items\materia\class0018\Spirit41.dbr
+echo description,dailCompDescSpirit42, >> .\items\materia\class0018\Spirit42.dbr
+echo description,dailCompDescSpirit43, >> .\items\materia\class0018\Spirit43.dbr
+echo description,dailCompDescSpirit44, >> .\items\materia\class0018\Spirit44.dbr
+echo description,dailCompDescSpirit45, >> .\items\materia\class0018\Spirit45.dbr
+echo description,dailCompDescSpirit46, >> .\items\materia\class0018\Spirit46.dbr
+echo description,dailCompDescSpirit47, >> .\items\materia\class0018\Spirit47.dbr
+echo description,dailCompDescSpirit48, >> .\items\materia\class0018\Spirit48.dbr
+echo description,dailCompDescSpirit49, >> .\items\materia\class0018\Spirit49.dbr
+echo description,dailCompDescSpirit50, >> .\items\materia\class0018\Spirit50.dbr
+echo description,dailCompDescSpirit51, >> .\items\materia\class0018\Spirit51.dbr
+echo description,dailCompDescSpirit52, >> .\items\materia\class0018\Spirit52.dbr
+echo description,dailCompDescSpirit53, >> .\items\materia\class0018\Spirit53.dbr
+echo description,dailCompDescSpirit54, >> .\items\materia\class0018\Spirit54.dbr
+echo description,dailCompDescSpirit55, >> .\items\materia\class0018\Spirit55.dbr
+echo description,dailCompDescSpirit56, >> .\items\materia\class0018\Spirit56.dbr
+echo description,dailCompDescSpirit57, >> .\items\materia\class0018\Spirit57.dbr
+echo description,dailCompDescSpirit58, >> .\items\materia\class0018\Spirit58.dbr
+echo description,dailCompDescSpirit59, >> .\items\materia\class0018\Spirit59.dbr
+echo description,dailCompDescSpirit60, >> .\items\materia\class0018\Spirit60.dbr
+echo description,dailCompDescSpirit61, >> .\items\materia\class0018\Spirit61.dbr
+echo description,dailCompDescSpirit62, >> .\items\materia\class0018\Spirit62.dbr
+echo description,dailCompDescSpirit63, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextSpirit1, >> .\items\materia\class0018\Spirit1.dbr
+echo itemText,dailCompTextSpirit2, >> .\items\materia\class0018\Spirit2.dbr
+echo itemText,dailCompTextSpirit3, >> .\items\materia\class0018\Spirit3.dbr
+echo itemText,dailCompTextSpirit4, >> .\items\materia\class0018\Spirit4.dbr
+echo itemText,dailCompTextSpirit5, >> .\items\materia\class0018\Spirit5.dbr
+echo itemText,dailCompTextSpirit6, >> .\items\materia\class0018\Spirit6.dbr
+echo itemText,dailCompTextSpirit7, >> .\items\materia\class0018\Spirit7.dbr
+echo itemText,dailCompTextSpirit8, >> .\items\materia\class0018\Spirit8.dbr
+echo itemText,dailCompTextSpirit9, >> .\items\materia\class0018\Spirit9.dbr
+echo itemText,dailCompTextSpirit10, >> .\items\materia\class0018\Spirit10.dbr
+echo itemText,dailCompTextSpirit11, >> .\items\materia\class0018\Spirit11.dbr
+echo itemText,dailCompTextSpirit12, >> .\items\materia\class0018\Spirit12.dbr
+echo itemText,dailCompTextSpirit13, >> .\items\materia\class0018\Spirit13.dbr
+echo itemText,dailCompTextSpirit14, >> .\items\materia\class0018\Spirit14.dbr
+echo itemText,dailCompTextSpirit15, >> .\items\materia\class0018\Spirit15.dbr
+echo itemText,dailCompTextSpirit16, >> .\items\materia\class0018\Spirit16.dbr
+echo itemText,dailCompTextSpirit17, >> .\items\materia\class0018\Spirit17.dbr
+echo itemText,dailCompTextSpirit18, >> .\items\materia\class0018\Spirit18.dbr
+echo itemText,dailCompTextSpirit19, >> .\items\materia\class0018\Spirit19.dbr
+echo itemText,dailCompTextSpirit20, >> .\items\materia\class0018\Spirit20.dbr
+echo itemText,dailCompTextSpirit21, >> .\items\materia\class0018\Spirit21.dbr
+echo itemText,dailCompTextSpirit22, >> .\items\materia\class0018\Spirit22.dbr
+echo itemText,dailCompTextSpirit23, >> .\items\materia\class0018\Spirit23.dbr
+echo itemText,dailCompTextSpirit24, >> .\items\materia\class0018\Spirit24.dbr
+echo itemText,dailCompTextSpirit25, >> .\items\materia\class0018\Spirit25.dbr
+echo itemText,dailCompTextSpirit26, >> .\items\materia\class0018\Spirit26.dbr
+echo itemText,dailCompTextSpirit27, >> .\items\materia\class0018\Spirit27.dbr
+echo itemText,dailCompTextSpirit28, >> .\items\materia\class0018\Spirit28.dbr
+echo itemText,dailCompTextSpirit29, >> .\items\materia\class0018\Spirit29.dbr
+echo itemText,dailCompTextSpirit30, >> .\items\materia\class0018\Spirit30.dbr
+echo itemText,dailCompTextSpirit31, >> .\items\materia\class0018\Spirit31.dbr
+echo itemText,dailCompTextSpirit32, >> .\items\materia\class0018\Spirit32.dbr
+echo itemText,dailCompTextSpirit33, >> .\items\materia\class0018\Spirit33.dbr
+echo itemText,dailCompTextSpirit34, >> .\items\materia\class0018\Spirit34.dbr
+echo itemText,dailCompTextSpirit35, >> .\items\materia\class0018\Spirit35.dbr
+echo itemText,dailCompTextSpirit36, >> .\items\materia\class0018\Spirit36.dbr
+echo itemText,dailCompTextSpirit37, >> .\items\materia\class0018\Spirit37.dbr
+echo itemText,dailCompTextSpirit38, >> .\items\materia\class0018\Spirit38.dbr
+echo itemText,dailCompTextSpirit39, >> .\items\materia\class0018\Spirit39.dbr
+echo itemText,dailCompTextSpirit40, >> .\items\materia\class0018\Spirit40.dbr
+echo itemText,dailCompTextSpirit41, >> .\items\materia\class0018\Spirit41.dbr
+echo itemText,dailCompTextSpirit42, >> .\items\materia\class0018\Spirit42.dbr
+echo itemText,dailCompTextSpirit43, >> .\items\materia\class0018\Spirit43.dbr
+echo itemText,dailCompTextSpirit44, >> .\items\materia\class0018\Spirit44.dbr
+echo itemText,dailCompTextSpirit45, >> .\items\materia\class0018\Spirit45.dbr
+echo itemText,dailCompTextSpirit46, >> .\items\materia\class0018\Spirit46.dbr
+echo itemText,dailCompTextSpirit47, >> .\items\materia\class0018\Spirit47.dbr
+echo itemText,dailCompTextSpirit48, >> .\items\materia\class0018\Spirit48.dbr
+echo itemText,dailCompTextSpirit49, >> .\items\materia\class0018\Spirit49.dbr
+echo itemText,dailCompTextSpirit50, >> .\items\materia\class0018\Spirit50.dbr
+echo itemText,dailCompTextSpirit51, >> .\items\materia\class0018\Spirit51.dbr
+echo itemText,dailCompTextSpirit52, >> .\items\materia\class0018\Spirit52.dbr
+echo itemText,dailCompTextSpirit53, >> .\items\materia\class0018\Spirit53.dbr
+echo itemText,dailCompTextSpirit54, >> .\items\materia\class0018\Spirit54.dbr
+echo itemText,dailCompTextSpirit55, >> .\items\materia\class0018\Spirit55.dbr
+echo itemText,dailCompTextSpirit56, >> .\items\materia\class0018\Spirit56.dbr
+echo itemText,dailCompTextSpirit57, >> .\items\materia\class0018\Spirit57.dbr
+echo itemText,dailCompTextSpirit58, >> .\items\materia\class0018\Spirit58.dbr
+echo itemText,dailCompTextSpirit59, >> .\items\materia\class0018\Spirit59.dbr
+echo itemText,dailCompTextSpirit60, >> .\items\materia\class0018\Spirit60.dbr
+echo itemText,dailCompTextSpirit61, >> .\items\materia\class0018\Spirit61.dbr
+echo itemText,dailCompTextSpirit62, >> .\items\materia\class0018\Spirit62.dbr
+echo itemText,dailCompTextSpirit63, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0018\Spirit1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0018\Spirit2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0018\Spirit3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0018\Spirit22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0018\Spirit42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsspirit/spiritmastery.dbr,, >> .\items\materia\class0018\Spirit1.dbr
+echo augmentMasteryName1,records/skillsspirit/spiritmastery.dbr,, >> .\items\materia\class0018\Spirit2.dbr
+echo augmentMasteryName1,records/skillsspirit/spiritmastery.dbr,, >> .\items\materia\class0018\Spirit3.dbr
+echo augmentSkillName1,records/skillsspirit/visionofdeath.dbr,, >> .\items\materia\class0018\Spirit4.dbr
+echo augmentSkillName1,records/skillsspirit/deathward.dbr,, >> .\items\materia\class0018\Spirit5.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura.dbr,, >> .\items\materia\class0018\Spirit6.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_ravagesoftime.dbr,, >> .\items\materia\class0018\Spirit7.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_necrosis.dbr,, >> .\items\materia\class0018\Spirit8.dbr
+echo augmentSkillName1,records/skillsspirit/circleofpower.dbr,, >> .\items\materia\class0018\Spirit9.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant.dbr,, >> .\items\materia\class0018\Spirit10.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant_unearthlypower.dbr,, >> .\items\materia\class0018\Spirit11.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain.dbr,, >> .\items\materia\class0018\Spirit12.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain_cascade.dbr,, >> .\items\materia\class0018\Spirit13.dbr
+echo augmentSkillName1,records/skillsspirit/outsidersummons.dbr,, >> .\items\materia\class0018\Spirit14.dbr
+echo augmentSkillName1,records/skillsspirit/ternion.dbr,, >> .\items\materia\class0018\Spirit15.dbr
+echo augmentSkillName1,records/skillsspirit/ternion_arcanelore.dbr,, >> .\items\materia\class0018\Spirit16.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward.dbr,, >> .\items\materia\class0018\Spirit17.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward_spiritbane.dbr,, >> .\items\materia\class0018\Spirit18.dbr
+echo augmentSkillName1,records/skillsspirit/enslavespirit.dbr,, >> .\items\materia\class0018\Spirit19.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlordsummons.dbr,, >> .\items\materia\class0018\Spirit20.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_deathnova.dbr,, >> .\items\materia\class0018\Spirit21.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_wraithshell.dbr,, >> .\items\materia\class0018\Spirit22.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_arcaneblast.dbr,, >> .\items\materia\class0018\Spirit23.dbr
+echo augmentSkillName1,records/skillsspirit/visionofdeath.dbr,, >> .\items\materia\class0018\Spirit24.dbr
+echo augmentSkillName1,records/skillsspirit/deathward.dbr,, >> .\items\materia\class0018\Spirit25.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura.dbr,, >> .\items\materia\class0018\Spirit26.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_ravagesoftime.dbr,, >> .\items\materia\class0018\Spirit27.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_necrosis.dbr,, >> .\items\materia\class0018\Spirit28.dbr
+echo augmentSkillName1,records/skillsspirit/circleofpower.dbr,, >> .\items\materia\class0018\Spirit29.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant.dbr,, >> .\items\materia\class0018\Spirit30.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant_unearthlypower.dbr,, >> .\items\materia\class0018\Spirit31.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain.dbr,, >> .\items\materia\class0018\Spirit32.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain_cascade.dbr,, >> .\items\materia\class0018\Spirit33.dbr
+echo augmentSkillName1,records/skillsspirit/outsidersummons.dbr,, >> .\items\materia\class0018\Spirit34.dbr
+echo augmentSkillName1,records/skillsspirit/ternion.dbr,, >> .\items\materia\class0018\Spirit35.dbr
+echo augmentSkillName1,records/skillsspirit/ternion_arcanelore.dbr,, >> .\items\materia\class0018\Spirit36.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward.dbr,, >> .\items\materia\class0018\Spirit37.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward_spiritbane.dbr,, >> .\items\materia\class0018\Spirit38.dbr
+echo augmentSkillName1,records/skillsspirit/enslavespirit.dbr,, >> .\items\materia\class0018\Spirit39.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlordsummons.dbr,, >> .\items\materia\class0018\Spirit40.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_deathnova.dbr,, >> .\items\materia\class0018\Spirit41.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_wraithshell.dbr,, >> .\items\materia\class0018\Spirit42.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_arcaneblast.dbr,, >> .\items\materia\class0018\Spirit43.dbr
+echo augmentSkillName1,records/skillsspirit/visionofdeath.dbr,, >> .\items\materia\class0018\Spirit44.dbr
+echo augmentSkillName1,records/skillsspirit/deathward.dbr,, >> .\items\materia\class0018\Spirit45.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura.dbr,, >> .\items\materia\class0018\Spirit46.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_ravagesoftime.dbr,, >> .\items\materia\class0018\Spirit47.dbr
+echo augmentSkillName1,records/skillsspirit/deathchillaura_necrosis.dbr,, >> .\items\materia\class0018\Spirit48.dbr
+echo augmentSkillName1,records/skillsspirit/circleofpower.dbr,, >> .\items\materia\class0018\Spirit49.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant.dbr,, >> .\items\materia\class0018\Spirit50.dbr
+echo augmentSkillName1,records/skillsspirit/darkcovenant_unearthlypower.dbr,, >> .\items\materia\class0018\Spirit51.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain.dbr,, >> .\items\materia\class0018\Spirit52.dbr
+echo augmentSkillName1,records/skillsspirit/lifedrain_cascade.dbr,, >> .\items\materia\class0018\Spirit53.dbr
+echo augmentSkillName1,records/skillsspirit/outsidersummons.dbr,, >> .\items\materia\class0018\Spirit54.dbr
+echo augmentSkillName1,records/skillsspirit/ternion.dbr,, >> .\items\materia\class0018\Spirit55.dbr
+echo augmentSkillName1,records/skillsspirit/ternion_arcanelore.dbr,, >> .\items\materia\class0018\Spirit56.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward.dbr,, >> .\items\materia\class0018\Spirit57.dbr
+echo augmentSkillName1,records/skillsspirit/spiritward_spiritbane.dbr,, >> .\items\materia\class0018\Spirit58.dbr
+echo augmentSkillName1,records/skillsspirit/enslavespirit.dbr,, >> .\items\materia\class0018\Spirit59.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlordsummons.dbr,, >> .\items\materia\class0018\Spirit60.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_deathnova.dbr,, >> .\items\materia\class0018\Spirit61.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_wraithshell.dbr,, >> .\items\materia\class0018\Spirit62.dbr
+echo augmentSkillName1,records/skillsspirit/wraithlord_petmodifier_arcaneblast.dbr,, >> .\items\materia\class0018\Spirit63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0019\Warfare1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0019\Warfare2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0019\Warfare3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0019\Warfare22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0019\Warfare63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0019\Warfare1.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare2.dbr
+echo itemCost,600000, >> .\items\materia\class0019\Warfare3.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare4.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare5.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare6.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare7.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare8.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare9.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare10.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare11.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare12.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare13.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare14.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare15.dbr
+echo itemCost,100000, >> .\items\materia\class0019\Warfare16.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare17.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare18.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare19.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare20.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare21.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare22.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare23.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare24.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare25.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare26.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare27.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare28.dbr
+echo itemCost,300000, >> .\items\materia\class0019\Warfare29.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare30.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare31.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare32.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare33.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare34.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare35.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare36.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare37.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare38.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare39.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare40.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare41.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare42.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare43.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare44.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare45.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare46.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare47.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare48.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare49.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare50.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare51.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare52.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare53.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare54.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare55.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare56.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare57.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare58.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare59.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare60.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare61.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare62.dbr
+echo itemCost,500000, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescWarfare1, >> .\items\materia\class0019\Warfare1.dbr
+echo description,dailCompDescWarfare2, >> .\items\materia\class0019\Warfare2.dbr
+echo description,dailCompDescWarfare3, >> .\items\materia\class0019\Warfare3.dbr
+echo description,dailCompDescWarfare4, >> .\items\materia\class0019\Warfare4.dbr
+echo description,dailCompDescWarfare5, >> .\items\materia\class0019\Warfare5.dbr
+echo description,dailCompDescWarfare6, >> .\items\materia\class0019\Warfare6.dbr
+echo description,dailCompDescWarfare7, >> .\items\materia\class0019\Warfare7.dbr
+echo description,dailCompDescWarfare8, >> .\items\materia\class0019\Warfare8.dbr
+echo description,dailCompDescWarfare9, >> .\items\materia\class0019\Warfare9.dbr
+echo description,dailCompDescWarfare10, >> .\items\materia\class0019\Warfare10.dbr
+echo description,dailCompDescWarfare11, >> .\items\materia\class0019\Warfare11.dbr
+echo description,dailCompDescWarfare12, >> .\items\materia\class0019\Warfare12.dbr
+echo description,dailCompDescWarfare13, >> .\items\materia\class0019\Warfare13.dbr
+echo description,dailCompDescWarfare14, >> .\items\materia\class0019\Warfare14.dbr
+echo description,dailCompDescWarfare15, >> .\items\materia\class0019\Warfare15.dbr
+echo description,dailCompDescWarfare16, >> .\items\materia\class0019\Warfare16.dbr
+echo description,dailCompDescWarfare17, >> .\items\materia\class0019\Warfare17.dbr
+echo description,dailCompDescWarfare18, >> .\items\materia\class0019\Warfare18.dbr
+echo description,dailCompDescWarfare19, >> .\items\materia\class0019\Warfare19.dbr
+echo description,dailCompDescWarfare20, >> .\items\materia\class0019\Warfare20.dbr
+echo description,dailCompDescWarfare21, >> .\items\materia\class0019\Warfare21.dbr
+echo description,dailCompDescWarfare22, >> .\items\materia\class0019\Warfare22.dbr
+echo description,dailCompDescWarfare23, >> .\items\materia\class0019\Warfare23.dbr
+echo description,dailCompDescWarfare24, >> .\items\materia\class0019\Warfare24.dbr
+echo description,dailCompDescWarfare25, >> .\items\materia\class0019\Warfare25.dbr
+echo description,dailCompDescWarfare26, >> .\items\materia\class0019\Warfare26.dbr
+echo description,dailCompDescWarfare27, >> .\items\materia\class0019\Warfare27.dbr
+echo description,dailCompDescWarfare28, >> .\items\materia\class0019\Warfare28.dbr
+echo description,dailCompDescWarfare29, >> .\items\materia\class0019\Warfare29.dbr
+echo description,dailCompDescWarfare30, >> .\items\materia\class0019\Warfare30.dbr
+echo description,dailCompDescWarfare31, >> .\items\materia\class0019\Warfare31.dbr
+echo description,dailCompDescWarfare32, >> .\items\materia\class0019\Warfare32.dbr
+echo description,dailCompDescWarfare33, >> .\items\materia\class0019\Warfare33.dbr
+echo description,dailCompDescWarfare34, >> .\items\materia\class0019\Warfare34.dbr
+echo description,dailCompDescWarfare35, >> .\items\materia\class0019\Warfare35.dbr
+echo description,dailCompDescWarfare36, >> .\items\materia\class0019\Warfare36.dbr
+echo description,dailCompDescWarfare37, >> .\items\materia\class0019\Warfare37.dbr
+echo description,dailCompDescWarfare38, >> .\items\materia\class0019\Warfare38.dbr
+echo description,dailCompDescWarfare39, >> .\items\materia\class0019\Warfare39.dbr
+echo description,dailCompDescWarfare40, >> .\items\materia\class0019\Warfare40.dbr
+echo description,dailCompDescWarfare41, >> .\items\materia\class0019\Warfare41.dbr
+echo description,dailCompDescWarfare42, >> .\items\materia\class0019\Warfare42.dbr
+echo description,dailCompDescWarfare43, >> .\items\materia\class0019\Warfare43.dbr
+echo description,dailCompDescWarfare44, >> .\items\materia\class0019\Warfare44.dbr
+echo description,dailCompDescWarfare45, >> .\items\materia\class0019\Warfare45.dbr
+echo description,dailCompDescWarfare46, >> .\items\materia\class0019\Warfare46.dbr
+echo description,dailCompDescWarfare47, >> .\items\materia\class0019\Warfare47.dbr
+echo description,dailCompDescWarfare48, >> .\items\materia\class0019\Warfare48.dbr
+echo description,dailCompDescWarfare49, >> .\items\materia\class0019\Warfare49.dbr
+echo description,dailCompDescWarfare50, >> .\items\materia\class0019\Warfare50.dbr
+echo description,dailCompDescWarfare51, >> .\items\materia\class0019\Warfare51.dbr
+echo description,dailCompDescWarfare52, >> .\items\materia\class0019\Warfare52.dbr
+echo description,dailCompDescWarfare53, >> .\items\materia\class0019\Warfare53.dbr
+echo description,dailCompDescWarfare54, >> .\items\materia\class0019\Warfare54.dbr
+echo description,dailCompDescWarfare55, >> .\items\materia\class0019\Warfare55.dbr
+echo description,dailCompDescWarfare56, >> .\items\materia\class0019\Warfare56.dbr
+echo description,dailCompDescWarfare57, >> .\items\materia\class0019\Warfare57.dbr
+echo description,dailCompDescWarfare58, >> .\items\materia\class0019\Warfare58.dbr
+echo description,dailCompDescWarfare59, >> .\items\materia\class0019\Warfare59.dbr
+echo description,dailCompDescWarfare60, >> .\items\materia\class0019\Warfare60.dbr
+echo description,dailCompDescWarfare61, >> .\items\materia\class0019\Warfare61.dbr
+echo description,dailCompDescWarfare62, >> .\items\materia\class0019\Warfare62.dbr
+echo description,dailCompDescWarfare63, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextWarfare1, >> .\items\materia\class0019\Warfare1.dbr
+echo itemText,dailCompTextWarfare2, >> .\items\materia\class0019\Warfare2.dbr
+echo itemText,dailCompTextWarfare3, >> .\items\materia\class0019\Warfare3.dbr
+echo itemText,dailCompTextWarfare4, >> .\items\materia\class0019\Warfare4.dbr
+echo itemText,dailCompTextWarfare5, >> .\items\materia\class0019\Warfare5.dbr
+echo itemText,dailCompTextWarfare6, >> .\items\materia\class0019\Warfare6.dbr
+echo itemText,dailCompTextWarfare7, >> .\items\materia\class0019\Warfare7.dbr
+echo itemText,dailCompTextWarfare8, >> .\items\materia\class0019\Warfare8.dbr
+echo itemText,dailCompTextWarfare9, >> .\items\materia\class0019\Warfare9.dbr
+echo itemText,dailCompTextWarfare10, >> .\items\materia\class0019\Warfare10.dbr
+echo itemText,dailCompTextWarfare11, >> .\items\materia\class0019\Warfare11.dbr
+echo itemText,dailCompTextWarfare12, >> .\items\materia\class0019\Warfare12.dbr
+echo itemText,dailCompTextWarfare13, >> .\items\materia\class0019\Warfare13.dbr
+echo itemText,dailCompTextWarfare14, >> .\items\materia\class0019\Warfare14.dbr
+echo itemText,dailCompTextWarfare15, >> .\items\materia\class0019\Warfare15.dbr
+echo itemText,dailCompTextWarfare16, >> .\items\materia\class0019\Warfare16.dbr
+echo itemText,dailCompTextWarfare17, >> .\items\materia\class0019\Warfare17.dbr
+echo itemText,dailCompTextWarfare18, >> .\items\materia\class0019\Warfare18.dbr
+echo itemText,dailCompTextWarfare19, >> .\items\materia\class0019\Warfare19.dbr
+echo itemText,dailCompTextWarfare20, >> .\items\materia\class0019\Warfare20.dbr
+echo itemText,dailCompTextWarfare21, >> .\items\materia\class0019\Warfare21.dbr
+echo itemText,dailCompTextWarfare22, >> .\items\materia\class0019\Warfare22.dbr
+echo itemText,dailCompTextWarfare23, >> .\items\materia\class0019\Warfare23.dbr
+echo itemText,dailCompTextWarfare24, >> .\items\materia\class0019\Warfare24.dbr
+echo itemText,dailCompTextWarfare25, >> .\items\materia\class0019\Warfare25.dbr
+echo itemText,dailCompTextWarfare26, >> .\items\materia\class0019\Warfare26.dbr
+echo itemText,dailCompTextWarfare27, >> .\items\materia\class0019\Warfare27.dbr
+echo itemText,dailCompTextWarfare28, >> .\items\materia\class0019\Warfare28.dbr
+echo itemText,dailCompTextWarfare29, >> .\items\materia\class0019\Warfare29.dbr
+echo itemText,dailCompTextWarfare30, >> .\items\materia\class0019\Warfare30.dbr
+echo itemText,dailCompTextWarfare31, >> .\items\materia\class0019\Warfare31.dbr
+echo itemText,dailCompTextWarfare32, >> .\items\materia\class0019\Warfare32.dbr
+echo itemText,dailCompTextWarfare33, >> .\items\materia\class0019\Warfare33.dbr
+echo itemText,dailCompTextWarfare34, >> .\items\materia\class0019\Warfare34.dbr
+echo itemText,dailCompTextWarfare35, >> .\items\materia\class0019\Warfare35.dbr
+echo itemText,dailCompTextWarfare36, >> .\items\materia\class0019\Warfare36.dbr
+echo itemText,dailCompTextWarfare37, >> .\items\materia\class0019\Warfare37.dbr
+echo itemText,dailCompTextWarfare38, >> .\items\materia\class0019\Warfare38.dbr
+echo itemText,dailCompTextWarfare39, >> .\items\materia\class0019\Warfare39.dbr
+echo itemText,dailCompTextWarfare40, >> .\items\materia\class0019\Warfare40.dbr
+echo itemText,dailCompTextWarfare41, >> .\items\materia\class0019\Warfare41.dbr
+echo itemText,dailCompTextWarfare42, >> .\items\materia\class0019\Warfare42.dbr
+echo itemText,dailCompTextWarfare43, >> .\items\materia\class0019\Warfare43.dbr
+echo itemText,dailCompTextWarfare44, >> .\items\materia\class0019\Warfare44.dbr
+echo itemText,dailCompTextWarfare45, >> .\items\materia\class0019\Warfare45.dbr
+echo itemText,dailCompTextWarfare46, >> .\items\materia\class0019\Warfare46.dbr
+echo itemText,dailCompTextWarfare47, >> .\items\materia\class0019\Warfare47.dbr
+echo itemText,dailCompTextWarfare48, >> .\items\materia\class0019\Warfare48.dbr
+echo itemText,dailCompTextWarfare49, >> .\items\materia\class0019\Warfare49.dbr
+echo itemText,dailCompTextWarfare50, >> .\items\materia\class0019\Warfare50.dbr
+echo itemText,dailCompTextWarfare51, >> .\items\materia\class0019\Warfare51.dbr
+echo itemText,dailCompTextWarfare52, >> .\items\materia\class0019\Warfare52.dbr
+echo itemText,dailCompTextWarfare53, >> .\items\materia\class0019\Warfare53.dbr
+echo itemText,dailCompTextWarfare54, >> .\items\materia\class0019\Warfare54.dbr
+echo itemText,dailCompTextWarfare55, >> .\items\materia\class0019\Warfare55.dbr
+echo itemText,dailCompTextWarfare56, >> .\items\materia\class0019\Warfare56.dbr
+echo itemText,dailCompTextWarfare57, >> .\items\materia\class0019\Warfare57.dbr
+echo itemText,dailCompTextWarfare58, >> .\items\materia\class0019\Warfare58.dbr
+echo itemText,dailCompTextWarfare59, >> .\items\materia\class0019\Warfare59.dbr
+echo itemText,dailCompTextWarfare60, >> .\items\materia\class0019\Warfare60.dbr
+echo itemText,dailCompTextWarfare61, >> .\items\materia\class0019\Warfare61.dbr
+echo itemText,dailCompTextWarfare62, >> .\items\materia\class0019\Warfare62.dbr
+echo itemText,dailCompTextWarfare63, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0019\Warfare1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0019\Warfare2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0019\Warfare3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0019\Warfare22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0019\Warfare42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillswarfare/warfaremastery.dbr,, >> .\items\materia\class0019\Warfare1.dbr
+echo augmentMasteryName1,records/skillswarfare/warfaremastery.dbr,, >> .\items\materia\class0019\Warfare2.dbr
+echo augmentMasteryName1,records/skillswarfare/warfaremastery.dbr,, >> .\items\materia\class0019\Warfare3.dbr
+echo augmentSkillName1,records/skillswarfare/weapontraining.dbr,, >> .\items\materia\class0019\Warfare4.dbr
+echo augmentSkillName1,records/skillswarfare/warwind.dbr,, >> .\items\materia\class0019\Warfare5.dbr
+echo augmentSkillName1,records/skillswarfare/warwind_lacerate.dbr,, >> .\items\materia\class0019\Warfare6.dbr
+echo augmentSkillName1,records/skillswarfare/dodge attack.dbr,, >> .\items\materia\class0019\Warfare7.dbr
+echo augmentSkillName1,records/skillswarfare/dualweapontraining.dbr,, >> .\items\materia\class0019\Warfare8.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_jumpslash.dbr,, >> .\items\materia\class0019\Warfare9.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_crosscut.dbr,, >> .\items\materia\class0019\Warfare10.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_tumult.dbr,, >> .\items\materia\class0019\Warfare11.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught.dbr,, >> .\items\materia\class0019\Warfare12.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ignorepain.dbr,, >> .\items\materia\class0019\Warfare13.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_hamstring.dbr,, >> .\items\materia\class0019\Warfare14.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ardor.dbr,, >> .\items\materia\class0019\Warfare15.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage.dbr,, >> .\items\materia\class0019\Warfare16.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_crushingblow.dbr,, >> .\items\materia\class0019\Warfare17.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_counterattack.dbr,, >> .\items\materia\class0019\Warfare18.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn.dbr,, >> .\items\materia\class0019\Warfare19.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn_doomhorn.dbr,, >> .\items\materia\class0019\Warfare20.dbr
+echo augmentSkillName1,records/skillswarfare/ancestralhorn.dbr,, >> .\items\materia\class0019\Warfare21.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard.dbr,, >> .\items\materia\class0019\Warfare22.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard_petmodifier_triumph.dbr,, >> .\items\materia\class0019\Warfare23.dbr
+echo augmentSkillName1,records/skillswarfare/weapontraining.dbr,, >> .\items\materia\class0019\Warfare24.dbr
+echo augmentSkillName1,records/skillswarfare/warwind.dbr,, >> .\items\materia\class0019\Warfare25.dbr
+echo augmentSkillName1,records/skillswarfare/warwind_lacerate.dbr,, >> .\items\materia\class0019\Warfare26.dbr
+echo augmentSkillName1,records/skillswarfare/dodge attack.dbr,, >> .\items\materia\class0019\Warfare27.dbr
+echo augmentSkillName1,records/skillswarfare/dualweapontraining.dbr,, >> .\items\materia\class0019\Warfare28.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_jumpslash.dbr,, >> .\items\materia\class0019\Warfare29.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_crosscut.dbr,, >> .\items\materia\class0019\Warfare30.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_tumult.dbr,, >> .\items\materia\class0019\Warfare31.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught.dbr,, >> .\items\materia\class0019\Warfare32.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ignorepain.dbr,, >> .\items\materia\class0019\Warfare33.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_hamstring.dbr,, >> .\items\materia\class0019\Warfare34.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ardor.dbr,, >> .\items\materia\class0019\Warfare35.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage.dbr,, >> .\items\materia\class0019\Warfare36.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_crushingblow.dbr,, >> .\items\materia\class0019\Warfare37.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_counterattack.dbr,, >> .\items\materia\class0019\Warfare38.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn.dbr,, >> .\items\materia\class0019\Warfare39.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn_doomhorn.dbr,, >> .\items\materia\class0019\Warfare40.dbr
+echo augmentSkillName1,records/skillswarfare/ancestralhorn.dbr,, >> .\items\materia\class0019\Warfare41.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard.dbr,, >> .\items\materia\class0019\Warfare42.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard_petmodifier_triumph.dbr,, >> .\items\materia\class0019\Warfare43.dbr
+echo augmentSkillName1,records/skillswarfare/weapontraining.dbr,, >> .\items\materia\class0019\Warfare44.dbr
+echo augmentSkillName1,records/skillswarfare/warwind.dbr,, >> .\items\materia\class0019\Warfare45.dbr
+echo augmentSkillName1,records/skillswarfare/warwind_lacerate.dbr,, >> .\items\materia\class0019\Warfare46.dbr
+echo augmentSkillName1,records/skillswarfare/dodge attack.dbr,, >> .\items\materia\class0019\Warfare47.dbr
+echo augmentSkillName1,records/skillswarfare/dualweapontraining.dbr,, >> .\items\materia\class0019\Warfare48.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_jumpslash.dbr,, >> .\items\materia\class0019\Warfare49.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_crosscut.dbr,, >> .\items\materia\class0019\Warfare50.dbr
+echo augmentSkillName1,records/skillswarfare/dualwieldtechnique_tumult.dbr,, >> .\items\materia\class0019\Warfare51.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught.dbr,, >> .\items\materia\class0019\Warfare52.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ignorepain.dbr,, >> .\items\materia\class0019\Warfare53.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_hamstring.dbr,, >> .\items\materia\class0019\Warfare54.dbr
+echo augmentSkillName1,records/skillswarfare/onslaught_ardor.dbr,, >> .\items\materia\class0019\Warfare55.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage.dbr,, >> .\items\materia\class0019\Warfare56.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_crushingblow.dbr,, >> .\items\materia\class0019\Warfare57.dbr
+echo augmentSkillName1,records/skillswarfare/battlerage_counterattack.dbr,, >> .\items\materia\class0019\Warfare58.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn.dbr,, >> .\items\materia\class0019\Warfare59.dbr
+echo augmentSkillName1,records/skillswarfare/warhorn_doomhorn.dbr,, >> .\items\materia\class0019\Warfare60.dbr
+echo augmentSkillName1,records/skillswarfare/ancestralhorn.dbr,, >> .\items\materia\class0019\Warfare61.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard.dbr,, >> .\items\materia\class0019\Warfare62.dbr
+echo augmentSkillName1,records/skillswarfare/battlestandard_petmodifier_triumph.dbr,, >> .\items\materia\class0019\Warfare63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0020\Nature1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0020\Nature2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0020\Nature3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0020\Nature22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0020\Nature63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0020\Nature1.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature2.dbr
+echo itemCost,600000, >> .\items\materia\class0020\Nature3.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature4.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature5.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature6.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature7.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature8.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature9.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature10.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature11.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature12.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature13.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature14.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature15.dbr
+echo itemCost,100000, >> .\items\materia\class0020\Nature16.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature17.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature18.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature19.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature20.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature21.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature22.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature23.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature24.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature25.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature26.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature27.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature28.dbr
+echo itemCost,300000, >> .\items\materia\class0020\Nature29.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature30.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature31.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature32.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature33.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature34.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature35.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature36.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature37.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature38.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature39.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature40.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature41.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature42.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature43.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature44.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature45.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature46.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature47.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature48.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature49.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature50.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature51.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature52.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature53.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature54.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature55.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature56.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature57.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature58.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature59.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature60.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature61.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature62.dbr
+echo itemCost,500000, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescNature1, >> .\items\materia\class0020\Nature1.dbr
+echo description,dailCompDescNature2, >> .\items\materia\class0020\Nature2.dbr
+echo description,dailCompDescNature3, >> .\items\materia\class0020\Nature3.dbr
+echo description,dailCompDescNature4, >> .\items\materia\class0020\Nature4.dbr
+echo description,dailCompDescNature5, >> .\items\materia\class0020\Nature5.dbr
+echo description,dailCompDescNature6, >> .\items\materia\class0020\Nature6.dbr
+echo description,dailCompDescNature7, >> .\items\materia\class0020\Nature7.dbr
+echo description,dailCompDescNature8, >> .\items\materia\class0020\Nature8.dbr
+echo description,dailCompDescNature9, >> .\items\materia\class0020\Nature9.dbr
+echo description,dailCompDescNature10, >> .\items\materia\class0020\Nature10.dbr
+echo description,dailCompDescNature11, >> .\items\materia\class0020\Nature11.dbr
+echo description,dailCompDescNature12, >> .\items\materia\class0020\Nature12.dbr
+echo description,dailCompDescNature13, >> .\items\materia\class0020\Nature13.dbr
+echo description,dailCompDescNature14, >> .\items\materia\class0020\Nature14.dbr
+echo description,dailCompDescNature15, >> .\items\materia\class0020\Nature15.dbr
+echo description,dailCompDescNature16, >> .\items\materia\class0020\Nature16.dbr
+echo description,dailCompDescNature17, >> .\items\materia\class0020\Nature17.dbr
+echo description,dailCompDescNature18, >> .\items\materia\class0020\Nature18.dbr
+echo description,dailCompDescNature19, >> .\items\materia\class0020\Nature19.dbr
+echo description,dailCompDescNature20, >> .\items\materia\class0020\Nature20.dbr
+echo description,dailCompDescNature21, >> .\items\materia\class0020\Nature21.dbr
+echo description,dailCompDescNature22, >> .\items\materia\class0020\Nature22.dbr
+echo description,dailCompDescNature23, >> .\items\materia\class0020\Nature23.dbr
+echo description,dailCompDescNature24, >> .\items\materia\class0020\Nature24.dbr
+echo description,dailCompDescNature25, >> .\items\materia\class0020\Nature25.dbr
+echo description,dailCompDescNature26, >> .\items\materia\class0020\Nature26.dbr
+echo description,dailCompDescNature27, >> .\items\materia\class0020\Nature27.dbr
+echo description,dailCompDescNature28, >> .\items\materia\class0020\Nature28.dbr
+echo description,dailCompDescNature29, >> .\items\materia\class0020\Nature29.dbr
+echo description,dailCompDescNature30, >> .\items\materia\class0020\Nature30.dbr
+echo description,dailCompDescNature31, >> .\items\materia\class0020\Nature31.dbr
+echo description,dailCompDescNature32, >> .\items\materia\class0020\Nature32.dbr
+echo description,dailCompDescNature33, >> .\items\materia\class0020\Nature33.dbr
+echo description,dailCompDescNature34, >> .\items\materia\class0020\Nature34.dbr
+echo description,dailCompDescNature35, >> .\items\materia\class0020\Nature35.dbr
+echo description,dailCompDescNature36, >> .\items\materia\class0020\Nature36.dbr
+echo description,dailCompDescNature37, >> .\items\materia\class0020\Nature37.dbr
+echo description,dailCompDescNature38, >> .\items\materia\class0020\Nature38.dbr
+echo description,dailCompDescNature39, >> .\items\materia\class0020\Nature39.dbr
+echo description,dailCompDescNature40, >> .\items\materia\class0020\Nature40.dbr
+echo description,dailCompDescNature41, >> .\items\materia\class0020\Nature41.dbr
+echo description,dailCompDescNature42, >> .\items\materia\class0020\Nature42.dbr
+echo description,dailCompDescNature43, >> .\items\materia\class0020\Nature43.dbr
+echo description,dailCompDescNature44, >> .\items\materia\class0020\Nature44.dbr
+echo description,dailCompDescNature45, >> .\items\materia\class0020\Nature45.dbr
+echo description,dailCompDescNature46, >> .\items\materia\class0020\Nature46.dbr
+echo description,dailCompDescNature47, >> .\items\materia\class0020\Nature47.dbr
+echo description,dailCompDescNature48, >> .\items\materia\class0020\Nature48.dbr
+echo description,dailCompDescNature49, >> .\items\materia\class0020\Nature49.dbr
+echo description,dailCompDescNature50, >> .\items\materia\class0020\Nature50.dbr
+echo description,dailCompDescNature51, >> .\items\materia\class0020\Nature51.dbr
+echo description,dailCompDescNature52, >> .\items\materia\class0020\Nature52.dbr
+echo description,dailCompDescNature53, >> .\items\materia\class0020\Nature53.dbr
+echo description,dailCompDescNature54, >> .\items\materia\class0020\Nature54.dbr
+echo description,dailCompDescNature55, >> .\items\materia\class0020\Nature55.dbr
+echo description,dailCompDescNature56, >> .\items\materia\class0020\Nature56.dbr
+echo description,dailCompDescNature57, >> .\items\materia\class0020\Nature57.dbr
+echo description,dailCompDescNature58, >> .\items\materia\class0020\Nature58.dbr
+echo description,dailCompDescNature59, >> .\items\materia\class0020\Nature59.dbr
+echo description,dailCompDescNature60, >> .\items\materia\class0020\Nature60.dbr
+echo description,dailCompDescNature61, >> .\items\materia\class0020\Nature61.dbr
+echo description,dailCompDescNature62, >> .\items\materia\class0020\Nature62.dbr
+echo description,dailCompDescNature63, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextNature1, >> .\items\materia\class0020\Nature1.dbr
+echo itemText,dailCompTextNature2, >> .\items\materia\class0020\Nature2.dbr
+echo itemText,dailCompTextNature3, >> .\items\materia\class0020\Nature3.dbr
+echo itemText,dailCompTextNature4, >> .\items\materia\class0020\Nature4.dbr
+echo itemText,dailCompTextNature5, >> .\items\materia\class0020\Nature5.dbr
+echo itemText,dailCompTextNature6, >> .\items\materia\class0020\Nature6.dbr
+echo itemText,dailCompTextNature7, >> .\items\materia\class0020\Nature7.dbr
+echo itemText,dailCompTextNature8, >> .\items\materia\class0020\Nature8.dbr
+echo itemText,dailCompTextNature9, >> .\items\materia\class0020\Nature9.dbr
+echo itemText,dailCompTextNature10, >> .\items\materia\class0020\Nature10.dbr
+echo itemText,dailCompTextNature11, >> .\items\materia\class0020\Nature11.dbr
+echo itemText,dailCompTextNature12, >> .\items\materia\class0020\Nature12.dbr
+echo itemText,dailCompTextNature13, >> .\items\materia\class0020\Nature13.dbr
+echo itemText,dailCompTextNature14, >> .\items\materia\class0020\Nature14.dbr
+echo itemText,dailCompTextNature15, >> .\items\materia\class0020\Nature15.dbr
+echo itemText,dailCompTextNature16, >> .\items\materia\class0020\Nature16.dbr
+echo itemText,dailCompTextNature17, >> .\items\materia\class0020\Nature17.dbr
+echo itemText,dailCompTextNature18, >> .\items\materia\class0020\Nature18.dbr
+echo itemText,dailCompTextNature19, >> .\items\materia\class0020\Nature19.dbr
+echo itemText,dailCompTextNature20, >> .\items\materia\class0020\Nature20.dbr
+echo itemText,dailCompTextNature21, >> .\items\materia\class0020\Nature21.dbr
+echo itemText,dailCompTextNature22, >> .\items\materia\class0020\Nature22.dbr
+echo itemText,dailCompTextNature23, >> .\items\materia\class0020\Nature23.dbr
+echo itemText,dailCompTextNature24, >> .\items\materia\class0020\Nature24.dbr
+echo itemText,dailCompTextNature25, >> .\items\materia\class0020\Nature25.dbr
+echo itemText,dailCompTextNature26, >> .\items\materia\class0020\Nature26.dbr
+echo itemText,dailCompTextNature27, >> .\items\materia\class0020\Nature27.dbr
+echo itemText,dailCompTextNature28, >> .\items\materia\class0020\Nature28.dbr
+echo itemText,dailCompTextNature29, >> .\items\materia\class0020\Nature29.dbr
+echo itemText,dailCompTextNature30, >> .\items\materia\class0020\Nature30.dbr
+echo itemText,dailCompTextNature31, >> .\items\materia\class0020\Nature31.dbr
+echo itemText,dailCompTextNature32, >> .\items\materia\class0020\Nature32.dbr
+echo itemText,dailCompTextNature33, >> .\items\materia\class0020\Nature33.dbr
+echo itemText,dailCompTextNature34, >> .\items\materia\class0020\Nature34.dbr
+echo itemText,dailCompTextNature35, >> .\items\materia\class0020\Nature35.dbr
+echo itemText,dailCompTextNature36, >> .\items\materia\class0020\Nature36.dbr
+echo itemText,dailCompTextNature37, >> .\items\materia\class0020\Nature37.dbr
+echo itemText,dailCompTextNature38, >> .\items\materia\class0020\Nature38.dbr
+echo itemText,dailCompTextNature39, >> .\items\materia\class0020\Nature39.dbr
+echo itemText,dailCompTextNature40, >> .\items\materia\class0020\Nature40.dbr
+echo itemText,dailCompTextNature41, >> .\items\materia\class0020\Nature41.dbr
+echo itemText,dailCompTextNature42, >> .\items\materia\class0020\Nature42.dbr
+echo itemText,dailCompTextNature43, >> .\items\materia\class0020\Nature43.dbr
+echo itemText,dailCompTextNature44, >> .\items\materia\class0020\Nature44.dbr
+echo itemText,dailCompTextNature45, >> .\items\materia\class0020\Nature45.dbr
+echo itemText,dailCompTextNature46, >> .\items\materia\class0020\Nature46.dbr
+echo itemText,dailCompTextNature47, >> .\items\materia\class0020\Nature47.dbr
+echo itemText,dailCompTextNature48, >> .\items\materia\class0020\Nature48.dbr
+echo itemText,dailCompTextNature49, >> .\items\materia\class0020\Nature49.dbr
+echo itemText,dailCompTextNature50, >> .\items\materia\class0020\Nature50.dbr
+echo itemText,dailCompTextNature51, >> .\items\materia\class0020\Nature51.dbr
+echo itemText,dailCompTextNature52, >> .\items\materia\class0020\Nature52.dbr
+echo itemText,dailCompTextNature53, >> .\items\materia\class0020\Nature53.dbr
+echo itemText,dailCompTextNature54, >> .\items\materia\class0020\Nature54.dbr
+echo itemText,dailCompTextNature55, >> .\items\materia\class0020\Nature55.dbr
+echo itemText,dailCompTextNature56, >> .\items\materia\class0020\Nature56.dbr
+echo itemText,dailCompTextNature57, >> .\items\materia\class0020\Nature57.dbr
+echo itemText,dailCompTextNature58, >> .\items\materia\class0020\Nature58.dbr
+echo itemText,dailCompTextNature59, >> .\items\materia\class0020\Nature59.dbr
+echo itemText,dailCompTextNature60, >> .\items\materia\class0020\Nature60.dbr
+echo itemText,dailCompTextNature61, >> .\items\materia\class0020\Nature61.dbr
+echo itemText,dailCompTextNature62, >> .\items\materia\class0020\Nature62.dbr
+echo itemText,dailCompTextNature63, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0020\Nature1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0020\Nature2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0020\Nature3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0020\Nature22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0020\Nature42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsnature/naturemastery.dbr,, >> .\items\materia\class0020\Nature1.dbr
+echo augmentMasteryName1,records/skillsnature/naturemastery.dbr,, >> .\items\materia\class0020\Nature2.dbr
+echo augmentMasteryName1,records/skillsnature/naturemastery.dbr,, >> .\items\materia\class0020\Nature3.dbr
+echo augmentSkillName1,records/skillsnature/regrowth.dbr,, >> .\items\materia\class0020\Nature4.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_acceleratedgrowth.dbr,, >> .\items\materia\class0020\Nature5.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_dissemination.dbr,, >> .\items\materia\class0020\Nature6.dbr
+echo augmentSkillName1,records/skillsnature/briarward.dbr,, >> .\items\materia\class0020\Nature7.dbr
+echo augmentSkillName1,records/skillsnature/briarward_petmodifier_stingingnettle.dbr,, >> .\items\materia\class0020\Nature8.dbr
+echo augmentSkillName1,records/skillsnature/briarward_sanctuary.dbr,, >> .\items\materia\class0020\Nature9.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak.dbr,, >> .\items\materia\class0020\Nature10.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_tranquility.dbr,, >> .\items\materia\class0020\Nature11.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_permanence.dbr,, >> .\items\materia\class0020\Nature12.dbr
+echo augmentSkillName1,records/skillsnature/plague.dbr,, >> .\items\materia\class0020\Nature13.dbr
+echo augmentSkillName1,records/skillsnature/plague_fatigue.dbr,, >> .\items\materia\class0020\Nature14.dbr
+echo augmentSkillName1,records/skillsnature/plague_susceptibility.dbr,, >> .\items\materia\class0020\Nature15.dbr
+echo augmentSkillName1,records/skillsnature/wolfsummons.dbr,, >> .\items\materia\class0020\Nature16.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_maul.dbr,, >> .\items\materia\class0020\Nature17.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_survivalinstinct.dbr,, >> .\items\materia\class0020\Nature18.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifier_strengthofthepack.dbr,, >> .\items\materia\class0020\Nature19.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymphsummons.dbr,, >> .\items\materia\class0020\Nature20.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_overgrowth.dbr,, >> .\items\materia\class0020\Nature21.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_nature'swrath.dbr,, >> .\items\materia\class0020\Nature22.dbr
+echo augmentSkillName1,records/skillsnature/renewal.dbr,, >> .\items\materia\class0020\Nature23.dbr
+echo augmentSkillName1,records/skillsnature/regrowth.dbr,, >> .\items\materia\class0020\Nature24.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_acceleratedgrowth.dbr,, >> .\items\materia\class0020\Nature25.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_dissemination.dbr,, >> .\items\materia\class0020\Nature26.dbr
+echo augmentSkillName1,records/skillsnature/briarward.dbr,, >> .\items\materia\class0020\Nature27.dbr
+echo augmentSkillName1,records/skillsnature/briarward_petmodifier_stingingnettle.dbr,, >> .\items\materia\class0020\Nature28.dbr
+echo augmentSkillName1,records/skillsnature/briarward_sanctuary.dbr,, >> .\items\materia\class0020\Nature29.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak.dbr,, >> .\items\materia\class0020\Nature30.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_tranquility.dbr,, >> .\items\materia\class0020\Nature31.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_permanence.dbr,, >> .\items\materia\class0020\Nature32.dbr
+echo augmentSkillName1,records/skillsnature/plague.dbr,, >> .\items\materia\class0020\Nature33.dbr
+echo augmentSkillName1,records/skillsnature/plague_fatigue.dbr,, >> .\items\materia\class0020\Nature34.dbr
+echo augmentSkillName1,records/skillsnature/plague_susceptibility.dbr,, >> .\items\materia\class0020\Nature35.dbr
+echo augmentSkillName1,records/skillsnature/wolfsummons.dbr,, >> .\items\materia\class0020\Nature36.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_maul.dbr,, >> .\items\materia\class0020\Nature37.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_survivalinstinct.dbr,, >> .\items\materia\class0020\Nature38.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifier_strengthofthepack.dbr,, >> .\items\materia\class0020\Nature39.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymphsummons.dbr,, >> .\items\materia\class0020\Nature40.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_overgrowth.dbr,, >> .\items\materia\class0020\Nature41.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_nature'swrath.dbr,, >> .\items\materia\class0020\Nature42.dbr
+echo augmentSkillName1,records/skillsnature/renewal.dbr,, >> .\items\materia\class0020\Nature43.dbr
+echo augmentSkillName1,records/skillsnature/regrowth.dbr,, >> .\items\materia\class0020\Nature44.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_acceleratedgrowth.dbr,, >> .\items\materia\class0020\Nature45.dbr
+echo augmentSkillName1,records/skillsnature/regrowth_dissemination.dbr,, >> .\items\materia\class0020\Nature46.dbr
+echo augmentSkillName1,records/skillsnature/briarward.dbr,, >> .\items\materia\class0020\Nature47.dbr
+echo augmentSkillName1,records/skillsnature/briarward_petmodifier_stingingnettle.dbr,, >> .\items\materia\class0020\Nature48.dbr
+echo augmentSkillName1,records/skillsnature/briarward_sanctuary.dbr,, >> .\items\materia\class0020\Nature49.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak.dbr,, >> .\items\materia\class0020\Nature50.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_tranquility.dbr,, >> .\items\materia\class0020\Nature51.dbr
+echo augmentSkillName1,records/skillsnature/heartofoak_permanence.dbr,, >> .\items\materia\class0020\Nature52.dbr
+echo augmentSkillName1,records/skillsnature/plague.dbr,, >> .\items\materia\class0020\Nature53.dbr
+echo augmentSkillName1,records/skillsnature/plague_fatigue.dbr,, >> .\items\materia\class0020\Nature54.dbr
+echo augmentSkillName1,records/skillsnature/plague_susceptibility.dbr,, >> .\items\materia\class0020\Nature55.dbr
+echo augmentSkillName1,records/skillsnature/wolfsummons.dbr,, >> .\items\materia\class0020\Nature56.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_maul.dbr,, >> .\items\materia\class0020\Nature57.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifer_survivalinstinct.dbr,, >> .\items\materia\class0020\Nature58.dbr
+echo augmentSkillName1,records/skillsnature/wolf_petmodifier_strengthofthepack.dbr,, >> .\items\materia\class0020\Nature59.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymphsummons.dbr,, >> .\items\materia\class0020\Nature60.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_overgrowth.dbr,, >> .\items\materia\class0020\Nature61.dbr
+echo augmentSkillName1,records/skillsnature/sylvannymph_petmodifier_nature'swrath.dbr,, >> .\items\materia\class0020\Nature62.dbr
+echo augmentSkillName1,records/skillsnature/renewal.dbr,, >> .\items\materia\class0020\Nature63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0021\Rogue1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0021\Rogue2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0021\Rogue3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0021\Rogue22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0021\Rogue63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0021\Rogue1.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue2.dbr
+echo itemCost,600000, >> .\items\materia\class0021\Rogue3.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue4.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue5.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue6.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue7.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue8.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue9.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue10.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue11.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue12.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue13.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue14.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue15.dbr
+echo itemCost,100000, >> .\items\materia\class0021\Rogue16.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue17.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue18.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue19.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue20.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue21.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue22.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue23.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue24.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue25.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue26.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue27.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue28.dbr
+echo itemCost,300000, >> .\items\materia\class0021\Rogue29.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue30.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue31.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue32.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue33.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue34.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue35.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue36.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue37.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue38.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue39.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue40.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue41.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue42.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue43.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue44.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue45.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue46.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue47.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue48.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue49.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue50.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue51.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue52.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue53.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue54.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue55.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue56.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue57.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue58.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue59.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue60.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue61.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue62.dbr
+echo itemCost,500000, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescRogue1, >> .\items\materia\class0021\Rogue1.dbr
+echo description,dailCompDescRogue2, >> .\items\materia\class0021\Rogue2.dbr
+echo description,dailCompDescRogue3, >> .\items\materia\class0021\Rogue3.dbr
+echo description,dailCompDescRogue4, >> .\items\materia\class0021\Rogue4.dbr
+echo description,dailCompDescRogue5, >> .\items\materia\class0021\Rogue5.dbr
+echo description,dailCompDescRogue6, >> .\items\materia\class0021\Rogue6.dbr
+echo description,dailCompDescRogue7, >> .\items\materia\class0021\Rogue7.dbr
+echo description,dailCompDescRogue8, >> .\items\materia\class0021\Rogue8.dbr
+echo description,dailCompDescRogue9, >> .\items\materia\class0021\Rogue9.dbr
+echo description,dailCompDescRogue10, >> .\items\materia\class0021\Rogue10.dbr
+echo description,dailCompDescRogue11, >> .\items\materia\class0021\Rogue11.dbr
+echo description,dailCompDescRogue12, >> .\items\materia\class0021\Rogue12.dbr
+echo description,dailCompDescRogue13, >> .\items\materia\class0021\Rogue13.dbr
+echo description,dailCompDescRogue14, >> .\items\materia\class0021\Rogue14.dbr
+echo description,dailCompDescRogue15, >> .\items\materia\class0021\Rogue15.dbr
+echo description,dailCompDescRogue16, >> .\items\materia\class0021\Rogue16.dbr
+echo description,dailCompDescRogue17, >> .\items\materia\class0021\Rogue17.dbr
+echo description,dailCompDescRogue18, >> .\items\materia\class0021\Rogue18.dbr
+echo description,dailCompDescRogue19, >> .\items\materia\class0021\Rogue19.dbr
+echo description,dailCompDescRogue20, >> .\items\materia\class0021\Rogue20.dbr
+echo description,dailCompDescRogue21, >> .\items\materia\class0021\Rogue21.dbr
+echo description,dailCompDescRogue22, >> .\items\materia\class0021\Rogue22.dbr
+echo description,dailCompDescRogue23, >> .\items\materia\class0021\Rogue23.dbr
+echo description,dailCompDescRogue24, >> .\items\materia\class0021\Rogue24.dbr
+echo description,dailCompDescRogue25, >> .\items\materia\class0021\Rogue25.dbr
+echo description,dailCompDescRogue26, >> .\items\materia\class0021\Rogue26.dbr
+echo description,dailCompDescRogue27, >> .\items\materia\class0021\Rogue27.dbr
+echo description,dailCompDescRogue28, >> .\items\materia\class0021\Rogue28.dbr
+echo description,dailCompDescRogue29, >> .\items\materia\class0021\Rogue29.dbr
+echo description,dailCompDescRogue30, >> .\items\materia\class0021\Rogue30.dbr
+echo description,dailCompDescRogue31, >> .\items\materia\class0021\Rogue31.dbr
+echo description,dailCompDescRogue32, >> .\items\materia\class0021\Rogue32.dbr
+echo description,dailCompDescRogue33, >> .\items\materia\class0021\Rogue33.dbr
+echo description,dailCompDescRogue34, >> .\items\materia\class0021\Rogue34.dbr
+echo description,dailCompDescRogue35, >> .\items\materia\class0021\Rogue35.dbr
+echo description,dailCompDescRogue36, >> .\items\materia\class0021\Rogue36.dbr
+echo description,dailCompDescRogue37, >> .\items\materia\class0021\Rogue37.dbr
+echo description,dailCompDescRogue38, >> .\items\materia\class0021\Rogue38.dbr
+echo description,dailCompDescRogue39, >> .\items\materia\class0021\Rogue39.dbr
+echo description,dailCompDescRogue40, >> .\items\materia\class0021\Rogue40.dbr
+echo description,dailCompDescRogue41, >> .\items\materia\class0021\Rogue41.dbr
+echo description,dailCompDescRogue42, >> .\items\materia\class0021\Rogue42.dbr
+echo description,dailCompDescRogue43, >> .\items\materia\class0021\Rogue43.dbr
+echo description,dailCompDescRogue44, >> .\items\materia\class0021\Rogue44.dbr
+echo description,dailCompDescRogue45, >> .\items\materia\class0021\Rogue45.dbr
+echo description,dailCompDescRogue46, >> .\items\materia\class0021\Rogue46.dbr
+echo description,dailCompDescRogue47, >> .\items\materia\class0021\Rogue47.dbr
+echo description,dailCompDescRogue48, >> .\items\materia\class0021\Rogue48.dbr
+echo description,dailCompDescRogue49, >> .\items\materia\class0021\Rogue49.dbr
+echo description,dailCompDescRogue50, >> .\items\materia\class0021\Rogue50.dbr
+echo description,dailCompDescRogue51, >> .\items\materia\class0021\Rogue51.dbr
+echo description,dailCompDescRogue52, >> .\items\materia\class0021\Rogue52.dbr
+echo description,dailCompDescRogue53, >> .\items\materia\class0021\Rogue53.dbr
+echo description,dailCompDescRogue54, >> .\items\materia\class0021\Rogue54.dbr
+echo description,dailCompDescRogue55, >> .\items\materia\class0021\Rogue55.dbr
+echo description,dailCompDescRogue56, >> .\items\materia\class0021\Rogue56.dbr
+echo description,dailCompDescRogue57, >> .\items\materia\class0021\Rogue57.dbr
+echo description,dailCompDescRogue58, >> .\items\materia\class0021\Rogue58.dbr
+echo description,dailCompDescRogue59, >> .\items\materia\class0021\Rogue59.dbr
+echo description,dailCompDescRogue60, >> .\items\materia\class0021\Rogue60.dbr
+echo description,dailCompDescRogue61, >> .\items\materia\class0021\Rogue61.dbr
+echo description,dailCompDescRogue62, >> .\items\materia\class0021\Rogue62.dbr
+echo description,dailCompDescRogue63, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextRogue1, >> .\items\materia\class0021\Rogue1.dbr
+echo itemText,dailCompTextRogue2, >> .\items\materia\class0021\Rogue2.dbr
+echo itemText,dailCompTextRogue3, >> .\items\materia\class0021\Rogue3.dbr
+echo itemText,dailCompTextRogue4, >> .\items\materia\class0021\Rogue4.dbr
+echo itemText,dailCompTextRogue5, >> .\items\materia\class0021\Rogue5.dbr
+echo itemText,dailCompTextRogue6, >> .\items\materia\class0021\Rogue6.dbr
+echo itemText,dailCompTextRogue7, >> .\items\materia\class0021\Rogue7.dbr
+echo itemText,dailCompTextRogue8, >> .\items\materia\class0021\Rogue8.dbr
+echo itemText,dailCompTextRogue9, >> .\items\materia\class0021\Rogue9.dbr
+echo itemText,dailCompTextRogue10, >> .\items\materia\class0021\Rogue10.dbr
+echo itemText,dailCompTextRogue11, >> .\items\materia\class0021\Rogue11.dbr
+echo itemText,dailCompTextRogue12, >> .\items\materia\class0021\Rogue12.dbr
+echo itemText,dailCompTextRogue13, >> .\items\materia\class0021\Rogue13.dbr
+echo itemText,dailCompTextRogue14, >> .\items\materia\class0021\Rogue14.dbr
+echo itemText,dailCompTextRogue15, >> .\items\materia\class0021\Rogue15.dbr
+echo itemText,dailCompTextRogue16, >> .\items\materia\class0021\Rogue16.dbr
+echo itemText,dailCompTextRogue17, >> .\items\materia\class0021\Rogue17.dbr
+echo itemText,dailCompTextRogue18, >> .\items\materia\class0021\Rogue18.dbr
+echo itemText,dailCompTextRogue19, >> .\items\materia\class0021\Rogue19.dbr
+echo itemText,dailCompTextRogue20, >> .\items\materia\class0021\Rogue20.dbr
+echo itemText,dailCompTextRogue21, >> .\items\materia\class0021\Rogue21.dbr
+echo itemText,dailCompTextRogue22, >> .\items\materia\class0021\Rogue22.dbr
+echo itemText,dailCompTextRogue23, >> .\items\materia\class0021\Rogue23.dbr
+echo itemText,dailCompTextRogue24, >> .\items\materia\class0021\Rogue24.dbr
+echo itemText,dailCompTextRogue25, >> .\items\materia\class0021\Rogue25.dbr
+echo itemText,dailCompTextRogue26, >> .\items\materia\class0021\Rogue26.dbr
+echo itemText,dailCompTextRogue27, >> .\items\materia\class0021\Rogue27.dbr
+echo itemText,dailCompTextRogue28, >> .\items\materia\class0021\Rogue28.dbr
+echo itemText,dailCompTextRogue29, >> .\items\materia\class0021\Rogue29.dbr
+echo itemText,dailCompTextRogue30, >> .\items\materia\class0021\Rogue30.dbr
+echo itemText,dailCompTextRogue31, >> .\items\materia\class0021\Rogue31.dbr
+echo itemText,dailCompTextRogue32, >> .\items\materia\class0021\Rogue32.dbr
+echo itemText,dailCompTextRogue33, >> .\items\materia\class0021\Rogue33.dbr
+echo itemText,dailCompTextRogue34, >> .\items\materia\class0021\Rogue34.dbr
+echo itemText,dailCompTextRogue35, >> .\items\materia\class0021\Rogue35.dbr
+echo itemText,dailCompTextRogue36, >> .\items\materia\class0021\Rogue36.dbr
+echo itemText,dailCompTextRogue37, >> .\items\materia\class0021\Rogue37.dbr
+echo itemText,dailCompTextRogue38, >> .\items\materia\class0021\Rogue38.dbr
+echo itemText,dailCompTextRogue39, >> .\items\materia\class0021\Rogue39.dbr
+echo itemText,dailCompTextRogue40, >> .\items\materia\class0021\Rogue40.dbr
+echo itemText,dailCompTextRogue41, >> .\items\materia\class0021\Rogue41.dbr
+echo itemText,dailCompTextRogue42, >> .\items\materia\class0021\Rogue42.dbr
+echo itemText,dailCompTextRogue43, >> .\items\materia\class0021\Rogue43.dbr
+echo itemText,dailCompTextRogue44, >> .\items\materia\class0021\Rogue44.dbr
+echo itemText,dailCompTextRogue45, >> .\items\materia\class0021\Rogue45.dbr
+echo itemText,dailCompTextRogue46, >> .\items\materia\class0021\Rogue46.dbr
+echo itemText,dailCompTextRogue47, >> .\items\materia\class0021\Rogue47.dbr
+echo itemText,dailCompTextRogue48, >> .\items\materia\class0021\Rogue48.dbr
+echo itemText,dailCompTextRogue49, >> .\items\materia\class0021\Rogue49.dbr
+echo itemText,dailCompTextRogue50, >> .\items\materia\class0021\Rogue50.dbr
+echo itemText,dailCompTextRogue51, >> .\items\materia\class0021\Rogue51.dbr
+echo itemText,dailCompTextRogue52, >> .\items\materia\class0021\Rogue52.dbr
+echo itemText,dailCompTextRogue53, >> .\items\materia\class0021\Rogue53.dbr
+echo itemText,dailCompTextRogue54, >> .\items\materia\class0021\Rogue54.dbr
+echo itemText,dailCompTextRogue55, >> .\items\materia\class0021\Rogue55.dbr
+echo itemText,dailCompTextRogue56, >> .\items\materia\class0021\Rogue56.dbr
+echo itemText,dailCompTextRogue57, >> .\items\materia\class0021\Rogue57.dbr
+echo itemText,dailCompTextRogue58, >> .\items\materia\class0021\Rogue58.dbr
+echo itemText,dailCompTextRogue59, >> .\items\materia\class0021\Rogue59.dbr
+echo itemText,dailCompTextRogue60, >> .\items\materia\class0021\Rogue60.dbr
+echo itemText,dailCompTextRogue61, >> .\items\materia\class0021\Rogue61.dbr
+echo itemText,dailCompTextRogue62, >> .\items\materia\class0021\Rogue62.dbr
+echo itemText,dailCompTextRogue63, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0021\Rogue1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0021\Rogue2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0021\Rogue3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0021\Rogue22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0021\Rogue42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsstealth/stealthmastery.dbr,, >> .\items\materia\class0021\Rogue1.dbr
+echo augmentMasteryName1,records/skillsstealth/stealthmastery.dbr,, >> .\items\materia\class0021\Rogue2.dbr
+echo augmentMasteryName1,records/skillsstealth/stealthmastery.dbr,, >> .\items\materia\class0021\Rogue3.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon.dbr,, >> .\items\materia\class0021\Rogue4.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_neurotoxin.dbr,, >> .\items\materia\class0021\Rogue5.dbr
+echo augmentSkillName1,records/skillsstealth/toxindistillation.dbr,, >> .\items\materia\class0021\Rogue6.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_delirium.dbr,, >> .\items\materia\class0021\Rogue7.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike.dbr,, >> .\items\materia\class0021\Rogue8.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike_luckyhit.dbr,, >> .\items\materia\class0021\Rogue9.dbr
+echo augmentSkillName1,records/skillsstealth/openwound.dbr,, >> .\items\materia\class0021\Rogue10.dbr
+echo augmentSkillName1,records/skillsstealth/anatomy.dbr,, >> .\items\materia\class0021\Rogue11.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife.dbr,, >> .\items\materia\class0021\Rogue12.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife_flurryofknives.dbr,, >> .\items\materia\class0021\Rogue13.dbr
+echo augmentSkillName1,records/skillsstealth/bladehoning.dbr,, >> .\items\materia\class0021\Rogue14.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike.dbr,, >> .\items\materia\class0021\Rogue15.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike_mortalwound.dbr,, >> .\items\materia\class0021\Rogue16.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb.dbr,, >> .\items\materia\class0021\Rogue17.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb_shrapnel.dbr,, >> .\items\materia\class0021\Rogue18.dbr
+echo augmentSkillName1,records/skillsstealth/disarmtraps.dbr,, >> .\items\materia\class0021\Rogue19.dbr
+echo augmentSkillName1,records/skillsstealth/flashpowder.dbr,, >> .\items\materia\class0021\Rogue20.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap.dbr,, >> .\items\materia\class0021\Rogue21.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_rapidconstruction.dbr,, >> .\items\materia\class0021\Rogue22.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_petmodifier_multishotbolttrap.dbr,, >> .\items\materia\class0021\Rogue23.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon.dbr,, >> .\items\materia\class0021\Rogue24.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_neurotoxin.dbr,, >> .\items\materia\class0021\Rogue25.dbr
+echo augmentSkillName1,records/skillsstealth/toxindistillation.dbr,, >> .\items\materia\class0021\Rogue26.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_delirium.dbr,, >> .\items\materia\class0021\Rogue27.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike.dbr,, >> .\items\materia\class0021\Rogue28.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike_luckyhit.dbr,, >> .\items\materia\class0021\Rogue29.dbr
+echo augmentSkillName1,records/skillsstealth/openwound.dbr,, >> .\items\materia\class0021\Rogue30.dbr
+echo augmentSkillName1,records/skillsstealth/anatomy.dbr,, >> .\items\materia\class0021\Rogue31.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife.dbr,, >> .\items\materia\class0021\Rogue32.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife_flurryofknives.dbr,, >> .\items\materia\class0021\Rogue33.dbr
+echo augmentSkillName1,records/skillsstealth/bladehoning.dbr,, >> .\items\materia\class0021\Rogue34.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike.dbr,, >> .\items\materia\class0021\Rogue35.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike_mortalwound.dbr,, >> .\items\materia\class0021\Rogue36.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb.dbr,, >> .\items\materia\class0021\Rogue37.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb_shrapnel.dbr,, >> .\items\materia\class0021\Rogue38.dbr
+echo augmentSkillName1,records/skillsstealth/disarmtraps.dbr,, >> .\items\materia\class0021\Rogue39.dbr
+echo augmentSkillName1,records/skillsstealth/flashpowder.dbr,, >> .\items\materia\class0021\Rogue40.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap.dbr,, >> .\items\materia\class0021\Rogue41.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_rapidconstruction.dbr,, >> .\items\materia\class0021\Rogue42.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_petmodifier_multishotbolttrap.dbr,, >> .\items\materia\class0021\Rogue43.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon.dbr,, >> .\items\materia\class0021\Rogue44.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_neurotoxin.dbr,, >> .\items\materia\class0021\Rogue45.dbr
+echo augmentSkillName1,records/skillsstealth/toxindistillation.dbr,, >> .\items\materia\class0021\Rogue46.dbr
+echo augmentSkillName1,records/skillsstealth/envenomweapon_delirium.dbr,, >> .\items\materia\class0021\Rogue47.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike.dbr,, >> .\items\materia\class0021\Rogue48.dbr
+echo augmentSkillName1,records/skillsstealth/calculatedstrike_luckyhit.dbr,, >> .\items\materia\class0021\Rogue49.dbr
+echo augmentSkillName1,records/skillsstealth/openwound.dbr,, >> .\items\materia\class0021\Rogue50.dbr
+echo augmentSkillName1,records/skillsstealth/anatomy.dbr,, >> .\items\materia\class0021\Rogue51.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife.dbr,, >> .\items\materia\class0021\Rogue52.dbr
+echo augmentSkillName1,records/skillsstealth/throwingknife_flurryofknives.dbr,, >> .\items\materia\class0021\Rogue53.dbr
+echo augmentSkillName1,records/skillsstealth/bladehoning.dbr,, >> .\items\materia\class0021\Rogue54.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike.dbr,, >> .\items\materia\class0021\Rogue55.dbr
+echo augmentSkillName1,records/skillsstealth/lethalstrike_mortalwound.dbr,, >> .\items\materia\class0021\Rogue56.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb.dbr,, >> .\items\materia\class0021\Rogue57.dbr
+echo augmentSkillName1,records/skillsstealth/poisongasbomb_shrapnel.dbr,, >> .\items\materia\class0021\Rogue58.dbr
+echo augmentSkillName1,records/skillsstealth/disarmtraps.dbr,, >> .\items\materia\class0021\Rogue59.dbr
+echo augmentSkillName1,records/skillsstealth/flashpowder.dbr,, >> .\items\materia\class0021\Rogue60.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap.dbr,, >> .\items\materia\class0021\Rogue61.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_rapidconstruction.dbr,, >> .\items\materia\class0021\Rogue62.dbr
+echo augmentSkillName1,records/skillsstealth/laytrap_petmodifier_multishotbolttrap.dbr,, >> .\items\materia\class0021\Rogue63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0022\Earth1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0022\Earth2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0022\Earth3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0022\Earth22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0022\Earth63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0022\Earth1.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth2.dbr
+echo itemCost,600000, >> .\items\materia\class0022\Earth3.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth4.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth5.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth6.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth7.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth8.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth9.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth10.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth11.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth12.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth13.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth14.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth15.dbr
+echo itemCost,100000, >> .\items\materia\class0022\Earth16.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth17.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth18.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth19.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth20.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth21.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth22.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth23.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth24.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth25.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth26.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth27.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth28.dbr
+echo itemCost,300000, >> .\items\materia\class0022\Earth29.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth30.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth31.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth32.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth33.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth34.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth35.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth36.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth37.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth38.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth39.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth40.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth41.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth42.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth43.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth44.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth45.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth46.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth47.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth48.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth49.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth50.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth51.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth52.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth53.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth54.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth55.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth56.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth57.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth58.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth59.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth60.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth61.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth62.dbr
+echo itemCost,500000, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescEarth1, >> .\items\materia\class0022\Earth1.dbr
+echo description,dailCompDescEarth2, >> .\items\materia\class0022\Earth2.dbr
+echo description,dailCompDescEarth3, >> .\items\materia\class0022\Earth3.dbr
+echo description,dailCompDescEarth4, >> .\items\materia\class0022\Earth4.dbr
+echo description,dailCompDescEarth5, >> .\items\materia\class0022\Earth5.dbr
+echo description,dailCompDescEarth6, >> .\items\materia\class0022\Earth6.dbr
+echo description,dailCompDescEarth7, >> .\items\materia\class0022\Earth7.dbr
+echo description,dailCompDescEarth8, >> .\items\materia\class0022\Earth8.dbr
+echo description,dailCompDescEarth9, >> .\items\materia\class0022\Earth9.dbr
+echo description,dailCompDescEarth10, >> .\items\materia\class0022\Earth10.dbr
+echo description,dailCompDescEarth11, >> .\items\materia\class0022\Earth11.dbr
+echo description,dailCompDescEarth12, >> .\items\materia\class0022\Earth12.dbr
+echo description,dailCompDescEarth13, >> .\items\materia\class0022\Earth13.dbr
+echo description,dailCompDescEarth14, >> .\items\materia\class0022\Earth14.dbr
+echo description,dailCompDescEarth15, >> .\items\materia\class0022\Earth15.dbr
+echo description,dailCompDescEarth16, >> .\items\materia\class0022\Earth16.dbr
+echo description,dailCompDescEarth17, >> .\items\materia\class0022\Earth17.dbr
+echo description,dailCompDescEarth18, >> .\items\materia\class0022\Earth18.dbr
+echo description,dailCompDescEarth19, >> .\items\materia\class0022\Earth19.dbr
+echo description,dailCompDescEarth20, >> .\items\materia\class0022\Earth20.dbr
+echo description,dailCompDescEarth21, >> .\items\materia\class0022\Earth21.dbr
+echo description,dailCompDescEarth22, >> .\items\materia\class0022\Earth22.dbr
+echo description,dailCompDescEarth23, >> .\items\materia\class0022\Earth23.dbr
+echo description,dailCompDescEarth24, >> .\items\materia\class0022\Earth24.dbr
+echo description,dailCompDescEarth25, >> .\items\materia\class0022\Earth25.dbr
+echo description,dailCompDescEarth26, >> .\items\materia\class0022\Earth26.dbr
+echo description,dailCompDescEarth27, >> .\items\materia\class0022\Earth27.dbr
+echo description,dailCompDescEarth28, >> .\items\materia\class0022\Earth28.dbr
+echo description,dailCompDescEarth29, >> .\items\materia\class0022\Earth29.dbr
+echo description,dailCompDescEarth30, >> .\items\materia\class0022\Earth30.dbr
+echo description,dailCompDescEarth31, >> .\items\materia\class0022\Earth31.dbr
+echo description,dailCompDescEarth32, >> .\items\materia\class0022\Earth32.dbr
+echo description,dailCompDescEarth33, >> .\items\materia\class0022\Earth33.dbr
+echo description,dailCompDescEarth34, >> .\items\materia\class0022\Earth34.dbr
+echo description,dailCompDescEarth35, >> .\items\materia\class0022\Earth35.dbr
+echo description,dailCompDescEarth36, >> .\items\materia\class0022\Earth36.dbr
+echo description,dailCompDescEarth37, >> .\items\materia\class0022\Earth37.dbr
+echo description,dailCompDescEarth38, >> .\items\materia\class0022\Earth38.dbr
+echo description,dailCompDescEarth39, >> .\items\materia\class0022\Earth39.dbr
+echo description,dailCompDescEarth40, >> .\items\materia\class0022\Earth40.dbr
+echo description,dailCompDescEarth41, >> .\items\materia\class0022\Earth41.dbr
+echo description,dailCompDescEarth42, >> .\items\materia\class0022\Earth42.dbr
+echo description,dailCompDescEarth43, >> .\items\materia\class0022\Earth43.dbr
+echo description,dailCompDescEarth44, >> .\items\materia\class0022\Earth44.dbr
+echo description,dailCompDescEarth45, >> .\items\materia\class0022\Earth45.dbr
+echo description,dailCompDescEarth46, >> .\items\materia\class0022\Earth46.dbr
+echo description,dailCompDescEarth47, >> .\items\materia\class0022\Earth47.dbr
+echo description,dailCompDescEarth48, >> .\items\materia\class0022\Earth48.dbr
+echo description,dailCompDescEarth49, >> .\items\materia\class0022\Earth49.dbr
+echo description,dailCompDescEarth50, >> .\items\materia\class0022\Earth50.dbr
+echo description,dailCompDescEarth51, >> .\items\materia\class0022\Earth51.dbr
+echo description,dailCompDescEarth52, >> .\items\materia\class0022\Earth52.dbr
+echo description,dailCompDescEarth53, >> .\items\materia\class0022\Earth53.dbr
+echo description,dailCompDescEarth54, >> .\items\materia\class0022\Earth54.dbr
+echo description,dailCompDescEarth55, >> .\items\materia\class0022\Earth55.dbr
+echo description,dailCompDescEarth56, >> .\items\materia\class0022\Earth56.dbr
+echo description,dailCompDescEarth57, >> .\items\materia\class0022\Earth57.dbr
+echo description,dailCompDescEarth58, >> .\items\materia\class0022\Earth58.dbr
+echo description,dailCompDescEarth59, >> .\items\materia\class0022\Earth59.dbr
+echo description,dailCompDescEarth60, >> .\items\materia\class0022\Earth60.dbr
+echo description,dailCompDescEarth61, >> .\items\materia\class0022\Earth61.dbr
+echo description,dailCompDescEarth62, >> .\items\materia\class0022\Earth62.dbr
+echo description,dailCompDescEarth63, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextEarth1, >> .\items\materia\class0022\Earth1.dbr
+echo itemText,dailCompTextEarth2, >> .\items\materia\class0022\Earth2.dbr
+echo itemText,dailCompTextEarth3, >> .\items\materia\class0022\Earth3.dbr
+echo itemText,dailCompTextEarth4, >> .\items\materia\class0022\Earth4.dbr
+echo itemText,dailCompTextEarth5, >> .\items\materia\class0022\Earth5.dbr
+echo itemText,dailCompTextEarth6, >> .\items\materia\class0022\Earth6.dbr
+echo itemText,dailCompTextEarth7, >> .\items\materia\class0022\Earth7.dbr
+echo itemText,dailCompTextEarth8, >> .\items\materia\class0022\Earth8.dbr
+echo itemText,dailCompTextEarth9, >> .\items\materia\class0022\Earth9.dbr
+echo itemText,dailCompTextEarth10, >> .\items\materia\class0022\Earth10.dbr
+echo itemText,dailCompTextEarth11, >> .\items\materia\class0022\Earth11.dbr
+echo itemText,dailCompTextEarth12, >> .\items\materia\class0022\Earth12.dbr
+echo itemText,dailCompTextEarth13, >> .\items\materia\class0022\Earth13.dbr
+echo itemText,dailCompTextEarth14, >> .\items\materia\class0022\Earth14.dbr
+echo itemText,dailCompTextEarth15, >> .\items\materia\class0022\Earth15.dbr
+echo itemText,dailCompTextEarth16, >> .\items\materia\class0022\Earth16.dbr
+echo itemText,dailCompTextEarth17, >> .\items\materia\class0022\Earth17.dbr
+echo itemText,dailCompTextEarth18, >> .\items\materia\class0022\Earth18.dbr
+echo itemText,dailCompTextEarth19, >> .\items\materia\class0022\Earth19.dbr
+echo itemText,dailCompTextEarth20, >> .\items\materia\class0022\Earth20.dbr
+echo itemText,dailCompTextEarth21, >> .\items\materia\class0022\Earth21.dbr
+echo itemText,dailCompTextEarth22, >> .\items\materia\class0022\Earth22.dbr
+echo itemText,dailCompTextEarth23, >> .\items\materia\class0022\Earth23.dbr
+echo itemText,dailCompTextEarth24, >> .\items\materia\class0022\Earth24.dbr
+echo itemText,dailCompTextEarth25, >> .\items\materia\class0022\Earth25.dbr
+echo itemText,dailCompTextEarth26, >> .\items\materia\class0022\Earth26.dbr
+echo itemText,dailCompTextEarth27, >> .\items\materia\class0022\Earth27.dbr
+echo itemText,dailCompTextEarth28, >> .\items\materia\class0022\Earth28.dbr
+echo itemText,dailCompTextEarth29, >> .\items\materia\class0022\Earth29.dbr
+echo itemText,dailCompTextEarth30, >> .\items\materia\class0022\Earth30.dbr
+echo itemText,dailCompTextEarth31, >> .\items\materia\class0022\Earth31.dbr
+echo itemText,dailCompTextEarth32, >> .\items\materia\class0022\Earth32.dbr
+echo itemText,dailCompTextEarth33, >> .\items\materia\class0022\Earth33.dbr
+echo itemText,dailCompTextEarth34, >> .\items\materia\class0022\Earth34.dbr
+echo itemText,dailCompTextEarth35, >> .\items\materia\class0022\Earth35.dbr
+echo itemText,dailCompTextEarth36, >> .\items\materia\class0022\Earth36.dbr
+echo itemText,dailCompTextEarth37, >> .\items\materia\class0022\Earth37.dbr
+echo itemText,dailCompTextEarth38, >> .\items\materia\class0022\Earth38.dbr
+echo itemText,dailCompTextEarth39, >> .\items\materia\class0022\Earth39.dbr
+echo itemText,dailCompTextEarth40, >> .\items\materia\class0022\Earth40.dbr
+echo itemText,dailCompTextEarth41, >> .\items\materia\class0022\Earth41.dbr
+echo itemText,dailCompTextEarth42, >> .\items\materia\class0022\Earth42.dbr
+echo itemText,dailCompTextEarth43, >> .\items\materia\class0022\Earth43.dbr
+echo itemText,dailCompTextEarth44, >> .\items\materia\class0022\Earth44.dbr
+echo itemText,dailCompTextEarth45, >> .\items\materia\class0022\Earth45.dbr
+echo itemText,dailCompTextEarth46, >> .\items\materia\class0022\Earth46.dbr
+echo itemText,dailCompTextEarth47, >> .\items\materia\class0022\Earth47.dbr
+echo itemText,dailCompTextEarth48, >> .\items\materia\class0022\Earth48.dbr
+echo itemText,dailCompTextEarth49, >> .\items\materia\class0022\Earth49.dbr
+echo itemText,dailCompTextEarth50, >> .\items\materia\class0022\Earth50.dbr
+echo itemText,dailCompTextEarth51, >> .\items\materia\class0022\Earth51.dbr
+echo itemText,dailCompTextEarth52, >> .\items\materia\class0022\Earth52.dbr
+echo itemText,dailCompTextEarth53, >> .\items\materia\class0022\Earth53.dbr
+echo itemText,dailCompTextEarth54, >> .\items\materia\class0022\Earth54.dbr
+echo itemText,dailCompTextEarth55, >> .\items\materia\class0022\Earth55.dbr
+echo itemText,dailCompTextEarth56, >> .\items\materia\class0022\Earth56.dbr
+echo itemText,dailCompTextEarth57, >> .\items\materia\class0022\Earth57.dbr
+echo itemText,dailCompTextEarth58, >> .\items\materia\class0022\Earth58.dbr
+echo itemText,dailCompTextEarth59, >> .\items\materia\class0022\Earth59.dbr
+echo itemText,dailCompTextEarth60, >> .\items\materia\class0022\Earth60.dbr
+echo itemText,dailCompTextEarth61, >> .\items\materia\class0022\Earth61.dbr
+echo itemText,dailCompTextEarth62, >> .\items\materia\class0022\Earth62.dbr
+echo itemText,dailCompTextEarth63, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0022\Earth1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0022\Earth2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0022\Earth3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0022\Earth22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0022\Earth42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsearth/earthmastery.dbr,, >> .\items\materia\class0022\Earth1.dbr
+echo augmentMasteryName1,records/skillsearth/earthmastery.dbr,, >> .\items\materia\class0022\Earth2.dbr
+echo augmentMasteryName1,records/skillsearth/earthmastery.dbr,, >> .\items\materia\class0022\Earth3.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb.dbr,, >> .\items\materia\class0022\Earth4.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_immolation.dbr,, >> .\items\materia\class0022\Earth5.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_fragmentation.dbr,, >> .\items\materia\class0022\Earth6.dbr
+echo augmentSkillName1,records/skillsearth/volatility.dbr,, >> .\items\materia\class0022\Earth7.dbr
+echo augmentSkillName1,records/skillsearth/coredweller.dbr,, >> .\items\materia\class0022\Earth8.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_innerfire.dbr,, >> .\items\materia\class0022\Earth9.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_wildfire.dbr,, >> .\items\materia\class0022\Earth10.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_metamorphosis.dbr,, >> .\items\materia\class0022\Earth11.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge.dbr,, >> .\items\materia\class0022\Earth12.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_barrage.dbr,, >> .\items\materia\class0022\Earth13.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_flamearch.dbr,, >> .\items\materia\class0022\Earth14.dbr
+echo augmentSkillName1,records/skillsearth/heatshield.dbr,, >> .\items\materia\class0022\Earth15.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment.dbr,, >> .\items\materia\class0022\Earth16.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_brimstone.dbr,, >> .\items\materia\class0022\Earth17.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_stoneskin.dbr,, >> .\items\materia\class0022\Earth18.dbr
+echo augmentSkillName1,records/skillsearth/stoneformbuffself.dbr,, >> .\items\materia\class0022\Earth19.dbr
+echo augmentSkillName1,records/skillsearth/stoneform_moltenrock.dbr,, >> .\items\materia\class0022\Earth20.dbr
+echo augmentSkillName1,records/skillsearth/eruption.dbr,, >> .\items\materia\class0022\Earth21.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame.dbr,, >> .\items\materia\class0022\Earth22.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame_softenmetal.dbr,, >> .\items\materia\class0022\Earth23.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb.dbr,, >> .\items\materia\class0022\Earth24.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_immolation.dbr,, >> .\items\materia\class0022\Earth25.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_fragmentation.dbr,, >> .\items\materia\class0022\Earth26.dbr
+echo augmentSkillName1,records/skillsearth/volatility.dbr,, >> .\items\materia\class0022\Earth27.dbr
+echo augmentSkillName1,records/skillsearth/coredweller.dbr,, >> .\items\materia\class0022\Earth28.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_innerfire.dbr,, >> .\items\materia\class0022\Earth29.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_wildfire.dbr,, >> .\items\materia\class0022\Earth30.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_metamorphosis.dbr,, >> .\items\materia\class0022\Earth31.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge.dbr,, >> .\items\materia\class0022\Earth32.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_barrage.dbr,, >> .\items\materia\class0022\Earth33.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_flamearch.dbr,, >> .\items\materia\class0022\Earth34.dbr
+echo augmentSkillName1,records/skillsearth/heatshield.dbr,, >> .\items\materia\class0022\Earth35.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment.dbr,, >> .\items\materia\class0022\Earth36.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_brimstone.dbr,, >> .\items\materia\class0022\Earth37.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_stoneskin.dbr,, >> .\items\materia\class0022\Earth38.dbr
+echo augmentSkillName1,records/skillsearth/stoneformbuffself.dbr,, >> .\items\materia\class0022\Earth39.dbr
+echo augmentSkillName1,records/skillsearth/stoneform_moltenrock.dbr,, >> .\items\materia\class0022\Earth40.dbr
+echo augmentSkillName1,records/skillsearth/eruption.dbr,, >> .\items\materia\class0022\Earth41.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame.dbr,, >> .\items\materia\class0022\Earth42.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame_softenmetal.dbr,, >> .\items\materia\class0022\Earth43.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb.dbr,, >> .\items\materia\class0022\Earth44.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_immolation.dbr,, >> .\items\materia\class0022\Earth45.dbr
+echo augmentSkillName1,records/skillsearth/volcanicorb_fragmentation.dbr,, >> .\items\materia\class0022\Earth46.dbr
+echo augmentSkillName1,records/skillsearth/volatility.dbr,, >> .\items\materia\class0022\Earth47.dbr
+echo augmentSkillName1,records/skillsearth/coredweller.dbr,, >> .\items\materia\class0022\Earth48.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_innerfire.dbr,, >> .\items\materia\class0022\Earth49.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_wildfire.dbr,, >> .\items\materia\class0022\Earth50.dbr
+echo augmentSkillName1,records/skillsearth/coredweller_petmodifier_metamorphosis.dbr,, >> .\items\materia\class0022\Earth51.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge.dbr,, >> .\items\materia\class0022\Earth52.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_barrage.dbr,, >> .\items\materia\class0022\Earth53.dbr
+echo augmentSkillName1,records/skillsearth/flamesurge_flamearch.dbr,, >> .\items\materia\class0022\Earth54.dbr
+echo augmentSkillName1,records/skillsearth/heatshield.dbr,, >> .\items\materia\class0022\Earth55.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment.dbr,, >> .\items\materia\class0022\Earth56.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_brimstone.dbr,, >> .\items\materia\class0022\Earth57.dbr
+echo augmentSkillName1,records/skillsearth/fireenchantment_stoneskin.dbr,, >> .\items\materia\class0022\Earth58.dbr
+echo augmentSkillName1,records/skillsearth/stoneformbuffself.dbr,, >> .\items\materia\class0022\Earth59.dbr
+echo augmentSkillName1,records/skillsearth/stoneform_moltenrock.dbr,, >> .\items\materia\class0022\Earth60.dbr
+echo augmentSkillName1,records/skillsearth/eruption.dbr,, >> .\items\materia\class0022\Earth61.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame.dbr,, >> .\items\materia\class0022\Earth62.dbr
+echo augmentSkillName1,records/skillsearth/ringofflame_softenmetal.dbr,, >> .\items\materia\class0022\Earth63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0023\Storm1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0023\Storm2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0023\Storm3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0023\Storm22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0023\Storm63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0023\Storm1.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm2.dbr
+echo itemCost,600000, >> .\items\materia\class0023\Storm3.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm4.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm5.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm6.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm7.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm8.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm9.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm10.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm11.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm12.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm13.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm14.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm15.dbr
+echo itemCost,100000, >> .\items\materia\class0023\Storm16.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm17.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm18.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm19.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm20.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm21.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm22.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm23.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm24.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm25.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm26.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm27.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm28.dbr
+echo itemCost,300000, >> .\items\materia\class0023\Storm29.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm30.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm31.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm32.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm33.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm34.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm35.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm36.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm37.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm38.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm39.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm40.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm41.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm42.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm43.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm44.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm45.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm46.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm47.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm48.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm49.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm50.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm51.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm52.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm53.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm54.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm55.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm56.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm57.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm58.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm59.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm60.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm61.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm62.dbr
+echo itemCost,500000, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescStorm1, >> .\items\materia\class0023\Storm1.dbr
+echo description,dailCompDescStorm2, >> .\items\materia\class0023\Storm2.dbr
+echo description,dailCompDescStorm3, >> .\items\materia\class0023\Storm3.dbr
+echo description,dailCompDescStorm4, >> .\items\materia\class0023\Storm4.dbr
+echo description,dailCompDescStorm5, >> .\items\materia\class0023\Storm5.dbr
+echo description,dailCompDescStorm6, >> .\items\materia\class0023\Storm6.dbr
+echo description,dailCompDescStorm7, >> .\items\materia\class0023\Storm7.dbr
+echo description,dailCompDescStorm8, >> .\items\materia\class0023\Storm8.dbr
+echo description,dailCompDescStorm9, >> .\items\materia\class0023\Storm9.dbr
+echo description,dailCompDescStorm10, >> .\items\materia\class0023\Storm10.dbr
+echo description,dailCompDescStorm11, >> .\items\materia\class0023\Storm11.dbr
+echo description,dailCompDescStorm12, >> .\items\materia\class0023\Storm12.dbr
+echo description,dailCompDescStorm13, >> .\items\materia\class0023\Storm13.dbr
+echo description,dailCompDescStorm14, >> .\items\materia\class0023\Storm14.dbr
+echo description,dailCompDescStorm15, >> .\items\materia\class0023\Storm15.dbr
+echo description,dailCompDescStorm16, >> .\items\materia\class0023\Storm16.dbr
+echo description,dailCompDescStorm17, >> .\items\materia\class0023\Storm17.dbr
+echo description,dailCompDescStorm18, >> .\items\materia\class0023\Storm18.dbr
+echo description,dailCompDescStorm19, >> .\items\materia\class0023\Storm19.dbr
+echo description,dailCompDescStorm20, >> .\items\materia\class0023\Storm20.dbr
+echo description,dailCompDescStorm21, >> .\items\materia\class0023\Storm21.dbr
+echo description,dailCompDescStorm22, >> .\items\materia\class0023\Storm22.dbr
+echo description,dailCompDescStorm23, >> .\items\materia\class0023\Storm23.dbr
+echo description,dailCompDescStorm24, >> .\items\materia\class0023\Storm24.dbr
+echo description,dailCompDescStorm25, >> .\items\materia\class0023\Storm25.dbr
+echo description,dailCompDescStorm26, >> .\items\materia\class0023\Storm26.dbr
+echo description,dailCompDescStorm27, >> .\items\materia\class0023\Storm27.dbr
+echo description,dailCompDescStorm28, >> .\items\materia\class0023\Storm28.dbr
+echo description,dailCompDescStorm29, >> .\items\materia\class0023\Storm29.dbr
+echo description,dailCompDescStorm30, >> .\items\materia\class0023\Storm30.dbr
+echo description,dailCompDescStorm31, >> .\items\materia\class0023\Storm31.dbr
+echo description,dailCompDescStorm32, >> .\items\materia\class0023\Storm32.dbr
+echo description,dailCompDescStorm33, >> .\items\materia\class0023\Storm33.dbr
+echo description,dailCompDescStorm34, >> .\items\materia\class0023\Storm34.dbr
+echo description,dailCompDescStorm35, >> .\items\materia\class0023\Storm35.dbr
+echo description,dailCompDescStorm36, >> .\items\materia\class0023\Storm36.dbr
+echo description,dailCompDescStorm37, >> .\items\materia\class0023\Storm37.dbr
+echo description,dailCompDescStorm38, >> .\items\materia\class0023\Storm38.dbr
+echo description,dailCompDescStorm39, >> .\items\materia\class0023\Storm39.dbr
+echo description,dailCompDescStorm40, >> .\items\materia\class0023\Storm40.dbr
+echo description,dailCompDescStorm41, >> .\items\materia\class0023\Storm41.dbr
+echo description,dailCompDescStorm42, >> .\items\materia\class0023\Storm42.dbr
+echo description,dailCompDescStorm43, >> .\items\materia\class0023\Storm43.dbr
+echo description,dailCompDescStorm44, >> .\items\materia\class0023\Storm44.dbr
+echo description,dailCompDescStorm45, >> .\items\materia\class0023\Storm45.dbr
+echo description,dailCompDescStorm46, >> .\items\materia\class0023\Storm46.dbr
+echo description,dailCompDescStorm47, >> .\items\materia\class0023\Storm47.dbr
+echo description,dailCompDescStorm48, >> .\items\materia\class0023\Storm48.dbr
+echo description,dailCompDescStorm49, >> .\items\materia\class0023\Storm49.dbr
+echo description,dailCompDescStorm50, >> .\items\materia\class0023\Storm50.dbr
+echo description,dailCompDescStorm51, >> .\items\materia\class0023\Storm51.dbr
+echo description,dailCompDescStorm52, >> .\items\materia\class0023\Storm52.dbr
+echo description,dailCompDescStorm53, >> .\items\materia\class0023\Storm53.dbr
+echo description,dailCompDescStorm54, >> .\items\materia\class0023\Storm54.dbr
+echo description,dailCompDescStorm55, >> .\items\materia\class0023\Storm55.dbr
+echo description,dailCompDescStorm56, >> .\items\materia\class0023\Storm56.dbr
+echo description,dailCompDescStorm57, >> .\items\materia\class0023\Storm57.dbr
+echo description,dailCompDescStorm58, >> .\items\materia\class0023\Storm58.dbr
+echo description,dailCompDescStorm59, >> .\items\materia\class0023\Storm59.dbr
+echo description,dailCompDescStorm60, >> .\items\materia\class0023\Storm60.dbr
+echo description,dailCompDescStorm61, >> .\items\materia\class0023\Storm61.dbr
+echo description,dailCompDescStorm62, >> .\items\materia\class0023\Storm62.dbr
+echo description,dailCompDescStorm63, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextStorm1, >> .\items\materia\class0023\Storm1.dbr
+echo itemText,dailCompTextStorm2, >> .\items\materia\class0023\Storm2.dbr
+echo itemText,dailCompTextStorm3, >> .\items\materia\class0023\Storm3.dbr
+echo itemText,dailCompTextStorm4, >> .\items\materia\class0023\Storm4.dbr
+echo itemText,dailCompTextStorm5, >> .\items\materia\class0023\Storm5.dbr
+echo itemText,dailCompTextStorm6, >> .\items\materia\class0023\Storm6.dbr
+echo itemText,dailCompTextStorm7, >> .\items\materia\class0023\Storm7.dbr
+echo itemText,dailCompTextStorm8, >> .\items\materia\class0023\Storm8.dbr
+echo itemText,dailCompTextStorm9, >> .\items\materia\class0023\Storm9.dbr
+echo itemText,dailCompTextStorm10, >> .\items\materia\class0023\Storm10.dbr
+echo itemText,dailCompTextStorm11, >> .\items\materia\class0023\Storm11.dbr
+echo itemText,dailCompTextStorm12, >> .\items\materia\class0023\Storm12.dbr
+echo itemText,dailCompTextStorm13, >> .\items\materia\class0023\Storm13.dbr
+echo itemText,dailCompTextStorm14, >> .\items\materia\class0023\Storm14.dbr
+echo itemText,dailCompTextStorm15, >> .\items\materia\class0023\Storm15.dbr
+echo itemText,dailCompTextStorm16, >> .\items\materia\class0023\Storm16.dbr
+echo itemText,dailCompTextStorm17, >> .\items\materia\class0023\Storm17.dbr
+echo itemText,dailCompTextStorm18, >> .\items\materia\class0023\Storm18.dbr
+echo itemText,dailCompTextStorm19, >> .\items\materia\class0023\Storm19.dbr
+echo itemText,dailCompTextStorm20, >> .\items\materia\class0023\Storm20.dbr
+echo itemText,dailCompTextStorm21, >> .\items\materia\class0023\Storm21.dbr
+echo itemText,dailCompTextStorm22, >> .\items\materia\class0023\Storm22.dbr
+echo itemText,dailCompTextStorm23, >> .\items\materia\class0023\Storm23.dbr
+echo itemText,dailCompTextStorm24, >> .\items\materia\class0023\Storm24.dbr
+echo itemText,dailCompTextStorm25, >> .\items\materia\class0023\Storm25.dbr
+echo itemText,dailCompTextStorm26, >> .\items\materia\class0023\Storm26.dbr
+echo itemText,dailCompTextStorm27, >> .\items\materia\class0023\Storm27.dbr
+echo itemText,dailCompTextStorm28, >> .\items\materia\class0023\Storm28.dbr
+echo itemText,dailCompTextStorm29, >> .\items\materia\class0023\Storm29.dbr
+echo itemText,dailCompTextStorm30, >> .\items\materia\class0023\Storm30.dbr
+echo itemText,dailCompTextStorm31, >> .\items\materia\class0023\Storm31.dbr
+echo itemText,dailCompTextStorm32, >> .\items\materia\class0023\Storm32.dbr
+echo itemText,dailCompTextStorm33, >> .\items\materia\class0023\Storm33.dbr
+echo itemText,dailCompTextStorm34, >> .\items\materia\class0023\Storm34.dbr
+echo itemText,dailCompTextStorm35, >> .\items\materia\class0023\Storm35.dbr
+echo itemText,dailCompTextStorm36, >> .\items\materia\class0023\Storm36.dbr
+echo itemText,dailCompTextStorm37, >> .\items\materia\class0023\Storm37.dbr
+echo itemText,dailCompTextStorm38, >> .\items\materia\class0023\Storm38.dbr
+echo itemText,dailCompTextStorm39, >> .\items\materia\class0023\Storm39.dbr
+echo itemText,dailCompTextStorm40, >> .\items\materia\class0023\Storm40.dbr
+echo itemText,dailCompTextStorm41, >> .\items\materia\class0023\Storm41.dbr
+echo itemText,dailCompTextStorm42, >> .\items\materia\class0023\Storm42.dbr
+echo itemText,dailCompTextStorm43, >> .\items\materia\class0023\Storm43.dbr
+echo itemText,dailCompTextStorm44, >> .\items\materia\class0023\Storm44.dbr
+echo itemText,dailCompTextStorm45, >> .\items\materia\class0023\Storm45.dbr
+echo itemText,dailCompTextStorm46, >> .\items\materia\class0023\Storm46.dbr
+echo itemText,dailCompTextStorm47, >> .\items\materia\class0023\Storm47.dbr
+echo itemText,dailCompTextStorm48, >> .\items\materia\class0023\Storm48.dbr
+echo itemText,dailCompTextStorm49, >> .\items\materia\class0023\Storm49.dbr
+echo itemText,dailCompTextStorm50, >> .\items\materia\class0023\Storm50.dbr
+echo itemText,dailCompTextStorm51, >> .\items\materia\class0023\Storm51.dbr
+echo itemText,dailCompTextStorm52, >> .\items\materia\class0023\Storm52.dbr
+echo itemText,dailCompTextStorm53, >> .\items\materia\class0023\Storm53.dbr
+echo itemText,dailCompTextStorm54, >> .\items\materia\class0023\Storm54.dbr
+echo itemText,dailCompTextStorm55, >> .\items\materia\class0023\Storm55.dbr
+echo itemText,dailCompTextStorm56, >> .\items\materia\class0023\Storm56.dbr
+echo itemText,dailCompTextStorm57, >> .\items\materia\class0023\Storm57.dbr
+echo itemText,dailCompTextStorm58, >> .\items\materia\class0023\Storm58.dbr
+echo itemText,dailCompTextStorm59, >> .\items\materia\class0023\Storm59.dbr
+echo itemText,dailCompTextStorm60, >> .\items\materia\class0023\Storm60.dbr
+echo itemText,dailCompTextStorm61, >> .\items\materia\class0023\Storm61.dbr
+echo itemText,dailCompTextStorm62, >> .\items\materia\class0023\Storm62.dbr
+echo itemText,dailCompTextStorm63, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0023\Storm1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0023\Storm2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0023\Storm3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0023\Storm22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0023\Storm42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsstorm/stormmastery.dbr,, >> .\items\materia\class0023\Storm1.dbr
+echo augmentMasteryName1,records/skillsstorm/stormmastery.dbr,, >> .\items\materia\class0023\Storm2.dbr
+echo augmentMasteryName1,records/skillsstorm/stormmastery.dbr,, >> .\items\materia\class0023\Storm3.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard.dbr,, >> .\items\materia\class0023\Storm4.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_velocity.dbr,, >> .\items\materia\class0023\Storm5.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_torrent.dbr,, >> .\items\materia\class0023\Storm6.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt.dbr,, >> .\items\materia\class0023\Storm7.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt_chainlightning.dbr,, >> .\items\materia\class0023\Storm8.dbr
+echo augmentSkillName1,records/skillsstorm/freezingblast.dbr,, >> .\items\materia\class0023\Storm9.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus.dbr,, >> .\items\materia\class0023\Storm10.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_heartoffrost.dbr,, >> .\items\materia\class0023\Storm11.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_staticcharge.dbr,, >> .\items\materia\class0023\Storm12.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield.dbr,, >> .\items\materia\class0023\Storm13.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield_reflection.dbr,, >> .\items\materia\class0023\Storm14.dbr
+echo augmentSkillName1,records/skillsstorm/squall.dbr,, >> .\items\materia\class0023\Storm15.dbr
+echo augmentSkillName1,records/skillsstorm/squall_obscuredvisibility.dbr,, >> .\items\materia\class0023\Storm16.dbr
+echo augmentSkillName1,records/skillsstorm/stormwispsummoning.dbr,, >> .\items\materia\class0023\Storm17.dbr
+echo augmentSkillName1,records/skillsstorm/stormwisp_petmodifier_eyeofthestorm.dbr,, >> .\items\materia\class0023\Storm18.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker.dbr,, >> .\items\materia\class0023\Storm19.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker_spellshock.dbr,, >> .\items\materia\class0023\Storm20.dbr
+echo augmentSkillName1,records/skillsstorm/stormsurge.dbr,, >> .\items\materia\class0023\Storm21.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball.dbr,, >> .\items\materia\class0023\Storm22.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball_concussiveblast.dbr,, >> .\items\materia\class0023\Storm23.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard.dbr,, >> .\items\materia\class0023\Storm24.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_velocity.dbr,, >> .\items\materia\class0023\Storm25.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_torrent.dbr,, >> .\items\materia\class0023\Storm26.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt.dbr,, >> .\items\materia\class0023\Storm27.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt_chainlightning.dbr,, >> .\items\materia\class0023\Storm28.dbr
+echo augmentSkillName1,records/skillsstorm/freezingblast.dbr,, >> .\items\materia\class0023\Storm29.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus.dbr,, >> .\items\materia\class0023\Storm30.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_heartoffrost.dbr,, >> .\items\materia\class0023\Storm31.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_staticcharge.dbr,, >> .\items\materia\class0023\Storm32.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield.dbr,, >> .\items\materia\class0023\Storm33.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield_reflection.dbr,, >> .\items\materia\class0023\Storm34.dbr
+echo augmentSkillName1,records/skillsstorm/squall.dbr,, >> .\items\materia\class0023\Storm35.dbr
+echo augmentSkillName1,records/skillsstorm/squall_obscuredvisibility.dbr,, >> .\items\materia\class0023\Storm36.dbr
+echo augmentSkillName1,records/skillsstorm/stormwispsummoning.dbr,, >> .\items\materia\class0023\Storm37.dbr
+echo augmentSkillName1,records/skillsstorm/stormwisp_petmodifier_eyeofthestorm.dbr,, >> .\items\materia\class0023\Storm38.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker.dbr,, >> .\items\materia\class0023\Storm39.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker_spellshock.dbr,, >> .\items\materia\class0023\Storm40.dbr
+echo augmentSkillName1,records/skillsstorm/stormsurge.dbr,, >> .\items\materia\class0023\Storm41.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball.dbr,, >> .\items\materia\class0023\Storm42.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball_concussiveblast.dbr,, >> .\items\materia\class0023\Storm43.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard.dbr,, >> .\items\materia\class0023\Storm44.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_velocity.dbr,, >> .\items\materia\class0023\Storm45.dbr
+echo augmentSkillName1,records/skillsstorm/iceshard_torrent.dbr,, >> .\items\materia\class0023\Storm46.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt.dbr,, >> .\items\materia\class0023\Storm47.dbr
+echo augmentSkillName1,records/skillsstorm/lightningbolt_chainlightning.dbr,, >> .\items\materia\class0023\Storm48.dbr
+echo augmentSkillName1,records/skillsstorm/freezingblast.dbr,, >> .\items\materia\class0023\Storm49.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus.dbr,, >> .\items\materia\class0023\Storm50.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_heartoffrost.dbr,, >> .\items\materia\class0023\Storm51.dbr
+echo augmentSkillName1,records/skillsstorm/stormnimbus_staticcharge.dbr,, >> .\items\materia\class0023\Storm52.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield.dbr,, >> .\items\materia\class0023\Storm53.dbr
+echo augmentSkillName1,records/skillsstorm/energyshield_reflection.dbr,, >> .\items\materia\class0023\Storm54.dbr
+echo augmentSkillName1,records/skillsstorm/squall.dbr,, >> .\items\materia\class0023\Storm55.dbr
+echo augmentSkillName1,records/skillsstorm/squall_obscuredvisibility.dbr,, >> .\items\materia\class0023\Storm56.dbr
+echo augmentSkillName1,records/skillsstorm/stormwispsummoning.dbr,, >> .\items\materia\class0023\Storm57.dbr
+echo augmentSkillName1,records/skillsstorm/stormwisp_petmodifier_eyeofthestorm.dbr,, >> .\items\materia\class0023\Storm58.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker.dbr,, >> .\items\materia\class0023\Storm59.dbr
+echo augmentSkillName1,records/skillsstorm/spellbreaker_spellshock.dbr,, >> .\items\materia\class0023\Storm60.dbr
+echo augmentSkillName1,records/skillsstorm/stormsurge.dbr,, >> .\items\materia\class0023\Storm61.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball.dbr,, >> .\items\materia\class0023\Storm62.dbr
+echo augmentSkillName1,records/skillsstorm/thunderball_concussiveblast.dbr,, >> .\items\materia\class0023\Storm63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0024\Dream1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0024\Dream2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0024\Dream3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0024\Dream22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0024\Dream63.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0024\Dream1.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream2.dbr
+echo itemCost,600000, >> .\items\materia\class0024\Dream3.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream4.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream5.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream6.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream7.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream8.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream9.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream10.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream11.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream12.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream13.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream14.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream15.dbr
+echo itemCost,100000, >> .\items\materia\class0024\Dream16.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream17.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream18.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream19.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream20.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream21.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream22.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream23.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream24.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream25.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream26.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream27.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream28.dbr
+echo itemCost,300000, >> .\items\materia\class0024\Dream29.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream30.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream31.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream32.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream33.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream34.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream35.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream36.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream37.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream38.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream39.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream40.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream41.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream42.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream43.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream44.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream45.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream46.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream47.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream48.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream49.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream50.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream51.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream52.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream53.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream54.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream55.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream56.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream57.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream58.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream59.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream60.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream61.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream62.dbr
+echo itemCost,500000, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescDream1, >> .\items\materia\class0024\Dream1.dbr
+echo description,dailCompDescDream2, >> .\items\materia\class0024\Dream2.dbr
+echo description,dailCompDescDream3, >> .\items\materia\class0024\Dream3.dbr
+echo description,dailCompDescDream4, >> .\items\materia\class0024\Dream4.dbr
+echo description,dailCompDescDream5, >> .\items\materia\class0024\Dream5.dbr
+echo description,dailCompDescDream6, >> .\items\materia\class0024\Dream6.dbr
+echo description,dailCompDescDream7, >> .\items\materia\class0024\Dream7.dbr
+echo description,dailCompDescDream8, >> .\items\materia\class0024\Dream8.dbr
+echo description,dailCompDescDream9, >> .\items\materia\class0024\Dream9.dbr
+echo description,dailCompDescDream10, >> .\items\materia\class0024\Dream10.dbr
+echo description,dailCompDescDream11, >> .\items\materia\class0024\Dream11.dbr
+echo description,dailCompDescDream12, >> .\items\materia\class0024\Dream12.dbr
+echo description,dailCompDescDream13, >> .\items\materia\class0024\Dream13.dbr
+echo description,dailCompDescDream14, >> .\items\materia\class0024\Dream14.dbr
+echo description,dailCompDescDream15, >> .\items\materia\class0024\Dream15.dbr
+echo description,dailCompDescDream16, >> .\items\materia\class0024\Dream16.dbr
+echo description,dailCompDescDream17, >> .\items\materia\class0024\Dream17.dbr
+echo description,dailCompDescDream18, >> .\items\materia\class0024\Dream18.dbr
+echo description,dailCompDescDream19, >> .\items\materia\class0024\Dream19.dbr
+echo description,dailCompDescDream20, >> .\items\materia\class0024\Dream20.dbr
+echo description,dailCompDescDream21, >> .\items\materia\class0024\Dream21.dbr
+echo description,dailCompDescDream22, >> .\items\materia\class0024\Dream22.dbr
+echo description,dailCompDescDream23, >> .\items\materia\class0024\Dream23.dbr
+echo description,dailCompDescDream24, >> .\items\materia\class0024\Dream24.dbr
+echo description,dailCompDescDream25, >> .\items\materia\class0024\Dream25.dbr
+echo description,dailCompDescDream26, >> .\items\materia\class0024\Dream26.dbr
+echo description,dailCompDescDream27, >> .\items\materia\class0024\Dream27.dbr
+echo description,dailCompDescDream28, >> .\items\materia\class0024\Dream28.dbr
+echo description,dailCompDescDream29, >> .\items\materia\class0024\Dream29.dbr
+echo description,dailCompDescDream30, >> .\items\materia\class0024\Dream30.dbr
+echo description,dailCompDescDream31, >> .\items\materia\class0024\Dream31.dbr
+echo description,dailCompDescDream32, >> .\items\materia\class0024\Dream32.dbr
+echo description,dailCompDescDream33, >> .\items\materia\class0024\Dream33.dbr
+echo description,dailCompDescDream34, >> .\items\materia\class0024\Dream34.dbr
+echo description,dailCompDescDream35, >> .\items\materia\class0024\Dream35.dbr
+echo description,dailCompDescDream36, >> .\items\materia\class0024\Dream36.dbr
+echo description,dailCompDescDream37, >> .\items\materia\class0024\Dream37.dbr
+echo description,dailCompDescDream38, >> .\items\materia\class0024\Dream38.dbr
+echo description,dailCompDescDream39, >> .\items\materia\class0024\Dream39.dbr
+echo description,dailCompDescDream40, >> .\items\materia\class0024\Dream40.dbr
+echo description,dailCompDescDream41, >> .\items\materia\class0024\Dream41.dbr
+echo description,dailCompDescDream42, >> .\items\materia\class0024\Dream42.dbr
+echo description,dailCompDescDream43, >> .\items\materia\class0024\Dream43.dbr
+echo description,dailCompDescDream44, >> .\items\materia\class0024\Dream44.dbr
+echo description,dailCompDescDream45, >> .\items\materia\class0024\Dream45.dbr
+echo description,dailCompDescDream46, >> .\items\materia\class0024\Dream46.dbr
+echo description,dailCompDescDream47, >> .\items\materia\class0024\Dream47.dbr
+echo description,dailCompDescDream48, >> .\items\materia\class0024\Dream48.dbr
+echo description,dailCompDescDream49, >> .\items\materia\class0024\Dream49.dbr
+echo description,dailCompDescDream50, >> .\items\materia\class0024\Dream50.dbr
+echo description,dailCompDescDream51, >> .\items\materia\class0024\Dream51.dbr
+echo description,dailCompDescDream52, >> .\items\materia\class0024\Dream52.dbr
+echo description,dailCompDescDream53, >> .\items\materia\class0024\Dream53.dbr
+echo description,dailCompDescDream54, >> .\items\materia\class0024\Dream54.dbr
+echo description,dailCompDescDream55, >> .\items\materia\class0024\Dream55.dbr
+echo description,dailCompDescDream56, >> .\items\materia\class0024\Dream56.dbr
+echo description,dailCompDescDream57, >> .\items\materia\class0024\Dream57.dbr
+echo description,dailCompDescDream58, >> .\items\materia\class0024\Dream58.dbr
+echo description,dailCompDescDream59, >> .\items\materia\class0024\Dream59.dbr
+echo description,dailCompDescDream60, >> .\items\materia\class0024\Dream60.dbr
+echo description,dailCompDescDream61, >> .\items\materia\class0024\Dream61.dbr
+echo description,dailCompDescDream62, >> .\items\materia\class0024\Dream62.dbr
+echo description,dailCompDescDream63, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextDream1, >> .\items\materia\class0024\Dream1.dbr
+echo itemText,dailCompTextDream2, >> .\items\materia\class0024\Dream2.dbr
+echo itemText,dailCompTextDream3, >> .\items\materia\class0024\Dream3.dbr
+echo itemText,dailCompTextDream4, >> .\items\materia\class0024\Dream4.dbr
+echo itemText,dailCompTextDream5, >> .\items\materia\class0024\Dream5.dbr
+echo itemText,dailCompTextDream6, >> .\items\materia\class0024\Dream6.dbr
+echo itemText,dailCompTextDream7, >> .\items\materia\class0024\Dream7.dbr
+echo itemText,dailCompTextDream8, >> .\items\materia\class0024\Dream8.dbr
+echo itemText,dailCompTextDream9, >> .\items\materia\class0024\Dream9.dbr
+echo itemText,dailCompTextDream10, >> .\items\materia\class0024\Dream10.dbr
+echo itemText,dailCompTextDream11, >> .\items\materia\class0024\Dream11.dbr
+echo itemText,dailCompTextDream12, >> .\items\materia\class0024\Dream12.dbr
+echo itemText,dailCompTextDream13, >> .\items\materia\class0024\Dream13.dbr
+echo itemText,dailCompTextDream14, >> .\items\materia\class0024\Dream14.dbr
+echo itemText,dailCompTextDream15, >> .\items\materia\class0024\Dream15.dbr
+echo itemText,dailCompTextDream16, >> .\items\materia\class0024\Dream16.dbr
+echo itemText,dailCompTextDream17, >> .\items\materia\class0024\Dream17.dbr
+echo itemText,dailCompTextDream18, >> .\items\materia\class0024\Dream18.dbr
+echo itemText,dailCompTextDream19, >> .\items\materia\class0024\Dream19.dbr
+echo itemText,dailCompTextDream20, >> .\items\materia\class0024\Dream20.dbr
+echo itemText,dailCompTextDream21, >> .\items\materia\class0024\Dream21.dbr
+echo itemText,dailCompTextDream22, >> .\items\materia\class0024\Dream22.dbr
+echo itemText,dailCompTextDream23, >> .\items\materia\class0024\Dream23.dbr
+echo itemText,dailCompTextDream24, >> .\items\materia\class0024\Dream24.dbr
+echo itemText,dailCompTextDream25, >> .\items\materia\class0024\Dream25.dbr
+echo itemText,dailCompTextDream26, >> .\items\materia\class0024\Dream26.dbr
+echo itemText,dailCompTextDream27, >> .\items\materia\class0024\Dream27.dbr
+echo itemText,dailCompTextDream28, >> .\items\materia\class0024\Dream28.dbr
+echo itemText,dailCompTextDream29, >> .\items\materia\class0024\Dream29.dbr
+echo itemText,dailCompTextDream30, >> .\items\materia\class0024\Dream30.dbr
+echo itemText,dailCompTextDream31, >> .\items\materia\class0024\Dream31.dbr
+echo itemText,dailCompTextDream32, >> .\items\materia\class0024\Dream32.dbr
+echo itemText,dailCompTextDream33, >> .\items\materia\class0024\Dream33.dbr
+echo itemText,dailCompTextDream34, >> .\items\materia\class0024\Dream34.dbr
+echo itemText,dailCompTextDream35, >> .\items\materia\class0024\Dream35.dbr
+echo itemText,dailCompTextDream36, >> .\items\materia\class0024\Dream36.dbr
+echo itemText,dailCompTextDream37, >> .\items\materia\class0024\Dream37.dbr
+echo itemText,dailCompTextDream38, >> .\items\materia\class0024\Dream38.dbr
+echo itemText,dailCompTextDream39, >> .\items\materia\class0024\Dream39.dbr
+echo itemText,dailCompTextDream40, >> .\items\materia\class0024\Dream40.dbr
+echo itemText,dailCompTextDream41, >> .\items\materia\class0024\Dream41.dbr
+echo itemText,dailCompTextDream42, >> .\items\materia\class0024\Dream42.dbr
+echo itemText,dailCompTextDream43, >> .\items\materia\class0024\Dream43.dbr
+echo itemText,dailCompTextDream44, >> .\items\materia\class0024\Dream44.dbr
+echo itemText,dailCompTextDream45, >> .\items\materia\class0024\Dream45.dbr
+echo itemText,dailCompTextDream46, >> .\items\materia\class0024\Dream46.dbr
+echo itemText,dailCompTextDream47, >> .\items\materia\class0024\Dream47.dbr
+echo itemText,dailCompTextDream48, >> .\items\materia\class0024\Dream48.dbr
+echo itemText,dailCompTextDream49, >> .\items\materia\class0024\Dream49.dbr
+echo itemText,dailCompTextDream50, >> .\items\materia\class0024\Dream50.dbr
+echo itemText,dailCompTextDream51, >> .\items\materia\class0024\Dream51.dbr
+echo itemText,dailCompTextDream52, >> .\items\materia\class0024\Dream52.dbr
+echo itemText,dailCompTextDream53, >> .\items\materia\class0024\Dream53.dbr
+echo itemText,dailCompTextDream54, >> .\items\materia\class0024\Dream54.dbr
+echo itemText,dailCompTextDream55, >> .\items\materia\class0024\Dream55.dbr
+echo itemText,dailCompTextDream56, >> .\items\materia\class0024\Dream56.dbr
+echo itemText,dailCompTextDream57, >> .\items\materia\class0024\Dream57.dbr
+echo itemText,dailCompTextDream58, >> .\items\materia\class0024\Dream58.dbr
+echo itemText,dailCompTextDream59, >> .\items\materia\class0024\Dream59.dbr
+echo itemText,dailCompTextDream60, >> .\items\materia\class0024\Dream60.dbr
+echo itemText,dailCompTextDream61, >> .\items\materia\class0024\Dream61.dbr
+echo itemText,dailCompTextDream62, >> .\items\materia\class0024\Dream62.dbr
+echo itemText,dailCompTextDream63, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0024\Dream1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0024\Dream2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0024\Dream3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0024\Dream22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream32.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream33.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream34.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0024\Dream42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream48.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream49.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream50.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream51.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream52.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream53.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream54.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream55.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream56.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream57.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream58.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream59.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream60.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream61.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream62.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skillsdream/dreammastery.dbr,, >> .\items\materia\class0024\Dream1.dbr
+echo augmentMasteryName1,records/skillsdream/dreammastery.dbr,, >> .\items\materia\class0024\Dream2.dbr
+echo augmentMasteryName1,records/skillsdream/dreammastery.dbr,, >> .\items\materia\class0024\Dream3.dbr
+echo augmentSkillName1,records/skillsdream/tranceofconvalescence.dbr,, >> .\items\materia\class0024\Dream4.dbr
+echo augmentSkillName1,records/skillsdream/tranceofempathy.dbr,, >> .\items\materia\class0024\Dream5.dbr
+echo augmentSkillName1,records/skillsdream/tranceofwrath.dbr,, >> .\items\materia\class0024\Dream6.dbr
+echo augmentSkillName1,records/skillsdream/distortreality.dbr,, >> .\items\materia\class0024\Dream7.dbr
+echo augmentSkillName1,records/skillsdream/distortreality_temporalrift.dbr,, >> .\items\materia\class0024\Dream8.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave.dbr,, >> .\items\materia\class0024\Dream9.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_chaoticresonance.dbr,, >> .\items\materia\class0024\Dream10.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_psionicimmolation.dbr,, >> .\items\materia\class0024\Dream11.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch.dbr,, >> .\items\materia\class0024\Dream12.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch_psionicburn.dbr,, >> .\items\materia\class0024\Dream13.dbr
+echo augmentSkillName1,records/skillsdream/distortionfield.dbr,, >> .\items\materia\class0024\Dream14.dbr
+echo augmentSkillName1,records/skillsdream/sandsofsleep.dbr,, >> .\items\materia\class0024\Dream15.dbr
+echo augmentSkillName1,records/skillsdream/nightmare.dbr,, >> .\items\materia\class0024\Dream16.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_hypnoticgaze.dbr,, >> .\items\materia\class0024\Dream17.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_mastermind.dbr,, >> .\items\materia\class0024\Dream18.dbr
+echo augmentSkillName1,records/skillsdream/luciddream.dbr,, >> .\items\materia\class0024\Dream19.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_premonition.dbr,, >> .\items\materia\class0024\Dream20.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_temporalflux.dbr,, >> .\items\materia\class0024\Dream21.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike.dbr,, >> .\items\materia\class0024\Dream22.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike_dreamstealer.dbr,, >> .\items\materia\class0024\Dream23.dbr
+echo augmentSkillName1,records/skillsdream/tranceofconvalescence.dbr,, >> .\items\materia\class0024\Dream24.dbr
+echo augmentSkillName1,records/skillsdream/tranceofempathy.dbr,, >> .\items\materia\class0024\Dream25.dbr
+echo augmentSkillName1,records/skillsdream/tranceofwrath.dbr,, >> .\items\materia\class0024\Dream26.dbr
+echo augmentSkillName1,records/skillsdream/distortreality.dbr,, >> .\items\materia\class0024\Dream27.dbr
+echo augmentSkillName1,records/skillsdream/distortreality_temporalrift.dbr,, >> .\items\materia\class0024\Dream28.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave.dbr,, >> .\items\materia\class0024\Dream29.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_chaoticresonance.dbr,, >> .\items\materia\class0024\Dream30.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_psionicimmolation.dbr,, >> .\items\materia\class0024\Dream31.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch.dbr,, >> .\items\materia\class0024\Dream32.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch_psionicburn.dbr,, >> .\items\materia\class0024\Dream33.dbr
+echo augmentSkillName1,records/skillsdream/distortionfield.dbr,, >> .\items\materia\class0024\Dream34.dbr
+echo augmentSkillName1,records/skillsdream/sandsofsleep.dbr,, >> .\items\materia\class0024\Dream35.dbr
+echo augmentSkillName1,records/skillsdream/nightmare.dbr,, >> .\items\materia\class0024\Dream36.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_hypnoticgaze.dbr,, >> .\items\materia\class0024\Dream37.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_mastermind.dbr,, >> .\items\materia\class0024\Dream38.dbr
+echo augmentSkillName1,records/skillsdream/luciddream.dbr,, >> .\items\materia\class0024\Dream39.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_premonition.dbr,, >> .\items\materia\class0024\Dream40.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_temporalflux.dbr,, >> .\items\materia\class0024\Dream41.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike.dbr,, >> .\items\materia\class0024\Dream42.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike_dreamstealer.dbr,, >> .\items\materia\class0024\Dream43.dbr
+echo augmentSkillName1,records/skillsdream/tranceofconvalescence.dbr,, >> .\items\materia\class0024\Dream44.dbr
+echo augmentSkillName1,records/skillsdream/tranceofempathy.dbr,, >> .\items\materia\class0024\Dream45.dbr
+echo augmentSkillName1,records/skillsdream/tranceofwrath.dbr,, >> .\items\materia\class0024\Dream46.dbr
+echo augmentSkillName1,records/skillsdream/distortreality.dbr,, >> .\items\materia\class0024\Dream47.dbr
+echo augmentSkillName1,records/skillsdream/distortreality_temporalrift.dbr,, >> .\items\materia\class0024\Dream48.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave.dbr,, >> .\items\materia\class0024\Dream49.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_chaoticresonance.dbr,, >> .\items\materia\class0024\Dream50.dbr
+echo augmentSkillName1,records/skillsdream/distortionwave_psionicimmolation.dbr,, >> .\items\materia\class0024\Dream51.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch.dbr,, >> .\items\materia\class0024\Dream52.dbr
+echo augmentSkillName1,records/skillsdream/psionictouch_psionicburn.dbr,, >> .\items\materia\class0024\Dream53.dbr
+echo augmentSkillName1,records/skillsdream/distortionfield.dbr,, >> .\items\materia\class0024\Dream54.dbr
+echo augmentSkillName1,records/skillsdream/sandsofsleep.dbr,, >> .\items\materia\class0024\Dream55.dbr
+echo augmentSkillName1,records/skillsdream/nightmare.dbr,, >> .\items\materia\class0024\Dream56.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_hypnoticgaze.dbr,, >> .\items\materia\class0024\Dream57.dbr
+echo augmentSkillName1,records/skillsdream/nightmare_petmodifier_mastermind.dbr,, >> .\items\materia\class0024\Dream58.dbr
+echo augmentSkillName1,records/skillsdream/luciddream.dbr,, >> .\items\materia\class0024\Dream59.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_premonition.dbr,, >> .\items\materia\class0024\Dream60.dbr
+echo augmentSkillName1,records/skillsdream/luciddream_temporalflux.dbr,, >> .\items\materia\class0024\Dream61.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike.dbr,, >> .\items\materia\class0024\Dream62.dbr
+echo augmentSkillName1,records/skillsdream/phantomstrike_dreamstealer.dbr,, >> .\items\materia\class0024\Dream63.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 copy .\dail_base2.dbr .\items\materia\class0026\Enchanter1.dbr /y
 copy .\dail_base2.dbr .\items\materia\class0026\Enchanter2.dbr /y
 copy .\dail_base2.dbr .\items\materia\class0026\Enchanter3.dbr /y

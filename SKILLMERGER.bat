@@ -19,6 +19,8 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\assets\text_en\" /y
 
 rem pc dbr and animation files ?
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\anm_femalepc.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\anm_malepc.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\FemalePC01.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\FemalePC01.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\creatures\pc\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\MalePC01.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
@@ -27,6 +29,26 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\playerlevels.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
 
 rem all the stuff shared between the 3 base mods
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\effects\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\effects\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\effects\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\effects\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\effects\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\effects\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\effects\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\effects\/" /S
+
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\ingameui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\ingameui\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\ingameui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\ingameui\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\ingameui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\ingameui\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\ingameui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\ingameui\/" /S
+
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\sounds\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\sounds\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\sounds\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\sounds\/" /S
+
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\xpack\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\xpack\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\xpack\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\assets\xpack\/" /S
+
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\text_en\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\source\text_en\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\assets\text_en\/" /S

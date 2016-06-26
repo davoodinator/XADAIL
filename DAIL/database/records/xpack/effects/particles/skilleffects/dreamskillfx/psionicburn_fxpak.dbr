@@ -1,0 +1,6 @@
+particleEffectNames,Records\XPack\Effects\Particles\SkillEffects\DreamSkillFX\PsionicBurn_FX.dbr,
+disturbanceRadius,0.000000,
+Class,FxPak,
+templateName,database\Templates\FXPak.tpl,
+cameraShakeDuration,0.000000,
+cameraShakeAmplitude,0.500000,

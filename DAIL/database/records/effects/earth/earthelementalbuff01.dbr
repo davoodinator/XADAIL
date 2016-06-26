@@ -1,0 +1,4 @@
+particleEffectNames,Records\Effects\PetFX\FireEarthPetBuffWrist03.dbr;Records\Effects\PetFX\FireEarthPetBuffWrist03.dbr;Records\Effects\PetFX\FireEarthPetBuffVent01.dbr;Records\Effects\PetFX\FireEarthPetBuffVent02.dbr;Records\Effects\PetFX\FireEarthPetBuffVent02.dbr,
+useTintColor,0,
+particleEffectAttachPoints,FlameWrist01;FlameWrist02;FlameVent01;FlameVent02;FlameVent03,
+templateName,database\Templates\CharFxPak.tpl,

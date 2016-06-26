@@ -1,0 +1,6 @@
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+Class,EffectEntity,
+templateName,database\Templates\Effect.tpl,
+Anchored,0,
+effectFile,XPack\Effects\Particles\SkillEffects\DreamSkillFX\DistortReality.pfx,
+emitterType,Standard,
