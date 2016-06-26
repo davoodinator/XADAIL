@@ -36,6 +36,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ^see additional file anm_problems.txt
 ^check eternal mod items and item skills and god drops
 ^review legendary affixes / drops for merging with GQ
+^ Originally Posted by tt300 - Adjustment records\ui\skills\classselection\skills_classselec tionbutton20.dbr in the X, Y coordinate values can make the center.
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -44,6 +45,7 @@ Procrastination - also stuff other people can work on if they are keeners
 
 
 0037 - 4:23 AM 6/26/2016
+slight update to UI thanks to tt300.  TQ masteries now appear nicely
 name the component vendors after the mastery creators and others
 add Lumera Relendra credit and npc
 fix tag for priest mastery. still says enchanter when in skill selection screen

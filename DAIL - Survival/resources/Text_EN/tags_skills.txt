@@ -1,28 +1,15 @@
 #PH TAGS
 tagSkillClassDescription14=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription15=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription16=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription17=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription18=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription19=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription20=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription21=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription22=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription23=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription24=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oASYLUM101 ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription25=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDraonCC ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription29=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oAtrosatiro ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDiacred ^wto merge a known good working copy of this mastery into DAIL.
 #END OF PH TAGS
 
-
-
-
-
 tagClass09SkillName00=Coronus
-tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
+tagClass09SkillDescription00=The Coronus is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Coronus knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 tagClassNameFK=Frost Knight
-tagClassENCH=[ms]Enchanter[fs]Enchantress
+tagClassENCH=[ms]Priest[fs]Priestess
 tagSkillClassDescription10=Fangshis follow both the law of the Heaven and the Earth, Giving their bodies and minds perfect harmony, and granting them the strength to do what is necessary.
 tagSkillClassDescription11=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
@@ -43,16 +30,16 @@ tagSkillClassName11=Frost Knight
 tagSkillClassName12=Elementalist
 tagSkillClassName13=Terror Knight
 tagSkillClassName14=^pPH Arch Necromancer
-tagSkillClassName15=^pPH Illusionist
-tagSkillClassName16=^pPH Defense
-tagSkillClassName17=^pPH Hunting
-tagSkillClassName18=^pPH Spirit
-tagSkillClassName19=^pPH Warfare
-tagSkillClassName20=^pPH Nature
-tagSkillClassName21=^pPH Rogue
-tagSkillClassName22=^pPH Earth
-tagSkillClassName23=^pPH Storm
-tagSkillClassName24=^pPH Dream
+tagSkillClassName15=Illusionist
+tagSkillClassName16=Defense
+tagSkillClassName17=Hunting
+tagSkillClassName18=Spirit
+tagSkillClassName19=Warfare
+tagSkillClassName20=Nature
+tagSkillClassName21=Rogue
+tagSkillClassName22=Earth
+tagSkillClassName23=Storm
+tagSkillClassName24=Dream
 tagSkillClassName25=^pPH Stargazer
 tagSkillClassName26=[ms]Priest[fs]Priestess
 tagSkillClassName27=Engineer
