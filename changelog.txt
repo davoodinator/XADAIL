@@ -27,22 +27,25 @@ Procrastination - also stuff other people can work on if they are keeners
 ^finish the Arlequin and release it
 ^finish documenting the ??? stuff in README
 ^add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
-^try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
 ^re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - i havent checked it yet
-^+1 to all skills doesn't work for custom masteries
-^update cftx mod to 0.52
-^add Azri Kun for credits
-^see additional file anm_problems.txt
-^check eternal mod items and item skills and god drops
-^review legendary affixes / drops for merging with GQ
-^ Originally Posted by tt300 - Adjustment records\ui\skills\classselection\skills_classselec tionbutton20.dbr in the X, Y coordinate values can make the center.
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 0038 - ?
-
+*review mastery tags i think i unlocked some by accident that werent merged in.
+*deal with poll results
+*check demo mastery did i break it? damnit.
+*add GQ vendor information to the OP on gd forums
+*grim quest hotfix update
+*+1 to all skills doesn't work for custom masteries
+*update cftx mod to 0.52
+*add Azri Kun for credits
+*see additional file anm_problems.txt
+*check eternal mod items and item skills and god drops
+*review legendary affixes / drops for merging with GQ
+*try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
 
 0037 - 4:23 AM 6/26/2016
 slight update to UI thanks to tt300.  TQ masteries now appear nicely
