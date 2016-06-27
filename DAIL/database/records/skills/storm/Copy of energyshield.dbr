@@ -1,6 +1,4 @@
 templateName,database/templates/skill_buffradius.tpl,
-ActorName,,
 Class,Skill_BuffRadius,
-FileDescription,,
 buffSkillName,records/skills/playerclass08/energyshieldbuff.dbr,
 instantCast,0,

@@ -1,3 +1,3 @@
+templateName,database/templates/effect.tpl,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Earth\EarthElementalJoint_FX01.pfx,
+effectFile,effects/earth/earthelementaljoint_fx01.pfx,

@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Arrow_Fire02,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Projectiles\Arrow_Fire02.pfx,
+effectFile,effects/projectiles/arrow_fire02.pfx,

@@ -84,14 +84,20 @@ rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\u
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\DAIL\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\DAIL\/" /S
 
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\sounds\/" /S /xf crafting_table.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\sounds\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\sounds\/" /S /xf crafting_table.dbr
+
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\xpack\/" /S /xf crafting_table.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\xpack\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\xpack\/" /S /xf crafting_table.dbr
+
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\ui\/" /S /xf crafting_table.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\ui\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\ui\/" /S /xf crafting_table.dbr
 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\mod_wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\mod_wanez\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\mod_wanez\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\mod_wanez\/" /S
 
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\DAIL\/" /S
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\DAIL\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\DAIL\/" /S
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\DAIL\/" /S
 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\controllers\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\controllers\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\controllers\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\controllers\/" /S

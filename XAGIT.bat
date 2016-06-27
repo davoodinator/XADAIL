@@ -16,6 +16,9 @@ rem removed the line because .arz files are >50 megs and github was complaining.
 rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\VanillaBak\/" /MIR /S /XO /xf *.arz *.arc
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\VanillaBak.7z" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\VanillaBak\" /y
 
+rem copy the Grim Quest merger files
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmergeGQ\/" /MIR /S /XO /xf *.arz *.arc *.7z
+
 rem copy individual files
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.nsi" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.bat" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y

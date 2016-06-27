@@ -1,4 +1,4 @@
+templateName,database/templates/fxpak.tpl,
 ActorName,Effects_Aura_Perseverance01,
 Class,FxPak,
-templateName,database\Templates\FxPak.tpl,
-particleEffectNames,Records\Effects\Hunting\343_TakeDown_Medium_FX.dbr,
+particleEffectNames,records/effects/hunting/343_takedown_medium_fx.dbr,

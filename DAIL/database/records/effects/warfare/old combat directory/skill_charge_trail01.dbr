@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Skill_Charge_Trail01,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Combat\Skill_Charge01.pfx,
+effectFile,effects/combat/skill_charge01.pfx,

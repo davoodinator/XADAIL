@@ -1,4 +1,4 @@
-FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
+templateName,database/templates/skill_buffradiustoggled.tpl,
 Class,Skill_BuffRadiusToggled,
-templateName,database\Templates\Skill_BuffRadiusToggled.tpl,
-buffSkillName,Records\Skills\Spirit\Pet\SpiritWard_Skill01Buff.dbr,
+FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
+buffSkillName,records/skills/spirit/pet/spiritward_skill01buff.dbr,

@@ -1,6 +1,4 @@
 templateName,database/templates/skill_buffradiustoggled.tpl,
-ActorName,,
 Class,Skill_BuffRadiusToggled,
-FileDescription,,
-instantCast,1,
 buffSkillName,records/skills/warfare/battlestandard_petskill_defaultbuff.dbr,
+instantCast,1,

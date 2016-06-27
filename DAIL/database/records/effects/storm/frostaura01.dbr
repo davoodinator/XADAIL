@@ -1,3 +1,3 @@
+templateName,database/templates/effect.tpl,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Storm\FrostAura01.pfx,
+effectFile,effects/storm/frostaura01.pfx,

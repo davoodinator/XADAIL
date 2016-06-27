@@ -1,5 +1,5 @@
-boneList,Bone_R_Weapon;Bone_L_Weapon,
+templateName,database/templates/effect.tpl,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Defense\343QuickRecovery_ambient.pfx,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/defense/343quickrecovery_ambient.pfx,
 emitterType,Standard,

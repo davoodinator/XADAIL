@@ -23,29 +23,59 @@ Polls
 Procrastination - also stuff other people can work on if they are keeners
 ^artwork for elementalist
 ^artwork for terror knight
-^removed unnecessary files from \DAIL\database\DAIL\*
-^finish the Arlequin and release it
-^finish documenting the ??? stuff in README
-^add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
-^re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - i havent checked it yet
+^see additional file anm_problems.txt
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-0038 - ?
-*review mastery tags i think i unlocked some by accident that werent merged in.
-*deal with poll results
-*check demo mastery did i break it? damnit.
-*add GQ vendor information to the OP on gd forums
-*grim quest hotfix update
+0040 - planned stable release
+
+0039 - updates and other stuff
 *+1 to all skills doesn't work for custom masteries
 *update cftx mod to 0.52
-*add Azri Kun for credits
-*see additional file anm_problems.txt
+*deal with poll results
+*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+*removed unnecessary files from \DAIL\database\DAIL\*
+*finish the Arlequin and release it
+*finish documenting the ??? stuff in README
+*add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 *check eternal mod items and item skills and god drops
-*review legendary affixes / drops for merging with GQ
 *try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
+*update engineer mastery to 1.5
+*merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
+*extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
+*review legendary affixes / drops for merging with GQ
+*update zenith to 0.2
+
+0038 - ?
+check demo mastery did i break it? damnit. - fixed skills_mastertable.dbr was missing a line WTF
+dd GQ vendor information to the OP on gd forums
+grim quest hotfix update
+review mastery tags i think i unlocked some by accident that weren't merged in.
+add Azri Kun for credits
+merchants fixed
+FIXED *User reported : "unable to put any puts into Hew, Cross Cut, and Tumult in the Warfare mastery, no matter how many points I have in the mastery or the Dual Wield skill."
+*lordshigan feedback (FIXED)
+LordShigan: ok
+LordShigan: so in rfits
+LordShigan: spirit has no particle effects
+LordShigan: and the pet doesnt work
+LordShigan: nor is it visible
+LordShigan: bad guys see it
+LordShigan: the tags inside the trees are broken
+LordShigan: for each of the new classes
+LordShigan: for spirit, ternian attack is broken
+LordShigan: requires ranged two handed weapon, but rfifle doesnt wokr
+LordShigan: about to check main quest
+LordShigan: effects seem to wrk in main map, but are barely visible...
+LordShigan: lich pet is still not working
+LordShigan: would be nice to have a way to undo a class selection
+LordShigan: and get the points back
+LordShigan: Dude we so badly need an aura tank class
+LordShigan: it look like all the classes have issues outside of the main map
+LordShigan: pets dont work for any of the new classes
+
 
 0037 - 4:23 AM 6/26/2016
 slight update to UI thanks to tt300.  TQ masteries now appear nicely

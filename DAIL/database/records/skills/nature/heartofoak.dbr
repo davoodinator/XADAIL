@@ -1,6 +1,4 @@
 templateName,database/templates/skill_buffradiustoggled.tpl,
-ActorName,,
 Class,Skill_BuffRadiusToggled,
 FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
-instantCast,,
 buffSkillName,records/skills/nature/heartofoakbuff.dbr,

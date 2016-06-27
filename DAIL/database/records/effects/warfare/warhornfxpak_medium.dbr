@@ -1,4 +1,4 @@
+templateName,database/templates/fxpak.tpl,
 ActorName,Effects_Aura_Perseverance01,
 Class,FxPak,
-templateName,database\Templates\FxPak.tpl,
-particleEffectNames,Records\Effects\Warfare\WarHorn_Medium_FX01.dbr,
+particleEffectNames,records/effects/warfare/warhorn_medium_fx01.dbr,

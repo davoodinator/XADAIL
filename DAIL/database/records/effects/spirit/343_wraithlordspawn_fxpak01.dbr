@@ -1,3 +1,3 @@
-particleEffectNames,Records\Effects\Spirit\343_WraithLordSpawn_FX01.dbr,
+templateName,database/templates/fxpak.tpl,
 Class,FxPak,
-templateName,database\Templates\FxPak.tpl,
+particleEffectNames,records/effects/spirit/343_wraithlordspawn_fx01.dbr,

@@ -1,5 +1,4 @@
 templateName,database/templates/leveltable.tpl,
-ActorName,,
 Class,LevelTable,
 FileDescription,unused for now,
 levels,1,

@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_TClap_Sparks_Blast03,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Storm\ThunderClap\TClapSparksRing03.pfx,
+effectFile,effects/storm/thunderclap/tclapsparksring03.pfx,

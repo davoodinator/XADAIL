@@ -1,6 +1,3 @@
 templateName,database/templates/skill_buffradius.tpl,
-ActorName,,
 Class,Skill_BuffRadius,
-FileDescription,,
-instantCast,,
 buffSkillName,records/skills/nature/wolf_petskill_strengthofthepackbuff.dbr,

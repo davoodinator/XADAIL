@@ -1,42 +1,42 @@
 #NPCS
-tagDailDavoodFactioner=^oDavood the Aetherial Interdictor
-tagDailHardyFactioner=^oHardy the Aetherial Interdictor
-tagDailKhalanosFactioner=^oKhalanos the Aetherial Interdictor
+tagDailDavoodFactioner=^oDavood the ^wAetherial Interdictor
+tagDailHardyFactioner=^oHardy the ^wAetherial Interdictor
+tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
 
 #DAIL MERCHANTS
-tagDailThentyZShopping0001=^oThentyZ the Soldier Emissary of ^wCrate
-tagDailThentyZShopping0002=^oLumera Relendra the Demolitionist Emissary of ^wCrate
-tagDailThentyZShopping0003=^oTynor the Occultist Emissary of ^wCrate
-tagDailThentyZShopping0004=^oTT300 the Nightblade Emissary of ^wCrate
-tagDailThentyZShopping0005=^rKhalanos the Arcanist Emissary of ^wCrate
-tagDailThentyZShopping0006=^oPrincessLuna the Shaman Emissary of ^wCrate
-tagDailThentyZShopping0007=^rÁvohaj the Necromancer Emissary of ^wCFTX
-tagDailThentyZShopping0008=^rHelskerm the Ranger Emissary of ^wCFTX
-tagDailThentyZShopping0009=^rMorrolan Edrien the Coronus Emissary of ^wSomerled
-tagDailThentyZShopping0010=^rVizZzas HolloW the Fangshi Emissary of ^wCFTX
-tagDailThentyZShopping0011=^rLordShigan the Frost Knight Emissary of ^wCeno
-tagDailThentyZShopping0012=^rSpace Chefke the Elementalist Emissary of ^wCeno
-tagDailThentyZShopping0013=^rChris Baisan the Terror Knight Emissary of ^w3Jiou
-tagDailThentyZShopping0014=^rOkami29 the Arch Necromancer Emissary of ^wKir4
-tagDailThentyZShopping0015=^rNatATon the Illusionist Emissary of ^wKir4
-tagDailThentyZShopping0016=^rJiaco the Defense Emissary of ^wASYLUM101
-tagDailThentyZShopping0017=^rMamba the Hunting Emissary of ^wASYLUM101
-tagDailThentyZShopping0018=^rCyberreefer the Spirit Emissary of ^wASYLUM101
-tagDailThentyZShopping0019=^rAdoomgod the Warfare Emissary of ^wASYLUM101
-tagDailThentyZShopping0020=^rElfe the Nature Emissary of ^wASYLUM101
-tagDailThentyZShopping0021=^rPLACEHOLDER the Rogue Emissary of ^wASYLUM101
-tagDailThentyZShopping0022=^rPLACEHOLDER the Earth Emissary of ^wASYLUM101
-tagDailThentyZShopping0023=^rPLACEHOLDER the Storm Emissary of ^wASYLUM101
-tagDailThentyZShopping0024=^rDeathbit the Dream Emissary of ^wASYLUM101
-tagDailThentyZShopping0025=^rPLACEHOLDER the Stargazer Emissary of ^wDraonCC
-tagDailThentyZShopping0026=^rPLACEHOLDER the Priest Emissary of ^w3Jiou
-tagDailThentyZShopping0027=^rRorschachrev the Engineer Emissary of ^wKoba0100
-tagDailThentyZShopping0028=^rPLACEHOLDER the Cenobite Emissary of ^wCFTX
-tagDailThentyZShopping0029=^rPLACEHOLDER the Arleqin Emissary of ^wAtrosatiro
-tagDailThentyZShopping0030=^rPLACEHOLDER the Elwar Emissary of ^wDiacred
+tagDailThentyZShopping0001=^oThentyZ the ^wSoldier ^oEmissary of ^wCrate
+tagDailThentyZShopping0002=^oLumera Relendra the ^wDemolitionist ^oEmissary of ^wCrate
+tagDailThentyZShopping0003=^oTynor the ^wOccultist ^oEmissary of ^wCrate
+tagDailThentyZShopping0004=^oTT300 the ^wNightblade ^oEmissary of ^wCrate
+tagDailThentyZShopping0005=^oKhalanos the ^wArcanist ^oEmissary of ^wCrate
+tagDailThentyZShopping0006=^oPrincessLuna the ^wShaman ^oEmissary of ^wCrate
+tagDailThentyZShopping0007=^oÁvohaj the ^wNecromancer ^oEmissary of ^wCFTX
+tagDailThentyZShopping0008=^oHelskerm the ^wRanger ^oEmissary of ^wCFTX
+tagDailThentyZShopping0009=^oMorrolan Edrien the ^wCoronus ^oEmissary of ^wSomerled
+tagDailThentyZShopping0010=^oVizZzas HolloW the ^wFangshi ^oEmissary of ^wCFTX
+tagDailThentyZShopping0011=^oLordShigan the ^wFrost Knight ^oEmissary of ^wCeno
+tagDailThentyZShopping0012=^oSpace Chefke the ^wElementalist ^oEmissary of ^wCeno
+tagDailThentyZShopping0013=^oChris Baisan the ^wTerror Knight ^oEmissary of ^w3Jiou
+tagDailThentyZShopping0014=^oOkami29 the ^wArch Necromancer ^oEmissary of ^wKir4
+tagDailThentyZShopping0015=^oNatATon the ^wIllusionist ^oEmissary of ^wKir4
+tagDailThentyZShopping0016=^oJiaco the ^wDefense ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0017=^oMamba the ^wHunting ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0018=^oCyberreefer the ^wSpirit ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0019=^oAdoomgod the ^wWarfare ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0020=^oElfe the ^wNature ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0021=^rPLACEHOLDER the ^wRogue ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0022=^oAzri Kun the ^wEarth ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0023=^rPLACEHOLDER the ^wStorm ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0024=^oDeathbit the ^wDream ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0025=^rPLACEHOLDER the ^wStargazer ^oEmissary of ^wDraonCC
+tagDailThentyZShopping0026=^rPLACEHOLDER the ^wPriest ^oEmissary of ^w3Jiou
+tagDailThentyZShopping0027=^oRorschachrev the ^wEngineer ^oEmissary of ^wKoba0100
+tagDailThentyZShopping0028=^rPLACEHOLDER the ^wCenobite ^oEmissary of ^wCFTX
+tagDailThentyZShopping0029=^rPLACEHOLDER the ^wArleqin ^oEmissary of ^wAtrosatiro
+tagDailThentyZShopping0030=^rPLACEHOLDER the ^wElwar ^oEmissary of ^wDiacred
 
 #components
 dailCompDesc0000000=^pThis is a test item mk?
-dailCompText0000000=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText0000000=^oThis feels warm to the ^wtouch, almost familiar ^w(This component fits into all Jewellery slots including the ^wBelt And Shoulder)

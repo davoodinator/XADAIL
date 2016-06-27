@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Projectiles_ShardIce01,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Projectiles\PoisonShot_Impact.pfx,
+effectFile,effects/projectiles/poisonshot_impact.pfx,

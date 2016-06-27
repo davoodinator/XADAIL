@@ -1,5 +1,5 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Auras_BattleRage01,
-boneList,Bone_R_Weapon;Bone_L_Weapon,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Warfare\BattleRage\BattleRage_FX01.pfx,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/warfare/battlerage/battlerage_fx01.pfx,

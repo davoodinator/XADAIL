@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Skill_VolcanicOrb_Flight_Level20B,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Earth\VolcanicOrbFlightLevel20B.pfx,
+effectFile,effects/earth/volcanicorbflightlevel20b.pfx,

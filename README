@@ -34,6 +34,7 @@ Individual files sitting in the root dir:
 ******************************************
 DAIL*.NSI are the NSS scripts to build versions of DAIL. older ones are there for posterity. if someone wants to update this and make it sexier . please suggest update to it.  it currently need a proper uninstall option also remember to go into \VanillaBak\ and decompress the .7z files without path into the folder so that NSIS can pull the vanilla files out
 SKILLMERGER.BAT brings files from \DAIL\ into the other folders as needed in the case of some shared data that needs to be edited. if someone can suggest a better file. I will merge it in.
+GQMERGE.bat run after SKILLMERGER.BAT and also AFTER you have compiled the assets in asset manager and "compacted" them.  this batch file will add all the missing Titan Quest assets missing from the regular DAIL folders.
 changelog.txt = obvious
 README = this file
 XAGIT.bat = brings only the changed files from this working folder to a subfolder named XADAIL which should be your git repo folder.. you can edit this if you want. just offering it for convenience. youll have to edit this heavily to make it work - if someone can suggest a better file I will merge it in

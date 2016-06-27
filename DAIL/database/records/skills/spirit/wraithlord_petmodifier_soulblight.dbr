@@ -1,6 +1,3 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
-ActorName,,
 Class,SkillSecondary_PetModifier,
-FileDescription,,
 petSkillName,records/skills/playerclass03/wraithlord_petskill_soulblight.dbr,
-petChanges,,

@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Projectiles_ShardIce01,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Spirit\ManaDrain01.pfx,
+effectFile,effects/spirit/manadrain01.pfx,

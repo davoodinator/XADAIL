@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Gold_Skeleton_Smoke01,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Spirit\DarkFamiliar_Smoke01.pfx,
+effectFile,effects/spirit/darkfamiliar_smoke01.pfx,

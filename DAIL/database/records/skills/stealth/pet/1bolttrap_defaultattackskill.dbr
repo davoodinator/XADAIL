@@ -282,5 +282,3 @@ skillProjectileName,records/fx/skillsother/projectile/ghost_fireball_projectilef
 skillProjectileNumber,1,
 skillProjectileTargetGroundOnly,0,
 unarmedOnly,0,
-fileNameHistoryEntry,mods/tq import/records/skills/playerclass06/pet/trap_fireball.dbr,
-fileNameHistoryEntry,mods/tq import/records/skills/playerclass06/pet/bolttrap_defaultattackskill.dbr,

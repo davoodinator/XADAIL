@@ -1,4 +1,4 @@
-particleEffectNames,Records\Effects\Earth\FireEnchantment_HandFX01.dbr;Records\Effects\Earth\FireEnchantment_HandFX01.dbr,
-useTintColor,0,
+templateName,database/templates/charfxpak.tpl,
 particleEffectAttachPoints,R Hand;L Hand,
-templateName,database\Templates\CharFxPak.tpl,
+particleEffectNames,records/effects/earth/fireenchantment_handfx01.dbr;records/effects/earth/fireenchantment_handfx01.dbr,
+useTintColor,0,

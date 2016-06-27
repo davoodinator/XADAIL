@@ -1,4 +1,4 @@
+templateName,database/templates/effect.tpl,
 ActorName,Effects_Life_Leech01,
 Class,EffectEntity,
-templateName,database\Templates\Effect.tpl,
-effectFile,Effects\Death\LifeLeech01.pfx,
+effectFile,effects/death/lifeleech01.pfx,

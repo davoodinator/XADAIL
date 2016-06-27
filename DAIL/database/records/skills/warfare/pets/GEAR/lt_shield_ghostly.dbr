@@ -1,6 +1,4 @@
 templateName,database/templates/leveltable.tpl,
-ActorName,,
 Class,LevelTable,
-FileDescription,,
 levels,1,
-records,records/skills/playerclass04/pets/gear/tdyn_shield_b02_ghostly.dbr,
+records,records/skills/warfare/pets/gear/tdyn_shield_b02_ghostly.dbr,

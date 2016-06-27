@@ -1,6 +1,4 @@
 templateName,database/templates/skill_buffradius.tpl,
-ActorName,,
 Class,Skill_BuffRadius,
-FileDescription,,
-instantCast,1,
 buffSkillName,records/skills/spirit/pet/spiritward_le_circleofpowerbuff.dbr,
+instantCast,1,
