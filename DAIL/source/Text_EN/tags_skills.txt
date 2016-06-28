@@ -46,3 +46,16 @@ tagSkillClassName27=Engineer
 tagSkillClassName28=Cenobite
 tagSkillClassName29=[ms]^pPH Arlequin[fs]^pPH Harlequin
 tagSkillClassName30=^pPH Elwar
+
+
+
+
+tagClassName16=Defense
+tagClassName17=Hunting
+tagClassName18=Spirit
+tagClassName19=Warfare
+tagClassName20=Nature
+tagClassName21=Rogue
+tagClassName22=Earth
+tagClassName23=Storm
+tagClassName24=Dream

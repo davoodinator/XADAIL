@@ -29,26 +29,38 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-0040 - planned stable release
+0042 - planned stable release
+*???
 
-0039 - updates and other stuff
-*+1 to all skills doesn't work for custom masteries
-*update cftx mod to 0.52
-*deal with poll results
-*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
-*removed unnecessary files from \DAIL\database\DAIL\*
-*finish the Arlequin and release it
-*finish documenting the ??? stuff in README
-*add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
+0041 - ?
 *check eternal mod items and item skills and god drops
 *try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
-*update engineer mastery to 1.5
+*review legendary affixes / drops for merging with GQ
+*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+*finish the Arlequin and release it
+
+0040 - ?
+*+1 to all skills doesn't work for custom masteries
+*deal with poll results
+*removed unnecessary files from \DAIL\database\DAIL\*
+*finish documenting the ??? stuff in README
+*add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 *merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
 *extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
-*review legendary affixes / drops for merging with GQ
-*update zenith to 0.2
+*shrink the build by removing the GQ resource files after a copy and update.
+*add a note in the OP about hosting dail MP games
+*add same note to teh steam group discussions
 
-0038 - ?
+0039 - 1:22 AM 6/28/2016
+defense mastery tag issue - thanks TT300 for fix apparently other tq masteries like this too. fixed
+update cftx mod to 0.52
+update engineer mastery to 1.5
+The Exclusive Engineer Skill is bugged in DAIL but does work on the engineer mod. summoning sentries - fixed
+update zenith to 0.2
+update dawn of heroes to 1.6
+update GQ to 1.1c
+
+0038 - 3:16 AM 6/27/2016
 check demo mastery did i break it? damnit. - fixed skills_mastertable.dbr was missing a line WTF
 dd GQ vendor information to the OP on gd forums
 grim quest hotfix update

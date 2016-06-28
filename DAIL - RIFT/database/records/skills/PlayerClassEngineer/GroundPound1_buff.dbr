@@ -603,7 +603,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,0.000000,
-skillCooldownTime,3.000000;3;2.9;2.9;2.8;2.8;2.7;2.6;2.5;2.4;2.3;2.2;2.1;2,
+skillCooldownTime,4;3.9;3.8;3.8;3.7;3.6;3.6;3.5;3.5;3.4;3.4;3.3;3.3;3.2;3.2;3.1;3.1;3;3;2.9;2.9;2.9;2.8;2.8;2.7;2.7,
 skillDisplayName,tagClassEngineerSkillName06A,
 skillDownBitmapName,ui/engineer/icons/turfturner1d.tex,
 skillManaCost,30.000000;33.000000;37.000000;41.000000;45.000000;49.000000;54.000000;59.000000;64.000000;70.000000;76.000000;81.000000;86.000000;92.000000;98.000000;103.000000;108.000000;114.000000;120.000000;125.000000;130.000000;135.000000,
