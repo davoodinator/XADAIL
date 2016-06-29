@@ -25,6 +25,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ^artwork for terror knight
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - i havent checked it yet
 ^see additional file anm_problems.txt
+^finish the Arlequin and release it
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -33,23 +34,28 @@ Procrastination - also stuff other people can work on if they are keeners
 *???
 
 0041 - ?
-*check eternal mod items and item skills and god drops
-*try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
 *review legendary affixes / drops for merging with GQ
 *re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
-*finish the Arlequin and release it
+*add +1/+2 to all combinations of masteries as components that only fits into amulet.  a few of each will appear as additional purchasable goods on all skill merchants
 
 0040 - ?
-*+1 to all skills doesn't work for custom masteries
-*deal with poll results
-*removed unnecessary files from \DAIL\database\DAIL\*
-*finish documenting the ??? stuff in README
++1 to all skills doesn't work for custom masteries - yes it does
++1 to all skills for specific new mastery - it works just fine
++ to specific skill - works
+check demo tree - is it still empty? oops. did it again. there is a line in the skills_mastertable.dbr that keeps disssapearing! anyways its fixed now
+poll result 1 -> leave legendary stuff in place - got it.  0041 will work on fixing those that broke due to Grim Quest merge
+poll result 2 -> leave depravities in place - got it.  close 2nd to removing depravities - ill fix the drops if i can - fixed-ish need to test or let others test ;o
+poll result 3 -> change shrines to combat only - got it.  will do this  easy peasy. DONE EXCEPT for mogdrogan shrine
+removed unnecessary files from \DAIL\database\DAIL\*
+finish documenting the ??? stuff in README
+shrink the build by removing the GQ resource files after a copy and update - no need it isn't cooked into the installer
 *add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
 *merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
-*extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
-*shrink the build by removing the GQ resource files after a copy and update.
 *add a note in the OP about hosting dail MP games
 *add same note to teh steam group discussions
+*extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
+*check eternal mod items and item skills and god drops
+*try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
 
 0039 - 1:22 AM 6/28/2016
 defense mastery tag issue - thanks TT300 for fix apparently other tq masteries like this too. fixed
