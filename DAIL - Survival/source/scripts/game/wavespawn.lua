@@ -62,13 +62,15 @@ local player = Game.GetLocalPlayer()
 	if (player:HasToken("DISMANTLING_UNLOCKED") == false) then
 		player:GiveToken("DISMANTLING_UNLOCKED")
 	end
-	
+
+//remove the faction evil stuff from survival!	
+/*	
 	if (player:HasToken("FACTIONS_SET_FIX3") == false) then
 		player:GrantQuest(0x8F577200, 0xB6143900)
 		player:GetQuestTaskState(0x8F577200, 0xB6143900)
 		player:GiveToken("FACTIONS_SET_FIX3")
 	end
-	
+*/	
 	if (player:HasToken("ASCEND_0") == false) then
 		player:GiveToken("ASCEND_0")
 	end
@@ -489,13 +491,13 @@ local player = Game.GetLocalPlayer()
 local boss = Character.Get(objectId)
 local dbrPath = boss:GetName()
 local bossName = ""
-	if (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_warden02.dbr") then bossName = "WARDEN"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_darius.dbr") then bossName = "DARIUS"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_dranghoul.dbr") then bossName = "BLOODFEAST"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_dermapteranqueen02.dbr") then bossName = "RAVNA"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_aetherialobelisk02.dbr") then bossName = "OBELISK"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_zealot.dbr") then bossName = "ZEALOT"
-	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_loghorrean_03.dbr") then bossName = "LOGHORREAN"
+	if (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_warden02.dbr") then bossName = "WARDEN"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_darius.dbr") then bossName = "DARIUS"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_dranghoul.dbr") then bossName = "BLOODFEAST"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_dermapteranqueen02.dbr") then bossName = "RAVNA"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_aetherialobelisk02.dbr") then bossName = "OBELISK"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_zealot.dbr") then bossName = "ZEALOT"
+	elseif (dbrPath == "survival/creatures/wavespawn/heroes&bosses/boss_loghorrean_03.dbr") then bossName = "LOGHORREAN"
 	end
 	if (player:HasToken("BOSS_"..bossName.."_KILLED") == false) then
 		chestDBR = "records/items/lootchests/chest_"..bossName..".dbr"
@@ -525,7 +527,7 @@ local function CharacterCreateArgs()
 end
 
 function gd.wavespawn.spawnGod(godName)
-	local spawn = Character.Create ("records/creatures/gods/"..godName..".dbr", CharacterCreateArgs())
+	local spawn = Character.Create ("survival/creatures/gods/"..godName..".dbr", CharacterCreateArgs())
 	spawn:SetCoords(coords)
 	monstersTotal = monstersTotal+1
 	monsterId[monstersTotal] = spawn
@@ -541,16 +543,16 @@ local player = Game.GetLocalPlayer()
 local god = Character.Get(objectId)
 local dbrPath = god:GetName()
 local godName = ""
-	if (dbrPath == "records/creatures/gods/alkamos.dbr") then godName = "ALKAMOS"
-	elseif (dbrPath == "records/creatures/gods/depravitie.dbr") then godName = "DEPRAVITIE"
-	elseif (dbrPath == "records/creatures/gods/zaulkahn.dbr") then godName = "ZAULKAHN"
-	elseif (dbrPath == "records/creatures/gods/urzog.dbr") then godName = "URZOG"
-	elseif (dbrPath == "records/creatures/gods/sabrina.dbr") then godName = "SABRINA"
-	elseif (dbrPath == "records/creatures/gods/aria.dbr") then godName = "ARIA"
-	elseif (dbrPath == "records/creatures/gods/beanies.dbr") then godName = "BEANIES"
-	elseif (dbrPath == "records/creatures/gods/harun_skeleton.dbr") then godName = "HARUN"
-	elseif (dbrPath == "records/creatures/gods/mogdrogen.dbr") then godName = "MOGDROGEN"
-	elseif (dbrPath == "records/creatures/gods/raznar.dbr") then godName = "RAZNAR"
+	if (dbrPath == "survival/creatures/gods/alkamos.dbr") then godName = "ALKAMOS"
+	elseif (dbrPath == "survival/creatures/gods/depravitie.dbr") then godName = "DEPRAVITIE"
+	elseif (dbrPath == "survival/creatures/gods/zaulkahn.dbr") then godName = "ZAULKAHN"
+	elseif (dbrPath == "survival/creatures/gods/urzog.dbr") then godName = "URZOG"
+	elseif (dbrPath == "survival/creatures/gods/sabrina.dbr") then godName = "SABRINA"
+	elseif (dbrPath == "survival/creatures/gods/aria.dbr") then godName = "ARIA"
+	elseif (dbrPath == "survival/creatures/gods/beanies.dbr") then godName = "BEANIES"
+	elseif (dbrPath == "survival/creatures/gods/harun_skeleton.dbr") then godName = "HARUN"
+	elseif (dbrPath == "survival/creatures/gods/mogdrogen.dbr") then godName = "MOGDROGEN"
+	elseif (dbrPath == "survival/creatures/gods/raznar.dbr") then godName = "RAZNAR"
 	end
 	player:GiveToken("GOD_"..godName.."_KILLED")	
 	isUpdating = 0

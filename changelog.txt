@@ -5,17 +5,19 @@ LATEST CHANGES
 ***********************************************************************
 GLOSSARY
 * = not done yet
-? = time not set as it isn't released yet !
 % = something pending a vote - will decide when votes hit 200+
-^ = something i will leave for later version
+^ = something i will leave for later version or someone else to do. and otherwise don't see myself working on for a while unless im really bored
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 Polls
-%(http://www.strawpoll.me/10551741/) removed legendary/epic affixes. you can keep the items you already got but new ones won't drop anymore at least not until DGA has post100 leveling
-%(http://www.strawpoll.me/10550732/) removed depravities from the grimmest portion of dail mod
-%(http://www.strawpoll.me/10562759/) devotion shrines combat only
+Active: None
+
+Old Polls:
+%(http://www.strawpoll.me/10551741/) (NO) remove legendary/epic affixes. you can keep the items you already got but new ones won't drop anymore at least not until DGA has post100 leveling
+%(http://www.strawpoll.me/10550732/) (NO) remove depravities from the grimmest portion of DAIL mod
+%(http://www.strawpoll.me/10562759/) (YES) devotion shrines combat only
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -23,22 +25,29 @@ Polls
 Procrastination - also stuff other people can work on if they are keeners
 ^artwork for elementalist
 ^artwork for terror knight
-^add the lazy mod for people who want auto pickups of stuff - needs more research - i havent checked it yet
+^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
 ^finish the Arlequin and release it
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
+0042 - exploration
+*can i fiddle with the map using purely LUA?
+*if not then re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+
 0042 - planned stable release
 *???
 
 0041 - ?
 *review legendary affixes / drops for merging with GQ
-*re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
 *add +1/+2 to all combinations of masteries as components that only fits into amulet.  a few of each will appear as additional purchasable goods on all skill merchants
+*add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
+*merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
+*add a note in the OP about hosting dail MP games
+*add same note to teh steam group discussions
 
-0040 - ?
+0040 - 9:28 PM 6/29/2016
 +1 to all skills doesn't work for custom masteries - yes it does
 +1 to all skills for specific new mastery - it works just fine
 + to specific skill - works
@@ -49,13 +58,20 @@ poll result 3 -> change shrines to combat only - got it.  will do this  easy pea
 removed unnecessary files from \DAIL\database\DAIL\*
 finish documenting the ??? stuff in README
 shrink the build by removing the GQ resource files after a copy and update - no need it isn't cooked into the installer
-*add/test a pull script to put stuff back into my offline work dir when i merge something from the wild (if it ever happens)
-*merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
-*add a note in the OP about hosting dail MP games
-*add same note to teh steam group discussions
-*extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
-*check eternal mod items and item skills and god drops
-*try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
+FIXED - All GQ Masteries are bugged in DAIL - eternal (probably means RIFT) and DAIL - survival. You can use them and they cost mana but nothing happens. In DAIL they work fine.
+check eternal mod items and item skills and god drops - seems same as original eternal mod
+extend all 9 GQ masteries to level 100 max w appropriate bonuses (FML)
+FIXED - try changing factions in eternalmod to see if we can avoid the changing all factions to nemesis stuff...
+Little bit of file copying and file replace action as follows :D
+	records/creatures/anomalies/	->		survival/creatures/anomalies/
+	records/creatures/enemies/		->		survival/creatures/enemies/
+	records/creatures/wavespawn/	->		survival/creatures/wavespawn/
+	records/creatures/gods/			->		survival/creatures/gods/
+	faction_necromancers.dbr		-> 		faction_outlaw.dbr
+	faction_kymonzealots.dbr		-> 		faction_outlaw.dbr
++non overwrite of all base creature data for those same folders.
++kymon/vigil faction changed to cronley faction. :D
++try it and let me know if it worked. seems to work for me anyways.
 
 0039 - 1:22 AM 6/28/2016
 defense mastery tag issue - thanks TT300 for fix apparently other tq masteries like this too. fixed

@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+Anchored,1,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/weaponenchantments/343_weapon_stormactive.pfx,

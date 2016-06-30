@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Skill_StormStrike_Aura01,
+Class,EffectEntity,
+effectFile,effects/storm/skill_stormstrike_aura01.pfx,

@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Gold_Skeleton_Orb01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/defense/343shieldslamamb_01.pfx,

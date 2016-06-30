@@ -1,0 +1,6 @@
+templateName,database/templates/fxmesh.tpl,
+Class,FxMesh,
+disturbanceRadius,0.000000,
+meshName,fx/meshfx/projectile_net_static01.msh,
+speed,1.000000,
+stationaryAttachment,1,
