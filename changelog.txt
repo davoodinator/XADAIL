@@ -32,7 +32,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-0042 - exploration
+0043 - exploration
 *can i fiddle with the map using purely LUA?
 *if not then re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
 
@@ -40,14 +40,15 @@ Procrastination - also stuff other people can work on if they are keeners
 *???
 
 0041 - ?
+add a note in the OP about hosting dail MP games
+add same note to the steam group discussions
 *review legendary affixes / drops for merging with GQ
 *add +1/+2 to all combinations of masteries as components that only fits into amulet.  a few of each will appear as additional purchasable goods on all skill merchants
 *add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
 *merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
-*add a note in the OP about hosting dail MP games
-*add same note to teh steam group discussions
 
 0040 - 9:28 PM 6/29/2016
+hotfix sorry about the gq masteries not properly giving stats
 +1 to all skills doesn't work for custom masteries - yes it does
 +1 to all skills for specific new mastery - it works just fine
 + to specific skill - works
