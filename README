@@ -51,10 +51,8 @@ dail builder 2.bat	auto generated file that creates some data for above
 dail_base.dbr	base file for +1 to specific skills components
 dail_base2.dbr	base file for +x to ALL skills for specific mastery components
 dail_base3dbr	base file for +3 and +5 to specific skills components
-some files i am going to move before naming/referencing them need to update alot of scripts first
-??	base merchant dbr
-??  base loot table dbr
-??  base loot drop dbr
+modeling skillups to 100 v2.xlsm  -> a way to build skills
+masteries 2016 06 26.xlsm -> a way to build the code for item drops (it builds dail builder 1 and 2 .bat, dail builder 0.bat is hardcoded)
 
 
 note to self

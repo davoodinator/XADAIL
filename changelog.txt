@@ -27,7 +27,6 @@ Procrastination - also stuff other people can work on if they are keeners
 ^artwork for terror knight
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
-^finish the Arlequin and release it
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -35,17 +34,33 @@ Procrastination - also stuff other people can work on if they are keeners
 0043 - exploration
 *can i fiddle with the map using purely LUA?
 *if not then re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
+*update graphics and naming conventions on the skill components
+*finish the Arlequin and release it
+*expand the dail tags for dc/ikon/hs and add the -? setting as well (bat files and archivetool magic)
+*add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
+*clean up the excel builder some more !
 
 0042 - planned stable release
 *???
 
-0041 - ?
+0041 - 4:53 AM 7/1/2016
 add a note in the OP about hosting dail MP games
 add same note to the steam group discussions
-*review legendary affixes / drops for merging with GQ
-*add +1/+2 to all combinations of masteries as components that only fits into amulet.  a few of each will appear as additional purchasable goods on all skill merchants
-*add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
-*merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit
+grim quest lich animation fix added
+try koba0100 suggestion to force template (that he created) over 30 masteries. probably won't work. only way to find out is to try :D - FAILED. got blank screen. its hard coded @30 for now. anyways it gave me some formatting ideas for the futur
+removed narisk from survival mode. sorry casuls. you have to farm like real players now 
+included the rest of my excel generators. sharing is caring
+MERGED - merge http://www.grimdawn.com/forums/showthread.php?t=41847 and give appropriate credit - yeah the installer is going to be huge now hah
+cleaned up my excel item, loottable and tag builder. now i can expand it easier.
+check DGA loot tables. - FIXED - maybe. not sure. i replaced d01_chesthero_all_01.dbr and set it to ignore in my replication scripts
+added some DAIL tags to starting areas ikon, dc and homestead so you know whiich version your in. and helps when you take testing screenshots :D
+add +1/+2 to all combinations of masteries as components that only fits into amulet.  a few of each will appear as additional purchasable goods on all skill merchants
+review legendary affixes / drops for merging with GQ - here is the final analysis regarding loottable folder where the affixes are assigned:
+	102 files were changed due to GQ merging
+	418 files were not changed
+	so this means 20% of the drops will be normal / Grim Quest related; while the other 80% will have affixes like normal (legendary affixes).  
+	I tested this by adventuring and i got a mixture of affixed and non affixed legendaries/epics with a mixture of suffix/prefix or both or none
+	This feels more natural IMHO than having affixes on every epic / legendary item. since they already have unique effects; you can consider them to be base items.
 
 0040 - 9:28 PM 6/29/2016
 hotfix sorry about the gq masteries not properly giving stats
