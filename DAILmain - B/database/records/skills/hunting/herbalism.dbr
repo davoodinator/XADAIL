@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,HuntingMastery_Sprint,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/hunting/herbalism_buff.dbr,
+instantCast,0,

@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/warfare/343_battlestandard_spawn.pfx,
+emitterType,Standard,

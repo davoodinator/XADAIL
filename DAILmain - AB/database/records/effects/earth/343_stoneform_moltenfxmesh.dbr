@@ -1,0 +1,8 @@
+templateName,database/templates/fxmesh.tpl,
+Class,FxMesh,
+animationName,fx/meshfx/anm/trap_obsidiansentry01b_appearance_a01.anm,
+disturbanceRadius,2.000000,
+fadeInTime,1.000000,
+fadeOutTime,7.000000,
+meshName,fx/meshfx/trap_obsidiansentry01b.msh,
+speed,0.600000,

@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.500000,
+cameraShakeDuration,0.000000,
+disturbanceRadius,0.000000,
+particleEffectNames,records/xpack/effects/particles/skilleffects/dreamskillfx/forcewave_fx.dbr,

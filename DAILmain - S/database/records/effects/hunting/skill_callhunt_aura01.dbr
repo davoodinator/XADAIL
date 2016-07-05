@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Skill_CallHunt_Aura01,
+Class,EffectEntity,
+effectFile,effects/hunting/skill_callhunt_aura01.pfx,

@@ -1,0 +1,3 @@
+templateName,database/templates/effect.tpl,
+Class,EffectEntity,
+effectFile,effects/storm/lightningstrike/lstrikeimpactsmokesparks02.pfx,

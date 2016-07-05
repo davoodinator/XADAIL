@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,ColdMastery_IceShard,
+Class,SkillSecondary_PetModifier,
+petSkillName,records/skills/spirit/wraithlord_petskill_arcaneblast.dbr,

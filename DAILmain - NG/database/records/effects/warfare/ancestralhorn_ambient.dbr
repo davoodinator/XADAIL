@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/warfare/343_ancesthorn_ambient.pfx,

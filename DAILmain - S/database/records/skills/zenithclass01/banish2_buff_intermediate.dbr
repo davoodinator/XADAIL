@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/zenithclass01/banish2_buff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/zenith/records/skills/zenithclass01/banish2_buff_intermediate.dbr,

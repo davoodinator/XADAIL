@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.150000,
+disturbanceRadius,3.000000,
+particleEffectNames,records/skills/playerclassoriadd/fx/arc_area_radius_dis_fx.dbr,

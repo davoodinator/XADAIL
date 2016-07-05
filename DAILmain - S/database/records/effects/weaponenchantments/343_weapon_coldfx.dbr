@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+canBeSoft,0,
+effectFile,effects/weaponenchantments/343_weapon_cold.pfx,
+emitterType,Standard,
+localOrientFix,1,

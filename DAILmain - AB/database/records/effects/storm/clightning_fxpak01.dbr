@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/soundpak/spells/storm/chainlightningthitpak.dbr,
+particleEffectNames,records/effects/storm/343_thunderballimpact_fx01.dbr,

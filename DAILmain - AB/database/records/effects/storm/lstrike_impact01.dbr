@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_LStrike_Impact01,
+Class,EffectEntity,
+effectFile,effects/storm/lstrike_impact01.pfx,

@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Venter,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_rain_smell_venter.dbr,
+petChanges,,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffother.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffOther,
+buffSkillName,records/skills/playerclass07/stoneformbuff.dbr,

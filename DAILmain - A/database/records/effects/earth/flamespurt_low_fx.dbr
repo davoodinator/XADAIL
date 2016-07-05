@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/earth/343flamespurt_ambient_low.pfx,

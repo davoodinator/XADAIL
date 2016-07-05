@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,FxPak,
+particleEffectNames,records/effects/warfare/warbanner_fx01.dbr,

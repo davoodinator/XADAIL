@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+meshEffectNames,records/effects/earth/343_stoneformfxmesh.dbr,
+particleEffectNames,records/effects/earth/343_stoneformfx.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Skill_Envenomed_Aura01,
+Class,EffectEntity,
+effectFile,effects/stealth/skill_envenom_aura01.pfx,

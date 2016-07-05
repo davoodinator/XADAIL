@@ -1,0 +1,6 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,xpack/effects/particles/skilleffects/dreamskillfx/mastermind.pfx,
+emitterType,Standard,

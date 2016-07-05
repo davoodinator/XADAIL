@@ -1,0 +1,6 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Class,EffectEntity,
+boneList,Weapon_R_Parent_Fix;Weapon_L_Parent_Fix,
+effectFile,effects/stealth/343_honing_persistant.pfx,
+emitterType,Standard,

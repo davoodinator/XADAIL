@@ -1,0 +1,6 @@
+templateName,database/templates/effect.tpl,
+Anchored,1,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/earth/343fire_enchantment.pfx,
+emitterType,Standard,

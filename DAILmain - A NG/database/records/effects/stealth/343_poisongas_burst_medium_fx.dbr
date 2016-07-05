@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Aura_Perseverance01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/stealth/343_poisongas_burst_medium.pfx,
+emitterType,BoneList,

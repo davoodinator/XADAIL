@@ -1,0 +1,6 @@
+templateName,database/templates/lineeffect2.tpl,
+Class,LineEffect2,
+color.a,1.000000,
+color.b,0.400000,
+color.g,1.000000,
+color.r,0.700000,

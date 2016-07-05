@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffother.tpl,
+ActorName,,
+Class,Skill_BuffOther,
+FileDescription,,
+buffSkillName,records/omega/skills/nonplayerskills/questskills/totalspeed/om_totalspeed27_buff.dbr,

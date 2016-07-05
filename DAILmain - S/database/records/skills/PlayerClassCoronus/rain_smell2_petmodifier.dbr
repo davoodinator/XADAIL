@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Secant,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_rain_smell_secant.dbr,
+petChanges,,

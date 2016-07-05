@@ -1,0 +1,6 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,xpack/effects/particles/skilleffects/dreamskillfx/sleep_fx01.pfx,

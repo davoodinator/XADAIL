@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,SpiritMastery_TransmuteLife,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/spirit/darkcovenantbuff.dbr,

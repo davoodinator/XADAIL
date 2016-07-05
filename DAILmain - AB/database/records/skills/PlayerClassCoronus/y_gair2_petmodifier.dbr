@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Y Gair Weigh me down,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_y_gair_weighmedown.dbr,
+petChanges,,

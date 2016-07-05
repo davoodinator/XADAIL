@@ -1,0 +1,3 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+particleEffectNames,records/effects/stealth/343_flashpowder_fx.dbr,

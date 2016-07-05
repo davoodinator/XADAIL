@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/storm/stormenchantmentaura01.pfx,

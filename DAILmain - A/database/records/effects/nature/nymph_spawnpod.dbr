@@ -1,0 +1,8 @@
+templateName,database/templates/fxmesh.tpl,
+Class,FxMesh,
+animationName,creatures/pet/nature/anm/nymphpod_activate.anm,
+disturbanceRadius,2.000000,
+fadeInTime,0.100000,
+fadeOutTime,0.100000,
+meshName,creatures/pet/nature/nymphpod.msh,
+speed,1.000000,

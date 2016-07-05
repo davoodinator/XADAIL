@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Y Gair Drown radius toggle,
+instantCast,0,
+buffSkillName,records/skills/playerclasscoronus/pets/petskill_y_gair_drown_buff.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_LStrike_Damage_Duration01,
+Class,EffectEntity,
+effectFile,source/effects/storm/lstrike_damage_duration01.pfx,

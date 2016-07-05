@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,DefensiveMastery_SheildTraining,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/defense/battleawarenessbuff.dbr,

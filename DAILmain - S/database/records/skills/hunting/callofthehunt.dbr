@@ -1,0 +1,3 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/hunting/callofthehuntbuff.dbr,

@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Skill_LethalStrike_Aura01,
+Class,EffectEntity,
+effectFile,effects/combat/skill_lethal_strike01.pfx,

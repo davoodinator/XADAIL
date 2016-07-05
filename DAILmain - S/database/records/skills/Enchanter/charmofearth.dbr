@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+instantCast,0,
+buffSkillName,records/skills/enchanter/charmofearth_buff.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/lootmastertable.tpl,
+Class,LootMasterTable,
+lootWeight1,800,
+lootWeight2,200,lootName1,DAIL/items/loottables/dailTBLoneskilldash0021.dbr, 
+lootName2,DAIL/items/loottables/dailTBLoneskilldash0021dual.dbr, 

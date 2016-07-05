@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/storm/stormwisp_petskill_eyeofthestormbuff.dbr,

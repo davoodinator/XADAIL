@@ -1,0 +1,2 @@
+templateName,database/templates/characterattributeequations.tpl,
+characterLife,((charLevel*3)^1.29)+60,

@@ -1,0 +1,6 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/projectiles/343_stafflightning_high_impact.pfx,

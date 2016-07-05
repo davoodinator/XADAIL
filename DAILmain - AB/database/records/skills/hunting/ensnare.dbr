@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+ActorName,HuntingMastery_Ensnare,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/skills/hunting/ensnarebuff.dbr,
+projectileNames,records/fx/skillsother/projectile/hookednet_projectile_fx01.dbr,
