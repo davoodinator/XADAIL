@@ -1,2 +1,0 @@
-lootName1,DAIL/items/materia/dail_base.dbr,
-lootWeight1,1,
