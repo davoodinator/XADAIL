@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-FontStyle,records/ui/styles/text/style_special_statusbarenergy.dbr,
-bitmapEmptyName,ui/hud/hud_playerenergyempty.tex,
-bitmapFullName,ui/hud/hud_playerenergyfull.tex,
-bitmapPositionX,203,
-bitmapPositionY,82,

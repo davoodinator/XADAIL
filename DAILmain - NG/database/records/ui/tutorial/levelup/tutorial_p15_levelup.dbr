@@ -1,4 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Level Up,
-NuggetArray,records/ui/tutorial/levelup/levelup_n1.dbr;records/ui/tutorial/levelup/levelup_n2.dbr;records/ui/tutorial/levelup/levelup_n2b.dbr;records/ui/tutorial/levelup/levelup_n2c.dbr;records/ui/tutorial/levelup/levelup_n2d.dbr;records/ui/tutorial/levelup/levelup_n4.dbr;records/ui/tutorial/levelup/levelup_n5.dbr;records/ui/tutorial/levelup/levelup_n6.dbr;records/ui/tutorial/levelup/levelup_n8.dbr;records/ui/tutorial/levelup/levelup_n3.dbr;records/ui/tutorial/levelup/levelup_n7.dbr;records/ui/tutorial/levelup/levelup_n10.dbr,

@@ -1,8 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,1,
-Class,EffectEntity,
-cameraShakeAmplitude,0.000000,
-cameraShakeDuration,0.000000,
-canBeSoft,0,
-effectFile,fx/particlesystems/skillsclass06/pfx_naturebounty_selfloop_01.pfx,
-localOrientFix,1,

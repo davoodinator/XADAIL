@@ -1,5 +1,0 @@
-templateName,database/templates/uidialogmanager.tpl,
-Background,ui/generic/promptbox/prompt_windowbackgroundimage.tex,
-NoButton,records/ui/generic/promptbox/prompt_buttonno.dbr,
-OkButton,records/ui/generic/promptbox/prompt_buttonokay.dbr,
-YesButton,records/ui/generic/promptbox/prompt_buttonyes.dbr,

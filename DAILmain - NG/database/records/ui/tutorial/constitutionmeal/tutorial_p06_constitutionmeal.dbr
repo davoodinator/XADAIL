@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Constitution Meal,
-NuggetArray,records/ui/tutorial/constitutionmeal/constitutionmeal_n1.dbr;records/ui/tutorial/constitutionmeal/constitutionmeal_n2.dbr,
-quickTag,tagQuickTip06,

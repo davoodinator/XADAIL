@@ -1,8 +1,0 @@
-templateName,database/templates/rolloverline2.tpl,
-FileDescription,RolloverLine2,
-Line1FormatTag,tagRollFormat06,
-Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
-Line1Tag,tagStatsResistance03,
-Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
-Line2Tag,tagStatsResistance03Desc,
-rolloverStyle,records/ui/styles/rollover/style_default.dbr,

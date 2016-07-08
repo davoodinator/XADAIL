@@ -1,4 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/skillsounds/class01/spak_forcebladestart01.dbr,
-particleEffectNames,records/fx/skillsother/itemrelics/tranquility_fx01.dbr,

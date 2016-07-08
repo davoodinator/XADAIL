@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-FontStyle,records/ui/styles/text/style_special_charstats.dbr,
-bitmapEmptyName,ui/character/character_positivefactionempty.tex,
-bitmapFullName,ui/character/character_positivefactionfull.tex,
-bitmapPositionX,17,
-bitmapPositionY,5,

@@ -1,4 +1,0 @@
-templateName,database/templates/leveltable.tpl,
-Class,LevelTable,
-levels,1;8;15;50,
-records,records/items/loottables/gearlegs/tdyn_legs_a01.dbr;records/items/loottables/gearlegs/tdyn_legs_a02.dbr;records/items/loottables/gearlegs/tdyn_legs_c01.dbr;records/items/loottables/gearlegs/tdyn_legs_d01.dbr,

@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-bitmapEmptyName,ui/hud/hud_playerexperiencebarempty.tex,
-bitmapFullName,ui/hud/hud_playerexperiencebarfull.tex,
-bitmapPositionX,214,
-bitmapPositionY,3,

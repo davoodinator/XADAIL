@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Reminder to learn active skills rather than just mastery points,
-NuggetArray,records/ui/tutorial/skillsallpointsinmastery/activeskills_n1.dbr;records/ui/tutorial/skillsallpointsinmastery/activeskills_n2.dbr;records/ui/tutorial/skillsallpointsinmastery/activeskills_n3.dbr,
-quickTag,tagQuickTip33,

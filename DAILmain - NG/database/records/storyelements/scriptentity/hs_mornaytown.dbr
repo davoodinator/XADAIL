@@ -1,8 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.homesteadNPCMornay.mornayOnAddToWorld,
-onDestroy,gd.quests.homesteadNPCMornay.mornayOnDestroy,
-onRemoveFromWorld,gd.quests.homesteadNPCMornay.mornayOnRemoveFromWorld,
-pathing,0,

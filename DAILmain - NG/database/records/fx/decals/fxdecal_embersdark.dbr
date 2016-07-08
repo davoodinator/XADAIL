@@ -1,6 +1,0 @@
-templateName,database/templates/decaltype.tpl,
-Class,DecalType,
-height,2.000000,
-shader,shaders/effects/decal_standard.ssh,
-texture,fx/decals/burningcoalsdark01.tex,
-width,2.000000,

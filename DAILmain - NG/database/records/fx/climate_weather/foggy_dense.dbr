@@ -1,8 +1,0 @@
-templateName,database/templates/climatesystem.tpl,
-maxIntensity1,80,
-maxIntensity2,100,
-minIntensity1,50,
-minIntensity2,70,
-system1,GroundFog,
-system2,Fog,
-windIntensity,1.000000,

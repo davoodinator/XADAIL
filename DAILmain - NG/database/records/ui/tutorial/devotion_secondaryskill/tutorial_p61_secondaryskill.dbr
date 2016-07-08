@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Secondary Skills,
-NuggetArray,records/ui/tutorial/devotion_secondaryskill/secondaryskill_n1.dbr;records/ui/tutorial/devotion_secondaryskill/secondaryskill_n2.dbr;records/ui/tutorial/devotion_secondaryskill/secondaryskill_n3.dbr;records/ui/tutorial/devotion_secondaryskill/secondaryskill_n4.dbr,
-quickTag,tagQuickTip61,

@@ -1,4 +1,0 @@
-templateName,database/templates/skill_buffradius.tpl,
-Class,Skill_BuffRadius,
-buffSkillName,records/skills/itemskills/pets/petskill_revenant_shielddefense_buff.dbr,
-instantCast,0,

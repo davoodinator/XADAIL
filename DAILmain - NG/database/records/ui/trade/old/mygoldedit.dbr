@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/editbox.tpl,
-ErrorStyle,records/ui/fontstyles/normalred.dbr,
-Height,16,
-LocationX,25,
-LocationY,123,
-NumericOnly,1,
-Style,records/ui/fontstyles/normal.dbr,
-Width,100,

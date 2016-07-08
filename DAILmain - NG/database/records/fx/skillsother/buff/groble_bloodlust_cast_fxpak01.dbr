@@ -1,6 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-cameraShakeAmplitude,0.500000,
-cameraShakeDuration,0.000000,
-disturbanceRadius,0.000000,
-particleEffectNames,records/fx/skillsother/buff/groble_bloodlust_cast_fx01.dbr,

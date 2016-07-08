@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/questjournallistwindow.tpl,
-defaultMessageBox,records/ingameui/player quests/journal/questjournaltreedefaultmessage.dbr,
-height,278,
-journalTextTree,records/ingameui/player quests/journal/questjournaltexttree.dbr,
-positionX,46,
-positionY,97,
-verticalScrollbar,records/ingameui/player quests/window elements/vscrollbar.dbr,
-width,276,
