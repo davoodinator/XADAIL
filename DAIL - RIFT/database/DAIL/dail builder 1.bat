@@ -17498,703 +17498,1403 @@ echo augmentSkillName1,records/skills/playerclass28/sunray.dbr, >> .\items\mater
 echo augmentSkillName1,records/skills/playerclass28/sunray_mod1.dbr, >> .\items\materia\class0028\Cenobite98.dbr
 echo augmentSkillName1,records/skills/playerclass28/sunray_mod2.dbr, >> .\items\materia\class0028\Cenobite99.dbr
 
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite1.dbr /y
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite2.dbr /y
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite3.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite4.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite5.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite6.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite7.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite8.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite9.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite10.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite11.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite12.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite13.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite14.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite15.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite16.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite17.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite18.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite19.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite20.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite21.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite22.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite23.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite24.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite25.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite26.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite27.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite28.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite29.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite30.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite31.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite32.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite33.dbr /y
-copy .\dail_base.dbr .\items\materia\class0028\Cenobite34.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite35.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite36.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite37.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite38.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite39.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite40.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite41.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite42.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite43.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite44.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite45.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite46.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite47.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite48.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite49.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite50.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite51.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite52.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite53.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite54.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite55.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite56.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite57.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite58.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite59.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite60.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite61.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite62.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite63.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite64.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite65.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite66.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite67.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite68.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite69.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite70.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite71.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite72.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite73.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite74.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite75.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite76.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite77.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite78.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite79.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite80.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite81.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite82.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite83.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite84.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite85.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite86.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite87.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite88.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite89.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite90.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite91.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite92.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite93.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite94.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite95.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite96.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite97.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite98.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0028\Cenobite99.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin17.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin18.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin19.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin20.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin21.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin48.dbr /y
 
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite1.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite2.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite3.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite4.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite5.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite6.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite7.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite8.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite9.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite10.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite11.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite12.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite13.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite14.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite15.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite16.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite17.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite18.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite19.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite20.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite21.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite22.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite23.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite24.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite25.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite26.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite27.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite28.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite29.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite30.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite31.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite32.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite33.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite34.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite35.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite36.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite37.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite38.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite39.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite40.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite41.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite42.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite43.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite44.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite45.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite46.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite47.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite48.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite49.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite50.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite51.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite52.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite53.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite54.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite55.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite56.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite57.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite58.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite59.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite60.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite61.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite62.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite63.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite64.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite65.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite66.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite67.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite68.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite69.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite70.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite71.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite72.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite73.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite74.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite75.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite76.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite77.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite78.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite79.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite80.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite81.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite82.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite83.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite84.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite85.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite86.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite87.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite88.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite89.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite90.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite91.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite92.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite93.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite94.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite95.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite96.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite97.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite98.dbr
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite99.dbr
 
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite1.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite2.dbr
-echo itemCost,600000, >> .\items\materia\class0028\Cenobite3.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite4.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite5.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite6.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite7.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite8.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite9.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite10.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite11.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite12.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite13.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite14.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite15.dbr
-echo itemCost,100000, >> .\items\materia\class0028\Cenobite16.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite17.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite18.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite19.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite20.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite21.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite22.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite23.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite24.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite25.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite26.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite27.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite28.dbr
-echo itemCost,300000, >> .\items\materia\class0028\Cenobite29.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite30.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite31.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite32.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite33.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite34.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite35.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite36.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite37.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite38.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite39.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite40.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite41.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite42.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite43.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite44.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite45.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite46.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite47.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite48.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite49.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite50.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite51.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite52.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite53.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite54.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite55.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite56.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite57.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite58.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite59.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite60.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite61.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite62.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite63.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite64.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite65.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite66.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite67.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite68.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite69.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite70.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite71.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite72.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite73.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite74.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite75.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite76.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite77.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite78.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite79.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite80.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite81.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite82.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite83.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite84.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite85.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite86.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite87.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite88.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite89.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite90.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite91.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite92.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite93.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite94.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite95.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite96.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite97.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite98.dbr
-echo itemCost,500000, >> .\items\materia\class0028\Cenobite99.dbr
 
-echo description,dailCompDescCenobite1, >> .\items\materia\class0028\Cenobite1.dbr
-echo description,dailCompDescCenobite2, >> .\items\materia\class0028\Cenobite2.dbr
-echo description,dailCompDescCenobite3, >> .\items\materia\class0028\Cenobite3.dbr
-echo description,dailCompDescCenobite4, >> .\items\materia\class0028\Cenobite4.dbr
-echo description,dailCompDescCenobite5, >> .\items\materia\class0028\Cenobite5.dbr
-echo description,dailCompDescCenobite6, >> .\items\materia\class0028\Cenobite6.dbr
-echo description,dailCompDescCenobite7, >> .\items\materia\class0028\Cenobite7.dbr
-echo description,dailCompDescCenobite8, >> .\items\materia\class0028\Cenobite8.dbr
-echo description,dailCompDescCenobite9, >> .\items\materia\class0028\Cenobite9.dbr
-echo description,dailCompDescCenobite10, >> .\items\materia\class0028\Cenobite10.dbr
-echo description,dailCompDescCenobite11, >> .\items\materia\class0028\Cenobite11.dbr
-echo description,dailCompDescCenobite12, >> .\items\materia\class0028\Cenobite12.dbr
-echo description,dailCompDescCenobite13, >> .\items\materia\class0028\Cenobite13.dbr
-echo description,dailCompDescCenobite14, >> .\items\materia\class0028\Cenobite14.dbr
-echo description,dailCompDescCenobite15, >> .\items\materia\class0028\Cenobite15.dbr
-echo description,dailCompDescCenobite16, >> .\items\materia\class0028\Cenobite16.dbr
-echo description,dailCompDescCenobite17, >> .\items\materia\class0028\Cenobite17.dbr
-echo description,dailCompDescCenobite18, >> .\items\materia\class0028\Cenobite18.dbr
-echo description,dailCompDescCenobite19, >> .\items\materia\class0028\Cenobite19.dbr
-echo description,dailCompDescCenobite20, >> .\items\materia\class0028\Cenobite20.dbr
-echo description,dailCompDescCenobite21, >> .\items\materia\class0028\Cenobite21.dbr
-echo description,dailCompDescCenobite22, >> .\items\materia\class0028\Cenobite22.dbr
-echo description,dailCompDescCenobite23, >> .\items\materia\class0028\Cenobite23.dbr
-echo description,dailCompDescCenobite24, >> .\items\materia\class0028\Cenobite24.dbr
-echo description,dailCompDescCenobite25, >> .\items\materia\class0028\Cenobite25.dbr
-echo description,dailCompDescCenobite26, >> .\items\materia\class0028\Cenobite26.dbr
-echo description,dailCompDescCenobite27, >> .\items\materia\class0028\Cenobite27.dbr
-echo description,dailCompDescCenobite28, >> .\items\materia\class0028\Cenobite28.dbr
-echo description,dailCompDescCenobite29, >> .\items\materia\class0028\Cenobite29.dbr
-echo description,dailCompDescCenobite30, >> .\items\materia\class0028\Cenobite30.dbr
-echo description,dailCompDescCenobite31, >> .\items\materia\class0028\Cenobite31.dbr
-echo description,dailCompDescCenobite32, >> .\items\materia\class0028\Cenobite32.dbr
-echo description,dailCompDescCenobite33, >> .\items\materia\class0028\Cenobite33.dbr
-echo description,dailCompDescCenobite34, >> .\items\materia\class0028\Cenobite34.dbr
-echo description,dailCompDescCenobite35, >> .\items\materia\class0028\Cenobite35.dbr
-echo description,dailCompDescCenobite36, >> .\items\materia\class0028\Cenobite36.dbr
-echo description,dailCompDescCenobite37, >> .\items\materia\class0028\Cenobite37.dbr
-echo description,dailCompDescCenobite38, >> .\items\materia\class0028\Cenobite38.dbr
-echo description,dailCompDescCenobite39, >> .\items\materia\class0028\Cenobite39.dbr
-echo description,dailCompDescCenobite40, >> .\items\materia\class0028\Cenobite40.dbr
-echo description,dailCompDescCenobite41, >> .\items\materia\class0028\Cenobite41.dbr
-echo description,dailCompDescCenobite42, >> .\items\materia\class0028\Cenobite42.dbr
-echo description,dailCompDescCenobite43, >> .\items\materia\class0028\Cenobite43.dbr
-echo description,dailCompDescCenobite44, >> .\items\materia\class0028\Cenobite44.dbr
-echo description,dailCompDescCenobite45, >> .\items\materia\class0028\Cenobite45.dbr
-echo description,dailCompDescCenobite46, >> .\items\materia\class0028\Cenobite46.dbr
-echo description,dailCompDescCenobite47, >> .\items\materia\class0028\Cenobite47.dbr
-echo description,dailCompDescCenobite48, >> .\items\materia\class0028\Cenobite48.dbr
-echo description,dailCompDescCenobite49, >> .\items\materia\class0028\Cenobite49.dbr
-echo description,dailCompDescCenobite50, >> .\items\materia\class0028\Cenobite50.dbr
-echo description,dailCompDescCenobite51, >> .\items\materia\class0028\Cenobite51.dbr
-echo description,dailCompDescCenobite52, >> .\items\materia\class0028\Cenobite52.dbr
-echo description,dailCompDescCenobite53, >> .\items\materia\class0028\Cenobite53.dbr
-echo description,dailCompDescCenobite54, >> .\items\materia\class0028\Cenobite54.dbr
-echo description,dailCompDescCenobite55, >> .\items\materia\class0028\Cenobite55.dbr
-echo description,dailCompDescCenobite56, >> .\items\materia\class0028\Cenobite56.dbr
-echo description,dailCompDescCenobite57, >> .\items\materia\class0028\Cenobite57.dbr
-echo description,dailCompDescCenobite58, >> .\items\materia\class0028\Cenobite58.dbr
-echo description,dailCompDescCenobite59, >> .\items\materia\class0028\Cenobite59.dbr
-echo description,dailCompDescCenobite60, >> .\items\materia\class0028\Cenobite60.dbr
-echo description,dailCompDescCenobite61, >> .\items\materia\class0028\Cenobite61.dbr
-echo description,dailCompDescCenobite62, >> .\items\materia\class0028\Cenobite62.dbr
-echo description,dailCompDescCenobite63, >> .\items\materia\class0028\Cenobite63.dbr
-echo description,dailCompDescCenobite64, >> .\items\materia\class0028\Cenobite64.dbr
-echo description,dailCompDescCenobite65, >> .\items\materia\class0028\Cenobite65.dbr
-echo description,dailCompDescCenobite66, >> .\items\materia\class0028\Cenobite66.dbr
-echo description,dailCompDescCenobite67, >> .\items\materia\class0028\Cenobite67.dbr
-echo description,dailCompDescCenobite68, >> .\items\materia\class0028\Cenobite68.dbr
-echo description,dailCompDescCenobite69, >> .\items\materia\class0028\Cenobite69.dbr
-echo description,dailCompDescCenobite70, >> .\items\materia\class0028\Cenobite70.dbr
-echo description,dailCompDescCenobite71, >> .\items\materia\class0028\Cenobite71.dbr
-echo description,dailCompDescCenobite72, >> .\items\materia\class0028\Cenobite72.dbr
-echo description,dailCompDescCenobite73, >> .\items\materia\class0028\Cenobite73.dbr
-echo description,dailCompDescCenobite74, >> .\items\materia\class0028\Cenobite74.dbr
-echo description,dailCompDescCenobite75, >> .\items\materia\class0028\Cenobite75.dbr
-echo description,dailCompDescCenobite76, >> .\items\materia\class0028\Cenobite76.dbr
-echo description,dailCompDescCenobite77, >> .\items\materia\class0028\Cenobite77.dbr
-echo description,dailCompDescCenobite78, >> .\items\materia\class0028\Cenobite78.dbr
-echo description,dailCompDescCenobite79, >> .\items\materia\class0028\Cenobite79.dbr
-echo description,dailCompDescCenobite80, >> .\items\materia\class0028\Cenobite80.dbr
-echo description,dailCompDescCenobite81, >> .\items\materia\class0028\Cenobite81.dbr
-echo description,dailCompDescCenobite82, >> .\items\materia\class0028\Cenobite82.dbr
-echo description,dailCompDescCenobite83, >> .\items\materia\class0028\Cenobite83.dbr
-echo description,dailCompDescCenobite84, >> .\items\materia\class0028\Cenobite84.dbr
-echo description,dailCompDescCenobite85, >> .\items\materia\class0028\Cenobite85.dbr
-echo description,dailCompDescCenobite86, >> .\items\materia\class0028\Cenobite86.dbr
-echo description,dailCompDescCenobite87, >> .\items\materia\class0028\Cenobite87.dbr
-echo description,dailCompDescCenobite88, >> .\items\materia\class0028\Cenobite88.dbr
-echo description,dailCompDescCenobite89, >> .\items\materia\class0028\Cenobite89.dbr
-echo description,dailCompDescCenobite90, >> .\items\materia\class0028\Cenobite90.dbr
-echo description,dailCompDescCenobite91, >> .\items\materia\class0028\Cenobite91.dbr
-echo description,dailCompDescCenobite92, >> .\items\materia\class0028\Cenobite92.dbr
-echo description,dailCompDescCenobite93, >> .\items\materia\class0028\Cenobite93.dbr
-echo description,dailCompDescCenobite94, >> .\items\materia\class0028\Cenobite94.dbr
-echo description,dailCompDescCenobite95, >> .\items\materia\class0028\Cenobite95.dbr
-echo description,dailCompDescCenobite96, >> .\items\materia\class0028\Cenobite96.dbr
-echo description,dailCompDescCenobite97, >> .\items\materia\class0028\Cenobite97.dbr
-echo description,dailCompDescCenobite98, >> .\items\materia\class0028\Cenobite98.dbr
-echo description,dailCompDescCenobite99, >> .\items\materia\class0028\Cenobite99.dbr
 
-echo itemText,dailCompTextCenobite1, >> .\items\materia\class0028\Cenobite1.dbr
-echo itemText,dailCompTextCenobite2, >> .\items\materia\class0028\Cenobite2.dbr
-echo itemText,dailCompTextCenobite3, >> .\items\materia\class0028\Cenobite3.dbr
-echo itemText,dailCompTextCenobite4, >> .\items\materia\class0028\Cenobite4.dbr
-echo itemText,dailCompTextCenobite5, >> .\items\materia\class0028\Cenobite5.dbr
-echo itemText,dailCompTextCenobite6, >> .\items\materia\class0028\Cenobite6.dbr
-echo itemText,dailCompTextCenobite7, >> .\items\materia\class0028\Cenobite7.dbr
-echo itemText,dailCompTextCenobite8, >> .\items\materia\class0028\Cenobite8.dbr
-echo itemText,dailCompTextCenobite9, >> .\items\materia\class0028\Cenobite9.dbr
-echo itemText,dailCompTextCenobite10, >> .\items\materia\class0028\Cenobite10.dbr
-echo itemText,dailCompTextCenobite11, >> .\items\materia\class0028\Cenobite11.dbr
-echo itemText,dailCompTextCenobite12, >> .\items\materia\class0028\Cenobite12.dbr
-echo itemText,dailCompTextCenobite13, >> .\items\materia\class0028\Cenobite13.dbr
-echo itemText,dailCompTextCenobite14, >> .\items\materia\class0028\Cenobite14.dbr
-echo itemText,dailCompTextCenobite15, >> .\items\materia\class0028\Cenobite15.dbr
-echo itemText,dailCompTextCenobite16, >> .\items\materia\class0028\Cenobite16.dbr
-echo itemText,dailCompTextCenobite17, >> .\items\materia\class0028\Cenobite17.dbr
-echo itemText,dailCompTextCenobite18, >> .\items\materia\class0028\Cenobite18.dbr
-echo itemText,dailCompTextCenobite19, >> .\items\materia\class0028\Cenobite19.dbr
-echo itemText,dailCompTextCenobite20, >> .\items\materia\class0028\Cenobite20.dbr
-echo itemText,dailCompTextCenobite21, >> .\items\materia\class0028\Cenobite21.dbr
-echo itemText,dailCompTextCenobite22, >> .\items\materia\class0028\Cenobite22.dbr
-echo itemText,dailCompTextCenobite23, >> .\items\materia\class0028\Cenobite23.dbr
-echo itemText,dailCompTextCenobite24, >> .\items\materia\class0028\Cenobite24.dbr
-echo itemText,dailCompTextCenobite25, >> .\items\materia\class0028\Cenobite25.dbr
-echo itemText,dailCompTextCenobite26, >> .\items\materia\class0028\Cenobite26.dbr
-echo itemText,dailCompTextCenobite27, >> .\items\materia\class0028\Cenobite27.dbr
-echo itemText,dailCompTextCenobite28, >> .\items\materia\class0028\Cenobite28.dbr
-echo itemText,dailCompTextCenobite29, >> .\items\materia\class0028\Cenobite29.dbr
-echo itemText,dailCompTextCenobite30, >> .\items\materia\class0028\Cenobite30.dbr
-echo itemText,dailCompTextCenobite31, >> .\items\materia\class0028\Cenobite31.dbr
-echo itemText,dailCompTextCenobite32, >> .\items\materia\class0028\Cenobite32.dbr
-echo itemText,dailCompTextCenobite33, >> .\items\materia\class0028\Cenobite33.dbr
-echo itemText,dailCompTextCenobite34, >> .\items\materia\class0028\Cenobite34.dbr
-echo itemText,dailCompTextCenobite35, >> .\items\materia\class0028\Cenobite35.dbr
-echo itemText,dailCompTextCenobite36, >> .\items\materia\class0028\Cenobite36.dbr
-echo itemText,dailCompTextCenobite37, >> .\items\materia\class0028\Cenobite37.dbr
-echo itemText,dailCompTextCenobite38, >> .\items\materia\class0028\Cenobite38.dbr
-echo itemText,dailCompTextCenobite39, >> .\items\materia\class0028\Cenobite39.dbr
-echo itemText,dailCompTextCenobite40, >> .\items\materia\class0028\Cenobite40.dbr
-echo itemText,dailCompTextCenobite41, >> .\items\materia\class0028\Cenobite41.dbr
-echo itemText,dailCompTextCenobite42, >> .\items\materia\class0028\Cenobite42.dbr
-echo itemText,dailCompTextCenobite43, >> .\items\materia\class0028\Cenobite43.dbr
-echo itemText,dailCompTextCenobite44, >> .\items\materia\class0028\Cenobite44.dbr
-echo itemText,dailCompTextCenobite45, >> .\items\materia\class0028\Cenobite45.dbr
-echo itemText,dailCompTextCenobite46, >> .\items\materia\class0028\Cenobite46.dbr
-echo itemText,dailCompTextCenobite47, >> .\items\materia\class0028\Cenobite47.dbr
-echo itemText,dailCompTextCenobite48, >> .\items\materia\class0028\Cenobite48.dbr
-echo itemText,dailCompTextCenobite49, >> .\items\materia\class0028\Cenobite49.dbr
-echo itemText,dailCompTextCenobite50, >> .\items\materia\class0028\Cenobite50.dbr
-echo itemText,dailCompTextCenobite51, >> .\items\materia\class0028\Cenobite51.dbr
-echo itemText,dailCompTextCenobite52, >> .\items\materia\class0028\Cenobite52.dbr
-echo itemText,dailCompTextCenobite53, >> .\items\materia\class0028\Cenobite53.dbr
-echo itemText,dailCompTextCenobite54, >> .\items\materia\class0028\Cenobite54.dbr
-echo itemText,dailCompTextCenobite55, >> .\items\materia\class0028\Cenobite55.dbr
-echo itemText,dailCompTextCenobite56, >> .\items\materia\class0028\Cenobite56.dbr
-echo itemText,dailCompTextCenobite57, >> .\items\materia\class0028\Cenobite57.dbr
-echo itemText,dailCompTextCenobite58, >> .\items\materia\class0028\Cenobite58.dbr
-echo itemText,dailCompTextCenobite59, >> .\items\materia\class0028\Cenobite59.dbr
-echo itemText,dailCompTextCenobite60, >> .\items\materia\class0028\Cenobite60.dbr
-echo itemText,dailCompTextCenobite61, >> .\items\materia\class0028\Cenobite61.dbr
-echo itemText,dailCompTextCenobite62, >> .\items\materia\class0028\Cenobite62.dbr
-echo itemText,dailCompTextCenobite63, >> .\items\materia\class0028\Cenobite63.dbr
-echo itemText,dailCompTextCenobite64, >> .\items\materia\class0028\Cenobite64.dbr
-echo itemText,dailCompTextCenobite65, >> .\items\materia\class0028\Cenobite65.dbr
-echo itemText,dailCompTextCenobite66, >> .\items\materia\class0028\Cenobite66.dbr
-echo itemText,dailCompTextCenobite67, >> .\items\materia\class0028\Cenobite67.dbr
-echo itemText,dailCompTextCenobite68, >> .\items\materia\class0028\Cenobite68.dbr
-echo itemText,dailCompTextCenobite69, >> .\items\materia\class0028\Cenobite69.dbr
-echo itemText,dailCompTextCenobite70, >> .\items\materia\class0028\Cenobite70.dbr
-echo itemText,dailCompTextCenobite71, >> .\items\materia\class0028\Cenobite71.dbr
-echo itemText,dailCompTextCenobite72, >> .\items\materia\class0028\Cenobite72.dbr
-echo itemText,dailCompTextCenobite73, >> .\items\materia\class0028\Cenobite73.dbr
-echo itemText,dailCompTextCenobite74, >> .\items\materia\class0028\Cenobite74.dbr
-echo itemText,dailCompTextCenobite75, >> .\items\materia\class0028\Cenobite75.dbr
-echo itemText,dailCompTextCenobite76, >> .\items\materia\class0028\Cenobite76.dbr
-echo itemText,dailCompTextCenobite77, >> .\items\materia\class0028\Cenobite77.dbr
-echo itemText,dailCompTextCenobite78, >> .\items\materia\class0028\Cenobite78.dbr
-echo itemText,dailCompTextCenobite79, >> .\items\materia\class0028\Cenobite79.dbr
-echo itemText,dailCompTextCenobite80, >> .\items\materia\class0028\Cenobite80.dbr
-echo itemText,dailCompTextCenobite81, >> .\items\materia\class0028\Cenobite81.dbr
-echo itemText,dailCompTextCenobite82, >> .\items\materia\class0028\Cenobite82.dbr
-echo itemText,dailCompTextCenobite83, >> .\items\materia\class0028\Cenobite83.dbr
-echo itemText,dailCompTextCenobite84, >> .\items\materia\class0028\Cenobite84.dbr
-echo itemText,dailCompTextCenobite85, >> .\items\materia\class0028\Cenobite85.dbr
-echo itemText,dailCompTextCenobite86, >> .\items\materia\class0028\Cenobite86.dbr
-echo itemText,dailCompTextCenobite87, >> .\items\materia\class0028\Cenobite87.dbr
-echo itemText,dailCompTextCenobite88, >> .\items\materia\class0028\Cenobite88.dbr
-echo itemText,dailCompTextCenobite89, >> .\items\materia\class0028\Cenobite89.dbr
-echo itemText,dailCompTextCenobite90, >> .\items\materia\class0028\Cenobite90.dbr
-echo itemText,dailCompTextCenobite91, >> .\items\materia\class0028\Cenobite91.dbr
-echo itemText,dailCompTextCenobite92, >> .\items\materia\class0028\Cenobite92.dbr
-echo itemText,dailCompTextCenobite93, >> .\items\materia\class0028\Cenobite93.dbr
-echo itemText,dailCompTextCenobite94, >> .\items\materia\class0028\Cenobite94.dbr
-echo itemText,dailCompTextCenobite95, >> .\items\materia\class0028\Cenobite95.dbr
-echo itemText,dailCompTextCenobite96, >> .\items\materia\class0028\Cenobite96.dbr
-echo itemText,dailCompTextCenobite97, >> .\items\materia\class0028\Cenobite97.dbr
-echo itemText,dailCompTextCenobite98, >> .\items\materia\class0028\Cenobite98.dbr
-echo itemText,dailCompTextCenobite99, >> .\items\materia\class0028\Cenobite99.dbr
 
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite1.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite2.dbr
-echo augmentMasteryLevel1,3, >> .\items\materia\class0028\Cenobite3.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite4.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite5.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite6.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite7.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite8.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite9.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite10.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite11.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite12.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite13.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite14.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite15.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite16.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite17.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite18.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite19.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite20.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite21.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite22.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite23.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite24.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite25.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite26.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite27.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite28.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite29.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite30.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite31.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite32.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite33.dbr
-echo augmentSkillLevel1,1, >> .\items\materia\class0028\Cenobite34.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite35.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite36.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite37.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite38.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite39.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite40.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite41.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite42.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite43.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite44.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite45.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite46.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite47.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite48.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite49.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite50.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite51.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite52.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite53.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite54.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite55.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite56.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite57.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite58.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite59.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite60.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite61.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite62.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite63.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite64.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite65.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0028\Cenobite66.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite67.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite68.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite69.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite70.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite71.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite72.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite73.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite74.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite75.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite76.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite77.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite78.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite79.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite80.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite81.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite82.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite83.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite84.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite85.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite86.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite87.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite88.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite89.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite90.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite91.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite92.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite93.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite94.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite95.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite96.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite97.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite98.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0028\Cenobite99.dbr
 
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite1.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite2.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite3.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunnyray_tra.dbr, >> .\items\materia\class0028\Cenobite4.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike.dbr, >> .\items\materia\class0028\Cenobite5.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike_mod.dbr, >> .\items\materia\class0028\Cenobite6.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02.dbr, >> .\items\materia\class0028\Cenobite7.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02_mod.dbr, >> .\items\materia\class0028\Cenobite8.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame.dbr, >> .\items\materia\class0028\Cenobite9.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_tra.dbr, >> .\items\materia\class0028\Cenobite10.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod.dbr, >> .\items\materia\class0028\Cenobite11.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod2.dbr, >> .\items\materia\class0028\Cenobite12.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod3.dbr, >> .\items\materia\class0028\Cenobite13.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer.dbr, >> .\items\materia\class0028\Cenobite14.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack.dbr, >> .\items\materia\class0028\Cenobite15.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod2.dbr, >> .\items\materia\class0028\Cenobite16.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod1.dbr, >> .\items\materia\class0028\Cenobite17.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_tra.dbr, >> .\items\materia\class0028\Cenobite18.dbr
-echo augmentSkillName1,records/skills/playerclass28/perfectdefend.dbr, >> .\items\materia\class0028\Cenobite19.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense_01.dbr, >> .\items\materia\class0028\Cenobite20.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense.dbr, >> .\items\materia\class0028\Cenobite21.dbr
-echo augmentSkillName1,records/skills/playerclass28/shiled_tra.dbr, >> .\items\materia\class0028\Cenobite22.dbr
-echo augmentSkillName1,records/skills/playerclass28/angel.dbr, >> .\items\materia\class0028\Cenobite23.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing.dbr, >> .\items\materia\class0028\Cenobite24.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_tra.dbr, >> .\items\materia\class0028\Cenobite25.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod1.dbr, >> .\items\materia\class0028\Cenobite26.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod2.dbr, >> .\items\materia\class0028\Cenobite27.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment.dbr, >> .\items\materia\class0028\Cenobite28.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment_mod.dbr, >> .\items\materia\class0028\Cenobite29.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod1.dbr, >> .\items\materia\class0028\Cenobite30.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod2.dbr, >> .\items\materia\class0028\Cenobite31.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive01.dbr, >> .\items\materia\class0028\Cenobite32.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray.dbr, >> .\items\materia\class0028\Cenobite33.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod1.dbr, >> .\items\materia\class0028\Cenobite34.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod2.dbr, >> .\items\materia\class0028\Cenobite35.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunnyray_tra.dbr, >> .\items\materia\class0028\Cenobite36.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike.dbr, >> .\items\materia\class0028\Cenobite37.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike_mod.dbr, >> .\items\materia\class0028\Cenobite38.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02.dbr, >> .\items\materia\class0028\Cenobite39.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02_mod.dbr, >> .\items\materia\class0028\Cenobite40.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame.dbr, >> .\items\materia\class0028\Cenobite41.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_tra.dbr, >> .\items\materia\class0028\Cenobite42.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod.dbr, >> .\items\materia\class0028\Cenobite43.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod2.dbr, >> .\items\materia\class0028\Cenobite44.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod3.dbr, >> .\items\materia\class0028\Cenobite45.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer.dbr, >> .\items\materia\class0028\Cenobite46.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack.dbr, >> .\items\materia\class0028\Cenobite47.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod2.dbr, >> .\items\materia\class0028\Cenobite48.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod1.dbr, >> .\items\materia\class0028\Cenobite49.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_tra.dbr, >> .\items\materia\class0028\Cenobite50.dbr
-echo augmentSkillName1,records/skills/playerclass28/perfectdefend.dbr, >> .\items\materia\class0028\Cenobite51.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense_01.dbr, >> .\items\materia\class0028\Cenobite52.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense.dbr, >> .\items\materia\class0028\Cenobite53.dbr
-echo augmentSkillName1,records/skills/playerclass28/shiled_tra.dbr, >> .\items\materia\class0028\Cenobite54.dbr
-echo augmentSkillName1,records/skills/playerclass28/angel.dbr, >> .\items\materia\class0028\Cenobite55.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing.dbr, >> .\items\materia\class0028\Cenobite56.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_tra.dbr, >> .\items\materia\class0028\Cenobite57.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod1.dbr, >> .\items\materia\class0028\Cenobite58.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod2.dbr, >> .\items\materia\class0028\Cenobite59.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment.dbr, >> .\items\materia\class0028\Cenobite60.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment_mod.dbr, >> .\items\materia\class0028\Cenobite61.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod1.dbr, >> .\items\materia\class0028\Cenobite62.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod2.dbr, >> .\items\materia\class0028\Cenobite63.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive01.dbr, >> .\items\materia\class0028\Cenobite64.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray.dbr, >> .\items\materia\class0028\Cenobite65.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod1.dbr, >> .\items\materia\class0028\Cenobite66.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod2.dbr, >> .\items\materia\class0028\Cenobite67.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunnyray_tra.dbr, >> .\items\materia\class0028\Cenobite68.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike.dbr, >> .\items\materia\class0028\Cenobite69.dbr
-echo augmentSkillName1,records/skills/playerclass28/holy_spike_mod.dbr, >> .\items\materia\class0028\Cenobite70.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02.dbr, >> .\items\materia\class0028\Cenobite71.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive02_mod.dbr, >> .\items\materia\class0028\Cenobite72.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame.dbr, >> .\items\materia\class0028\Cenobite73.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_tra.dbr, >> .\items\materia\class0028\Cenobite74.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod.dbr, >> .\items\materia\class0028\Cenobite75.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod2.dbr, >> .\items\materia\class0028\Cenobite76.dbr
-echo augmentSkillName1,records/skills/playerclass28/ringofflame_mod3.dbr, >> .\items\materia\class0028\Cenobite77.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer.dbr, >> .\items\materia\class0028\Cenobite78.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack.dbr, >> .\items\materia\class0028\Cenobite79.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod2.dbr, >> .\items\materia\class0028\Cenobite80.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_mod1.dbr, >> .\items\materia\class0028\Cenobite81.dbr
-echo augmentSkillName1,records/skills/playerclass28/shieldattack_tra.dbr, >> .\items\materia\class0028\Cenobite82.dbr
-echo augmentSkillName1,records/skills/playerclass28/perfectdefend.dbr, >> .\items\materia\class0028\Cenobite83.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense_01.dbr, >> .\items\materia\class0028\Cenobite84.dbr
-echo augmentSkillName1,records/skills/playerclass28/shielddefense.dbr, >> .\items\materia\class0028\Cenobite85.dbr
-echo augmentSkillName1,records/skills/playerclass28/shiled_tra.dbr, >> .\items\materia\class0028\Cenobite86.dbr
-echo augmentSkillName1,records/skills/playerclass28/angel.dbr, >> .\items\materia\class0028\Cenobite87.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing.dbr, >> .\items\materia\class0028\Cenobite88.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_tra.dbr, >> .\items\materia\class0028\Cenobite89.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod1.dbr, >> .\items\materia\class0028\Cenobite90.dbr
-echo augmentSkillName1,records/skills/playerclass28/healing_mod2.dbr, >> .\items\materia\class0028\Cenobite91.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment.dbr, >> .\items\materia\class0028\Cenobite92.dbr
-echo augmentSkillName1,records/skills/playerclass28/punishment_mod.dbr, >> .\items\materia\class0028\Cenobite93.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod1.dbr, >> .\items\materia\class0028\Cenobite94.dbr
-echo augmentSkillName1,records/skills/playerclass28/hammer_mod2.dbr, >> .\items\materia\class0028\Cenobite95.dbr
-echo augmentSkillName1,records/skills/playerclass28/passive01.dbr, >> .\items\materia\class0028\Cenobite96.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray.dbr, >> .\items\materia\class0028\Cenobite97.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod1.dbr, >> .\items\materia\class0028\Cenobite98.dbr
-echo augmentSkillName1,records/skills/playerclass28/sunray_mod2.dbr, >> .\items\materia\class0028\Cenobite99.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo itemCost,600000, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDesc(H)arlequin1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo description,dailCompDesc(H)arlequin2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo description,dailCompDesc(H)arlequin3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo description,dailCompDesc(H)arlequin4, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo description,dailCompDesc(H)arlequin5, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo description,dailCompDesc(H)arlequin6, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo description,dailCompDesc(H)arlequin7, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo description,dailCompDesc(H)arlequin8, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo description,dailCompDesc(H)arlequin9, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo description,dailCompDesc(H)arlequin10, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo description,dailCompDesc(H)arlequin11, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo description,dailCompDesc(H)arlequin12, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo description,dailCompDesc(H)arlequin13, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo description,dailCompDesc(H)arlequin14, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo description,dailCompDesc(H)arlequin15, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo description,dailCompDesc(H)arlequin16, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo description,dailCompDesc(H)arlequin17, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo description,dailCompDesc(H)arlequin18, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo description,dailCompDesc(H)arlequin19, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo description,dailCompDesc(H)arlequin20, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo description,dailCompDesc(H)arlequin21, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo description,dailCompDesc(H)arlequin22, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo description,dailCompDesc(H)arlequin23, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo description,dailCompDesc(H)arlequin24, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo description,dailCompDesc(H)arlequin25, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo description,dailCompDesc(H)arlequin26, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo description,dailCompDesc(H)arlequin27, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo description,dailCompDesc(H)arlequin28, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo description,dailCompDesc(H)arlequin29, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo description,dailCompDesc(H)arlequin30, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo description,dailCompDesc(H)arlequin31, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo description,dailCompDesc(H)arlequin32, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo description,dailCompDesc(H)arlequin33, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo description,dailCompDesc(H)arlequin34, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo description,dailCompDesc(H)arlequin35, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo description,dailCompDesc(H)arlequin36, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo description,dailCompDesc(H)arlequin37, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo description,dailCompDesc(H)arlequin38, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo description,dailCompDesc(H)arlequin39, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo description,dailCompDesc(H)arlequin40, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo description,dailCompDesc(H)arlequin41, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo description,dailCompDesc(H)arlequin42, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo description,dailCompDesc(H)arlequin43, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo description,dailCompDesc(H)arlequin44, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo description,dailCompDesc(H)arlequin45, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo description,dailCompDesc(H)arlequin46, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo description,dailCompDesc(H)arlequin47, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo description,dailCompDesc(H)arlequin48, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompText(H)arlequin1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo itemText,dailCompText(H)arlequin2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo itemText,dailCompText(H)arlequin3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo itemText,dailCompText(H)arlequin4, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo itemText,dailCompText(H)arlequin5, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo itemText,dailCompText(H)arlequin6, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo itemText,dailCompText(H)arlequin7, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo itemText,dailCompText(H)arlequin8, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo itemText,dailCompText(H)arlequin9, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo itemText,dailCompText(H)arlequin10, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo itemText,dailCompText(H)arlequin11, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo itemText,dailCompText(H)arlequin12, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo itemText,dailCompText(H)arlequin13, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo itemText,dailCompText(H)arlequin14, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo itemText,dailCompText(H)arlequin15, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo itemText,dailCompText(H)arlequin16, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo itemText,dailCompText(H)arlequin17, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo itemText,dailCompText(H)arlequin18, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo itemText,dailCompText(H)arlequin19, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo itemText,dailCompText(H)arlequin20, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo itemText,dailCompText(H)arlequin21, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo itemText,dailCompText(H)arlequin22, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo itemText,dailCompText(H)arlequin23, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo itemText,dailCompText(H)arlequin24, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo itemText,dailCompText(H)arlequin25, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo itemText,dailCompText(H)arlequin26, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo itemText,dailCompText(H)arlequin27, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo itemText,dailCompText(H)arlequin28, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo itemText,dailCompText(H)arlequin29, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo itemText,dailCompText(H)arlequin30, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo itemText,dailCompText(H)arlequin31, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo itemText,dailCompText(H)arlequin32, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo itemText,dailCompText(H)arlequin33, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo itemText,dailCompText(H)arlequin34, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo itemText,dailCompText(H)arlequin35, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo itemText,dailCompText(H)arlequin36, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo itemText,dailCompText(H)arlequin37, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo itemText,dailCompText(H)arlequin38, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo itemText,dailCompText(H)arlequin39, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo itemText,dailCompText(H)arlequin40, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo itemText,dailCompText(H)arlequin41, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo itemText,dailCompText(H)arlequin42, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo itemText,dailCompText(H)arlequin43, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo itemText,dailCompText(H)arlequin44, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo itemText,dailCompText(H)arlequin45, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo itemText,dailCompText(H)arlequin46, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo itemText,dailCompText(H)arlequin47, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo itemText,dailCompText(H)arlequin48, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0029\(H)arlequin17.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin18.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin19.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin20.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin21.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin22.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin23.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin24.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin25.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin26.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin27.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin28.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin29.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin30.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin31.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin32.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin33.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin34.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0029\(H)arlequin48.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo itemCost,600000, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo itemCost,100000, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo itemCost,300000, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo itemCost,500000, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDesc(H)arlequin1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo description,dailCompDesc(H)arlequin2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo description,dailCompDesc(H)arlequin3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo description,dailCompDesc(H)arlequin4, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo description,dailCompDesc(H)arlequin5, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo description,dailCompDesc(H)arlequin6, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo description,dailCompDesc(H)arlequin7, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo description,dailCompDesc(H)arlequin8, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo description,dailCompDesc(H)arlequin9, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo description,dailCompDesc(H)arlequin10, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo description,dailCompDesc(H)arlequin11, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo description,dailCompDesc(H)arlequin12, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo description,dailCompDesc(H)arlequin13, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo description,dailCompDesc(H)arlequin14, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo description,dailCompDesc(H)arlequin15, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo description,dailCompDesc(H)arlequin16, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo description,dailCompDesc(H)arlequin17, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo description,dailCompDesc(H)arlequin18, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo description,dailCompDesc(H)arlequin19, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo description,dailCompDesc(H)arlequin20, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo description,dailCompDesc(H)arlequin21, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo description,dailCompDesc(H)arlequin22, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo description,dailCompDesc(H)arlequin23, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo description,dailCompDesc(H)arlequin24, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo description,dailCompDesc(H)arlequin25, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo description,dailCompDesc(H)arlequin26, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo description,dailCompDesc(H)arlequin27, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo description,dailCompDesc(H)arlequin28, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo description,dailCompDesc(H)arlequin29, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo description,dailCompDesc(H)arlequin30, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo description,dailCompDesc(H)arlequin31, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo description,dailCompDesc(H)arlequin32, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo description,dailCompDesc(H)arlequin33, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo description,dailCompDesc(H)arlequin34, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo description,dailCompDesc(H)arlequin35, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo description,dailCompDesc(H)arlequin36, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo description,dailCompDesc(H)arlequin37, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo description,dailCompDesc(H)arlequin38, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo description,dailCompDesc(H)arlequin39, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo description,dailCompDesc(H)arlequin40, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo description,dailCompDesc(H)arlequin41, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo description,dailCompDesc(H)arlequin42, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo description,dailCompDesc(H)arlequin43, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo description,dailCompDesc(H)arlequin44, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo description,dailCompDesc(H)arlequin45, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo description,dailCompDesc(H)arlequin46, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo description,dailCompDesc(H)arlequin47, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo description,dailCompDesc(H)arlequin48, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompText(H)arlequin1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo itemText,dailCompText(H)arlequin2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo itemText,dailCompText(H)arlequin3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo itemText,dailCompText(H)arlequin4, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo itemText,dailCompText(H)arlequin5, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo itemText,dailCompText(H)arlequin6, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo itemText,dailCompText(H)arlequin7, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo itemText,dailCompText(H)arlequin8, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo itemText,dailCompText(H)arlequin9, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo itemText,dailCompText(H)arlequin10, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo itemText,dailCompText(H)arlequin11, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo itemText,dailCompText(H)arlequin12, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo itemText,dailCompText(H)arlequin13, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo itemText,dailCompText(H)arlequin14, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo itemText,dailCompText(H)arlequin15, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo itemText,dailCompText(H)arlequin16, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo itemText,dailCompText(H)arlequin17, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo itemText,dailCompText(H)arlequin18, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo itemText,dailCompText(H)arlequin19, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo itemText,dailCompText(H)arlequin20, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo itemText,dailCompText(H)arlequin21, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo itemText,dailCompText(H)arlequin22, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo itemText,dailCompText(H)arlequin23, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo itemText,dailCompText(H)arlequin24, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo itemText,dailCompText(H)arlequin25, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo itemText,dailCompText(H)arlequin26, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo itemText,dailCompText(H)arlequin27, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo itemText,dailCompText(H)arlequin28, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo itemText,dailCompText(H)arlequin29, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo itemText,dailCompText(H)arlequin30, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo itemText,dailCompText(H)arlequin31, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo itemText,dailCompText(H)arlequin32, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo itemText,dailCompText(H)arlequin33, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo itemText,dailCompText(H)arlequin34, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo itemText,dailCompText(H)arlequin35, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo itemText,dailCompText(H)arlequin36, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo itemText,dailCompText(H)arlequin37, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo itemText,dailCompText(H)arlequin38, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo itemText,dailCompText(H)arlequin39, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo itemText,dailCompText(H)arlequin40, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo itemText,dailCompText(H)arlequin41, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo itemText,dailCompText(H)arlequin42, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo itemText,dailCompText(H)arlequin43, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo itemText,dailCompText(H)arlequin44, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo itemText,dailCompText(H)arlequin45, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo itemText,dailCompText(H)arlequin46, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo itemText,dailCompText(H)arlequin47, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo itemText,dailCompText(H)arlequin48, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin1.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin2.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin3.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin4.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin5.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin6.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin7.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin8.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin9.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin10.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin11.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin12.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin13.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin14.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin15.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin16.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin17.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin18.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin19.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin20.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin21.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin22.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin23.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin24.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin25.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin26.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin27.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin28.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin29.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin30.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin31.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin32.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin33.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection.dbr, >> .\items\materia\class0029\(H)arlequin34.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection2.dbr, >> .\items\materia\class0029\(H)arlequin35.dbr
+echo augmentSkillName1,records/skills/playerclass29/danceofmisdirection3.dbr, >> .\items\materia\class0029\(H)arlequin36.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath1.dbr, >> .\items\materia\class0029\(H)arlequin37.dbr
+echo augmentSkillName1,records/skills/playerclass29/dragonsbreath2.dbr, >> .\items\materia\class0029\(H)arlequin38.dbr
+echo augmentSkillName1,records/skills/playerclass29/fanfare.dbr, >> .\items\materia\class0029\(H)arlequin39.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe1.dbr, >> .\items\materia\class0029\(H)arlequin40.dbr
+echo augmentSkillName1,records/skills/playerclass29/flashandawe2.dbr, >> .\items\materia\class0029\(H)arlequin41.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1.dbr, >> .\items\materia\class0029\(H)arlequin42.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray1b.dbr, >> .\items\materia\class0029\(H)arlequin43.dbr
+echo augmentSkillName1,records/skills/playerclass29/pissray2.dbr, >> .\items\materia\class0029\(H)arlequin44.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonrodeoboar.dbr, >> .\items\materia\class0029\(H)arlequin45.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword1.dbr, >> .\items\materia\class0029\(H)arlequin46.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword2.dbr, >> .\items\materia\class0029\(H)arlequin47.dbr
+echo augmentSkillName1,records/skills/playerclass29/summonzannisword3.dbr, >> .\items\materia\class0029\(H)arlequin48.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

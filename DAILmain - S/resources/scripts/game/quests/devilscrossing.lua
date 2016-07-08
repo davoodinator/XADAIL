@@ -21,7 +21,7 @@ local potionChestSpawned = false
 local IntroPotionState = { Potions = 0, Nothing = 1 }
 
 local introPotionStateObjects = orderedTable()
---	introPotionStateObjects["DC_INTRO_POTIONS"] = { state = IntroPotionState.Nothing, dbr = nil }
+	introPotionStateObjects["DC_INTRO_POTIONS"] = { state = IntroPotionState.Nothing, dbr = nil }
 	introPotionStateObjects[""]					= { state = IntroPotionState.Potions, dbr = "records/items/lootchests/questchests/questchest_intropotionchest.dbr" }
 
 function gd.quests.devilsCrossing.introPotionChestOnAddToWorld(objectId)
@@ -71,7 +71,10 @@ function gd.quests.devilsCrossing.prisonGateDoorOnAddToWorld(objectId)
 	if Server then
 	
 		prisonGateId = objectId
-		
+			local door = Door.Get(prisonGateId)
+			door:Open()
+			
+			prisonGateOpen = true		
 	end
 
 end
@@ -84,9 +87,9 @@ function gd.quests.devilsCrossing.prisonGateDoorOpen(triggererId)
 		local player = Player.Get(triggererId)
 		
 		-- Open door if player has token
-		if (player != nil && (player:HasToken("DC_PRISON_GUARD") || player:ServerHasToken("DC_PRISON_GUARD"))) then
+--		if (player != nil && (player:HasToken("DC_PRISON_GUARD") || player:ServerHasToken("DC_PRISON_GUARD"))) then
 			QuestEvent("prisonGateEntry")
-		end
+--		end
 		
 	end
 	

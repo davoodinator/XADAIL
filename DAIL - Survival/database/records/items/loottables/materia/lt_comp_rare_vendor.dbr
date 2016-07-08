@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;12,
+records,records/items/loottables/materia/tdyn_comp_magical_vendor.dbr;records/items/loottables/materia/tdyn_comp_rare_vendor.dbr,

@@ -3343,3 +3343,54 @@ tagClass07SkillNameN4=Malice Pulse
 tagClass07SkillNameN5=Ghost Blitz
 tagClass08SkillNameN1=Uncanny Dodge
 tagClass08SkillDescriptionN1=A swift evasive action means you can use the foes as your play thing.
+
+tagItemSkillCornB01Name=Pack Mentality
+tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
+
+
+#arlequin tasg
+tagPetZanniSwordA01=Zanni Sword
+tagPetRodeoPigA02=Porkchop the Rodeo Pig
+#Class07
+tagClass29SkillName00=Arlequin
+tagClass29SkillDescription00=With a laugh and a blade, turn the tide!
+
+tagClass29SkillName01A=Dance of Misdirection
+tagClass29SkillDescription01A=The Arlequin is a master of dance, you know? The salsa, the chacha, the Charlston - master of it all. But, arguably, most important is the Dance of Misdirection. With each strike the Arlequin causes their foe to fumble their own.  ^oRequires and allows dual-wielding using either sword, mace, dagger, or a sceptre.
+tagClass29SkillName01B=Toe Step Tango
+tagClass29SkillDescription01B=With a shuffle of the feet the Arlequin steps upon the toes of their foe, causing them to slow whislt angering them. Nothing Draws someone's attention like a stamp on the lil pigs.
+tagClass29SkillName01c=Slapstick, or Knife, or Club.
+tagClass29SkillDescription01c=Majestically, and with an athletic jump, the Arelquin humorously slaps their foe upon the noggin, stunning, or knocking them down even. Take that!
+
+tagClass29SkillName02A=Dragon's Breath
+tagClass29SkillDescription02A="Did he/she just breath fire? They breathed fire!" - the Arlequin's enemies as you light them ablaze with a belch of flame. I'd like to see a Nightblade do that!
+tagClass29SkillName02B=Bellow Lungs
+tagClass29SkillDescription02B=A life of singing and breathing fire gives the Arlequin powerful lungs - better to light thou foe ablaze, in the poet's tongue. Dragon's Breath now burns longer and may send enemies running in fear!
+tagClass29SkillName02C=Hearty Wilds
+tagClass29SkillDescription02C=Part of this balanced skill set.
+
+tagClass29SkillName03A=Flash and Awe!
+tagClass29SkillDescription03A=With a little magic, a sprinkle of alchemy, and a big bang, the Arlequin shock the audience by disappearing then reappearing again - ooo what a show!
+tagClass29SkillName03B=Shock and Awe!
+tagClass29SkillDescription03B=What's a show without a little lightning?! How does the Arlequin do it?
+
+tagClass29SkillName04A=Summon Zanni Sword
+tagClass29SkillDescription04A=Using magic, elbowgrease, and quite a bit of wishful thinking the Arlequin summons forth a magical wooden blade to bash their foe's brains in. It is not sharp.
+
+tagClass29SkillName04B=Splinters
+tagClass29SkillDescription04B=The wood of the Zanni Sword becomes frayed and causes bleeding damage, probably from whacking people over the head so much. They're kinda sharp, I guess.
+
+tagClass29SkillName04C=And Then They Lit On Fire
+tagClass29SkillDescription04C=Lighting that elbowgrease up with a little more magic and wishful thinking turned out great. Still not sharp though.
+
+tagClass29SkillName05=Summon Rodeo Pig
+tagClass29SkillDescription05=It is said that a thousand years ago, maybe a few hundred, or even twenty, there lived a pig. It wasn't just any old pig, he or she, I've heard it both ways, was a magical pig! Porkchop, the magical rodeo pig! You can summon this majestic beast to your aid, to run wild, knocking down your enemies. You don't know how, but this ability is yours.
+
+tagClass29SkillName06A=Reginald's Wild Night
+tagClass29SkillDescription06A=A powerful stream of liquid sprayed using secret (H)arlequin techniques only shared with masters.  As you grimace through the burning sensation, you use the secret words of power... 'Damn you Archibald!' ^oRemember to wipe your hands after using this skill
+
+tagClass29SkillName06B=Jelg and Kegl
+tagClass29SkillDescription06B=Grand Master (H)arlequins can compress and ignite their stream as it comes out ^oEnergy Cost increase is per damage interval.
+
+tagClass29SkillName06C=I.it...it doesn't burn anymore!
+tagClass29SkillDescription06C=You have performed a sacred ritual, known only to master (H)arlequins and now you stream Cthonian pe..power!

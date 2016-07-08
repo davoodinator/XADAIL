@@ -291,4 +291,4 @@ skillSwipeSound,records/sounds/skillsounds/nonplayer/spak_groundbreaker_rockseru
 skillUpBitmapName,ui/skills/icons/itemskills/skillicon_earth_aoe_up.tex,
 targetingMode,Point,
 unarmedOnly,0,
-weaponDamagePct,25.000000,
+weaponDamagePct,45.000000,

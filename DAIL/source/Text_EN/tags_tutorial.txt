@@ -1,24 +1,24 @@
 #Loading Tips
-tagLoadingTip01={^g}Tip: {^w}[DAIL 0041] Credit goes to NatATon for the Legendary and Epic Affixes! They wont always appear on crafted items.
-tagLoadingTip02={^g}Tip: {^w}[DAIL 0041] Credit goes to Somerled for the Coronus Mastery!
-tagLoadingTip03={^g}Tip: {^w}[DAIL 0041] Credit goes to CFTX for the Necro, Ranger and Fangshi Masteries!
-tagLoadingTip04={^g}Tip: {^w}[DAIL 0041] Credit goes to Okami29 for Omega Quest - talk to guard in south part of devil crossing to start it
-tagLoadingTip05={^g}Tip: {^w}[DAIL 0041] Credit goes to Jiaco for the Grimmest and arachnophobia mods! see readme.txt for more details
-tagLoadingTip06={^g}Tip: {^w}[DAIL 0041] Credit goes to Elfe for random tips on mod creation and helping out the community in general.
-tagLoadingTip07={^g}Tip: {^w}[DAIL 0041] Credit goes to WareBare and Alexei for the Rifts/Mapping mod.
-tagLoadingTip08={^g}Tip: {^w}[DAIL 0041] Credit goes to Mamba, Cyberreefer, Deathbit, Asylum and others who have taught by example.
-tagLoadingTip09={^g}Tip: {^w}[DAIL 0041] Credit goes to Grim Dawg for Good Looking Mod - check corpse on north devil crossing bridge to use it.
-tagLoadingTip10={^g}Tip: {^w}[DAIL 0041] Credit goes to Ceno and adoomgod for Cornucopia changes to devotions.
-tagLoadingTip11={^g}Tip: {^w}[DAIL 0041] Credit goes to Princessluna for eternal mod aka DAIL survival.
-tagLoadingTip12={^g}Tip: {^w}[DAIL 0041] Credit goes to 3Jiou for the Frost Knight and Enchanter masteries
-tagLoadingTip13={^g}Tip: {^w}[DAIL 0041] Credit goes to Ceno for Zenith Masteries (Elementalist, Terror Knight)
-tagLoadingTip14={^g}Tip: {^w}[DAIL 0041] Credit goes to (Not Released) Kir4 for the Darkest Dawn Masteries (Arch Necromancer and Illusionist)
-tagLoadingTip15={^g}Tip: {^w}[DAIL 0041] Credit goes to  ASYLUM101 For the 9 Grim Quest Masteries (Titan Quest Influenced)
-tagLoadingTip16={^g}Tip: {^w}[DAIL 0041] Credit goes to  Koba0100 for the Engineer Mastery
-tagLoadingTip17={^g}Tip: {^w}[DAIL 0041] Credit goes to (Not Released) DraonCC for the Stargazer Mastery
-tagLoadingTip18={^g}Tip: {^w}[DAIL 0041] Credit goes to (Not Released) Atrosatiro for the Arlequin/Harlequin Mastery
-tagLoadingTip19={^g}Tip: {^w}[DAIL 0041] Credit goes to (Not Released) Diacred for the Elwar mastery
-tagLoadingTip20={^g}Tip: {^w}[DAIL 0041] When hosting Multiplayer use DAIL xxxx in the name like DAIL 0042
+tagLoadingTip01={^g}Tip: {^w}[DAIL 0043] Credit goes to NatATon for the Legendary and Epic Affixes! They wont always appear on crafted items.
+tagLoadingTip02={^g}Tip: {^w}[DAIL 0043] Credit goes to Somerled for the Coronus Mastery!
+tagLoadingTip03={^g}Tip: {^w}[DAIL 0043] Credit goes to CFTX for the Necro, Ranger and Fangshi Masteries!
+tagLoadingTip04={^g}Tip: {^w}[DAIL 0043] Credit goes to Okami29 for Omega Quest (ULTIMATE ONLY) - talk to guard in south gate in devil crossing
+tagLoadingTip05={^g}Tip: {^w}[DAIL 0043] Credit goes to Jiaco for the Grimmest and arachnophobia mods! see readme.txt for more details
+tagLoadingTip06={^g}Tip: {^w}[DAIL 0043] Credit goes to Elfe for random tips on mod creation and helping out the community in general.
+tagLoadingTip07={^g}Tip: {^w}[DAIL 0043] Credit goes to WareBare and Alexei for the Rifts/Mapping mod.
+tagLoadingTip08={^g}Tip: {^w}[DAIL 0043] Credit goes to Mamba, Cyberreefer, Deathbit, Asylum and others who have taught by example.
+tagLoadingTip09={^g}Tip: {^w}[DAIL 0043] Credit goes to Grim Dawg for Good Looking Mod - the transmorg vendor is in outcast dungeon. won't aggro
+tagLoadingTip10={^g}Tip: {^w}[DAIL 0043] Credit goes to Ceno and adoomgod for Cornucopia changes to devotions.
+tagLoadingTip11={^g}Tip: {^w}[DAIL 0043] Credit goes to Princessluna for eternal mod aka DAIL survival.
+tagLoadingTip12={^g}Tip: {^w}[DAIL 0043] Credit goes to 3Jiou for the Frost Knight and Enchanter masteries
+tagLoadingTip13={^g}Tip: {^w}[DAIL 0043] Credit goes to Ceno for Zenith Masteries (Elementalist, Terror Knight)
+tagLoadingTip14={^g}Tip: {^w}[DAIL 0043] Credit goes to (Not Released) Kir4 for the Darkest Dawn Masteries (Arch Necromancer and Illusionist)
+tagLoadingTip15={^g}Tip: {^w}[DAIL 0043] Credit goes to  ASYLUM101 For the 9 Grim Quest Masteries (Titan Quest Influenced)
+tagLoadingTip16={^g}Tip: {^w}[DAIL 0043] Credit goes to  Koba0100 for the Engineer Mastery
+tagLoadingTip17={^g}Tip: {^w}[DAIL 0043] Credit goes to (Not Released) DraonCC for the Stargazer Mastery
+tagLoadingTip18={^g}Tip: {^w}[DAIL 0043] Credit goes to Atrosatiro for the Arlequin/Harlequin Mastery
+tagLoadingTip19={^g}Tip: {^w}[DAIL 0043] Credit goes to (Not Released) Diacred for the Elwar mastery
+tagLoadingTip20={^g}Tip: {^w}[DAIL 0043] When hosting Multiplayer use DAIL xxxx in the name like DAIL 0043
 
 #Tutorial Pages
 

@@ -1,7 +1,7 @@
 templateName,database/templates/charanimationtable.tpl,
 ActorName,,
 Class,,
-FileDescription,,
+FileDescription,Animation set for Grigori and Y Gair,
 unarmedAttackIdleAnim,creatures/enemies/skeleton/anm/skeleton_01a_idle.anm,
 unarmedAttackIdleAnimSpeed,1.0,
 unarmedIdleTransAnim,,

@@ -30,7 +30,7 @@ tagClassCoronusSkillName03D=Forces From Above
 tagClassCoronusSkillDescription03D=Destroyer is a good artist and Poison Season is his best work yet.
 
 tagClassCoronusSkillName04B=Goetia
-tagClassCoronusSkillDescription04B=Invoke the spirits of the dead to increase the power of your minions.
+tagClassCoronusSkillDescription04B=Invoke the spirits of the dead to increase the power of your minions. ^O This ability must be toggled to maintain its effect.
 
 tagClassCoronusSkillName05A=
 tagClassCoronusSkillDescription05A=
@@ -70,10 +70,10 @@ tagClassCoronusSkillName08B=The Right of Action
 tagClassCoronusSkillDescription08B=
 
 tagClassCoronusSkillName09A=Hem Ljuva Hem
-tagClassCoronusSkillDescription09A=Increase the %health of any ally pet in a 30m radius. ^o Does not work on players.
+tagClassCoronusSkillDescription09A=Increase the %health of any ally pet in a 30m radius. ^o Does not work on players. ^O This ability must be toggled to maintain its effect.
 
 tagClassCoronusSkillName10A=Rymden I En Lada
-tagClassCoronusSkillDescription10A=Increase the %energy and %health of any ally pet in a 30m radius. ^o Does not work on players.
+tagClassCoronusSkillDescription10A=Increase the %energy and %health of any ally pet in a 30m radius. ^o Does not work on players. ^O This ability must be toggled to maintain its effect.
 
 tagClassCoronusSkillName11A=Awake
 tagClassCoronusSkillDescription11A=Launch a lobbed ice bomb, exploding after hitting the ground and slowing the attack speed of enemies caught within the blast.

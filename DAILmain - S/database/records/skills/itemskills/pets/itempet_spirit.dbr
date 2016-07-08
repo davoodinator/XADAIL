@@ -1,5 +1,5 @@
-templateName,database/templates/pet.tpl,
-Class,Pet,
+templateName,database/templates/monster.tpl,
+Class,Monster,
 LowerHealthDisplayPercentage,0.000000,
 MonsterMusicRadius,0.000000,
 UpperHealthDisplayPercentage,100.000000,

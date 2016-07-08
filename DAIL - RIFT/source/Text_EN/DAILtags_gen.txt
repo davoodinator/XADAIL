@@ -4998,203 +4998,403 @@ dailCompTextCenobite97=^oThis feels warm to the touch, almost familiar ^w(This c
 dailCompTextCenobite98=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
 dailCompTextCenobite99=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
 dailCompTextCenobite=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
- dailCompDescCenobite1=^pCenobite's Gift of DAIL
- dailCompDescCenobite2=^pCenobite's Gift of DAIL
- dailCompDescCenobite3=^pCenobite's Gift of DAIL
- dailCompDescCenobite4=^pCenobite's Gift of DAIL
- dailCompDescCenobite5=^pCenobite's Gift of DAIL
- dailCompDescCenobite6=^pCenobite's Gift of DAIL
- dailCompDescCenobite7=^pCenobite's Gift of DAIL
- dailCompDescCenobite8=^pCenobite's Gift of DAIL
- dailCompDescCenobite9=^pCenobite's Gift of DAIL
- dailCompDescCenobite10=^pCenobite's Gift of DAIL
- dailCompDescCenobite11=^pCenobite's Gift of DAIL
- dailCompDescCenobite12=^pCenobite's Gift of DAIL
- dailCompDescCenobite13=^pCenobite's Gift of DAIL
- dailCompDescCenobite14=^pCenobite's Gift of DAIL
- dailCompDescCenobite15=^pCenobite's Gift of DAIL
- dailCompDescCenobite16=^pCenobite's Gift of DAIL
- dailCompDescCenobite17=^pCenobite's Gift of DAIL
- dailCompDescCenobite18=^pCenobite's Gift of DAIL
- dailCompDescCenobite19=^pCenobite's Gift of DAIL
- dailCompDescCenobite20=^pCenobite's Gift of DAIL
- dailCompDescCenobite21=^pCenobite's Gift of DAIL
- dailCompDescCenobite22=^pCenobite's Gift of DAIL
- dailCompDescCenobite23=^pCenobite's Gift of DAIL
- dailCompDescCenobite24=^pCenobite's Gift of DAIL
- dailCompDescCenobite25=^pCenobite's Gift of DAIL
- dailCompDescCenobite26=^pCenobite's Gift of DAIL
- dailCompDescCenobite27=^pCenobite's Gift of DAIL
- dailCompDescCenobite28=^pCenobite's Gift of DAIL
- dailCompDescCenobite29=^pCenobite's Gift of DAIL
- dailCompDescCenobite30=^pCenobite's Gift of DAIL
- dailCompDescCenobite31=^pCenobite's Gift of DAIL
- dailCompDescCenobite32=^pCenobite's Gift of DAIL
- dailCompDescCenobite33=^pCenobite's Gift of DAIL
- dailCompDescCenobite34=^pCenobite's Gift of DAIL
- dailCompDescCenobite35=^pCenobite's Gift of DAIL
- dailCompDescCenobite36=^pCenobite's Gift of DAIL
- dailCompDescCenobite37=^pCenobite's Gift of DAIL
- dailCompDescCenobite38=^pCenobite's Gift of DAIL
- dailCompDescCenobite39=^pCenobite's Gift of DAIL
- dailCompDescCenobite40=^pCenobite's Gift of DAIL
- dailCompDescCenobite41=^pCenobite's Gift of DAIL
- dailCompDescCenobite42=^pCenobite's Gift of DAIL
- dailCompDescCenobite43=^pCenobite's Gift of DAIL
- dailCompDescCenobite44=^pCenobite's Gift of DAIL
- dailCompDescCenobite45=^pCenobite's Gift of DAIL
- dailCompDescCenobite46=^pCenobite's Gift of DAIL
- dailCompDescCenobite47=^pCenobite's Gift of DAIL
- dailCompDescCenobite48=^pCenobite's Gift of DAIL
- dailCompDescCenobite49=^pCenobite's Gift of DAIL
- dailCompDescCenobite50=^pCenobite's Gift of DAIL
- dailCompDescCenobite51=^pCenobite's Gift of DAIL
- dailCompDescCenobite52=^pCenobite's Gift of DAIL
- dailCompDescCenobite53=^pCenobite's Gift of DAIL
- dailCompDescCenobite54=^pCenobite's Gift of DAIL
- dailCompDescCenobite55=^pCenobite's Gift of DAIL
- dailCompDescCenobite56=^pCenobite's Gift of DAIL
- dailCompDescCenobite57=^pCenobite's Gift of DAIL
- dailCompDescCenobite58=^pCenobite's Gift of DAIL
- dailCompDescCenobite59=^pCenobite's Gift of DAIL
- dailCompDescCenobite60=^pCenobite's Gift of DAIL
- dailCompDescCenobite61=^pCenobite's Gift of DAIL
- dailCompDescCenobite62=^pCenobite's Gift of DAIL
- dailCompDescCenobite63=^pCenobite's Gift of DAIL
- dailCompDescCenobite64=^pCenobite's Gift of DAIL
- dailCompDescCenobite65=^pCenobite's Gift of DAIL
- dailCompDescCenobite66=^pCenobite's Gift of DAIL
- dailCompDescCenobite67=^pCenobite's Gift of DAIL
- dailCompDescCenobite68=^pCenobite's Gift of DAIL
- dailCompDescCenobite69=^pCenobite's Gift of DAIL
- dailCompDescCenobite70=^pCenobite's Gift of DAIL
- dailCompDescCenobite71=^pCenobite's Gift of DAIL
- dailCompDescCenobite72=^pCenobite's Gift of DAIL
- dailCompDescCenobite73=^pCenobite's Gift of DAIL
- dailCompDescCenobite74=^pCenobite's Gift of DAIL
- dailCompDescCenobite75=^pCenobite's Gift of DAIL
- dailCompDescCenobite76=^pCenobite's Gift of DAIL
- dailCompDescCenobite77=^pCenobite's Gift of DAIL
- dailCompDescCenobite78=^pCenobite's Gift of DAIL
- dailCompDescCenobite79=^pCenobite's Gift of DAIL
- dailCompDescCenobite80=^pCenobite's Gift of DAIL
- dailCompDescCenobite81=^pCenobite's Gift of DAIL
- dailCompDescCenobite82=^pCenobite's Gift of DAIL
- dailCompDescCenobite83=^pCenobite's Gift of DAIL
- dailCompDescCenobite84=^pCenobite's Gift of DAIL
- dailCompDescCenobite85=^pCenobite's Gift of DAIL
- dailCompDescCenobite86=^pCenobite's Gift of DAIL
- dailCompDescCenobite87=^pCenobite's Gift of DAIL
- dailCompDescCenobite88=^pCenobite's Gift of DAIL
- dailCompDescCenobite89=^pCenobite's Gift of DAIL
- dailCompDescCenobite90=^pCenobite's Gift of DAIL
- dailCompDescCenobite91=^pCenobite's Gift of DAIL
- dailCompDescCenobite92=^pCenobite's Gift of DAIL
- dailCompDescCenobite93=^pCenobite's Gift of DAIL
- dailCompDescCenobite94=^pCenobite's Gift of DAIL
- dailCompDescCenobite95=^pCenobite's Gift of DAIL
- dailCompDescCenobite96=^pCenobite's Gift of DAIL
- dailCompDescCenobite97=^pCenobite's Gift of DAIL
- dailCompDescCenobite98=^pCenobite's Gift of DAIL
- dailCompDescCenobite99=^pCenobite's Gift of DAIL
- dailCompDescCenobite=^pCenobite's Gift of DAIL
-dailCompTextCenobite1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompTextCenobite2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompTextCenobite3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompTextCenobite4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite18=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite19=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite20=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite21=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite22=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite23=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite24=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite25=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite26=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite27=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite28=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite29=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite30=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite31=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite32=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite33=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite34=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompTextCenobite35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite49=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite50=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite51=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite52=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite53=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite54=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite55=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite56=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite57=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite58=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite59=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite60=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite61=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite62=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite63=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite64=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite65=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite66=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite67=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite68=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite69=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite70=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite71=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite72=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite73=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite74=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite75=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite76=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite77=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite78=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite79=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite80=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite81=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite82=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite83=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite84=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite85=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite86=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite87=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite88=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite89=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite90=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite91=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite92=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite93=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite94=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite95=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite96=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite97=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite98=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite99=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompTextCenobite=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+ dailCompDesc(H)arlequin1=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin2=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin3=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin4=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin5=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin6=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin7=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin8=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin9=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin10=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin11=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin12=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin13=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin14=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin15=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin16=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin17=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin18=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin19=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin20=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin21=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin22=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin23=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin24=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin25=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin26=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin27=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin28=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin29=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin30=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin31=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin32=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin33=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin34=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin35=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin36=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin37=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin38=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin39=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin40=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin41=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin42=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin43=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin44=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin45=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin46=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin47=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin48=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin=^p(H)arlequin's Gift of DAIL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dailCompText(H)arlequin1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin18=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin19=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin20=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin21=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin22=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin23=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin24=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin25=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin26=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin27=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin28=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin29=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin30=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin31=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin32=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin33=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin34=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ dailCompDesc(H)arlequin1=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin2=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin3=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin4=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin5=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin6=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin7=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin8=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin9=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin10=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin11=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin12=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin13=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin14=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin15=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin16=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin17=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin18=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin19=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin20=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin21=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin22=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin23=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin24=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin25=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin26=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin27=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin28=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin29=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin30=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin31=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin32=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin33=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin34=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin35=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin36=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin37=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin38=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin39=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin40=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin41=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin42=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin43=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin44=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin45=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin46=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin47=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin48=^p(H)arlequin's Gift of DAIL
+ dailCompDesc(H)arlequin=^p(H)arlequin's Gift of DAIL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dailCompText(H)arlequin1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompText(H)arlequin4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompText(H)arlequin18=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin19=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin20=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin21=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin22=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin23=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin24=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin25=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin26=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin27=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin28=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin29=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin30=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin31=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin32=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin33=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin34=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompText(H)arlequin=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

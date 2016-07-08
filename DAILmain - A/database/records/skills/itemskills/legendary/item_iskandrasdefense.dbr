@@ -648,7 +648,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/energybarrier_teal_loop
 skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activate.dbr,
 skillActiveDuration,5.000000,
 skillBaseDescription,tagItemSkillD119Desc,
-skillCooldownTime,16.000000,
+skillCooldownTime,12.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillDisplayName,tagItemSkillD119Name,
 skillDownBitmapName,ui/skills/icons/class05/skillicon_sphereofprotection2down.tex,

@@ -104,3 +104,35 @@ tagClassEngineerSkillDescription12C=This modification to the original device wil
 tagClassEngineerSkillName13A=Foolish Occult Engineering
 tagClassEngineerSkillDescription13A=The creator of this technique was shunned for their eldritch tampering. Their name has been struck from all official documents and effectively lost to history. Hell, this technique doesn't even have a cool alliterated name. That's really saying something, since ignoring such a naming convention is blatantly against the Empire's Engineering Edicts and punishable by death. All that aside, you figured you'd try it out. It seems to imbue your attacks with a strange energy, occasionally causing a sentry to appear nearby with a flash of light and a chill down your spine. These turrets seem normal enough, but I'm an omniscient tooltip and trust me, I know better. ^oThis is a toggleable skill. Summoned sentries will benefit from pet bonuses.
 tagClassEngineerPetSinisterSentry=Definitely Completely Mechanical Sentry Which Is Not Alive And Hungry
+
+
+tagClassEngineerSkillNameSoldier=Advanced Artillery
+tagClassEngineerSkillDescriptionSoldier=The standard sentries are nice, but you have to throw so many of them down at the start of every battle. Such a hassle. It would be nice to have something with a little more battlefield presence to back you up, giving you more time to do whatever it is you do when you're not spamming turrets. This is that thing. ^oScales with pet bonuses.
+tagClassEngineerPetSoldier=Heavy Artillery
+tagClassEngineerPetSoldierAttack=Artillery Shot
+
+tagClassEngineerSkillNameDemo=Canister Bomb Fabricator
+tagClassEngineerSkillDescriptionDemo=Canister Bombs are extremely useful, and they would be even more useful if you could have more of them delivered straight to your enemies' faces. Can't say no to more explosions. This machine will create Canister Bombs on a regular basis, and it will launch them at your enemies for you so you can sit back and watch the destruction. ^oScales with pet bonuses.
+tagClassEngineerPetDemo=Canister Bomb Fabricator
+tagClassEngineerPetDemoAttack=Mass-Produced Canister Bomb
+
+tagClassEngineerSkillNameOccultist=Plague Spreader
+tagClassEngineerSkillDescriptionOccultist=With this thing, you'll definitely be harming whatever's left of the ecosystem. It's mostly terrible, though, so don't feel too bad. Come to think of it, killing all life might actually be a dramatic improvement, considering the current state of things. ^oScales with pet bonuses.
+tagClassEngineerPetOccultist=Plague Spreader
+tagClassEngineerPetOccultistAttack=Spread Plague
+
+tagClassEngineerSkillNameNightblade=Devious Noisemaker
+tagClassEngineerSkillDescriptionNightblade=By now, you're getting pretty tired of taking hits. You can avoid a lot of them, sure, but you're pretty sure they're having more fun trying to hit you than you are trying to dodge them. What you really need right about now is some comic relief. To that end, here's a machine that will be extremely annoying for a while before exploding. ^oMay not work on deaf enemies. Scales with pet bonuses.
+tagClassEngineerPetNightblade=Devious Noisemaker
+tagClassEngineerPetNightbladeAttack=Annoy
+tagClassEngineerPetNightbladeSuicide=Detonate
+
+tagClassEngineerSkillNameArcanist=Panetti's Replicating Missile Replicator
+tagClassEngineerSkillDescriptionArcanist=The point where technology and magic meet is an exciting point indeed. Plenty of interesting things are possible when you can take dangerous amounts of magical energy and make a machine to handle it instead of your squishy soon-to-be-corpse. This machine is capable of launching a powerful version Panetti's classic missile at an impressive rate. The best part is not having to worry about your eyes exploding due to a magical overload. Know your limits, then make a machine to surpass them. ^oScales with pet bonuses.
+tagClassEngineerPetArcanist=Panetti's Replicating Missile Replicator
+tagClassEngineerPetArcanistAttack=Replicate Missile
+
+tagClassEngineerSkillNameShaman=Weather Machine
+tagClassEngineerSkillDescriptionShaman=You're very busy, but you still managed to find the time to create a giant storm-calling machine to cook your food for you. Stoves cook things too, sure, but this is way more hardcore. This machine will conjure up violent storm clouds at an alarming rate, which will cook any food in a decent radius nigh-instantly. Great for parties. You really do like the nice sear you get from lightning-cooked food, and you can't beat the speed. You could probably feed an army with little effort, this is the next big thing in the field of cooking! Just think of all the banquets you will host for people of high social standing! This thing is your ticket to the top! Oh, wait. Grim Dawn... right... They're all dead. REALLY dead. Oh well, this thing probably works on live targets, too. The thought didn't even cross your mind until now. ^oScales with pet bonuses.
+tagClassEngineerPetShaman=Weather Machine
+tagClassEngineerPetShamanAttack=Condense Storm Cloud

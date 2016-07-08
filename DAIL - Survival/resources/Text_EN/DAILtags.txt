@@ -5,10 +5,13 @@ tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
 #Areas
-tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0041)
-tagMapHomestead=Homestead^r(DAIL 0041)
-tagMapFortIkon=Fort Ikon^r(DAIL 0041)
+tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0043)
+tagMapHomestead=Homestead^r(DAIL 0043)
+tagMapFortIkon=Fort Ikon^r(DAIL 0043)
 
+
+#DAIL SPAWNS
+DAIL_AETHERIAL_POP=^rYou feel an aetherial rift open for a moment as something comes through.. it seems friendly !?!?!
 
 #DAIL MERCHANTS
 tagDailThentyZShopping0001=^oThentyZ the ^wSoldier ^oEmissary of ^wCrate
@@ -20,7 +23,7 @@ tagDailThentyZShopping0006=^oPrincessLuna the ^wShaman ^oEmissary of ^wCrate
 tagDailThentyZShopping0007=^oÁvohaj the ^wNecromancer ^oEmissary of ^wCFTX
 tagDailThentyZShopping0008=^oHelskerm the ^wRanger ^oEmissary of ^wCFTX
 tagDailThentyZShopping0009=^oMorrolan Edrien the ^wCoronus ^oEmissary of ^wSomerled
-tagDailThentyZShopping0010=^oVizZzas HolloW the ^wFangshi ^oEmissary of ^wCFTX
+tagDailThentyZShopping0010=^oVizas the ^wFangshi ^oEmissary of ^wCFTX
 tagDailThentyZShopping0011=^oLordShigan the ^wFrost Knight ^oEmissary of ^wCeno
 tagDailThentyZShopping0012=^oSpace Chefke the ^wElementalist ^oEmissary of ^wCeno
 tagDailThentyZShopping0013=^oChris Baisan the ^wTerror Knight ^oEmissary of ^w3Jiou
@@ -33,9 +36,9 @@ tagDailThentyZShopping0019=^oAdoomgod the ^wWarfare ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0020=^oElfe the ^wNature ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0021=^rPLACEHOLDER the ^wRogue ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0022=^oAzri Kun the ^wEarth ^oEmissary of ^wASYLUM101
-tagDailThentyZShopping0023=^rPLACEHOLDER the ^wStorm ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0023=^oOleg Martynov the ^wStorm ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0024=^oDeathbit the ^wDream ^oEmissary of ^wASYLUM101
-tagDailThentyZShopping0025=^rPLACEHOLDER the ^wStargazer ^oEmissary of ^wDraonCC
+tagDailThentyZShopping0025=^oTrevor Manson the ^wStargazer ^oEmissary of ^wDraonCC
 tagDailThentyZShopping0026=^rPLACEHOLDER the ^wPriest ^oEmissary of ^w3Jiou
 tagDailThentyZShopping0027=^oRorschachrev the ^wEngineer ^oEmissary of ^wKoba0100
 tagDailThentyZShopping0028=^rPLACEHOLDER the ^wCenobite ^oEmissary of ^wCFTX

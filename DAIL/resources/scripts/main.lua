@@ -18,3 +18,4 @@ Script.Load("scripts/game/wavespawn.lua")
 
 --Omega Mod
 Script.Load("scripts/Omega_Mod/Omega_Mod.lua")
+Script.Load("scripts/game/autopickup.lua")

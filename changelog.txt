@@ -29,36 +29,45 @@ Procrastination - also stuff other people can work on if they are keeners
 ^see additional file anm_problems.txt
 ^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
 ^make some kind of tool to check line endings in all .dbr files to see if they end in , and contain exactly two commas per line, ignoring blank lines.
-^apprentice staff blueprint drop crash and other GQ related crashes - please release 1.1d asylum101 :D
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 0044 - ?
-?
-
-0043 - ?
-Drorian: I can't find the enemy soul collector npc anywhere, seems to be right next to riftgate. look harder.
-All of the NPCs for DGA and Survival are missing and the skill window is broken after updating to Dail42 - somethignis wrong with your installation
-nevermind seems to be known bug - http://steamcommunity.com/app/219990/discussions/0/351660338731677804/ - quest rewards not always matching actual reward - no idea - someone gave an example of the message for beating the game showing 1 leg and the item they got being a different one entirely.
-*can i fiddle with the map using purely LUA?
-*if not then re run pathing updates for all of the map areas i modified.. can i do the entire world01.map ? please say yes
 *update graphics and naming conventions on the skill components
-*finish adding "Don't cross streams" to (H)arlequin skills.
-*(H)arlequin expanded to level 100 mastery cap with appropriate bonuses
-*(H)arlequin component vendor added - you can find him in  (???)
-*(H)arlequin weird icon in upper left fixed
-*check that missing harpy tag in DGA. is it me or is it DGA ? :P
-*check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
 *check for baron wradlith in spined cove - fix if needed
-*update elementalist mastery - now with chain lightning!
-*update omega mode to 0.32
-*update coronus mastery to 1.2.0
-*update frost knight to 1.9 (dawn of heroes) voidcaller and mage :( i want them but no room !
+*(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+*fix (H)arlequin  and terror knight mastery skillups so no gaps for special modifiers
+*fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc has arrived. maybe even which npc.. dunno hmmmm
+*check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
+*check that missing harpy tag in DGA. is it me or is it DGA ? :P
+*add grim quest blueprints as purchasable items from a special magic vendor that spawns with the other magic vendors
+
+0043 - 3:00 AM 7/8/2016
+NSIS installer 477 -> 484 lines.  That is almost 0.5K with that increase....
+many small creatures were sacrificed to perform the blood ritual to reduce the file size even further from 300MB down to 150 MB, also super maximum multiplayer compatibility has been activated.
+expect to see further improvements on file size in the future
+nevermind seems to be known bug - http://steamcommunity.com/app/219990/discussions/0/351660338731677804/ - quest rewards not always matching actual reward - no idea - someone gave an example of the message for beating the game showing 1 leg and the item they got being a different one entirely.
+can i fiddle with the map using purely LUA?
+	doors to bastion of chaos and torment are not permanently locked upon first use.  this wway you still need skeleton keys if you screw up but at least you can resume and finish it if you die.
+	npc spawns via script happening just a bit of a lua nub.  thanks to wanesbarez and okami29 i am learning stuff now
+fix spirit bonus stat-ups
+review save file from mood to see about tooltip lag (aederyn white) - no tooltip lag for me maybe its fixed? lets ask mood after 0043 update. if not fixed then i will see about setting up a real test.. this is not a bug per se but i understand it can be annoying and ruin QoL
+deleted extra class stuff from wanez folders.. will make compilation slightly smaller
+finished adding "Reginald's Wild Night" to (H)arlequin skills.
+(H)arlequin expanded to level 100 mastery cap with appropriate bonuses
+(H)arlequin component vendor added
+devils crossing being weird after removing world01.map with DAIL char.. fixed
+update omega mod to 0.32
+update elementalist mastery - now with chain lightning! - or what? it was already up to date. geez people
+update coronus mastery to 1.2.0
+update frost knight to 1.9 (dawn of heroes) voidcaller and mage :( i want them but no room !
+update engineer to 1.6 - build script updated with new .TPL file
+update grim quest to 1.2
 
 0042 - 2:12 AM 7/5/2016
-HF2 - oops forgot the database foldelrs for survival/rift
+HF2 - oops forgot the database folders for survival/rift
 HF1 - oops little hotfix GQ masteries go to 100 now :P
 Seriously, and I mean SERIOUSLY cleaned up NSIS installer.
 	old method would have put this file @ 950 MB

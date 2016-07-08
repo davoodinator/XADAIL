@@ -261,7 +261,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,0.000000,
-skillCooldownTime,10.000000,
+skillCooldownTime,3.000000,
 skillDisplayName,tagSkillName194,
 skillDownBitmapName,ingameui/icons/skills/stealth/poisongasbombdown01.tex,
 skillManaCost,45.000000;47.000000;49.000000;52.000000;54.000000;56.000000;59.000000;61.000000;63.000000;66.000000;68.000000;70.000000;73.000000;75.000000;77.000000;80.000000,

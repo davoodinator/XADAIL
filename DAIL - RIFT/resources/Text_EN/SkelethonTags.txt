@@ -20,7 +20,7 @@ tagClassSkelethonSkillName00=Skelethon
 tagClassSkelethonSkillDescription00=The Skelethon is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 
 tagClassSkelethonSkillName01A=Dead Dogs
-tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The warrior skeleton also have the ability to raise the undead on his own kills, but one can only summon up to 1 skeleton. ^A Your warrior skeletons last for 8 minutes and theirs for 4. ^O Secondary summons vanish when changing instances.
+tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The warrior skeleton also have the ability to raise the undead on his own kills, but one can only summon up to 1 skeleton. ^O This ability must be toggled to maintain its effect. ^A Your warrior skeletons last for 8 minutes and theirs for 4. ^O Secondary summons vanish when changing instances.
 tagClassSkelethonSkillName01B=Dirt
 tagClassSkelethonSkillDescription01B=Your skeleton charges at his enemy and fucks him up like he would a slutty hot undead spooky ghost.
 tagClassSkelethonSkillName01C=Five Fingers
@@ -60,7 +60,7 @@ tagClassSkelethonSkillName07D=Accelerated Knife
 tagClassSkelethonSkillName07E=Summon Undead Warrior (30% On Enemy Death)
 
 tagClassSkelethonSkillName08A=Dark Eyes
-tagClassSkelethonSkillDescription08A=Lead as a true general would; by empowering your small but effective undead army.
+tagClassSkelethonSkillDescription08A=Lead as a true general would; by empowering your small but effective undead army. ^O This ability must be toggled to maintain its effect.
 
 tagClassSkelethonSkillName09A=Richardson Road
 tagClassSkelethonSkillDescription09A=Amplifies your ability to defend yourself against all blows. ^o Requires a two handed melee weapon.

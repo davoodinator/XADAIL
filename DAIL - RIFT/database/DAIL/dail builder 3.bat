@@ -27498,546 +27498,438 @@ echo lootWeight60,1, >> .\items\loottables\dailoneskill0028dual.dbr
 
 
 
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite1dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo description,dailCompDescCenobite1dual, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo itemText,dailCompTextCenobite1dual,  >> .\items\materia\class0028\Cenobite1dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite1dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite1dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite2dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo description,dailCompDescCenobite2dual, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo itemText,dailCompTextCenobite2dual,  >> .\items\materia\class0028\Cenobite2dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite2dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite2dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite3dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo description,dailCompDescCenobite3dual, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo itemText,dailCompTextCenobite3dual,  >> .\items\materia\class0028\Cenobite3dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite3dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite3dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite4dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo description,dailCompDescCenobite4dual, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo itemText,dailCompTextCenobite4dual,  >> .\items\materia\class0028\Cenobite4dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite4dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite4dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite5dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo description,dailCompDescCenobite5dual, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo itemText,dailCompTextCenobite5dual,  >> .\items\materia\class0028\Cenobite5dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite5dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite5dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite6dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo description,dailCompDescCenobite6dual, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo itemText,dailCompTextCenobite6dual,  >> .\items\materia\class0028\Cenobite6dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite6dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite6dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite7dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo description,dailCompDescCenobite7dual, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo itemText,dailCompTextCenobite7dual,  >> .\items\materia\class0028\Cenobite7dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite7dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite7dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite8dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo description,dailCompDescCenobite8dual, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo itemText,dailCompTextCenobite8dual,  >> .\items\materia\class0028\Cenobite8dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite8dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite8dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite9dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo description,dailCompDescCenobite9dual, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo itemText,dailCompTextCenobite9dual,  >> .\items\materia\class0028\Cenobite9dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite9dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite9dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite10dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo description,dailCompDescCenobite10dual, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo itemText,dailCompTextCenobite10dual,  >> .\items\materia\class0028\Cenobite10dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite10dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite10dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite11dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo description,dailCompDescCenobite11dual, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo itemText,dailCompTextCenobite11dual,  >> .\items\materia\class0028\Cenobite11dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite11dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite11dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite12dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo description,dailCompDescCenobite12dual, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo itemText,dailCompTextCenobite12dual,  >> .\items\materia\class0028\Cenobite12dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite12dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite12dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite13dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo description,dailCompDescCenobite13dual, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo itemText,dailCompTextCenobite13dual,  >> .\items\materia\class0028\Cenobite13dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite13dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite13dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite14dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo description,dailCompDescCenobite14dual, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo itemText,dailCompTextCenobite14dual,  >> .\items\materia\class0028\Cenobite14dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite14dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite14dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite15dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo description,dailCompDescCenobite15dual, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo itemText,dailCompTextCenobite15dual,  >> .\items\materia\class0028\Cenobite15dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite15dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite15dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite16dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo description,dailCompDescCenobite16dual, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo itemText,dailCompTextCenobite16dual,  >> .\items\materia\class0028\Cenobite16dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite16dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite16dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite17dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo description,dailCompDescCenobite17dual, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo itemText,dailCompTextCenobite17dual,  >> .\items\materia\class0028\Cenobite17dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite17dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite17dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite18dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo description,dailCompDescCenobite18dual, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo itemText,dailCompTextCenobite18dual,  >> .\items\materia\class0028\Cenobite18dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite18dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite18dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite19dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo description,dailCompDescCenobite19dual, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo itemText,dailCompTextCenobite19dual,  >> .\items\materia\class0028\Cenobite19dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite19dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite19dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite20dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo description,dailCompDescCenobite20dual, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo itemText,dailCompTextCenobite20dual,  >> .\items\materia\class0028\Cenobite20dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite20dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite20dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite21dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo description,dailCompDescCenobite21dual, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo itemText,dailCompTextCenobite21dual,  >> .\items\materia\class0028\Cenobite21dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite21dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite21dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite22dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo description,dailCompDescCenobite22dual, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo itemText,dailCompTextCenobite22dual,  >> .\items\materia\class0028\Cenobite22dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite22dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite22dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite23dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo description,dailCompDescCenobite23dual, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo itemText,dailCompTextCenobite23dual,  >> .\items\materia\class0028\Cenobite23dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite23dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite23dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite24dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo description,dailCompDescCenobite24dual, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo itemText,dailCompTextCenobite24dual,  >> .\items\materia\class0028\Cenobite24dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite24dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite24dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite25dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo description,dailCompDescCenobite25dual, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo itemText,dailCompTextCenobite25dual,  >> .\items\materia\class0028\Cenobite25dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite25dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite25dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite26dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo description,dailCompDescCenobite26dual, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo itemText,dailCompTextCenobite26dual,  >> .\items\materia\class0028\Cenobite26dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite26dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite26dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite27dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo description,dailCompDescCenobite27dual, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo itemText,dailCompTextCenobite27dual,  >> .\items\materia\class0028\Cenobite27dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite27dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite27dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite28dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo description,dailCompDescCenobite28dual, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo itemText,dailCompTextCenobite28dual,  >> .\items\materia\class0028\Cenobite28dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite28dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite28dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite29dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo description,dailCompDescCenobite29dual, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo itemText,dailCompTextCenobite29dual,  >> .\items\materia\class0028\Cenobite29dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite29dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite30dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo itemCost,1000000, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo description,dailCompDescCenobite30dual, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo itemText,dailCompTextCenobite30dual,  >> .\items\materia\class0028\Cenobite30dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite30dual.dbr
-echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite30dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite31dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo description,dailCompDescCenobite31dual, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo itemText,dailCompTextCenobite31dual,  >> .\items\materia\class0028\Cenobite31dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite31dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite31dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite32dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo description,dailCompDescCenobite32dual, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo itemText,dailCompTextCenobite32dual,  >> .\items\materia\class0028\Cenobite32dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite32dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite32dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite33dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo description,dailCompDescCenobite33dual, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo itemText,dailCompTextCenobite33dual,  >> .\items\materia\class0028\Cenobite33dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite33dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite33dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite34dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo description,dailCompDescCenobite34dual, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo itemText,dailCompTextCenobite34dual,  >> .\items\materia\class0028\Cenobite34dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite34dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite34dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite35dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo description,dailCompDescCenobite35dual, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo itemText,dailCompTextCenobite35dual,  >> .\items\materia\class0028\Cenobite35dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite35dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite35dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite36dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo description,dailCompDescCenobite36dual, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo itemText,dailCompTextCenobite36dual,  >> .\items\materia\class0028\Cenobite36dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite36dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite36dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite37dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo description,dailCompDescCenobite37dual, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo itemText,dailCompTextCenobite37dual,  >> .\items\materia\class0028\Cenobite37dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite37dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite37dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite38dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo description,dailCompDescCenobite38dual, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo itemText,dailCompTextCenobite38dual,  >> .\items\materia\class0028\Cenobite38dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite38dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite38dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite39dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo description,dailCompDescCenobite39dual, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo itemText,dailCompTextCenobite39dual,  >> .\items\materia\class0028\Cenobite39dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite39dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite39dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite40dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo description,dailCompDescCenobite40dual, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo itemText,dailCompTextCenobite40dual,  >> .\items\materia\class0028\Cenobite40dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite40dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite40dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite41dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo description,dailCompDescCenobite41dual, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo itemText,dailCompTextCenobite41dual,  >> .\items\materia\class0028\Cenobite41dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite41dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite41dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite42dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo description,dailCompDescCenobite42dual, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo itemText,dailCompTextCenobite42dual,  >> .\items\materia\class0028\Cenobite42dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite42dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite42dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite43dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo description,dailCompDescCenobite43dual, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo itemText,dailCompTextCenobite43dual,  >> .\items\materia\class0028\Cenobite43dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite43dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite43dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite44dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo description,dailCompDescCenobite44dual, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo itemText,dailCompTextCenobite44dual,  >> .\items\materia\class0028\Cenobite44dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite44dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite44dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite45dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo description,dailCompDescCenobite45dual, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo itemText,dailCompTextCenobite45dual,  >> .\items\materia\class0028\Cenobite45dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite45dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite45dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite46dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo description,dailCompDescCenobite46dual, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo itemText,dailCompTextCenobite46dual,  >> .\items\materia\class0028\Cenobite46dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite46dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite46dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite47dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo description,dailCompDescCenobite47dual, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo itemText,dailCompTextCenobite47dual,  >> .\items\materia\class0028\Cenobite47dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite47dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite47dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite48dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo description,dailCompDescCenobite48dual, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo itemText,dailCompTextCenobite48dual,  >> .\items\materia\class0028\Cenobite48dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite48dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite48dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite49dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo description,dailCompDescCenobite49dual, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo itemText,dailCompTextCenobite49dual,  >> .\items\materia\class0028\Cenobite49dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite49dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite49dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite50dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo description,dailCompDescCenobite50dual, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo itemText,dailCompTextCenobite50dual,  >> .\items\materia\class0028\Cenobite50dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite50dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite50dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite51dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo description,dailCompDescCenobite51dual, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo itemText,dailCompTextCenobite51dual,  >> .\items\materia\class0028\Cenobite51dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite51dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite51dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite52dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo description,dailCompDescCenobite52dual, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo itemText,dailCompTextCenobite52dual,  >> .\items\materia\class0028\Cenobite52dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite52dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite52dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite53dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo description,dailCompDescCenobite53dual, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo itemText,dailCompTextCenobite53dual,  >> .\items\materia\class0028\Cenobite53dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite53dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite53dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite54dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo description,dailCompDescCenobite54dual, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo itemText,dailCompTextCenobite54dual,  >> .\items\materia\class0028\Cenobite54dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite54dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite54dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite55dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo description,dailCompDescCenobite55dual, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo itemText,dailCompTextCenobite55dual,  >> .\items\materia\class0028\Cenobite55dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite55dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite55dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite56dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo description,dailCompDescCenobite56dual, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo itemText,dailCompTextCenobite56dual,  >> .\items\materia\class0028\Cenobite56dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite56dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite56dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite57dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo description,dailCompDescCenobite57dual, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo itemText,dailCompTextCenobite57dual,  >> .\items\materia\class0028\Cenobite57dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite57dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite57dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite58dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo description,dailCompDescCenobite58dual, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo itemText,dailCompTextCenobite58dual,  >> .\items\materia\class0028\Cenobite58dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite58dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite58dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite59dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo description,dailCompDescCenobite59dual, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo itemText,dailCompTextCenobite59dual,  >> .\items\materia\class0028\Cenobite59dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite59dual.dbr
-copy .\dail_base2.dbr .\items\materia\class0028\Cenobite60dual.dbr /y
-echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo itemCost,2000000, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo description,dailCompDescCenobite60dual, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo itemText,dailCompTextCenobite60dual,  >> .\items\materia\class0028\Cenobite60dual.dbr
-echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite60dual.dbr
-echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite60dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin1dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo description,dailCompDesc(H)arlequin1dual, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo itemText,dailCompText(H)arlequin1dual,  >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin2dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo description,dailCompDesc(H)arlequin2dual, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo itemText,dailCompText(H)arlequin2dual,  >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin3dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo description,dailCompDesc(H)arlequin3dual, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo itemText,dailCompText(H)arlequin3dual,  >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin4dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo description,dailCompDesc(H)arlequin4dual, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo itemText,dailCompText(H)arlequin4dual,  >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin5dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo description,dailCompDesc(H)arlequin5dual, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo itemText,dailCompText(H)arlequin5dual,  >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin6dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo description,dailCompDesc(H)arlequin6dual, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo itemText,dailCompText(H)arlequin6dual,  >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin7dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo description,dailCompDesc(H)arlequin7dual, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo itemText,dailCompText(H)arlequin7dual,  >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin8dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo description,dailCompDesc(H)arlequin8dual, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo itemText,dailCompText(H)arlequin8dual,  >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin9dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo description,dailCompDesc(H)arlequin9dual, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo itemText,dailCompText(H)arlequin9dual,  >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin10dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo description,dailCompDesc(H)arlequin10dual, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo itemText,dailCompText(H)arlequin10dual,  >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin11dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo description,dailCompDesc(H)arlequin11dual, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo itemText,dailCompText(H)arlequin11dual,  >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin12dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo description,dailCompDesc(H)arlequin12dual, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo itemText,dailCompText(H)arlequin12dual,  >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin13dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo description,dailCompDesc(H)arlequin13dual, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo itemText,dailCompText(H)arlequin13dual,  >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin14dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo description,dailCompDesc(H)arlequin14dual, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo itemText,dailCompText(H)arlequin14dual,  >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin15dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo description,dailCompDesc(H)arlequin15dual, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo itemText,dailCompText(H)arlequin15dual,  >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin16dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo description,dailCompDesc(H)arlequin16dual, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo itemText,dailCompText(H)arlequin16dual,  >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin17dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo description,dailCompDesc(H)arlequin17dual, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo itemText,dailCompText(H)arlequin17dual,  >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin18dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo description,dailCompDesc(H)arlequin18dual, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo itemText,dailCompText(H)arlequin18dual,  >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin19dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo description,dailCompDesc(H)arlequin19dual, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo itemText,dailCompText(H)arlequin19dual,  >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin20dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo description,dailCompDesc(H)arlequin20dual, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo itemText,dailCompText(H)arlequin20dual,  >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin21dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo description,dailCompDesc(H)arlequin21dual, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo itemText,dailCompText(H)arlequin21dual,  >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin22dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo description,dailCompDesc(H)arlequin22dual, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo itemText,dailCompText(H)arlequin22dual,  >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin23dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo description,dailCompDesc(H)arlequin23dual, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo itemText,dailCompText(H)arlequin23dual,  >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin24dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo description,dailCompDesc(H)arlequin24dual, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo itemText,dailCompText(H)arlequin24dual,  >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin25dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo description,dailCompDesc(H)arlequin25dual, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo itemText,dailCompText(H)arlequin25dual,  >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin26dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo description,dailCompDesc(H)arlequin26dual, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo itemText,dailCompText(H)arlequin26dual,  >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin27dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo description,dailCompDesc(H)arlequin27dual, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo itemText,dailCompText(H)arlequin27dual,  >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin28dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo description,dailCompDesc(H)arlequin28dual, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo itemText,dailCompText(H)arlequin28dual,  >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin29dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo description,dailCompDesc(H)arlequin29dual, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo itemText,dailCompText(H)arlequin29dual,  >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin30dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo description,dailCompDesc(H)arlequin30dual, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo itemText,dailCompText(H)arlequin30dual,  >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin31dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo description,dailCompDesc(H)arlequin31dual, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo itemText,dailCompText(H)arlequin31dual,  >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin32dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo description,dailCompDesc(H)arlequin32dual, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo itemText,dailCompText(H)arlequin32dual,  >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin33dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo description,dailCompDesc(H)arlequin33dual, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo itemText,dailCompText(H)arlequin33dual,  >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin34dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo description,dailCompDesc(H)arlequin34dual, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo itemText,dailCompText(H)arlequin34dual,  >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin35dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo description,dailCompDesc(H)arlequin35dual, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo itemText,dailCompText(H)arlequin35dual,  >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin36dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo description,dailCompDesc(H)arlequin36dual, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo itemText,dailCompText(H)arlequin36dual,  >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin37dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo description,dailCompDesc(H)arlequin37dual, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo itemText,dailCompText(H)arlequin37dual,  >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin38dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo description,dailCompDesc(H)arlequin38dual, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo itemText,dailCompText(H)arlequin38dual,  >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin39dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo description,dailCompDesc(H)arlequin39dual, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo itemText,dailCompText(H)arlequin39dual,  >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin40dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo description,dailCompDesc(H)arlequin40dual, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo itemText,dailCompText(H)arlequin40dual,  >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin41dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo description,dailCompDesc(H)arlequin41dual, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo itemText,dailCompText(H)arlequin41dual,  >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin42dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo description,dailCompDesc(H)arlequin42dual, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo itemText,dailCompText(H)arlequin42dual,  >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin43dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo description,dailCompDesc(H)arlequin43dual, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo itemText,dailCompText(H)arlequin43dual,  >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin44dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo description,dailCompDesc(H)arlequin44dual, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo itemText,dailCompText(H)arlequin44dual,  >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin45dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo description,dailCompDesc(H)arlequin45dual, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo itemText,dailCompText(H)arlequin45dual,  >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin46dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo description,dailCompDesc(H)arlequin46dual, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo itemText,dailCompText(H)arlequin46dual,  >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin47dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo description,dailCompDesc(H)arlequin47dual, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo itemText,dailCompText(H)arlequin47dual,  >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin48dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo description,dailCompDesc(H)arlequin48dual, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo itemText,dailCompText(H)arlequin48dual,  >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin48dual.dbr
 
 
 
@@ -28398,126 +28290,1334 @@ echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite60dual.dbr
 
 
 
-echo lootName1,DAIL/items/materia/class0028/Cenobite1dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight1,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName2,DAIL/items/materia/class0028/Cenobite2dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight2,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName3,DAIL/items/materia/class0028/Cenobite3dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight3,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName4,DAIL/items/materia/class0028/Cenobite4dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight4,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName5,DAIL/items/materia/class0028/Cenobite5dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight5,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName6,DAIL/items/materia/class0028/Cenobite6dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight6,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName7,DAIL/items/materia/class0028/Cenobite7dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight7,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName8,DAIL/items/materia/class0028/Cenobite8dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight8,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName9,DAIL/items/materia/class0028/Cenobite9dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight9,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName10,DAIL/items/materia/class0028/Cenobite10dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight10,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName11,DAIL/items/materia/class0028/Cenobite11dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight11,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName12,DAIL/items/materia/class0028/Cenobite12dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight12,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName13,DAIL/items/materia/class0028/Cenobite13dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight13,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName14,DAIL/items/materia/class0028/Cenobite14dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight14,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName15,DAIL/items/materia/class0028/Cenobite15dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight15,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName16,DAIL/items/materia/class0028/Cenobite16dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight16,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName17,DAIL/items/materia/class0028/Cenobite17dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight17,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName18,DAIL/items/materia/class0028/Cenobite18dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight18,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName19,DAIL/items/materia/class0028/Cenobite19dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight19,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName20,DAIL/items/materia/class0028/Cenobite20dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight20,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName21,DAIL/items/materia/class0028/Cenobite21dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight21,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName22,DAIL/items/materia/class0028/Cenobite22dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight22,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName23,DAIL/items/materia/class0028/Cenobite23dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight23,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName24,DAIL/items/materia/class0028/Cenobite24dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight24,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName25,DAIL/items/materia/class0028/Cenobite25dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight25,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName26,DAIL/items/materia/class0028/Cenobite26dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight26,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName27,DAIL/items/materia/class0028/Cenobite27dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight27,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName28,DAIL/items/materia/class0028/Cenobite28dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight28,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName29,DAIL/items/materia/class0028/Cenobite29dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight29,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName30,DAIL/items/materia/class0028/Cenobite30dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight30,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName31,DAIL/items/materia/class0028/Cenobite31dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight31,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName32,DAIL/items/materia/class0028/Cenobite32dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight32,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName33,DAIL/items/materia/class0028/Cenobite33dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight33,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName34,DAIL/items/materia/class0028/Cenobite34dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight34,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName35,DAIL/items/materia/class0028/Cenobite35dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight35,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName36,DAIL/items/materia/class0028/Cenobite36dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight36,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName37,DAIL/items/materia/class0028/Cenobite37dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight37,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName38,DAIL/items/materia/class0028/Cenobite38dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight38,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName39,DAIL/items/materia/class0028/Cenobite39dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight39,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName40,DAIL/items/materia/class0028/Cenobite40dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight40,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName41,DAIL/items/materia/class0028/Cenobite41dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight41,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName42,DAIL/items/materia/class0028/Cenobite42dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight42,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName43,DAIL/items/materia/class0028/Cenobite43dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight43,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName44,DAIL/items/materia/class0028/Cenobite44dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight44,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName45,DAIL/items/materia/class0028/Cenobite45dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight45,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName46,DAIL/items/materia/class0028/Cenobite46dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight46,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName47,DAIL/items/materia/class0028/Cenobite47dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight47,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName48,DAIL/items/materia/class0028/Cenobite48dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight48,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName49,DAIL/items/materia/class0028/Cenobite49dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight49,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName50,DAIL/items/materia/class0028/Cenobite50dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight50,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName51,DAIL/items/materia/class0028/Cenobite51dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight51,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName52,DAIL/items/materia/class0028/Cenobite52dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight52,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName53,DAIL/items/materia/class0028/Cenobite53dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight53,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName54,DAIL/items/materia/class0028/Cenobite54dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight54,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName55,DAIL/items/materia/class0028/Cenobite55dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight55,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName56,DAIL/items/materia/class0028/Cenobite56dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight56,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName57,DAIL/items/materia/class0028/Cenobite57dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight57,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName58,DAIL/items/materia/class0028/Cenobite58dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight58,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName59,DAIL/items/materia/class0028/Cenobite59dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight59,1, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootName60,DAIL/items/materia/class0028/Cenobite60dual.dbr, >> .\items\loottables\dailoneskill0028dual.dbr
-echo lootWeight60,1, >> .\items\loottables\dailoneskill0028dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootName1,DAIL/items/materia/class0029/(H)arlequin1dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName2,DAIL/items/materia/class0029/(H)arlequin2dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName3,DAIL/items/materia/class0029/(H)arlequin3dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName4,DAIL/items/materia/class0029/(H)arlequin4dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName5,DAIL/items/materia/class0029/(H)arlequin5dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName6,DAIL/items/materia/class0029/(H)arlequin6dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName7,DAIL/items/materia/class0029/(H)arlequin7dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName8,DAIL/items/materia/class0029/(H)arlequin8dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName9,DAIL/items/materia/class0029/(H)arlequin9dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName10,DAIL/items/materia/class0029/(H)arlequin10dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName11,DAIL/items/materia/class0029/(H)arlequin11dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName12,DAIL/items/materia/class0029/(H)arlequin12dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName13,DAIL/items/materia/class0029/(H)arlequin13dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName14,DAIL/items/materia/class0029/(H)arlequin14dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName15,DAIL/items/materia/class0029/(H)arlequin15dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName16,DAIL/items/materia/class0029/(H)arlequin16dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName17,DAIL/items/materia/class0029/(H)arlequin17dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName18,DAIL/items/materia/class0029/(H)arlequin18dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName19,DAIL/items/materia/class0029/(H)arlequin19dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName20,DAIL/items/materia/class0029/(H)arlequin20dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName21,DAIL/items/materia/class0029/(H)arlequin21dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName22,DAIL/items/materia/class0029/(H)arlequin22dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName23,DAIL/items/materia/class0029/(H)arlequin23dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName24,DAIL/items/materia/class0029/(H)arlequin24dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName25,DAIL/items/materia/class0029/(H)arlequin25dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName26,DAIL/items/materia/class0029/(H)arlequin26dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName27,DAIL/items/materia/class0029/(H)arlequin27dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName28,DAIL/items/materia/class0029/(H)arlequin28dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName29,DAIL/items/materia/class0029/(H)arlequin29dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName30,DAIL/items/materia/class0029/(H)arlequin30dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName31,DAIL/items/materia/class0029/(H)arlequin31dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName32,DAIL/items/materia/class0029/(H)arlequin32dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName33,DAIL/items/materia/class0029/(H)arlequin33dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName34,DAIL/items/materia/class0029/(H)arlequin34dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName35,DAIL/items/materia/class0029/(H)arlequin35dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName36,DAIL/items/materia/class0029/(H)arlequin36dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName37,DAIL/items/materia/class0029/(H)arlequin37dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName38,DAIL/items/materia/class0029/(H)arlequin38dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName39,DAIL/items/materia/class0029/(H)arlequin39dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName40,DAIL/items/materia/class0029/(H)arlequin40dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName41,DAIL/items/materia/class0029/(H)arlequin41dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName42,DAIL/items/materia/class0029/(H)arlequin42dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName43,DAIL/items/materia/class0029/(H)arlequin43dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName44,DAIL/items/materia/class0029/(H)arlequin44dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName45,DAIL/items/materia/class0029/(H)arlequin45dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName46,DAIL/items/materia/class0029/(H)arlequin46dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName47,DAIL/items/materia/class0029/(H)arlequin47dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName48,DAIL/items/materia/class0029/(H)arlequin48dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0029dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin1dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo description,dailCompDesc(H)arlequin1dual, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo itemText,dailCompText(H)arlequin1dual,  >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin1dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin2dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo description,dailCompDesc(H)arlequin2dual, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo itemText,dailCompText(H)arlequin2dual,  >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin2dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin3dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo description,dailCompDesc(H)arlequin3dual, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo itemText,dailCompText(H)arlequin3dual,  >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin3dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin4dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo description,dailCompDesc(H)arlequin4dual, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo itemText,dailCompText(H)arlequin4dual,  >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin4dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin5dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo description,dailCompDesc(H)arlequin5dual, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo itemText,dailCompText(H)arlequin5dual,  >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin5dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin6dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo description,dailCompDesc(H)arlequin6dual, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo itemText,dailCompText(H)arlequin6dual,  >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin6dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin7dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo description,dailCompDesc(H)arlequin7dual, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo itemText,dailCompText(H)arlequin7dual,  >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin7dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin8dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo description,dailCompDesc(H)arlequin8dual, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo itemText,dailCompText(H)arlequin8dual,  >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin8dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin9dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo description,dailCompDesc(H)arlequin9dual, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo itemText,dailCompText(H)arlequin9dual,  >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin9dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin10dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo description,dailCompDesc(H)arlequin10dual, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo itemText,dailCompText(H)arlequin10dual,  >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin10dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin11dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo description,dailCompDesc(H)arlequin11dual, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo itemText,dailCompText(H)arlequin11dual,  >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin11dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin12dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo description,dailCompDesc(H)arlequin12dual, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo itemText,dailCompText(H)arlequin12dual,  >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin12dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin13dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo description,dailCompDesc(H)arlequin13dual, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo itemText,dailCompText(H)arlequin13dual,  >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin13dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin14dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo description,dailCompDesc(H)arlequin14dual, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo itemText,dailCompText(H)arlequin14dual,  >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin14dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin15dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo description,dailCompDesc(H)arlequin15dual, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo itemText,dailCompText(H)arlequin15dual,  >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin15dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin16dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo description,dailCompDesc(H)arlequin16dual, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo itemText,dailCompText(H)arlequin16dual,  >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin16dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin17dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo description,dailCompDesc(H)arlequin17dual, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo itemText,dailCompText(H)arlequin17dual,  >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin17dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin18dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo description,dailCompDesc(H)arlequin18dual, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo itemText,dailCompText(H)arlequin18dual,  >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin18dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin19dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo description,dailCompDesc(H)arlequin19dual, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo itemText,dailCompText(H)arlequin19dual,  >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin19dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin20dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo description,dailCompDesc(H)arlequin20dual, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo itemText,dailCompText(H)arlequin20dual,  >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin20dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin21dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo description,dailCompDesc(H)arlequin21dual, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo itemText,dailCompText(H)arlequin21dual,  >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin21dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin22dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo description,dailCompDesc(H)arlequin22dual, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo itemText,dailCompText(H)arlequin22dual,  >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin22dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin23dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo description,dailCompDesc(H)arlequin23dual, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo itemText,dailCompText(H)arlequin23dual,  >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin23dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin24dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo description,dailCompDesc(H)arlequin24dual, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo itemText,dailCompText(H)arlequin24dual,  >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin24dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin25dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo description,dailCompDesc(H)arlequin25dual, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo itemText,dailCompText(H)arlequin25dual,  >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin25dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin26dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo description,dailCompDesc(H)arlequin26dual, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo itemText,dailCompText(H)arlequin26dual,  >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin26dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin27dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo description,dailCompDesc(H)arlequin27dual, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo itemText,dailCompText(H)arlequin27dual,  >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin27dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin28dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo description,dailCompDesc(H)arlequin28dual, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo itemText,dailCompText(H)arlequin28dual,  >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin28dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin29dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo description,dailCompDesc(H)arlequin29dual, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo itemText,dailCompText(H)arlequin29dual,  >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin30dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo description,dailCompDesc(H)arlequin30dual, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo itemText,dailCompText(H)arlequin30dual,  >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin30dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin31dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo description,dailCompDesc(H)arlequin31dual, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo itemText,dailCompText(H)arlequin31dual,  >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin31dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin32dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo description,dailCompDesc(H)arlequin32dual, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo itemText,dailCompText(H)arlequin32dual,  >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin32dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin33dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo description,dailCompDesc(H)arlequin33dual, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo itemText,dailCompText(H)arlequin33dual,  >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin33dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin34dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo description,dailCompDesc(H)arlequin34dual, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo itemText,dailCompText(H)arlequin34dual,  >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin34dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin35dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo description,dailCompDesc(H)arlequin35dual, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo itemText,dailCompText(H)arlequin35dual,  >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin35dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin36dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo description,dailCompDesc(H)arlequin36dual, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo itemText,dailCompText(H)arlequin36dual,  >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin36dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin37dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo description,dailCompDesc(H)arlequin37dual, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo itemText,dailCompText(H)arlequin37dual,  >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin37dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin38dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo description,dailCompDesc(H)arlequin38dual, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo itemText,dailCompText(H)arlequin38dual,  >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin38dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin39dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo description,dailCompDesc(H)arlequin39dual, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo itemText,dailCompText(H)arlequin39dual,  >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin39dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin40dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo description,dailCompDesc(H)arlequin40dual, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo itemText,dailCompText(H)arlequin40dual,  >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin40dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin41dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo description,dailCompDesc(H)arlequin41dual, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo itemText,dailCompText(H)arlequin41dual,  >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin41dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin42dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo description,dailCompDesc(H)arlequin42dual, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo itemText,dailCompText(H)arlequin42dual,  >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin42dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin43dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo description,dailCompDesc(H)arlequin43dual, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo itemText,dailCompText(H)arlequin43dual,  >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin43dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin44dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo description,dailCompDesc(H)arlequin44dual, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo itemText,dailCompText(H)arlequin44dual,  >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin44dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin45dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo description,dailCompDesc(H)arlequin45dual, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo itemText,dailCompText(H)arlequin45dual,  >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin45dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin46dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo description,dailCompDesc(H)arlequin46dual, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo itemText,dailCompText(H)arlequin46dual,  >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin46dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin47dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo description,dailCompDesc(H)arlequin47dual, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo itemText,dailCompText(H)arlequin47dual,  >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin47dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin48dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo description,dailCompDesc(H)arlequin48dual, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo itemText,dailCompText(H)arlequin48dual,  >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0029\(H)arlequin48dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootName1,DAIL/items/materia/class0029/(H)arlequin1dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName2,DAIL/items/materia/class0029/(H)arlequin2dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName3,DAIL/items/materia/class0029/(H)arlequin3dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName4,DAIL/items/materia/class0029/(H)arlequin4dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName5,DAIL/items/materia/class0029/(H)arlequin5dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName6,DAIL/items/materia/class0029/(H)arlequin6dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName7,DAIL/items/materia/class0029/(H)arlequin7dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName8,DAIL/items/materia/class0029/(H)arlequin8dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName9,DAIL/items/materia/class0029/(H)arlequin9dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName10,DAIL/items/materia/class0029/(H)arlequin10dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName11,DAIL/items/materia/class0029/(H)arlequin11dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName12,DAIL/items/materia/class0029/(H)arlequin12dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName13,DAIL/items/materia/class0029/(H)arlequin13dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName14,DAIL/items/materia/class0029/(H)arlequin14dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName15,DAIL/items/materia/class0029/(H)arlequin15dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName16,DAIL/items/materia/class0029/(H)arlequin16dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName17,DAIL/items/materia/class0029/(H)arlequin17dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName18,DAIL/items/materia/class0029/(H)arlequin18dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName19,DAIL/items/materia/class0029/(H)arlequin19dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName20,DAIL/items/materia/class0029/(H)arlequin20dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName21,DAIL/items/materia/class0029/(H)arlequin21dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName22,DAIL/items/materia/class0029/(H)arlequin22dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName23,DAIL/items/materia/class0029/(H)arlequin23dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName24,DAIL/items/materia/class0029/(H)arlequin24dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName25,DAIL/items/materia/class0029/(H)arlequin25dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName26,DAIL/items/materia/class0029/(H)arlequin26dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName27,DAIL/items/materia/class0029/(H)arlequin27dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName28,DAIL/items/materia/class0029/(H)arlequin28dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName29,DAIL/items/materia/class0029/(H)arlequin29dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName30,DAIL/items/materia/class0029/(H)arlequin30dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName31,DAIL/items/materia/class0029/(H)arlequin31dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName32,DAIL/items/materia/class0029/(H)arlequin32dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName33,DAIL/items/materia/class0029/(H)arlequin33dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName34,DAIL/items/materia/class0029/(H)arlequin34dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName35,DAIL/items/materia/class0029/(H)arlequin35dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName36,DAIL/items/materia/class0029/(H)arlequin36dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName37,DAIL/items/materia/class0029/(H)arlequin37dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName38,DAIL/items/materia/class0029/(H)arlequin38dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName39,DAIL/items/materia/class0029/(H)arlequin39dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName40,DAIL/items/materia/class0029/(H)arlequin40dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName41,DAIL/items/materia/class0029/(H)arlequin41dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName42,DAIL/items/materia/class0029/(H)arlequin42dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName43,DAIL/items/materia/class0029/(H)arlequin43dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName44,DAIL/items/materia/class0029/(H)arlequin44dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName45,DAIL/items/materia/class0029/(H)arlequin45dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName46,DAIL/items/materia/class0029/(H)arlequin46dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName47,DAIL/items/materia/class0029/(H)arlequin47dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootName48,DAIL/items/materia/class0029/(H)arlequin48dual.dbr, >> .\items\loottables\dailoneskill0029dual.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0029dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

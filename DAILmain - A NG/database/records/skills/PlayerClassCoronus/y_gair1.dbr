@@ -14,7 +14,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 isPetDisplayable,0,
 isPetBonusScaling,0,
-skillTier,1,
+skillTier,4,
 skillMasteryLevelRequired,0,
 skillMaxLevel,12,
 skillSpecialAnimationName,,

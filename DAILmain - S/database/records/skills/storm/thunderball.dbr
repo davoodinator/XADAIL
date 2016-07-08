@@ -259,7 +259,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,0.000000,
-skillCooldownTime,10.000000,
+skillCooldownTime,4.000000,
 skillDisplayName,tagSkillName020,
 skillDownBitmapName,ingameui/icons/skills/storm/thunderballdown01.tex,
 skillHitSound,records/sounds/soundpak/spells/storm/lightningballcastpak.dbr,

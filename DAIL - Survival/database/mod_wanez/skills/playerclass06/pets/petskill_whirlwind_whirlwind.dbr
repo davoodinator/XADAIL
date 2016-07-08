@@ -1,4 +1,0 @@
-templateName,database/templates/skill_buffradiustoggled.tpl,
-Class,Skill_BuffRadiusToggled,
-buffSkillName,mod_wanez/skills/playerclass06/pets/petskill_whirlwind_whirlwind_buff.dbr,
-instantCast,1,

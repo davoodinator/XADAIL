@@ -4998,203 +4998,403 @@ echo lootWeight97,1, >> .\items\loottables\dailoneskill0028.dbr
 echo lootWeight98,1, >> .\items\loottables\dailoneskill0028.dbr
 echo lootWeight99,1, >> .\items\loottables\dailoneskill0028.dbr
 
-echo lootName1,DAIL/items/materia/class0028/Cenobite1.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName2,DAIL/items/materia/class0028/Cenobite2.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName3,DAIL/items/materia/class0028/Cenobite3.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName4,DAIL/items/materia/class0028/Cenobite4.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName5,DAIL/items/materia/class0028/Cenobite5.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName6,DAIL/items/materia/class0028/Cenobite6.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName7,DAIL/items/materia/class0028/Cenobite7.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName8,DAIL/items/materia/class0028/Cenobite8.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName9,DAIL/items/materia/class0028/Cenobite9.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName10,DAIL/items/materia/class0028/Cenobite10.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName11,DAIL/items/materia/class0028/Cenobite11.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName12,DAIL/items/materia/class0028/Cenobite12.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName13,DAIL/items/materia/class0028/Cenobite13.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName14,DAIL/items/materia/class0028/Cenobite14.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName15,DAIL/items/materia/class0028/Cenobite15.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName16,DAIL/items/materia/class0028/Cenobite16.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName17,DAIL/items/materia/class0028/Cenobite17.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName18,DAIL/items/materia/class0028/Cenobite18.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName19,DAIL/items/materia/class0028/Cenobite19.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName20,DAIL/items/materia/class0028/Cenobite20.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName21,DAIL/items/materia/class0028/Cenobite21.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName22,DAIL/items/materia/class0028/Cenobite22.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName23,DAIL/items/materia/class0028/Cenobite23.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName24,DAIL/items/materia/class0028/Cenobite24.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName25,DAIL/items/materia/class0028/Cenobite25.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName26,DAIL/items/materia/class0028/Cenobite26.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName27,DAIL/items/materia/class0028/Cenobite27.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName28,DAIL/items/materia/class0028/Cenobite28.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName29,DAIL/items/materia/class0028/Cenobite29.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName30,DAIL/items/materia/class0028/Cenobite30.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName31,DAIL/items/materia/class0028/Cenobite31.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName32,DAIL/items/materia/class0028/Cenobite32.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName33,DAIL/items/materia/class0028/Cenobite33.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName34,DAIL/items/materia/class0028/Cenobite34.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName35,DAIL/items/materia/class0028/Cenobite35.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName36,DAIL/items/materia/class0028/Cenobite36.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName37,DAIL/items/materia/class0028/Cenobite37.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName38,DAIL/items/materia/class0028/Cenobite38.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName39,DAIL/items/materia/class0028/Cenobite39.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName40,DAIL/items/materia/class0028/Cenobite40.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName41,DAIL/items/materia/class0028/Cenobite41.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName42,DAIL/items/materia/class0028/Cenobite42.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName43,DAIL/items/materia/class0028/Cenobite43.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName44,DAIL/items/materia/class0028/Cenobite44.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName45,DAIL/items/materia/class0028/Cenobite45.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName46,DAIL/items/materia/class0028/Cenobite46.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName47,DAIL/items/materia/class0028/Cenobite47.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName48,DAIL/items/materia/class0028/Cenobite48.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName49,DAIL/items/materia/class0028/Cenobite49.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName50,DAIL/items/materia/class0028/Cenobite50.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName51,DAIL/items/materia/class0028/Cenobite51.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName52,DAIL/items/materia/class0028/Cenobite52.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName53,DAIL/items/materia/class0028/Cenobite53.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName54,DAIL/items/materia/class0028/Cenobite54.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName55,DAIL/items/materia/class0028/Cenobite55.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName56,DAIL/items/materia/class0028/Cenobite56.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName57,DAIL/items/materia/class0028/Cenobite57.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName58,DAIL/items/materia/class0028/Cenobite58.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName59,DAIL/items/materia/class0028/Cenobite59.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName60,DAIL/items/materia/class0028/Cenobite60.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName61,DAIL/items/materia/class0028/Cenobite61.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName62,DAIL/items/materia/class0028/Cenobite62.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName63,DAIL/items/materia/class0028/Cenobite63.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName64,DAIL/items/materia/class0028/Cenobite64.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName65,DAIL/items/materia/class0028/Cenobite65.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName66,DAIL/items/materia/class0028/Cenobite66.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName67,DAIL/items/materia/class0028/Cenobite67.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName68,DAIL/items/materia/class0028/Cenobite68.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName69,DAIL/items/materia/class0028/Cenobite69.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName70,DAIL/items/materia/class0028/Cenobite70.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName71,DAIL/items/materia/class0028/Cenobite71.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName72,DAIL/items/materia/class0028/Cenobite72.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName73,DAIL/items/materia/class0028/Cenobite73.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName74,DAIL/items/materia/class0028/Cenobite74.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName75,DAIL/items/materia/class0028/Cenobite75.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName76,DAIL/items/materia/class0028/Cenobite76.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName77,DAIL/items/materia/class0028/Cenobite77.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName78,DAIL/items/materia/class0028/Cenobite78.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName79,DAIL/items/materia/class0028/Cenobite79.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName80,DAIL/items/materia/class0028/Cenobite80.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName81,DAIL/items/materia/class0028/Cenobite81.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName82,DAIL/items/materia/class0028/Cenobite82.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName83,DAIL/items/materia/class0028/Cenobite83.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName84,DAIL/items/materia/class0028/Cenobite84.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName85,DAIL/items/materia/class0028/Cenobite85.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName86,DAIL/items/materia/class0028/Cenobite86.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName87,DAIL/items/materia/class0028/Cenobite87.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName88,DAIL/items/materia/class0028/Cenobite88.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName89,DAIL/items/materia/class0028/Cenobite89.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName90,DAIL/items/materia/class0028/Cenobite90.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName91,DAIL/items/materia/class0028/Cenobite91.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName92,DAIL/items/materia/class0028/Cenobite92.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName93,DAIL/items/materia/class0028/Cenobite93.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName94,DAIL/items/materia/class0028/Cenobite94.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName95,DAIL/items/materia/class0028/Cenobite95.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName96,DAIL/items/materia/class0028/Cenobite96.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName97,DAIL/items/materia/class0028/Cenobite97.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName98,DAIL/items/materia/class0028/Cenobite98.dbr, >> .\items\loottables\dailoneskill0028.dbr
-echo lootName99,DAIL/items/materia/class0028/Cenobite99.dbr, >> .\items\loottables\dailoneskill0028.dbr
+echo lootName1,DAIL/items/materia/class0029/(H)arlequin1.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName2,DAIL/items/materia/class0029/(H)arlequin2.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName3,DAIL/items/materia/class0029/(H)arlequin3.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName4,DAIL/items/materia/class0029/(H)arlequin4.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName5,DAIL/items/materia/class0029/(H)arlequin5.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName6,DAIL/items/materia/class0029/(H)arlequin6.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName7,DAIL/items/materia/class0029/(H)arlequin7.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName8,DAIL/items/materia/class0029/(H)arlequin8.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName9,DAIL/items/materia/class0029/(H)arlequin9.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName10,DAIL/items/materia/class0029/(H)arlequin10.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName11,DAIL/items/materia/class0029/(H)arlequin11.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName12,DAIL/items/materia/class0029/(H)arlequin12.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName13,DAIL/items/materia/class0029/(H)arlequin13.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName14,DAIL/items/materia/class0029/(H)arlequin14.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName15,DAIL/items/materia/class0029/(H)arlequin15.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName16,DAIL/items/materia/class0029/(H)arlequin16.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName17,DAIL/items/materia/class0029/(H)arlequin17.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName18,DAIL/items/materia/class0029/(H)arlequin18.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName19,DAIL/items/materia/class0029/(H)arlequin19.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName20,DAIL/items/materia/class0029/(H)arlequin20.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName21,DAIL/items/materia/class0029/(H)arlequin21.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName22,DAIL/items/materia/class0029/(H)arlequin22.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName23,DAIL/items/materia/class0029/(H)arlequin23.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName24,DAIL/items/materia/class0029/(H)arlequin24.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName25,DAIL/items/materia/class0029/(H)arlequin25.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName26,DAIL/items/materia/class0029/(H)arlequin26.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName27,DAIL/items/materia/class0029/(H)arlequin27.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName28,DAIL/items/materia/class0029/(H)arlequin28.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName29,DAIL/items/materia/class0029/(H)arlequin29.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName30,DAIL/items/materia/class0029/(H)arlequin30.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName31,DAIL/items/materia/class0029/(H)arlequin31.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName32,DAIL/items/materia/class0029/(H)arlequin32.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName33,DAIL/items/materia/class0029/(H)arlequin33.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName34,DAIL/items/materia/class0029/(H)arlequin34.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName35,DAIL/items/materia/class0029/(H)arlequin35.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName36,DAIL/items/materia/class0029/(H)arlequin36.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName37,DAIL/items/materia/class0029/(H)arlequin37.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName38,DAIL/items/materia/class0029/(H)arlequin38.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName39,DAIL/items/materia/class0029/(H)arlequin39.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName40,DAIL/items/materia/class0029/(H)arlequin40.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName41,DAIL/items/materia/class0029/(H)arlequin41.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName42,DAIL/items/materia/class0029/(H)arlequin42.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName43,DAIL/items/materia/class0029/(H)arlequin43.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName44,DAIL/items/materia/class0029/(H)arlequin44.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName45,DAIL/items/materia/class0029/(H)arlequin45.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName46,DAIL/items/materia/class0029/(H)arlequin46.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName47,DAIL/items/materia/class0029/(H)arlequin47.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName48,DAIL/items/materia/class0029/(H)arlequin48.dbr, >> .\items\loottables\dailoneskill0029.dbr
 
-echo lootWeight1,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight2,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight3,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight4,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight5,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight6,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight7,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight8,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight9,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight10,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight11,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight12,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight13,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight14,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight15,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight16,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight17,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight18,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight19,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight20,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight21,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight22,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight23,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight24,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight25,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight26,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight27,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight28,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight29,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight30,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight31,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight32,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight33,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight34,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight35,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight36,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight37,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight38,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight39,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight40,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight41,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight42,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight43,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight44,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight45,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight46,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight47,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight48,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight49,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight50,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight51,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight52,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight53,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight54,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight55,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight56,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight57,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight58,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight59,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight60,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight61,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight62,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight63,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight64,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight65,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight66,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight67,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight68,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight69,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight70,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight71,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight72,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight73,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight74,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight75,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight76,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight77,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight78,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight79,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight80,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight81,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight82,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight83,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight84,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight85,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight86,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight87,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight88,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight89,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight90,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight91,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight92,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight93,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight94,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight95,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight96,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight97,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight98,1, >> .\items\loottables\dailoneskill0028.dbr
-echo lootWeight99,1, >> .\items\loottables\dailoneskill0028.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0029.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootName1,DAIL/items/materia/class0029/(H)arlequin1.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName2,DAIL/items/materia/class0029/(H)arlequin2.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName3,DAIL/items/materia/class0029/(H)arlequin3.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName4,DAIL/items/materia/class0029/(H)arlequin4.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName5,DAIL/items/materia/class0029/(H)arlequin5.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName6,DAIL/items/materia/class0029/(H)arlequin6.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName7,DAIL/items/materia/class0029/(H)arlequin7.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName8,DAIL/items/materia/class0029/(H)arlequin8.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName9,DAIL/items/materia/class0029/(H)arlequin9.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName10,DAIL/items/materia/class0029/(H)arlequin10.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName11,DAIL/items/materia/class0029/(H)arlequin11.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName12,DAIL/items/materia/class0029/(H)arlequin12.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName13,DAIL/items/materia/class0029/(H)arlequin13.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName14,DAIL/items/materia/class0029/(H)arlequin14.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName15,DAIL/items/materia/class0029/(H)arlequin15.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName16,DAIL/items/materia/class0029/(H)arlequin16.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName17,DAIL/items/materia/class0029/(H)arlequin17.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName18,DAIL/items/materia/class0029/(H)arlequin18.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName19,DAIL/items/materia/class0029/(H)arlequin19.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName20,DAIL/items/materia/class0029/(H)arlequin20.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName21,DAIL/items/materia/class0029/(H)arlequin21.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName22,DAIL/items/materia/class0029/(H)arlequin22.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName23,DAIL/items/materia/class0029/(H)arlequin23.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName24,DAIL/items/materia/class0029/(H)arlequin24.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName25,DAIL/items/materia/class0029/(H)arlequin25.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName26,DAIL/items/materia/class0029/(H)arlequin26.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName27,DAIL/items/materia/class0029/(H)arlequin27.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName28,DAIL/items/materia/class0029/(H)arlequin28.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName29,DAIL/items/materia/class0029/(H)arlequin29.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName30,DAIL/items/materia/class0029/(H)arlequin30.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName31,DAIL/items/materia/class0029/(H)arlequin31.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName32,DAIL/items/materia/class0029/(H)arlequin32.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName33,DAIL/items/materia/class0029/(H)arlequin33.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName34,DAIL/items/materia/class0029/(H)arlequin34.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName35,DAIL/items/materia/class0029/(H)arlequin35.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName36,DAIL/items/materia/class0029/(H)arlequin36.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName37,DAIL/items/materia/class0029/(H)arlequin37.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName38,DAIL/items/materia/class0029/(H)arlequin38.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName39,DAIL/items/materia/class0029/(H)arlequin39.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName40,DAIL/items/materia/class0029/(H)arlequin40.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName41,DAIL/items/materia/class0029/(H)arlequin41.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName42,DAIL/items/materia/class0029/(H)arlequin42.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName43,DAIL/items/materia/class0029/(H)arlequin43.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName44,DAIL/items/materia/class0029/(H)arlequin44.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName45,DAIL/items/materia/class0029/(H)arlequin45.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName46,DAIL/items/materia/class0029/(H)arlequin46.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName47,DAIL/items/materia/class0029/(H)arlequin47.dbr, >> .\items\loottables\dailoneskill0029.dbr
+echo lootName48,DAIL/items/materia/class0029/(H)arlequin48.dbr, >> .\items\loottables\dailoneskill0029.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0029.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0029.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -139,7 +139,7 @@ tagOM_skillfreezereductionDesc=Near enemies will will be vulnerable to freezing.
 tagOM_skilllightningstrike=Lightning strike
 tagOM_skilllightningstrikeDesc=Target suffer lightning damage and is slowed, freezed, stuned and has reduced elemental resistance.
 tagOM_skilllightningaura=Lightning aura
-tagOM_skilllightningauraDesc=Deals lightning damage to a random enemy every 0.5 second.Use it to trigger procs !
+tagOM_skilllightningauraDesc=Deals lightning damage to a random enemy 20 times per second.Use it to trigger procs !
 #RecipeItems
 tagOMRecipePotionAttributeDesc="Recipe to craft a Potion of Attribute"
 tagOMRecipePotionAttribute=Potion of Attribute recipe
@@ -261,6 +261,7 @@ tagOMshieldMI=Omega Shield
 tagOMbeltMI=Omega Belt
 tagOMheadMI=Omega hat
 tagOMkatanaMI=Omega katana
+tagOMkatanaMIDesc=The Ultimate weapon.Use it's ability to build unseen combos !
 #OmegaNPC
 tagOMnpcQuestGiver=Kamui Shiro, Omega quest giver
 tagOMnpcQuestMerchant=Mokona Modoki, Omega orb merchant

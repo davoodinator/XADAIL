@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0042"
+!define PRODUCT_VERSION "0043"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -119,7 +119,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0042.exe"
+OutFile "DAIL 0043.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"
@@ -140,6 +140,9 @@ Section "Common Files" SEC99
   SetOverwrite on
   File /oname=Text_En.arc ".\DAILmain - S\resources\Text_En.arc"
 
+  ;kill the maps.arc from < 0043
+  Delete $INSTDIR\mods\DAIL\resources\maps.arc
+  
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
   File /oname=Creatures.arc ".\DAIL\resources\Creatures.arc"
@@ -182,9 +185,6 @@ Section "Common Files" SEC99
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
   File /oname=conversations.arc ".\DAIL\resources\conversations.arc"
-  SetOutPath "$INSTDIR\mods\DAIL\resources"
-  SetOverwrite on
-  File /oname=Maps.arc ".\DAIL\resources\Maps.arc"
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
   File /oname=Quests.arc ".\DAIL\resources\Quests.arc"
@@ -366,7 +366,7 @@ SectionEnd
 Section /o "(NG)" SEC03
   SetOutPath "$INSTDIR\mods\DAIL\database\"
   SetOverwrite on
-  File /oname=DAIL.arz ".\DAILmain - NG\database\DAILmain - NG.arz"
+  File /oname=DAIL.arz ".\DAIL\database\DAIL.arz"
 
 ;  SetOutPath "$INSTDIR\mods\DAIL\resources"
 ;  SetOverwrite on

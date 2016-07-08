@@ -3,8 +3,12 @@
 
 omega.scripts = {}
 
-function omega.scripts.onherodeath()
+--DAIL START
+dail = {}
+dail.scripts = {}
+--DAIL END
 
+function omega.scripts.onherodeath()
 if Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
 local player = Game.GetLocalPlayer();
 player:GiveItem('records/omega/items/questitems/Omega_Soul_Heroes.dbr', 1, true);
@@ -13,8 +17,68 @@ player:GiveItem('records/omega/items/questitems/Omega_Soul_Heroes.dbr', 1, true)
 	end
 omega.scripts.spawnomegaboss();
 end
+--DAIL START
+	math.randomseed(Time.Now());
+	local DAILpop = random(1, 20);
+	--5% chance
+	if DAILpop < 2 then
+		UI.Notify("DAIL_AETHERIAL_POP");
+		dail.scripts.spawndailnpcs();
+	end
+--DAIL END
 end
 
+
+--DAIL START
+function dail.scripts.spawndailnpcs()
+	local Player = Game.GetLocalPlayer();
+	local coords = Player:GetCoords();
+	local dbrNPC = {
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0001.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0002.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0003.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0004.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0005.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0006.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0007.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0008.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0009.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0010.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0011.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0012.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0013.dbr',
+--		'DAIL/creatures/npcs/merchants/DAILclassplusser0014.dbr',
+--		'DAIL/creatures/npcs/merchants/DAILclassplusser0015.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0016.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0017.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0018.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0019.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0020.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0021.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0022.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0023.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0024.dbr',
+--		'DAIL/creatures/npcs/merchants/DAILclassplusser0025.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0026.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0027.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0028.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0029.dbr',
+--		'DAIL/creatures/npcs/merchants/DAILclassplusser0030.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr'
+	};
+	math.randomseed(Time.Now());
+	local randNPC = random(1, table.getn(dbrNPC));
+	local newNPC = Entity.Create(dbrNPC[randNPC]);
+--	local playerCoords = Game.GetLocalPlayer():GetCoords();
+--	newNPC:SetCoords(playerCoords);
+				if (newNPC != nil) then
+					newNPC:NetworkEnable()
+					newNPC:SetCoords(coords)
+				end
+end
+--DAIL END
 
 function omega.scripts.summonatfeet(objectID)
 	local Player = Game.GetLocalPlayer();

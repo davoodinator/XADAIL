@@ -1,10 +1,13 @@
 rem dailFiculties merger.
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\database\/" /S *.dbr 
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\database\/" /S *.dbr
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\database\/" /S *.dbr
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\database\/" /S *.dbr
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\database\/" /S *.dbr
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\database\/" /S *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\database\/" /S *.dbr *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\database\/" /S *.dbr *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\database\/" /S *.dbr *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\database\/" /S *.dbr *.tpl
+rem no longer needed. base version of DAIL is NG
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\database\/" /S *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\database\/" /S *.dbr *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\/" /S *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - Survival\database\/" /S *.tpl
 
 rem text_en replication
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\text_en\" /y
@@ -25,6 +28,11 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\assets\text_en\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\assets\text_en\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\assets\text_en\" /y
+
+rem specific script replication
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\Omega_scripts.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Game\quests\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\scripts\Game\quests\" /y
 
 rem specific DBR replication
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\anm_femalepc.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y

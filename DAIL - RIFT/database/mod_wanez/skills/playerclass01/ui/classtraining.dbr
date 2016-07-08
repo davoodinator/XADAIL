@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/skillbutton.tpl,
-bitmapPositionX,157,
-bitmapPositionY,502,
-isCircular,1,
-skillName,mod_wanez/skills/playerclass01/_classtraining_class01.dbr,
-soundNameDown,records/sounds/ui/spak_buttonskillmasteryincrement.dbr,
