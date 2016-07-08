@@ -1,5 +1,5 @@
 rem copy soft mods
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL\/" /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL\/" /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL - RIFT\/" /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - Survival\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL - Survival\/" /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
 

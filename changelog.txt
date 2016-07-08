@@ -35,6 +35,7 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 0044 - ?
+*soemthing is up with triggered areas . since i  removed world01.map eveything isnt triggering properly hmmmm damnit IE cellar door.. can't complete 2nd quest of main game
 *update graphics and naming conventions on the skill components
 *check for baron wradlith in spined cove - fix if needed
 *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
