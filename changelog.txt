@@ -35,12 +35,14 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 0044 - ?
+fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc has arrived. maybe even which npc.. dunno hmmmm it worsk nevermind
+*tagCraftWeap2Scythe01 -> missing tag from Dawn of Heroes
+*change loot drops back to super epic time
 *soemthing is up with triggered areas . since i  removed world01.map eveything isnt triggering properly hmmmm damnit IE cellar door.. can't complete 2nd quest of main game
 *update graphics and naming conventions on the skill components
 *check for baron wradlith in spined cove - fix if needed
 *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
 *fix (H)arlequin  and terror knight mastery skillups so no gaps for special modifiers
-*fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc has arrived. maybe even which npc.. dunno hmmmm
 *check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
 *check that missing harpy tag in DGA. is it me or is it DGA ? :P
 *add grim quest blueprints as purchasable items from a special magic vendor that spawns with the other magic vendors
@@ -49,6 +51,7 @@ Procrastination - also stuff other people can work on if they are keeners
 NSIS installer 477 -> 484 lines.  That is almost 0.5K with that increase....
 many small creatures were sacrificed to perform the blood ritual to reduce the file size even further from 300MB down to 150 MB, also super maximum multiplayer compatibility has been activated.
 expect to see further improvements on file size in the future
+i fiddled with loot tables . let me know how it went.
 nevermind seems to be known bug - http://steamcommunity.com/app/219990/discussions/0/351660338731677804/ - quest rewards not always matching actual reward - no idea - someone gave an example of the message for beating the game showing 1 leg and the item they got being a different one entirely.
 can i fiddle with the map using purely LUA?
 	doors to bastion of chaos and torment are not permanently locked upon first use.  this wway you still need skeleton keys if you screw up but at least you can resume and finish it if you die.
