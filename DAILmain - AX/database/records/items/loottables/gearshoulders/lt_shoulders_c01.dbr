@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;8;15;25;25;65,
+records,records/items/loottables/gearshoulders/tdyn_shoulders_a01.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_a02.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_c01.dbr;records/items/loottables/gearshoulders/tdyn_shouldersdemon.dbr;records/items/loottables/gearshoulders/tdyn_shoulderspriest.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_c01b.dbr,

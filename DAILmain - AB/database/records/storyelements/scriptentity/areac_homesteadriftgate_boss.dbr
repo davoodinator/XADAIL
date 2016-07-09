@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/enemies/troll/half-troll_corrupted_01a_viewer.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCQuestRoadToHomestead.bossOnAddToWorld,
-onDestroy,gd.quests.areaCQuestRoadToHomestead.bossOnDestroy,
-pathing,0,

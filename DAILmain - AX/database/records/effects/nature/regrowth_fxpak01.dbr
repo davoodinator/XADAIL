@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/soundpak/spells/nature/regrowthcastpak.dbr,
+particleEffectNames,records/effects/nature/regrowth01.dbr,

@@ -1,8 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/signature/dc_cookarea.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.devilsCrossingNPCCook.cookAreaOnAddToWorld,
-onDestroy,gd.quests.devilsCrossingNPCCook.cookAreaOnDestroy,
-onRemoveFromWorld,gd.quests.devilsCrossingNPCCook.cookAreaOnRemoveFromWorld,
-pathing,1,

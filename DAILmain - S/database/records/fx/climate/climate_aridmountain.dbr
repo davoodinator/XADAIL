@@ -1,7 +1,0 @@
-templateName,database/templates/climate.tpl,
-climate1chance,100,
-climate1dbr,records/fx/climate_weather/aridhills_dust.dbr,
-climate1time,Day,
-climate2chance,100,
-climate2dbr,records/fx/climate_weather/aridhills_n_clear.dbr,
-climate2time,Night,

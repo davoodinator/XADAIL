@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Intro,
-NuggetArray,records/ui/tutorial/intro/intro_n1.dbr;records/ui/tutorial/intro/intro_n2.dbr;records/ui/tutorial/intro/intro_n3.dbr;records/ui/tutorial/intro/intro_n4.dbr;records/ui/tutorial/intro/intro_n5.dbr,
-quickTag,tagQuickTip08,
-quickTagKey,QuestWindow,

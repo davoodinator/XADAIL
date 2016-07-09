@@ -142,7 +142,7 @@ function gd.quests.areaDBastionOfChaosBosses.epicDoorOnInteract(objectId, userId
 --			doorLockedWarning = true
 --			UI.Notify("tagNotification_WarningBastionGatesLocked")
 		
---		end
+		end
 			
 	end
 	

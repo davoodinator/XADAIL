@@ -1,8 +1,0 @@
-templateName,database/templates/weathersystem.tpl,
-name,Snow,
-particleLife,6.250000,
-particleSize,0.125000,
-particleSpeed,4.000000,
-spawnRadius,20.000000,
-texture,fx/textures/snow0.tex,
-type,Snow,

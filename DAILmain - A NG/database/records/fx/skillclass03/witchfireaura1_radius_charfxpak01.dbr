@@ -1,5 +1,0 @@
-templateName,database/templates/charfxpak.tpl,
-particleEffectAttachPoints,FXCentered,
-particleEffectNames,records/fx/skillclass03/witchfireaura1_radius_fx.dbr,
-startSound,records/sounds/combatshared/spak_damagedefaultabs_chaos.dbr,
-stopSound,records/sounds/combatshared/spak_damagedefaultabs_chaos.dbr,

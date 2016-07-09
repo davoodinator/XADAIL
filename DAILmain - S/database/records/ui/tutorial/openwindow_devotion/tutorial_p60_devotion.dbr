@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Devotion,
-NuggetArray,records/ui/tutorial/openwindow_devotion/devotion_n1.dbr;records/ui/tutorial/openwindow_devotion/devotion_n2.dbr;records/ui/tutorial/openwindow_devotion/devotion_n4.dbr;records/ui/tutorial/openwindow_devotion/devotion_n5.dbr;records/ui/tutorial/openwindow_devotion/devotion_n6.dbr;records/ui/tutorial/openwindow_devotion/devotion_n7.dbr;records/ui/tutorial/openwindow_devotion/devotion_n9.dbr;records/ui/tutorial/openwindow_devotion/devotion_n9b.dbr;records/ui/tutorial/openwindow_devotion/devotion_n11.dbr;records/ui/tutorial/openwindow_devotion/devotion_n8.dbr;records/ui/tutorial/openwindow_devotion/devotion_n12.dbr;records/ui/tutorial/openwindow_devotion/devotion_n10.dbr,
-quickTag,tagQuickTip60,

@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0043"
+!define PRODUCT_VERSION "0044"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -119,7 +119,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0043.exe"
+OutFile "DAIL 0044.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"
@@ -419,6 +419,34 @@ Section /o "(AB)" SEC06
 ;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
 SectionEnd
 
+Section /o "(X)" SEC07
+  SetOutPath "$INSTDIR\mods\DAIL\database\"
+  SetOverwrite on
+  File /oname=DAIL.arz ".\DAILmain - X\database\DAILmain - X.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - X\resources\scripts.arc"
+
+;  SetOutPath "$INSTDIR\resources\"
+;  SetOverwrite on
+;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
+SectionEnd
+
+Section /o "(AX)" SEC08
+  SetOutPath "$INSTDIR\mods\DAIL\database\"
+  SetOverwrite on
+  File /oname=DAIL.arz ".\DAILmain - AX\database\DAILmain - AX.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - X\resources\scripts.arc"
+
+;  SetOutPath "$INSTDIR\resources\"
+;  SetOverwrite on
+;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
+SectionEnd
+
 Section /o "FIX DB/TXT to 1.0.0.4 Hotfix2" SEC98
   SetOutPath "$INSTDIR\database"
   SetOverwrite on
@@ -468,6 +496,8 @@ Function .onSelChange
 !insertmacro RadioButton "${SEC04}"
 !insertmacro RadioButton "${SEC05}"
 !insertmacro RadioButton "${SEC06}"
+!insertmacro RadioButton "${SEC07}"
+!insertmacro RadioButton "${SEC08}"
 !insertmacro RadioButton "${SEC98}"
 ;!insertmacro RadioButton "${SEC06}"
 !insertmacro EndRadioButtons

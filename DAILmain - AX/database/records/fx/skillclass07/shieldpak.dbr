@@ -1,0 +1,6 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,255.000000,
+colorGreen,0.000000,
+colorRed,100.000000,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/skillclass07/shield.dbr,

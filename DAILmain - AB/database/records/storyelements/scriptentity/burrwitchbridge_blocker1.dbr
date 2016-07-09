@@ -1,8 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-FileDescription,Invisible blocker despawned when bridge is repaired,
-editorMesh,level art/debris&rubble/debriswallwood01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.burrwitchBridges.burrwitchBridgeBlockerOneOnAddToWorld,
-onDestroy,gd.quests.burrwitchBridges.burrwitchBridgeBlockerOneOnDestroy,
-pathing,0,

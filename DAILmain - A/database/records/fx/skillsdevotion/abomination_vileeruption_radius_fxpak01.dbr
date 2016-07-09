@@ -1,5 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/skillsounds/nonplayer/spak_chaosexplosion_cast.dbr,
-disturbanceRadius,7.000000,
-particleEffectNames,records/fx/skillsdevotion/abomination_vileeruption_radius_fx.dbr,

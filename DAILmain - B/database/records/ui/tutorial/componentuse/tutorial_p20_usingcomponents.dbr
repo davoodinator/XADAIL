@@ -1,4 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Using Components,
-NuggetArray,records/ui/tutorial/componentuse/usingcomponents_n1.dbr;records/ui/tutorial/componentuse/usingcomponents_n1b.dbr;records/ui/tutorial/componentuse/usingcomponents_n1d.dbr;records/ui/tutorial/componentuse/usingcomponents_n1c.dbr;records/ui/tutorial/componentuse/usingcomponents_n2.dbr;records/ui/tutorial/componentuse/usingcomponents_n3.dbr;records/ui/tutorial/componentuse/usingcomponents_n4.dbr;records/ui/tutorial/componentuse/usingcomponents_n5.dbr,

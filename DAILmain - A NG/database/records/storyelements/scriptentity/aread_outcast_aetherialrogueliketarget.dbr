@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaDQuestExile.quest05OnAddToWorld,
-onDestroy,gd.quests.areaDQuestExile.quest05OnDestroy,
-pathing,0,

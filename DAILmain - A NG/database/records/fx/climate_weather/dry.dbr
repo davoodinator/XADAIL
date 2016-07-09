@@ -1,8 +1,0 @@
-templateName,database/templates/climatesystem.tpl,
-maxIntensity1,100,
-maxIntensity2,0,
-maxIntensity3,0,
-minIntensity1,25,
-minIntensity2,0,
-minIntensity3,0,
-system1,Dust,

@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Blueprint learned without a Blacksmith,
-altPage,records/ui/tutorial/openwindow_crafting/tutorial_p42_crafting.dbr,
-quickTag,tagQuickTip44,

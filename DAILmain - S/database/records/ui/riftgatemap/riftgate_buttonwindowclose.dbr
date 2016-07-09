@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/buttonstatic.tpl,
-bitmapNameDown,ui/buttonwindowclosedown.tex,
-bitmapNameInFocus,ui/buttonwindowcloseover.tex,
-bitmapNameUp,ui/buttonwindowcloseup.tex,
-bitmapPositionX,980,
-bitmapPositionY,12,
-isCircular,0,
-soundNameDown,records/sounds/ui/spak_buttonclickgenericsmall.dbr,

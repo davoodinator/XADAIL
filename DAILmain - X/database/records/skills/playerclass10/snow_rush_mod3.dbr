@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,Adds pierce % dmg and chaos dmg,
+buffSkillName,records/skills/playerclass10/snow_rush_mod3_buff.dbr,

@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/buttonstatic.tpl,
-bitmapNameDown,ingameui/quest/arrowdownsmalldown.tex,
-bitmapNameInFocus,ingameui/quest/arrowdownsmallover.tex,
-bitmapNameUp,ingameui/quest/arrowdownsmallup.tex,
-bitmapPositionX,0,
-bitmapPositionY,0,
-isCircular,0,
-soundNameDown,records/sounds/soundpak/ui/genericclicktinypak.dbr,

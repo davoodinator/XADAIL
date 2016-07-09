@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/farm/windmillquest_stage01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.devilsCrossingQuestWaterpump.waterpumpOnAddToWorld,
-onDestroy,gd.quests.devilsCrossingQuestWaterpump.waterpumpOnDestroy,
-pathing,1,

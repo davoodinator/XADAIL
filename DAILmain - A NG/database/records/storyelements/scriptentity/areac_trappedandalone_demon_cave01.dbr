@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/enemies/voidfiend/voidfiend01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCQuestTrappedAndAlone.demonCaveOnAddToWorld,
-onDestroy,gd.quests.areaCQuestTrappedAndAlone.demonCaveOnDestroy,
-pathing,0,

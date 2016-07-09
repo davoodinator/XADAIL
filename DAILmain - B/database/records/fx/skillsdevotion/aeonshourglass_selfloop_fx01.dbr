@@ -1,8 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-cameraShakeAmplitude,0.000000,
-cameraShakeDuration,0.000000,
-canBeSoft,0,
-effectFile,fx/particlesystems/skillsdevotion/aeonhourglass_loop01.pfx,
-localOrientFix,0,

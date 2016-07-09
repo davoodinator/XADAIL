@@ -1,2 +1,0 @@
-templateName,database/templates/playstats.tpl,
-scoreEquation,((50*(maxLevel-1))+experienceFromKills)-(numberOfDeaths*(100*maxLevel))-((playTimeInMinutes*5)*(5*maxLevel))),

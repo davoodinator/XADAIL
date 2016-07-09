@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,items/chests/breakables/chest_bonepile01a.msh,
-editorScale,2.000000,
-onAddToWorld,gd.quests.areaCQuestNecros.corpseOnAddToWorld,
-onDestroy,gd.quests.areaCQuestNecros.corpseOnDestroy,
-pathing,0,

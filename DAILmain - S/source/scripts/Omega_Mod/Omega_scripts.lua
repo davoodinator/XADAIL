@@ -64,6 +64,7 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0028.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0029.dbr',
 --		'DAIL/creatures/npcs/merchants/DAILclassplusser0030.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
 		'DAIL/creatures/npcs/npcs/davood.dbr',
 		'DAIL/creatures/npcs/npcs/khalanos.dbr',
 		'DAIL/creatures/npcs/npcs/hardy.dbr'

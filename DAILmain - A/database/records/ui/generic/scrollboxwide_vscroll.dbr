@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/scrollbar.tpl,
-downButton,records/ui/generic/scrollboxwide_vscrollbuttondown.dbr,
-positionX,0,
-positionY,0,
-scrollBar,records/ui/generic/scrollboxwide_vscrollsquare.dbr,
-scrollTrack,records/ui/generic/scrollboxwide_vscrolltrack.dbr,
-upButton,records/ui/generic/scrollboxwide_vscrollbuttonup.dbr,

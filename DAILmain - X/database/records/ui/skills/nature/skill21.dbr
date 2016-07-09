@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/skillbutton.tpl,
+bitmapNameDown,ui/skills/skillallocation/skills_buttonborderdown01.tex,
+bitmapNameInFocus,ui/skills/skillallocation/skills_buttonborderover01.tex,
+bitmapNameUp,ui/skills/skillallocation/skills_buttonborder01.tex,
+isCircular,0,
+skillOffsetX,4,
+skillOffsetY,4,
+soundNameDown,records/sounds/ui/spak_buttonskillincrement.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/storm/343_iceimpact01.pfx,

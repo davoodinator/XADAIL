@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/signature/dc_foodpile_floor2wrecked.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCQuestMakingADeal.foodTwoOnAddToWorld,
-onDestroy,gd.quests.areaCQuestMakingADeal.foodTwoOnDestroy,
-pathing,1,

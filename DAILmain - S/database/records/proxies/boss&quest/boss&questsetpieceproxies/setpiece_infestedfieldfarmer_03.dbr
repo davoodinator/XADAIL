@@ -1,5 +1,0 @@
-templateName,database/templates/setpiece.tpl,
-Class,SetPiece,
-placementChance,100.000000,
-pool1,records/proxies/boss&quest/boss&questsetpieceproxies/set_infestedfield_farmer_03.dbr,
-weight1,100,

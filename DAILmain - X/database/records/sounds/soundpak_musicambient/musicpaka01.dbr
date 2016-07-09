@@ -1,0 +1,4 @@
+templateName,database/templates/musicpak.tpl,
+Class,MusicSession,
+randomize,1,
+tracks,sound/music/dreaded.ogg;sound/music/foot of earth.ogg;sound/music/four years in.ogg;sound/music/headed out.ogg;sound/music/keep moving.ogg;sound/music/devil's crossing.ogg;sound/music/no man's land.ogg;sound/music/old country.ogg;sound/music/remember the dead.ogg;sound/music/terraced road.ogg;sound/music/the captain.ogg;sound/music/they come.ogg;sound/music/what once was.ogg;sound/mod/action_hero.ogg;sound/mod/a_last_step.ogg;sound/mod/car_boost.ogg;sound/mod/defending_a_way_of_life.ogg;sound/mod/emi.ogg;sound/mod/intense.ogg;sound/mod/full_moon.ogg;sound/mod/the_end.ogg;sound/mod/camino.ogg;sound/mod/point_of_no_return.ogg;sound/music/lonely moon.ogg,

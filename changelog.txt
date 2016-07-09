@@ -34,11 +34,8 @@ Procrastination - also stuff other people can work on if they are keeners
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-0044 - ?
-fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc has arrived. maybe even which npc.. dunno hmmmm it worsk nevermind
+0045 - ?
 *tagCraftWeap2Scythe01 -> missing tag from Dawn of Heroes
-*change loot drops back to super epic time
-*soemthing is up with triggered areas . since i  removed world01.map eveything isnt triggering properly hmmmm damnit IE cellar door.. can't complete 2nd quest of main game
 *update graphics and naming conventions on the skill components
 *check for baron wradlith in spined cove - fix if needed
 *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
@@ -46,6 +43,16 @@ fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc h
 *check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
 *check that missing harpy tag in DGA. is it me or is it DGA ? :P
 *add grim quest blueprints as purchasable items from a special magic vendor that spawns with the other magic vendors
+*customize component vendor popups to have specific text for specific vendor
+
+0044 - 4:57 AM 7/9/2016
+releasing this early so people can enjoy the critical bug fixes i deployed and X/AX mode.
+fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc has arrived. maybe even which npc.. dunno hmmmm it worsk nevermind
+ripped apart my mod folders again. deleted all .dbr files duplicated in grim dawn base dir - this will make things a bit smaller
+something is up with triggered areas . since i  removed world01.map eveything isnt triggering properly hmmmm damnit IE cellar door.. can't complete 2nd quest of main game. FIXED. just needed a script refresher :D
+look into new mode DAIL - X/AX = reduced spawns, increased difficulty w/ grimmest boss spawns, minus the two grimmest hero spawns, increased % for component vendors to pop and other stuff increased too.. hint:7
+quest related trigers being weird still. i blaeme lua. must fix. - feeksd
+change loot drops back to super epic time - manually merged a bunch of files. i wonder whats broken kekekeke
 
 0043 - 3:00 AM 7/8/2016
 NSIS installer 477 -> 484 lines.  That is almost 0.5K with that increase....

@@ -1,6 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaDQuestBaneOfCairn.phase02Add01OnAddToWorld,
-pathing,0,

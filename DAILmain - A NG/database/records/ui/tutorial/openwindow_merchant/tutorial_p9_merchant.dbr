@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Merchant Window,
-NuggetArray,records/ui/tutorial/openwindow_merchant/merchant_n1.dbr;records/ui/tutorial/openwindow_merchant/merchant_n2.dbr;records/ui/tutorial/openwindow_merchant/merchant_n3.dbr;records/ui/tutorial/openwindow_merchant/merchant_n4.dbr,
-quickTag,tagQuickTip09,

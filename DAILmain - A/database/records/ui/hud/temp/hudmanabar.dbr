@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-FontStyle,records/xpack/ui/textstyles/bargraph.dbr,
-bitmapEmptyName,diablotextures/hudhealthmanabase.tex,
-bitmapFullName,diablotextures/huddiablomanabar.tex,
-bitmapPositionX,342,
-bitmapPositionY,23,

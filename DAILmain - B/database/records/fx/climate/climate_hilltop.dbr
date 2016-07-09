@@ -1,7 +1,0 @@
-templateName,database/templates/climate.tpl,
-climate1chance,50,
-climate1dbr,records/fx/climate_weather/storm.dbr,
-climate2chance,30,
-climate2dbr,records/fx/climate_weather/windhigh.dbr,
-climate3chance,20,
-climate3dbr,records/fx/climate_weather/windhigh+rainlight.dbr,

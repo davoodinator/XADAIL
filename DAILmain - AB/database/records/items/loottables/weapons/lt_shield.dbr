@@ -1,4 +1,0 @@
-templateName,database/templates/leveltable.tpl,
-Class,LevelTable,
-levels,1;12;24;37;60,
-records,records/items/loottables/weapons/tdyn_shield_a01.dbr;records/items/loottables/weapons/tdyn_shield_a02.dbr;records/items/loottables/weapons/tdyn_shield_a03.dbr;records/items/loottables/weapons/tdyn_shield_a04.dbr;records/items/loottables/weapons/tdyn_shield_a05.dbr,

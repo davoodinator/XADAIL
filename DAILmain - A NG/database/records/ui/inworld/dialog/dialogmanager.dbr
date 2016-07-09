@@ -1,5 +1,0 @@
-templateName,database/templates/uidialogmanager.tpl,
-Background,ingameui/prompt/promptwindow01.tex,
-NoButton,records/ingameui/dialognobutton.dbr,
-OkButton,records/ingameui/dialogokbutton.dbr,
-YesButton,records/ingameui/dialogyesbutton.dbr,

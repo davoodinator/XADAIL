@@ -1,7 +1,0 @@
-templateName,database/templates/lootrandomizertabledynamic.tpl,
-Class,LootRandomizerTable,
-FileDescription,Torso / Legs / Shoulders only,
-randomizerLevelMax1,300,
-randomizerLevelMin1,12,
-randomizerName1,records/items/lootaffixes/prefix/ad028a_protection_01.dbr,
-randomizerWeight1,500,

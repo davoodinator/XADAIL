@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/uitutorianuggetplus.tpl,
-FileDescription,Caption,
-TextCentering,0,
-TextStyle,records/ui/styles/text/style_help_subtitle.dbr,
-TextTag,tagTutorialTip15SubtitleA,
-TopSpacing,10,

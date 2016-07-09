@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/enemies/chthonian/chthoniandevourer01a.msh,
-editorScale,2.000000,
-onAddToWorld,gd.quests.areaCFactionSelection.factionCampFiller02OnAddToWorld,
-onDestroy,gd.quests.areaCFactionSelection.factionCampFiller02OnDestroy,
-pathing,0,

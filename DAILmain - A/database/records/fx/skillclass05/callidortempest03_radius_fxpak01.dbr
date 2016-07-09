@@ -1,8 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-FileDescription,~5.2 Aether,
-activateSound,records/sounds/skillsounds/class05/spak_arcanetempest.dbr,
-cameraShakeAmplitude,0.200000,
-cameraShakeDuration,0.050000,
-disturbanceRadius,7.000000,
-particleEffectNames,records/fx/skillclass05/callidortempest03_radius_fx.dbr,

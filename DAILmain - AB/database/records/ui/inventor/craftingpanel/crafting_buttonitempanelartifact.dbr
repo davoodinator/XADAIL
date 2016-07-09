@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/buttonstatic.tpl,
-FileDescription,ButtonStatic,
-bitmapNameDown,ui/vendors/vendor_buttonitempaneldown06.tex,
-bitmapNameInFocus,ui/vendors/vendor_buttonitempanelover06.tex,
-bitmapNameUp,ui/vendors/vendor_buttonitempanelup06.tex,
-bitmapPositionX,26,
-bitmapPositionY,72,
-soundNameDown,records/sounds/ui/spak_buttonswoosh.dbr,

@@ -1,8 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/monstercamp/necromancer_column01a.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCFactionSelection.factionCampDecorationOnAddToWorld,
-onDestroy,gd.quests.areaCFactionSelection.factionCampDecorationOnDestroy,
-pathing,1,
-useBoundingBoxesForDynamicObstacles,1,

@@ -1,7 +1,0 @@
-templateName,database/templates/templatebase/lootcontainer.tpl,
-Class,FixedItem,
-FileDescription,Shrine level 1-20,
-lootClassification,Champion,
-lootTable,records/interactive/devotionloot/devotion_loot_a01.dbr,
-maxLevel,20,
-minLevel,1,

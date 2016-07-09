@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/buttonstatic.tpl,
-FileDescription,ButtonStatic,
-bitmapNameDown,ui/quest/questprimary_dialogbuttonstop.tex,
-bitmapNameInFocus,ui/quest/questprimary_dialogbuttonstop.tex,
-bitmapNameUp,ui/quest/questprimary_dialogbuttonstop.tex,
-bitmapPositionX,29,
-bitmapPositionY,235,
-isCircular,0,

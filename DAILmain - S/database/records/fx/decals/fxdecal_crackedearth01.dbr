@@ -1,7 +1,0 @@
-templateName,database/templates/decaltype.tpl,
-ActorName,Decal_Blast,
-Class,DecalType,
-height,3.000000,
-shader,shaders/effects/decal_standard.ssh,
-texture,fx/decals/crackedearth01.tex,
-width,3.000000,

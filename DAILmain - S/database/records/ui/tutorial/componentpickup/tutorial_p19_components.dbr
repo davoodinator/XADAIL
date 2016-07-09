@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Pick up Component,
-altPage,records/ui/tutorial/componentuse/tutorial_p20_usingcomponents.dbr,
-quickTag,tagQuickTip20,

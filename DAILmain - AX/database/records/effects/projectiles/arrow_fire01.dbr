@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Arrow_Fire01,
+Class,EffectEntity,
+effectFile,effects/projectiles/arrow_fire01.pfx,

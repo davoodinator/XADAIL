@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.homesteadQuestMedicalPractice.roverVendorInjuredOnAddToWorld,
-onDestroy,gd.quests.homesteadQuestMedicalPractice.roverVendorInjuredOnDestroy,
-pathing,0,

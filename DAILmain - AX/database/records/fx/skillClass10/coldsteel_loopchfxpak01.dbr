@@ -1,0 +1,7 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,3.000000,
+colorGreen,0.000000,
+colorRed,0.000000,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/skillclass10/coldsteel_fx01.dbr,
+useTintColor,1,

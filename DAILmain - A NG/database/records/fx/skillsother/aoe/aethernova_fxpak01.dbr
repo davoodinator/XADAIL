@@ -1,7 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/skillsounds/nonplayer/spak_fleshhulk_aethersmash_pathstart01.dbr,
-cameraShakeAmplitude,0.000000,
-cameraShakeDuration,0.000000,
-disturbanceRadius,0.000000,
-particleEffectNames,records/fx/skillsother/aoe/aethernova_fx01.dbr,

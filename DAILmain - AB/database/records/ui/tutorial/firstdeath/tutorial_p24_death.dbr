@@ -1,4 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,First Death,
-NuggetArray,records/ui/tutorial/firstdeath/death_n1.dbr;records/ui/tutorial/firstdeath/death_n2.dbr;records/ui/tutorial/firstdeath/death_n3.dbr,

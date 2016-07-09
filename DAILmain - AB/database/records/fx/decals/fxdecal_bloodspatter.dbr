@@ -1,6 +1,0 @@
-templateName,database/templates/decaltype.tpl,
-Class,DecalType,
-height,3.000000,
-shader,shaders/effects/fxdecal.ssh,
-texture,fx/decals/bloodsplatter01.tex,
-width,3.000000,

@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,Dying God - Hungering Void,
+instantCast,1,
+buffSkillName,records/skills/devotion/tier3_08g_skill_buff.dbr,

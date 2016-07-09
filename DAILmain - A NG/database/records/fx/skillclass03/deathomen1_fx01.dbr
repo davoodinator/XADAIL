@@ -1,5 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-boneList,Bone_R_Weapon;Bone_L_Weapon,
-effectFile,fx/particlesystems/skillsclass03/pfx_deathomen_01.pfx,

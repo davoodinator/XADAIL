@@ -1,5 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Pick up Enchantment,
-NuggetArray,records/ui/tutorial/enchantmentpickup/enchantment_n1.dbr;records/ui/tutorial/enchantmentpickup/enchantment_n2.dbr;records/ui/tutorial/enchantmentpickup/enchantment_n3.dbr;records/ui/tutorial/enchantmentpickup/enchantment_n4.dbr,
-quickTag,tagQuickTip50,

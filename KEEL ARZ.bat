@@ -7,5 +7,7 @@ del ".\DAILmain - B\database\DAILmain - B.arz"
 del ".\DAILmain - A NG\database\DAILmain - A NG.arz"
 del ".\DAILmain - NG\database\DAILmain - NG.arz"
 del ".\DAILmain - AB\database\DAILmain - AB.arz"
+del ".\DAILmain - AX\database\DAILmain - AX.arz"
+del ".\DAILmain - X\database\DAILmain - X.arz"
 
 pause

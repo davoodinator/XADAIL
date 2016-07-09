@@ -1,8 +1,0 @@
-templateName,database/templates/weathersystem.tpl,
-name,Mist,
-particleLife,12.500000,
-particleSize,4.000000,
-particleSpeed,2.000000,
-spawnRadius,50.000000,
-texture,fx/textures/streakmulti128.tex,
-type,Mist,

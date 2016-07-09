@@ -35,7 +35,7 @@ tagWaPortal_00_MapX=Laboratory - Portal
 tagWaPortal_00_Endless01=Endless Circle - Portal
 tagWaPortal_00_Endless02=Endless Worlds - Portal
 
-tagWaWorld00_Hideout=Hideout^r(DAIL 0043)
+tagWaWorld00_Hideout=Hideout^r(DAIL 0044)
 tagWaWorld00_Map01=Canyon
 tagWaWorld00_Map02=Forest: Hills
 tagWaWorld00_Map03=Dungeon

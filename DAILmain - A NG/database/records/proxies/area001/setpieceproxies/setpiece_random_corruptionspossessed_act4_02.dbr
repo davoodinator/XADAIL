@@ -1,7 +1,0 @@
-templateName,database/templates/setpiece.tpl,
-Class,SetPiece,
-baseTexture,creatures/enemies/proxytexture_gray.tex,
-mesh,creatures/enemies/possessed/possessed_a01.msh,
-placementChance,100.000000,
-pool1,records/proxies/area001/setpieceproxies/set_random_corruptionspossessed_act4_02a.dbr,
-weight1,100,

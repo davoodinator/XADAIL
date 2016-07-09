@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,10;25;40;50;65;75,
+records,records/items/loottables/weapons/tdyn_caster1hcoronus_a01.dbr,

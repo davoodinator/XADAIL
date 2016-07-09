@@ -1,7 +1,0 @@
-templateName,database/templates/rolloverline2.tpl,
-Line1FormatTag,SimpleStringFormat,
-Line1Style,records/ui/styles/text/style_textwhite_sizen_bold.dbr,
-Line1Tag,tagFactionVendorTab04A,
-Line2Style,records/ui/styles/text/style_textgray_sizen.dbr,
-Line2Tag,tagFactionVendorTab04B,
-rolloverStyle,records/ui/styles/rollover/style_default.dbr,

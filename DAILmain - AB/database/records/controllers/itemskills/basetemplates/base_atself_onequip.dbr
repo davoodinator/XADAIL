@@ -1,5 +1,0 @@
-templateName,database/templates/skillautocastcontroller.tpl,
-FileDescription,Cast Skill at Self on Equip,
-chanceToRun,100,
-targetType,Self,
-triggerType,OnEquip,

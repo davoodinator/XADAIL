@@ -1,0 +1,4 @@
+templateName,database/templates/musicpak.tpl,
+Class,MusicSession,
+randomize,0,
+tracks,sound/mod/emi.ogg,

@@ -1,5 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/items/weaponattacks/spak_blunt_crit.dbr,
-disturbanceRadius,2.000000,
-particleEffectNames,records/fx/skillsother/attackmelee/harpy_charge_fx.dbr,

@@ -1,5 +1,0 @@
-templateName,database/templates/setpiece.tpl,
-Class,SetPiece,
-placementChance,100.000000,
-pool1,records/proxies/area001/setpieceproxies/set_campzombie_01a.dbr,
-weight1,100,

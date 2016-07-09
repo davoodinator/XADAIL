@@ -1,6 +1,0 @@
-templateName,database/templates/noisetexture.tpl,
-Class,NoiseTexture,
-levels,0.800000;0.400000;0.200000;0.100000,
-normalMap,1,
-rates,0.950000;1.750000;2.850000;3.640000,
-size,256,

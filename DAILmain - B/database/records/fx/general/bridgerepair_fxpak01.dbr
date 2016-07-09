@@ -1,4 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/environmental/civilization/bridgerepair.dbr,
-particleEffectNames,records/fx/general/bridgerepair_fx.dbr,

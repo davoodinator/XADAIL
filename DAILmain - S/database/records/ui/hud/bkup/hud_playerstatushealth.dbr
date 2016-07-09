@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-FontStyle,records/ui/styles/text/style_special_statusbarhealth.dbr,
-bitmapEmptyName,ui/hud/hud_playerhealthempty.tex,
-bitmapFullName,ui/hud/hud_playerhealthfull.tex,
-bitmapPositionX,203,
-bitmapPositionY,42,

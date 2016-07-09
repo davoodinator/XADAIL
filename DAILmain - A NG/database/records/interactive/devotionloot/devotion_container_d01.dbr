@@ -1,7 +1,0 @@
-templateName,database/templates/templatebase/lootcontainer.tpl,
-Class,FixedItem,
-FileDescription,Special Shrine,
-lootClassification,Boss,
-lootTable,records/interactive/devotionloot/devotion_loot_d01.dbr,
-maxLevel,85,
-minLevel,75,

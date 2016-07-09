@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/textbox.tpl,
-style,records/ui/styles/text/style_textgreen_sizen_bold.dbr,
-textAlignmentX,Center,
-textAlignmentY,Center,
-textBoxX,65,
-textBoxXSize,70,
-textBoxY,8,
-textBoxYSize,18,

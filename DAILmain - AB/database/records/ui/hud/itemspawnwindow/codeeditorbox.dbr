@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/editbox.tpl,
-Height,16,
-InvertedStyle,records/ui/fontstyles/normalinverted.dbr,
-LocationX,20,
-LocationY,110,
-NumericOnly,0,
-Style,records/ui/fontstyles/normal.dbr,
-Width,280,

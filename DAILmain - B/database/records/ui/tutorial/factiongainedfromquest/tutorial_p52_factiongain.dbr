@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Faction Gained,
-altPage,records/ui/tutorial/openwindow_faction/tutorial_p55_factionwindow.dbr,
-quickTag,tagQuickTip52,
-quickTagKey,FactionsWindow,

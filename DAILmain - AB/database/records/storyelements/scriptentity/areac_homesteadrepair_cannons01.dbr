@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/signature/hs_cannonarea01_before.msh,
-editorScale,1.000000,
-onAddToWorld,gd.homesteadRepairs.cannons01OnAddToWorld,
-onDestroy,gd.homesteadRepairs.cannons01OnDestroy,
-pathing,1,

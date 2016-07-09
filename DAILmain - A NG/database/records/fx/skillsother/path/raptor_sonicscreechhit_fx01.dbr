@@ -1,7 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-canBeSoft,0,
-effectFile,fx/particlesystems/skillsother/path/pfx_sonicscreech_impact01.pfx,
-emitterType,Standard,
-localOrientFix,0,

@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/stonework/bridge_necropolis_repaired01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaDBridges.necropolisBridgeOnAddToWorld,
-onDestroy,gd.quests.areaDBridges.necropolisBridgeOnDestroy,
-pathing,1,

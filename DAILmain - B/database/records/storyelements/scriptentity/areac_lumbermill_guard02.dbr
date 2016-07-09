@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.homesteadRepairs.guard02OnAddToWorld,
-onDestroy,gd.homesteadRepairs.guard02OnOnDestroy,
-pathing,0,

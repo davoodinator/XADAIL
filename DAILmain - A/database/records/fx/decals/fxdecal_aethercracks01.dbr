@@ -1,7 +1,0 @@
-templateName,database/templates/decaltype.tpl,
-ActorName,Decal_Blast,
-Class,DecalType,
-height,5.000000,
-shader,shaders/effects/decal_selfillum.ssh,
-texture,fx/decals/aetherfire.tex,
-width,5.000000,

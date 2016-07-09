@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
-FadeSeconds,60,
-FileDescription,Devotion Shrine,
-altPage,records/ui/tutorial/devotion_shrinecleansed/tutorial_p59_shrinecleansed.dbr,
-quickTag,tagQuickTip57,
-quickTagKey,SkillWindow,

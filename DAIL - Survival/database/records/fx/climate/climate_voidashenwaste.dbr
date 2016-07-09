@@ -1,7 +1,0 @@
-templateName,database/templates/climate.tpl,
-climate1chance,60,
-climate1dbr,records/fx/climate_weather/voidashenwaste_a_debrisash.dbr,
-climate1time,Always,
-climate2chance,40,
-climate2dbr,records/fx/climate_weather/voidashenwaste_a_duststorm.dbr,
-climate2time,Always,

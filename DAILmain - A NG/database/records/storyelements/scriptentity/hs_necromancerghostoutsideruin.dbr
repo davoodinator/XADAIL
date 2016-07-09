@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/pc/hero01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.homesteadQuestNecromancer.ghostOutsideRuinOnAddToWorld,
-onDestroy,gd.quests.homesteadQuestNecromancer.ghostOutsideRuinOnDestroy,
-pathing,0,

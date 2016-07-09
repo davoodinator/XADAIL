@@ -1,8 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-cameraShakeAmplitude,0.000000,
-cameraShakeDuration,0.000000,
-canBeSoft,0,
-effectFile,fx/particlesystems/skillsother/itemskills/pfx_aura_divineguard_other01.pfx,
-localOrientFix,0,

@@ -1,5 +1,0 @@
-templateName,database/templates/proxyaccessorypool.tpl,
-Class,ProxyAccessoryPool,
-fixedItemChance,100,
-fixedItemName1,records/items/lootchests/d01_cheststepsoftormenttrappedchest01.dbr,
-fixedItemWeight1,100,

@@ -1,5 +1,5 @@
-tagLocation=Edge of the World ^r(Eternal Version 0.976)^r(DAIL 0043)
-tagLocation2=Forgotten Garden ^r(Eternal SE Version 0.976)^r(DAIL 0043)
+tagLocation=Edge of the World ^r(Eternal Version 0.976)^r(DAIL 0044)
+tagLocation2=Forgotten Garden ^r(Eternal SE Version 0.976)^r(DAIL 0044)
 tagWave1=Wave 1 has been spawned!
 tagWave2=Wave 2 has been spawned!
 tagWave3=Wave 3 has been spawned!

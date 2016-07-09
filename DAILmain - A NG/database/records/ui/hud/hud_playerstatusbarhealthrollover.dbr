@@ -1,5 +1,0 @@
-templateName,database/templates/rolloverline1.tpl,
-FileDescription,RolloverLine1,
-Line1FormatTag,LifeDisplayFormat,
-Line1Style,records/ui/styles/text/style_special_statusbarhealth.dbr,
-rolloverStyle,records/ui/styles/rollover/style_genericrolloverbox.dbr,

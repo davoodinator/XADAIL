@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;8;60,
+records,records/items/loottables/geartorso/tdyn_torsocaster_a01.dbr;records/items/loottables/gearaccessories/tdyn_ring_c01.dbr;records/items/loottables/gearaccessories/tdyn_ring_d01.dbr,

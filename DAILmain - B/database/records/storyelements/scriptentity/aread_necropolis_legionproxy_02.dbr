@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,creatures/enemies/proxyfaction01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaDQuestNecropolis.blackLegionProxy02OnAddToWorld,
-onDestroy,gd.quests.areaDQuestNecropolis.blackLegionProxy02OnDestroy,
-pathing,0,

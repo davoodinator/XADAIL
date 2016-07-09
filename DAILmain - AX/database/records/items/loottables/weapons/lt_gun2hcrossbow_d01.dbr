@@ -1,0 +1,5 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+FileDescription,unused for now,
+levels,1,
+records,records/items/loottables/weapons/tdyn_staff2h_fire.dbr;records/items/loottables/weapons/tdyn_staff2h_frost.dbr;records/items/loottables/weapons/tdyn_staff2h_lightning.dbr,

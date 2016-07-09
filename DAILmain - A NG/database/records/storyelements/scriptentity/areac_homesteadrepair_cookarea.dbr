@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/signature/hs_cookarea01_before.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCQuestInfestedFields.cookAreaOnAddToWorld,
-onDestroy,gd.quests.areaCQuestInfestedFields.cookAreaOnDestroy,
-pathing,1,

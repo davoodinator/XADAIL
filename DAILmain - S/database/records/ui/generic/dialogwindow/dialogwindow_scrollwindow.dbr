@@ -1,7 +1,0 @@
-templateName,database/templates/ingameui/scrollablewindow.tpl,
-FileDescription,Set Max Height of Window Here,
-height,110,
-positionX,0,
-positionY,0,
-verticalScrollbar,records/ui/generic/scrollbox_vscroll.dbr,
-width,300,

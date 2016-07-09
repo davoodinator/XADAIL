@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/hudcompass.tpl,
-FileDescription,HudCompass,
-windowDefaultExtentX,1024,
-windowDefaultExtentY,173,
-windowDefaultX,0,
-windowDefaultY,53,
-windowScreenAlignmentX,Center,
-windowScreenAlignmentY,Bottom,

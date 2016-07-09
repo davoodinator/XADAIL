@@ -1,8 +1,0 @@
-templateName,database/templates/ingameui/buttonhidden.tpl,
-FileDescription,ButtonHidden,
-bitmapPositionX,636,
-bitmapPositionY,421,
-buttonXSize,22,
-buttonYSize,22,
-isCircular,0,
-soundNameDown,records/sounds/ui/spak_buttonswoosh.dbr,

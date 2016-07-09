@@ -1,8 +1,0 @@
-templateName,database/templates/proxypool.tpl,
-championChance,0.000000,
-championMax,0,
-championMin,0,
-ignoreGameBalance,1,
-proxyPoolEquation,records/proxies/proxypoolequation_01.dbr,
-spawnMax,1,
-spawnMin,1,

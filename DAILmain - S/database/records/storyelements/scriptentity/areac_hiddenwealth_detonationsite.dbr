@@ -1,7 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,fx/meshfx/ui_questicon_dynamite01.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCQuestHiddenWealth.detonationSiteOnAddToWorld,
-onDestroy,gd.quests.areaCQuestHiddenWealth.detonationSiteOnDestroy,
-pathing,0,

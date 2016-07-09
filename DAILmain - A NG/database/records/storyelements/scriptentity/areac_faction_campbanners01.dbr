@@ -1,8 +1,0 @@
-templateName,database/templates/scriptentity.tpl,
-Class,ScriptEntity,
-editorMesh,level art/faction/necromancer_banner02a.msh,
-editorScale,1.000000,
-onAddToWorld,gd.quests.areaCFactionSelection.factionCampBannersOnAddToWorld,
-onDestroy,gd.quests.areaCFactionSelection.factionCampBannersOnDestroy,
-pathing,1,
-useBoundingBoxesForDynamicObstacles,1,

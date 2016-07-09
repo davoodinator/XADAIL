@@ -1,7 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-boneList,Bone_R_Weapon;Bone_L_Weapon,
-decal,records/fx/decals/decal_ectoplasmgolden_med01.dbr,
-effectFile,fx/particlesystems/creature/pfx_death_ectoplasmexplosiongolden_med_01.pfx,
-localOrientFix,1,

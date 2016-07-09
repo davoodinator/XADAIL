@@ -1,7 +1,0 @@
-templateName,database/templates/effect.tpl,
-Anchored,0,
-Class,EffectEntity,
-canBeSoft,1,
-effectFile,fx/particlesystems/skillsother/itemrelics/pfx_trollrage_self02.pfx,
-emitterType,Standard,
-localOrientFix,1,

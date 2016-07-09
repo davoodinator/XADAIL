@@ -1,6 +1,0 @@
-templateName,database/templates/ingameui/bargraph.tpl,
-FileDescription,BarGraph,
-bitmapEmptyName,ui/hud/hud_playerhealthempty.tex,
-bitmapFullName,ui/hud/hud_playerhealthfulldark.tex,
-bitmapPositionX,58,
-bitmapPositionY,50,

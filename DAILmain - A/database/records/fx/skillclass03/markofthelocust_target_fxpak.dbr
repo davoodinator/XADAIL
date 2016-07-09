@@ -1,4 +1,0 @@
-templateName,database/templates/fxpak.tpl,
-Class,FxPak,
-activateSound,records/sounds/enemies/ambient/spak_insectswarm_death.dbr,
-particleEffectNames,records/fx/skillclass03/markofthelocust_target_fx.dbr,

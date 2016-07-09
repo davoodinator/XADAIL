@@ -178,7 +178,7 @@ function gd.quests.homesteadStepsOfTormentBosses.epicDoorOnInteract(objectId, us
 --			doorLockedWarning = true
 --			UI.Notify("tagNotification_WarningGatesOfAnguishLocked")
 		
---		end
+		end
 			
 	end
 	

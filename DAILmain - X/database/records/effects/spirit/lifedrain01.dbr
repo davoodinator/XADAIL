@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Drain_Life01,
+Class,EffectEntity,
+effectFile,effects/death/lifedrain01.pfx,

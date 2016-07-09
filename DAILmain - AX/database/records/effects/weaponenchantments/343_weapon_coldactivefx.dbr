@@ -1,0 +1,5 @@
+templateName,database/templates/effect.tpl,
+Anchored,1,
+Class,EffectEntity,
+effectFile,effects/weaponenchantments/343_weapon_coldactive.pfx,
+emitterType,Standard,
