@@ -1,3 +1,4 @@
+rem keel arz
 del .\DAIL\database\DAIL.arz
 del ".\DAIL - RIFT\database\DAIL - RIFT.arz"
 del ".\DAIL - Survival\database\DAIL - Survival.arz"
@@ -9,5 +10,11 @@ del ".\DAILmain - NG\database\DAILmain - NG.arz"
 del ".\DAILmain - AB\database\DAILmain - AB.arz"
 del ".\DAILmain - AX\database\DAILmain - AX.arz"
 del ".\DAILmain - X\database\DAILmain - X.arz"
+
+keel skareepetz
+del ".\DAIL\resources\scripts.arc"
+del ".\DAILmain - X\resources\scripts.arc"
+del ".\DAIL\resources\scripts\"
+del ".\DAILmain - X\resources\scripts\"
 
 pause

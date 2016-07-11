@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/omega/skills/nonplayerskills/bossskills/nemesis/om_guard_heal_01_buff.dbr,

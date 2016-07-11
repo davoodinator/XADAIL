@@ -256,7 +256,7 @@ echo itemCost,1000000, >> .\items\materia\class0001\Soldier29dual.dbr
 echo description,dailCompDescSoldier29dual, >> .\items\materia\class0001\Soldier29dual.dbr
 echo itemText,dailCompTextSoldier29dual,  >> .\items\materia\class0001\Soldier29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0001\Soldier29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0001\Soldier29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0001\Soldier29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0001\Soldier29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0001\Soldier29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0001\Soldier30dual.dbr /y
@@ -526,7 +526,7 @@ echo itemCost,2000000, >> .\items\materia\class0001\Soldier59dual.dbr
 echo description,dailCompDescSoldier59dual, >> .\items\materia\class0001\Soldier59dual.dbr
 echo itemText,dailCompTextSoldier59dual,  >> .\items\materia\class0001\Soldier59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0001\Soldier59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0001\Soldier59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0001\Soldier59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0001\Soldier59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0001\Soldier59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0001\Soldier60dual.dbr /y
@@ -1356,7 +1356,7 @@ echo itemCost,1000000, >> .\items\materia\class0002\Demolitionist29dual.dbr
 echo description,dailCompDescDemolitionist29dual, >> .\items\materia\class0002\Demolitionist29dual.dbr
 echo itemText,dailCompTextDemolitionist29dual,  >> .\items\materia\class0002\Demolitionist29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0002\Demolitionist29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0002\Demolitionist29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0002\Demolitionist29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0002\Demolitionist29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0002\Demolitionist29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0002\Demolitionist30dual.dbr /y
@@ -1626,7 +1626,7 @@ echo itemCost,2000000, >> .\items\materia\class0002\Demolitionist59dual.dbr
 echo description,dailCompDescDemolitionist59dual, >> .\items\materia\class0002\Demolitionist59dual.dbr
 echo itemText,dailCompTextDemolitionist59dual,  >> .\items\materia\class0002\Demolitionist59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0002\Demolitionist59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0002\Demolitionist59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0002\Demolitionist59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0002\Demolitionist59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0002\Demolitionist59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0002\Demolitionist60dual.dbr /y
@@ -2456,7 +2456,7 @@ echo itemCost,1000000, >> .\items\materia\class0003\Occultist29dual.dbr
 echo description,dailCompDescOccultist29dual, >> .\items\materia\class0003\Occultist29dual.dbr
 echo itemText,dailCompTextOccultist29dual,  >> .\items\materia\class0003\Occultist29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0003\Occultist29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0003\Occultist29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0003\Occultist29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0003\Occultist29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0003\Occultist29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0003\Occultist30dual.dbr /y
@@ -2726,7 +2726,7 @@ echo itemCost,2000000, >> .\items\materia\class0003\Occultist59dual.dbr
 echo description,dailCompDescOccultist59dual, >> .\items\materia\class0003\Occultist59dual.dbr
 echo itemText,dailCompTextOccultist59dual,  >> .\items\materia\class0003\Occultist59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0003\Occultist59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0003\Occultist59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0003\Occultist59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0003\Occultist59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0003\Occultist59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0003\Occultist60dual.dbr /y
@@ -3556,7 +3556,7 @@ echo itemCost,1000000, >> .\items\materia\class0004\Nightblade29dual.dbr
 echo description,dailCompDescNightblade29dual, >> .\items\materia\class0004\Nightblade29dual.dbr
 echo itemText,dailCompTextNightblade29dual,  >> .\items\materia\class0004\Nightblade29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0004\Nightblade29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0004\Nightblade29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0004\Nightblade29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0004\Nightblade29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0004\Nightblade29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0004\Nightblade30dual.dbr /y
@@ -3826,7 +3826,7 @@ echo itemCost,2000000, >> .\items\materia\class0004\Nightblade59dual.dbr
 echo description,dailCompDescNightblade59dual, >> .\items\materia\class0004\Nightblade59dual.dbr
 echo itemText,dailCompTextNightblade59dual,  >> .\items\materia\class0004\Nightblade59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0004\Nightblade59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0004\Nightblade59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0004\Nightblade59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0004\Nightblade59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0004\Nightblade59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0004\Nightblade60dual.dbr /y
@@ -4656,7 +4656,7 @@ echo itemCost,1000000, >> .\items\materia\class0005\Arcanist29dual.dbr
 echo description,dailCompDescArcanist29dual, >> .\items\materia\class0005\Arcanist29dual.dbr
 echo itemText,dailCompTextArcanist29dual,  >> .\items\materia\class0005\Arcanist29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0005\Arcanist29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0005\Arcanist29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0005\Arcanist29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0005\Arcanist29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0005\Arcanist29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0005\Arcanist30dual.dbr /y
@@ -4926,7 +4926,7 @@ echo itemCost,2000000, >> .\items\materia\class0005\Arcanist59dual.dbr
 echo description,dailCompDescArcanist59dual, >> .\items\materia\class0005\Arcanist59dual.dbr
 echo itemText,dailCompTextArcanist59dual,  >> .\items\materia\class0005\Arcanist59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0005\Arcanist59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0005\Arcanist59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0005\Arcanist59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0005\Arcanist59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0005\Arcanist59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0005\Arcanist60dual.dbr /y
@@ -5756,7 +5756,7 @@ echo itemCost,1000000, >> .\items\materia\class0006\Shaman29dual.dbr
 echo description,dailCompDescShaman29dual, >> .\items\materia\class0006\Shaman29dual.dbr
 echo itemText,dailCompTextShaman29dual,  >> .\items\materia\class0006\Shaman29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0006\Shaman29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0006\Shaman29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0006\Shaman29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0006\Shaman29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0006\Shaman29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0006\Shaman30dual.dbr /y
@@ -6026,7 +6026,7 @@ echo itemCost,2000000, >> .\items\materia\class0006\Shaman59dual.dbr
 echo description,dailCompDescShaman59dual, >> .\items\materia\class0006\Shaman59dual.dbr
 echo itemText,dailCompTextShaman59dual,  >> .\items\materia\class0006\Shaman59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0006\Shaman59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0006\Shaman59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0006\Shaman59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0006\Shaman59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0006\Shaman59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0006\Shaman60dual.dbr /y
@@ -6856,7 +6856,7 @@ echo itemCost,1000000, >> .\items\materia\class0007\Necromancer29dual.dbr
 echo description,dailCompDescNecromancer29dual, >> .\items\materia\class0007\Necromancer29dual.dbr
 echo itemText,dailCompTextNecromancer29dual,  >> .\items\materia\class0007\Necromancer29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0007\Necromancer29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0007\Necromancer29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0007\Necromancer29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0007\Necromancer29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0007\Necromancer29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0007\Necromancer30dual.dbr /y
@@ -7126,7 +7126,7 @@ echo itemCost,2000000, >> .\items\materia\class0007\Necromancer59dual.dbr
 echo description,dailCompDescNecromancer59dual, >> .\items\materia\class0007\Necromancer59dual.dbr
 echo itemText,dailCompTextNecromancer59dual,  >> .\items\materia\class0007\Necromancer59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0007\Necromancer59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0007\Necromancer59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0007\Necromancer59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0007\Necromancer59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0007\Necromancer59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0007\Necromancer60dual.dbr /y
@@ -7956,7 +7956,7 @@ echo itemCost,1000000, >> .\items\materia\class0008\Ranger29dual.dbr
 echo description,dailCompDescRanger29dual, >> .\items\materia\class0008\Ranger29dual.dbr
 echo itemText,dailCompTextRanger29dual,  >> .\items\materia\class0008\Ranger29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0008\Ranger29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0008\Ranger29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0008\Ranger29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0008\Ranger29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0008\Ranger29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0008\Ranger30dual.dbr /y
@@ -8226,7 +8226,7 @@ echo itemCost,2000000, >> .\items\materia\class0008\Ranger59dual.dbr
 echo description,dailCompDescRanger59dual, >> .\items\materia\class0008\Ranger59dual.dbr
 echo itemText,dailCompTextRanger59dual,  >> .\items\materia\class0008\Ranger59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0008\Ranger59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0008\Ranger59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0008\Ranger59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0008\Ranger59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0008\Ranger59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0008\Ranger60dual.dbr /y
@@ -9056,7 +9056,7 @@ echo itemCost,1000000, >> .\items\materia\class0009\Coronus29dual.dbr
 echo description,dailCompDescCoronus29dual, >> .\items\materia\class0009\Coronus29dual.dbr
 echo itemText,dailCompTextCoronus29dual,  >> .\items\materia\class0009\Coronus29dual.dbr
 echo augmentMasteryName1,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0009\Coronus29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0009\Coronus29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0009\Coronus29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0009\Coronus29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0009\Coronus29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0009\Coronus30dual.dbr /y
@@ -10156,7 +10156,7 @@ echo itemCost,1000000, >> .\items\materia\class0010\Fangshi29dual.dbr
 echo description,dailCompDescFangshi29dual, >> .\items\materia\class0010\Fangshi29dual.dbr
 echo itemText,dailCompTextFangshi29dual,  >> .\items\materia\class0010\Fangshi29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0010\Fangshi29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0010\Fangshi29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0010\Fangshi29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0010\Fangshi29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0010\Fangshi29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0010\Fangshi30dual.dbr /y
@@ -10426,7 +10426,7 @@ echo itemCost,2000000, >> .\items\materia\class0010\Fangshi59dual.dbr
 echo description,dailCompDescFangshi59dual, >> .\items\materia\class0010\Fangshi59dual.dbr
 echo itemText,dailCompTextFangshi59dual,  >> .\items\materia\class0010\Fangshi59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0010\Fangshi59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0010\Fangshi59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0010\Fangshi59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0010\Fangshi59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0010\Fangshi59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0010\Fangshi60dual.dbr /y
@@ -11256,7 +11256,7 @@ echo itemCost,1000000, >> .\items\materia\class0011\FrostKnight29dual.dbr
 echo description,dailCompDescFrostKnight29dual, >> .\items\materia\class0011\FrostKnight29dual.dbr
 echo itemText,dailCompTextFrostKnight29dual,  >> .\items\materia\class0011\FrostKnight29dual.dbr
 echo augmentMasteryName1,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0011\FrostKnight29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0011\FrostKnight29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0011\FrostKnight29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0011\FrostKnight29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0011\FrostKnight29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0011\FrostKnight30dual.dbr /y
@@ -11526,7 +11526,7 @@ echo itemCost,2000000, >> .\items\materia\class0011\FrostKnight59dual.dbr
 echo description,dailCompDescFrostKnight59dual, >> .\items\materia\class0011\FrostKnight59dual.dbr
 echo itemText,dailCompTextFrostKnight59dual,  >> .\items\materia\class0011\FrostKnight59dual.dbr
 echo augmentMasteryName1,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0011\FrostKnight59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0011\FrostKnight59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0011\FrostKnight59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0011\FrostKnight59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0011\FrostKnight59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0011\FrostKnight60dual.dbr /y
@@ -12356,7 +12356,7 @@ echo itemCost,1000000, >> .\items\materia\class0012\Elementalist29dual.dbr
 echo description,dailCompDescElementalist29dual, >> .\items\materia\class0012\Elementalist29dual.dbr
 echo itemText,dailCompTextElementalist29dual,  >> .\items\materia\class0012\Elementalist29dual.dbr
 echo augmentMasteryName1,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0012\Elementalist29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0012\Elementalist29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0012\Elementalist29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0012\Elementalist29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0012\Elementalist29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0012\Elementalist30dual.dbr /y
@@ -12626,7 +12626,7 @@ echo itemCost,2000000, >> .\items\materia\class0012\Elementalist59dual.dbr
 echo description,dailCompDescElementalist59dual, >> .\items\materia\class0012\Elementalist59dual.dbr
 echo itemText,dailCompTextElementalist59dual,  >> .\items\materia\class0012\Elementalist59dual.dbr
 echo augmentMasteryName1,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0012\Elementalist59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0012\Elementalist59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0012\Elementalist59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0012\Elementalist59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0012\Elementalist59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0012\Elementalist60dual.dbr /y
@@ -13456,7 +13456,7 @@ echo itemCost,1000000, >> .\items\materia\class0013\TerrorKnight29dual.dbr
 echo description,dailCompDescTerrorKnight29dual, >> .\items\materia\class0013\TerrorKnight29dual.dbr
 echo itemText,dailCompTextTerrorKnight29dual,  >> .\items\materia\class0013\TerrorKnight29dual.dbr
 echo augmentMasteryName1,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0013\TerrorKnight29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0013\TerrorKnight29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0013\TerrorKnight29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0013\TerrorKnight29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0013\TerrorKnight29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0013\TerrorKnight30dual.dbr /y
@@ -13726,7 +13726,7 @@ echo itemCost,2000000, >> .\items\materia\class0013\TerrorKnight59dual.dbr
 echo description,dailCompDescTerrorKnight59dual, >> .\items\materia\class0013\TerrorKnight59dual.dbr
 echo itemText,dailCompTextTerrorKnight59dual,  >> .\items\materia\class0013\TerrorKnight59dual.dbr
 echo augmentMasteryName1,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0013\TerrorKnight59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0013\TerrorKnight59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0013\TerrorKnight59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0013\TerrorKnight59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0013\TerrorKnight59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0013\TerrorKnight60dual.dbr /y
@@ -14556,7 +14556,7 @@ echo itemCost,1000000, >> .\items\materia\class0016\Defense29dual.dbr
 echo description,dailCompDescDefense29dual, >> .\items\materia\class0016\Defense29dual.dbr
 echo itemText,dailCompTextDefense29dual,  >> .\items\materia\class0016\Defense29dual.dbr
 echo augmentMasteryName1,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0016\Defense29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0016\Defense29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0016\Defense29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0016\Defense29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0016\Defense29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0016\Defense30dual.dbr /y
@@ -14826,7 +14826,7 @@ echo itemCost,2000000, >> .\items\materia\class0016\Defense59dual.dbr
 echo description,dailCompDescDefense59dual, >> .\items\materia\class0016\Defense59dual.dbr
 echo itemText,dailCompTextDefense59dual,  >> .\items\materia\class0016\Defense59dual.dbr
 echo augmentMasteryName1,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0016\Defense59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0016\Defense59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0016\Defense59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0016\Defense59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0016\Defense59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0016\Defense60dual.dbr /y
@@ -15656,7 +15656,7 @@ echo itemCost,1000000, >> .\items\materia\class0017\Hunting29dual.dbr
 echo description,dailCompDescHunting29dual, >> .\items\materia\class0017\Hunting29dual.dbr
 echo itemText,dailCompTextHunting29dual,  >> .\items\materia\class0017\Hunting29dual.dbr
 echo augmentMasteryName1,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0017\Hunting29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0017\Hunting29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0017\Hunting29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0017\Hunting29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0017\Hunting29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0017\Hunting30dual.dbr /y
@@ -15926,7 +15926,7 @@ echo itemCost,2000000, >> .\items\materia\class0017\Hunting59dual.dbr
 echo description,dailCompDescHunting59dual, >> .\items\materia\class0017\Hunting59dual.dbr
 echo itemText,dailCompTextHunting59dual,  >> .\items\materia\class0017\Hunting59dual.dbr
 echo augmentMasteryName1,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0017\Hunting59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0017\Hunting59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0017\Hunting59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0017\Hunting59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0017\Hunting59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0017\Hunting60dual.dbr /y
@@ -16756,7 +16756,7 @@ echo itemCost,1000000, >> .\items\materia\class0018\Spirit29dual.dbr
 echo description,dailCompDescSpirit29dual, >> .\items\materia\class0018\Spirit29dual.dbr
 echo itemText,dailCompTextSpirit29dual,  >> .\items\materia\class0018\Spirit29dual.dbr
 echo augmentMasteryName1,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0018\Spirit29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0018\Spirit29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0018\Spirit29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0018\Spirit29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0018\Spirit29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0018\Spirit30dual.dbr /y
@@ -17026,7 +17026,7 @@ echo itemCost,2000000, >> .\items\materia\class0018\Spirit59dual.dbr
 echo description,dailCompDescSpirit59dual, >> .\items\materia\class0018\Spirit59dual.dbr
 echo itemText,dailCompTextSpirit59dual,  >> .\items\materia\class0018\Spirit59dual.dbr
 echo augmentMasteryName1,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0018\Spirit59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0018\Spirit59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0018\Spirit59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0018\Spirit59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0018\Spirit59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0018\Spirit60dual.dbr /y
@@ -17856,7 +17856,7 @@ echo itemCost,1000000, >> .\items\materia\class0019\Warfare29dual.dbr
 echo description,dailCompDescWarfare29dual, >> .\items\materia\class0019\Warfare29dual.dbr
 echo itemText,dailCompTextWarfare29dual,  >> .\items\materia\class0019\Warfare29dual.dbr
 echo augmentMasteryName1,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0019\Warfare29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0019\Warfare29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0019\Warfare29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0019\Warfare29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0019\Warfare29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0019\Warfare30dual.dbr /y
@@ -18126,7 +18126,7 @@ echo itemCost,2000000, >> .\items\materia\class0019\Warfare59dual.dbr
 echo description,dailCompDescWarfare59dual, >> .\items\materia\class0019\Warfare59dual.dbr
 echo itemText,dailCompTextWarfare59dual,  >> .\items\materia\class0019\Warfare59dual.dbr
 echo augmentMasteryName1,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0019\Warfare59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0019\Warfare59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0019\Warfare59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0019\Warfare59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0019\Warfare59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0019\Warfare60dual.dbr /y
@@ -18956,7 +18956,7 @@ echo itemCost,1000000, >> .\items\materia\class0020\Nature29dual.dbr
 echo description,dailCompDescNature29dual, >> .\items\materia\class0020\Nature29dual.dbr
 echo itemText,dailCompTextNature29dual,  >> .\items\materia\class0020\Nature29dual.dbr
 echo augmentMasteryName1,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0020\Nature29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0020\Nature29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0020\Nature29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0020\Nature29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0020\Nature29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0020\Nature30dual.dbr /y
@@ -19226,7 +19226,7 @@ echo itemCost,2000000, >> .\items\materia\class0020\Nature59dual.dbr
 echo description,dailCompDescNature59dual, >> .\items\materia\class0020\Nature59dual.dbr
 echo itemText,dailCompTextNature59dual,  >> .\items\materia\class0020\Nature59dual.dbr
 echo augmentMasteryName1,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0020\Nature59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0020\Nature59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0020\Nature59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0020\Nature59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0020\Nature59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0020\Nature60dual.dbr /y
@@ -20056,7 +20056,7 @@ echo itemCost,1000000, >> .\items\materia\class0021\Rogue29dual.dbr
 echo description,dailCompDescRogue29dual, >> .\items\materia\class0021\Rogue29dual.dbr
 echo itemText,dailCompTextRogue29dual,  >> .\items\materia\class0021\Rogue29dual.dbr
 echo augmentMasteryName1,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0021\Rogue29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0021\Rogue29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0021\Rogue29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0021\Rogue29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0021\Rogue29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0021\Rogue30dual.dbr /y
@@ -20326,7 +20326,7 @@ echo itemCost,2000000, >> .\items\materia\class0021\Rogue59dual.dbr
 echo description,dailCompDescRogue59dual, >> .\items\materia\class0021\Rogue59dual.dbr
 echo itemText,dailCompTextRogue59dual,  >> .\items\materia\class0021\Rogue59dual.dbr
 echo augmentMasteryName1,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0021\Rogue59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0021\Rogue59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0021\Rogue59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0021\Rogue59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0021\Rogue59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0021\Rogue60dual.dbr /y
@@ -21156,7 +21156,7 @@ echo itemCost,1000000, >> .\items\materia\class0022\Earth29dual.dbr
 echo description,dailCompDescEarth29dual, >> .\items\materia\class0022\Earth29dual.dbr
 echo itemText,dailCompTextEarth29dual,  >> .\items\materia\class0022\Earth29dual.dbr
 echo augmentMasteryName1,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0022\Earth29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0022\Earth29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0022\Earth29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0022\Earth29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0022\Earth29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0022\Earth30dual.dbr /y
@@ -21426,7 +21426,7 @@ echo itemCost,2000000, >> .\items\materia\class0022\Earth59dual.dbr
 echo description,dailCompDescEarth59dual, >> .\items\materia\class0022\Earth59dual.dbr
 echo itemText,dailCompTextEarth59dual,  >> .\items\materia\class0022\Earth59dual.dbr
 echo augmentMasteryName1,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0022\Earth59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0022\Earth59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0022\Earth59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0022\Earth59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0022\Earth59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0022\Earth60dual.dbr /y
@@ -22256,7 +22256,7 @@ echo itemCost,1000000, >> .\items\materia\class0023\Storm29dual.dbr
 echo description,dailCompDescStorm29dual, >> .\items\materia\class0023\Storm29dual.dbr
 echo itemText,dailCompTextStorm29dual,  >> .\items\materia\class0023\Storm29dual.dbr
 echo augmentMasteryName1,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0023\Storm29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0023\Storm29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0023\Storm29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0023\Storm29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0023\Storm29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0023\Storm30dual.dbr /y
@@ -22526,7 +22526,7 @@ echo itemCost,2000000, >> .\items\materia\class0023\Storm59dual.dbr
 echo description,dailCompDescStorm59dual, >> .\items\materia\class0023\Storm59dual.dbr
 echo itemText,dailCompTextStorm59dual,  >> .\items\materia\class0023\Storm59dual.dbr
 echo augmentMasteryName1,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0023\Storm59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0023\Storm59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0023\Storm59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0023\Storm59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0023\Storm59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0023\Storm60dual.dbr /y
@@ -23356,7 +23356,7 @@ echo itemCost,1000000, >> .\items\materia\class0024\Dream29dual.dbr
 echo description,dailCompDescDream29dual, >> .\items\materia\class0024\Dream29dual.dbr
 echo itemText,dailCompTextDream29dual,  >> .\items\materia\class0024\Dream29dual.dbr
 echo augmentMasteryName1,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0024\Dream29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0024\Dream29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0024\Dream29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0024\Dream29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0024\Dream29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0024\Dream30dual.dbr /y
@@ -23626,7 +23626,7 @@ echo itemCost,2000000, >> .\items\materia\class0024\Dream59dual.dbr
 echo description,dailCompDescDream59dual, >> .\items\materia\class0024\Dream59dual.dbr
 echo itemText,dailCompTextDream59dual,  >> .\items\materia\class0024\Dream59dual.dbr
 echo augmentMasteryName1,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0024\Dream59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0024\Dream59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0024\Dream59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0024\Dream59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0024\Dream59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0024\Dream60dual.dbr /y
@@ -24456,7 +24456,7 @@ echo itemCost,1000000, >> .\items\materia\class0026\Enchanter29dual.dbr
 echo description,dailCompDescEnchanter29dual, >> .\items\materia\class0026\Enchanter29dual.dbr
 echo itemText,dailCompTextEnchanter29dual,  >> .\items\materia\class0026\Enchanter29dual.dbr
 echo augmentMasteryName1,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0026\Enchanter29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0026\Enchanter29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0026\Enchanter29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0026\Enchanter29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0026\Enchanter29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0026\Enchanter30dual.dbr /y
@@ -24726,7 +24726,7 @@ echo itemCost,2000000, >> .\items\materia\class0026\Enchanter59dual.dbr
 echo description,dailCompDescEnchanter59dual, >> .\items\materia\class0026\Enchanter59dual.dbr
 echo itemText,dailCompTextEnchanter59dual,  >> .\items\materia\class0026\Enchanter59dual.dbr
 echo augmentMasteryName1,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0026\Enchanter59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0026\Enchanter59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0026\Enchanter59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0026\Enchanter59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0026\Enchanter59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0026\Enchanter60dual.dbr /y
@@ -25556,7 +25556,7 @@ echo itemCost,1000000, >> .\items\materia\class0027\Engineer29dual.dbr
 echo description,dailCompDescEngineer29dual, >> .\items\materia\class0027\Engineer29dual.dbr
 echo itemText,dailCompTextEngineer29dual,  >> .\items\materia\class0027\Engineer29dual.dbr
 echo augmentMasteryName1,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0027\Engineer29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0027\Engineer29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0027\Engineer29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0027\Engineer29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0027\Engineer29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0027\Engineer30dual.dbr /y
@@ -25826,7 +25826,7 @@ echo itemCost,2000000, >> .\items\materia\class0027\Engineer59dual.dbr
 echo description,dailCompDescEngineer59dual, >> .\items\materia\class0027\Engineer59dual.dbr
 echo itemText,dailCompTextEngineer59dual,  >> .\items\materia\class0027\Engineer59dual.dbr
 echo augmentMasteryName1,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0027\Engineer59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0027\Engineer59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0027\Engineer59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0027\Engineer59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0027\Engineer59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0027\Engineer60dual.dbr /y
@@ -26656,7 +26656,7 @@ echo itemCost,1000000, >> .\items\materia\class0028\Cenobite29dual.dbr
 echo description,dailCompDescCenobite29dual, >> .\items\materia\class0028\Cenobite29dual.dbr
 echo itemText,dailCompTextCenobite29dual,  >> .\items\materia\class0028\Cenobite29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0028\Cenobite29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0028\Cenobite29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0028\Cenobite29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0028\Cenobite30dual.dbr /y
@@ -26926,7 +26926,7 @@ echo itemCost,2000000, >> .\items\materia\class0028\Cenobite59dual.dbr
 echo description,dailCompDescCenobite59dual, >> .\items\materia\class0028\Cenobite59dual.dbr
 echo itemText,dailCompTextCenobite59dual,  >> .\items\materia\class0028\Cenobite59dual.dbr
 echo augmentMasteryName1,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0028\Cenobite59dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0028\Cenobite59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0028\Cenobite59dual.dbr
 echo augmentMasteryLevel1,2, >> .\items\materia\class0028\Cenobite59dual.dbr
 echo augmentMasteryLevel2,2, >> .\items\materia\class0028\Cenobite59dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0028\Cenobite60dual.dbr /y
@@ -27756,7 +27756,7 @@ echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo description,dailCompDesc(H)arlequin29dual, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo itemText,dailCompText(H)arlequin29dual,  >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin30dual.dbr /y
@@ -28856,7 +28856,7 @@ echo itemCost,1000000, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo description,dailCompDesc(H)arlequin29dual, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo itemText,dailCompText(H)arlequin29dual,  >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryName1,records/skills/playerclass29/_classtraining_class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
-echo augmentMasteryName2,records/skills, >> .\items\materia\class0029\(H)arlequin29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryLevel1,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 echo augmentMasteryLevel2,1, >> .\items\materia\class0029\(H)arlequin29dual.dbr
 copy .\dail_base2.dbr .\items\materia\class0029\(H)arlequin30dual.dbr /y

@@ -249,73 +249,6 @@ tagClass10SkillName10=Will Blade
 tagClass10SkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequires a scepter or dagger. Can be used as your default weapon attack.
 
 
-
-#Class08
-#tagClassEnchName=Enchanter
-tagClassEnchName=[ms]Priest[fs]Priestess
-tagClassEnchDesc=Priests and Priestess are from the original order of Empyreon who still have some of the power of their lost god, their very presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-#tagClassDescENCH=The Enchanters are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-#tagClassEnchDesc=The Enchanters are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagEnchSkill01=Exhausting Torrent
-tagEnchDesc01={^S}AoE Crowd Control {^n}{^n}{^w}Sends forth a wave of negative energy that burns energy of all enemies on its path, causing some of them to wander aimlessly and more resolute enemies to fight less effectively.
-tagEnchSkill01A=Painful Torrent
-tagEnchDesc01A={^S}Modifier {^n}{^n}{^w}Energy burnt by {^Z}Exhausting Torrent {^W}causes damage.
-tagEnchSkill02=Charm of Earth
-tagEnchDesc02={^S}AoE Buff {^n}{^n}{^w}Imbues you and your allies with the permanence of earth, enhancing the capability of surviving even in the very desperate times.
-tagEnchSkill02A=Greater Charm of Earth
-tagEnchDesc02A={^S}Modifier {^n}{^n}{^w}Allows to cast even more powerful version of {^Z}Charm of Earth.
-tagEnchSkill03=Charm of Wind
-tagEnchDesc03={^S}AoE Buff {^n}{^n}{^w}Imbues you and your allies with the abruptness of winds, charging their weapons with electricity and boosting overall speed and reaction.
-tagEnchSkill03A=Greater Charm of Wind
-tagEnchDesc03A={^S}Modifier {^n}{^n}{^w}Allows to cast even more powerful version of {^Z}Charm of Wind.
-tagEnchSkill04=Charm of Flames
-tagEnchDesc04={^S}AoE Buff {^n}{^n}{^w}Imbues you and your allies with the power of flame. Intense heat from the Charm causes each attack to set enemies on fire, and melts the metal of their armor, decreasing its effectiveness for a short duration.
-tagEnchSkill04A=Greater Charm of Flames
-tagEnchDesc04A={^S}Modifier {^n}{^n}{^w}Allows to cast even more powerful version of {^Z}Charm of Flames.
-tagEnchSkill05=Time Stop
-tagEnchDesc05={^S}AoE Crowd Control {^n}{^n}{^w}Distorts the fabric of reality around the caster, freezing all enemies in time for a short duration.
-tagEnchSkill06=Beacon of Life
-tagEnchDesc06={^S}AoE Utility {^n}{^n}{^w}Emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
-tagEnchSkill07=Beacon of Life
-tagEnchDesc07={^S}Utility {^n}{^n}{^w}Summons a beacon of life at the target location that will periodically heal nearest allies.
-tagEnchSkill07A=Beacon of Life
-tagEnchSkill08=Surge of Life
-tagEnchDesc08={^S}AoE Utility {^n}{^n}{^w}Enchanter emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
-tagEnchSkill08A=Hastened Surge
-tagEnchDesc08A={^S}Modifier {^n}{^n}{^w}Allows to cast {^Z}Healing Surge {^W}more often, but at increased energy cost.
-tagEnchSkill09=Lifegiving Veil
-tagEnchDesc09={^S}AoE Buff {^n}{^n}{^w}Protects you and your allies from vile poisons and significantly boosts life regeneration for a short time.
-tagEnchSkill10=Natural Resilience
-tagEnchDesc10={^S}Passive {^n}{^n}{^w}The Enchanter's inherent resistance to damage and vitality-draining magic is unmatched, and even minions under the Enchanter's control receive a portion of their defenses.
-tagEnchSkill11=Concentration
-tagEnchDesc11={^S}Passive {^n}{^n}{^w}An enhanced state of mind that causes energy to recover faster and diminishes the duration of any skill disruptions.
-tagEnchSkill12=Entropic Beam
-tagEnchDesc12={^S}Offensive {^n}{^n}{^w}Projects a beam of entropic energy that diminishes life forces of any material beings it hits, especially those cursed with undeath or corrupted by aether.
-tagEnchSkill12A=Linked Pain
-tagEnchDesc12A={^S}Modifier {^n}{^n}{^w}Increases the strength of {^Z}Entropic Beam {^W}but at cost of the caster's own life.
-tagEnchSkill13=Radiance of Life
-tagEnchDesc13={^S}Self Buff {^n}{^n}{^w}The Enchanter is surrounded with positive energy that bursts into a healing surge on each attack, recovering lost health of those in need in a wide radius and causing minions to fight with terrifying might.
-tagEnchSkill13A=Radiance of Life
-tagEnchSkill14=Charm of Water
-tagEnchDesc14={^S}AoE Buff {^n}{^n}{^w}Imbues you and your allies with the fluidity of water and solidity of ice, refreshing their mind and protecting against {^Y}Physical {^W}and {^H}Elemental.
-tagEnchSkill14A=Greater Charm of Water
-tagEnchDesc14A={^S}Modifier {^n}{^n}{^w}Allows to cast even more powerful version of {^Z}Charm of Water.
-tagEnchSkill15=Keeper of Life
-tagEnchDesc15={^S}Passive {^n}{^n}{^w}Energy of Life that runs trough your veins protects you from foul magic and destructive powers of chaos.
-tagEnchSkill16=Touch of Life
-tagEnchDesc16={^S}Utility {^n}{^n}{^w}A burst of healing energy that restores lost life to allies in a small radius.
-tagEnchSkill16A=Life Veil
-tagEnchDesc16A={^S}Modifier {^n}{^n}{^w}When you heal with {^Z}Touch of Life {^W}you apply an absorbing shield for a short time.
-tagEnchSkill17=Resurgence
-tagEnchDesc17={^S}AoE Buff {^n}{^n}{^w}There's always hope! Fully restores lost health and energy to allies, and shields them for a short time.
-
-
-tagFKSkillName11B=Hoarfrost
-tagFKSkillDesc11B={^S}Modifier {^n}{^n}{^w}Increases the area of effect of your {^Z}Frost Blast {^W}and prevents using any skill for a short time.
-tagFKSkillName11A=Devastating Blast
-tagFKSkillDesc11A={^S}Transmuter {^n}{^n}{^w}Causes you {^Z}Frost Blast {^W}to deliver devastating damage to your foes, but with longer pauses between each cast.
-
-
 tagSkillDevotion=Devotion
 
 tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the most hellish conditions and hold the line against the deadliest enemies of the empire. Soldiers prefer the use of close combat weaponry, such as a sword and shield, but can also prove formidable with firearms. What a Soldier may lack in outright damage output is made up for in fortitude and leadership.
@@ -3242,7 +3175,7 @@ tagClass12SkillDescription11A=A surge of intense thermal and electrical energies
 
 tagClass12SkillName12A=Rupture
 tagClass12SkillDescription12A=Smash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
-tagClss02SkillName12B=Fire Pillar
+tagClass02SkillName12B=Fire Pillar
 tagClass12SkillDescription12B=Scorching flames rocket out of the earth.
 
 tagClass12SkillName13A=Citadel of Ice

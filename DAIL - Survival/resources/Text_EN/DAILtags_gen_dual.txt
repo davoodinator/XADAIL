@@ -4998,126 +4998,326 @@ dailCompTextCenobite60dual=^oThis feels warm to the touch, almost familiar ^w(Th
 
 
 
- dailCompDescCenobite1dual=^pCenobite's Soldier Gift of DAIL
-dailCompTextCenobite1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite2dual=^pCenobite's Demolitionist Gift of DAIL
-dailCompTextCenobite2dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite3dual=^pCenobite's Occultist Gift of DAIL
-dailCompTextCenobite3dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite4dual=^pCenobite's Nightblade Gift of DAIL
-dailCompTextCenobite4dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite5dual=^pCenobite's Arcanist Gift of DAIL
-dailCompTextCenobite5dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite6dual=^pCenobite's Shaman Gift of DAIL
-dailCompTextCenobite6dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite7dual=^pCenobite's Necromancer Gift of DAIL
-dailCompTextCenobite7dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite8dual=^pCenobite's Ranger Gift of DAIL
-dailCompTextCenobite8dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite9dual=^pCenobite's Coronus Gift of DAIL
-dailCompTextCenobite9dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite10dual=^pCenobite's Fangshi Gift of DAIL
-dailCompTextCenobite10dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite11dual=^pCenobite's Frost Knight Gift of DAIL
-dailCompTextCenobite11dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite12dual=^pCenobite's Elementalist Gift of DAIL
-dailCompTextCenobite12dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite13dual=^pCenobite's Terror Knight Gift of DAIL
-dailCompTextCenobite13dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite14dual=^pCenobite's Arch Necromancer Gift of DAIL
-dailCompTextCenobite14dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite15dual=^pCenobite's Illusionist Gift of DAIL
-dailCompTextCenobite15dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite16dual=^pCenobite's Defense Gift of DAIL
-dailCompTextCenobite16dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite17dual=^pCenobite's Hunting Gift of DAIL
-dailCompTextCenobite17dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite18dual=^pCenobite's Spirit Gift of DAIL
-dailCompTextCenobite18dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite19dual=^pCenobite's Warfare Gift of DAIL
-dailCompTextCenobite19dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite20dual=^pCenobite's Nature Gift of DAIL
-dailCompTextCenobite20dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite21dual=^pCenobite's Rogue Gift of DAIL
-dailCompTextCenobite21dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite22dual=^pCenobite's Earth Gift of DAIL
-dailCompTextCenobite22dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite23dual=^pCenobite's Storm Gift of DAIL
-dailCompTextCenobite23dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite24dual=^pCenobite's Dream Gift of DAIL
-dailCompTextCenobite24dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite25dual=^pCenobite's Stargazer Gift of DAIL
-dailCompTextCenobite25dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite26dual=^pCenobite's [ms]Priest[fs]Priestess Gift of DAIL
-dailCompTextCenobite26dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite27dual=^pCenobite's Engineer Gift of DAIL
-dailCompTextCenobite27dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite28dual=^pCenobite's Cenobite Gift of DAIL
-dailCompTextCenobite28dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite29dual=^pCenobite's [ms]Arlequin[fs]Harlequin Gift of DAIL
-dailCompTextCenobite29dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite30dual=^pCenobite's Elwar Gift of DAIL
-dailCompTextCenobite30dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite31dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite31dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite32dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite32dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite33dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite33dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite34dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite34dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite35dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite35dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite36dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite36dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite37dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite37dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite38dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite38dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite39dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite39dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite40dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite40dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite41dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite41dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite42dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite42dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite43dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite43dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite44dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite44dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite45dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite45dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite46dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite46dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite47dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite47dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite48dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite48dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite49dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite49dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite50dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite50dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite51dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite51dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite52dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite52dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite53dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite53dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite54dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite54dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite55dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite55dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite56dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite56dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite57dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite57dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite58dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite58dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite59dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite59dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
- dailCompDescCenobite60dual=^pCenobite's  Gift of DAIL
-dailCompTextCenobite60dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin1dual=^p(H)arlequin's Soldier Gift of DAIL
+dailCompText(H)arlequin1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin2dual=^p(H)arlequin's Demolitionist Gift of DAIL
+dailCompText(H)arlequin2dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin3dual=^p(H)arlequin's Occultist Gift of DAIL
+dailCompText(H)arlequin3dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin4dual=^p(H)arlequin's Nightblade Gift of DAIL
+dailCompText(H)arlequin4dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin5dual=^p(H)arlequin's Arcanist Gift of DAIL
+dailCompText(H)arlequin5dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin6dual=^p(H)arlequin's Shaman Gift of DAIL
+dailCompText(H)arlequin6dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin7dual=^p(H)arlequin's Necromancer Gift of DAIL
+dailCompText(H)arlequin7dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin8dual=^p(H)arlequin's Ranger Gift of DAIL
+dailCompText(H)arlequin8dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin9dual=^p(H)arlequin's Coronus Gift of DAIL
+dailCompText(H)arlequin9dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin10dual=^p(H)arlequin's Fangshi Gift of DAIL
+dailCompText(H)arlequin10dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin11dual=^p(H)arlequin's Frost Knight Gift of DAIL
+dailCompText(H)arlequin11dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin12dual=^p(H)arlequin's Elementalist Gift of DAIL
+dailCompText(H)arlequin12dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin13dual=^p(H)arlequin's Terror Knight Gift of DAIL
+dailCompText(H)arlequin13dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin14dual=^p(H)arlequin's Arch Necromancer Gift of DAIL
+dailCompText(H)arlequin14dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin15dual=^p(H)arlequin's Illusionist Gift of DAIL
+dailCompText(H)arlequin15dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin16dual=^p(H)arlequin's Defense Gift of DAIL
+dailCompText(H)arlequin16dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin17dual=^p(H)arlequin's Hunting Gift of DAIL
+dailCompText(H)arlequin17dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin18dual=^p(H)arlequin's Spirit Gift of DAIL
+dailCompText(H)arlequin18dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin19dual=^p(H)arlequin's Warfare Gift of DAIL
+dailCompText(H)arlequin19dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin20dual=^p(H)arlequin's Nature Gift of DAIL
+dailCompText(H)arlequin20dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin21dual=^p(H)arlequin's Rogue Gift of DAIL
+dailCompText(H)arlequin21dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin22dual=^p(H)arlequin's Earth Gift of DAIL
+dailCompText(H)arlequin22dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin23dual=^p(H)arlequin's Storm Gift of DAIL
+dailCompText(H)arlequin23dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin24dual=^p(H)arlequin's Dream Gift of DAIL
+dailCompText(H)arlequin24dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin25dual=^p(H)arlequin's Stargazer Gift of DAIL
+dailCompText(H)arlequin25dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin26dual=^p(H)arlequin's [ms]Priest[fs]Priestess Gift of DAIL
+dailCompText(H)arlequin26dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin27dual=^p(H)arlequin's Engineer Gift of DAIL
+dailCompText(H)arlequin27dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin28dual=^p(H)arlequin's Cenobite Gift of DAIL
+dailCompText(H)arlequin28dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin29dual=^p(H)arlequin's [ms]Arlequin[fs]Harlequin Gift of DAIL
+dailCompText(H)arlequin29dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin30dual=^p(H)arlequin's Elwar Gift of DAIL
+dailCompText(H)arlequin30dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin31dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin31dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin32dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin32dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin33dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin33dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin34dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin34dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin35dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin35dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin36dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin36dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin37dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin37dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin38dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin38dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin39dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin39dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin40dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin40dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin41dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin41dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin42dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin42dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin43dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin43dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin44dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin44dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin45dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin45dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin46dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin46dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin47dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin47dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin48dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin48dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequindual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequindual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ dailCompDesc(H)arlequin1dual=^p(H)arlequin's Soldier Gift of DAIL
+dailCompText(H)arlequin1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin2dual=^p(H)arlequin's Demolitionist Gift of DAIL
+dailCompText(H)arlequin2dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin3dual=^p(H)arlequin's Occultist Gift of DAIL
+dailCompText(H)arlequin3dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin4dual=^p(H)arlequin's Nightblade Gift of DAIL
+dailCompText(H)arlequin4dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin5dual=^p(H)arlequin's Arcanist Gift of DAIL
+dailCompText(H)arlequin5dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin6dual=^p(H)arlequin's Shaman Gift of DAIL
+dailCompText(H)arlequin6dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin7dual=^p(H)arlequin's Necromancer Gift of DAIL
+dailCompText(H)arlequin7dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin8dual=^p(H)arlequin's Ranger Gift of DAIL
+dailCompText(H)arlequin8dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin9dual=^p(H)arlequin's Coronus Gift of DAIL
+dailCompText(H)arlequin9dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin10dual=^p(H)arlequin's Fangshi Gift of DAIL
+dailCompText(H)arlequin10dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin11dual=^p(H)arlequin's Frost Knight Gift of DAIL
+dailCompText(H)arlequin11dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin12dual=^p(H)arlequin's Elementalist Gift of DAIL
+dailCompText(H)arlequin12dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin13dual=^p(H)arlequin's Terror Knight Gift of DAIL
+dailCompText(H)arlequin13dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin14dual=^p(H)arlequin's Arch Necromancer Gift of DAIL
+dailCompText(H)arlequin14dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin15dual=^p(H)arlequin's Illusionist Gift of DAIL
+dailCompText(H)arlequin15dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin16dual=^p(H)arlequin's Defense Gift of DAIL
+dailCompText(H)arlequin16dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin17dual=^p(H)arlequin's Hunting Gift of DAIL
+dailCompText(H)arlequin17dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin18dual=^p(H)arlequin's Spirit Gift of DAIL
+dailCompText(H)arlequin18dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin19dual=^p(H)arlequin's Warfare Gift of DAIL
+dailCompText(H)arlequin19dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin20dual=^p(H)arlequin's Nature Gift of DAIL
+dailCompText(H)arlequin20dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin21dual=^p(H)arlequin's Rogue Gift of DAIL
+dailCompText(H)arlequin21dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin22dual=^p(H)arlequin's Earth Gift of DAIL
+dailCompText(H)arlequin22dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin23dual=^p(H)arlequin's Storm Gift of DAIL
+dailCompText(H)arlequin23dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin24dual=^p(H)arlequin's Dream Gift of DAIL
+dailCompText(H)arlequin24dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin25dual=^p(H)arlequin's Stargazer Gift of DAIL
+dailCompText(H)arlequin25dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin26dual=^p(H)arlequin's [ms]Priest[fs]Priestess Gift of DAIL
+dailCompText(H)arlequin26dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin27dual=^p(H)arlequin's Engineer Gift of DAIL
+dailCompText(H)arlequin27dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin28dual=^p(H)arlequin's Cenobite Gift of DAIL
+dailCompText(H)arlequin28dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin29dual=^p(H)arlequin's [ms]Arlequin[fs]Harlequin Gift of DAIL
+dailCompText(H)arlequin29dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin30dual=^p(H)arlequin's Elwar Gift of DAIL
+dailCompText(H)arlequin30dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin31dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin31dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin32dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin32dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin33dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin33dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin34dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin34dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin35dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin35dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin36dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin36dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin37dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin37dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin38dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin38dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin39dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin39dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin40dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin40dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin41dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin41dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin42dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin42dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin43dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin43dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin44dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin44dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin45dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin45dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin46dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin46dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin47dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin47dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequin48dual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequin48dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDesc(H)arlequindual=^p(H)arlequin's  Gift of DAIL
+dailCompText(H)arlequindual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

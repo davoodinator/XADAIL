@@ -139,7 +139,7 @@ tagOM_skillfreezereductionDesc=Near enemies will will be vulnerable to freezing.
 tagOM_skilllightningstrike=Lightning strike
 tagOM_skilllightningstrikeDesc=Target suffer lightning damage and is slowed, freezed, stuned and has reduced elemental resistance.
 tagOM_skilllightningaura=Lightning aura
-tagOM_skilllightningauraDesc=Deals lightning damage to a random enemy every 0.5 second.Use it to trigger procs !
+tagOM_skilllightningauraDesc=Deals lightning damage to a random enemy 20 times per second.Use it to trigger procs !
 #RecipeItems
 tagOMRecipePotionAttributeDesc="Recipe to craft a Potion of Attribute"
 tagOMRecipePotionAttribute=Potion of Attribute recipe
@@ -261,6 +261,7 @@ tagOMshieldMI=Omega Shield
 tagOMbeltMI=Omega Belt
 tagOMheadMI=Omega hat
 tagOMkatanaMI=Omega katana
+tagOMkatanaMIDesc=The Ultimate weapon.Use it's ability to build unseen combos !
 #OmegaNPC
 tagOMnpcQuestGiver=Kamui Shiro, Omega quest giver
 tagOMnpcQuestMerchant=Mokona Modoki, Omega orb merchant
@@ -495,4 +496,25 @@ tagOMboss_Outlaw03=Empowered Dead-Eye, Omega Nemesis
 tagOMboss_Undead01=Empowered Allminoxius, Omega Nemesis
 tagOMboss_Undead02=Empowered Moosilauke, Omega Nemesis
 tagOMboss_Undead03=Empowered Toxemus, Omega Nemesis
-tagOMboss_Kilrian=Kilrian, Omega Nemesis
+tagOMboss_Kilrian=Kilrian, Omega Guard - Giver of Immortality
+tagOMboss_summoner=Summoner of Omega Nemesis
+tagOMdispeller=Dispeller
+
+#Omega Achievements
+tagOMach01Title=Omega Survivor
+tagOMach01Desc=Reach Omega level 10.
+tagOMach02Title=Omega Champion
+tagOMach02Desc=Reach Omega level 35.
+tagOMach03Title=Omega Hero
+tagOMach03Desc=Reach Omega level 50.
+tagOMach04Title=Omega Legend
+tagOMach04Desc=Reach Omega level 85.
+tagOMach05Title=Omega Immortal Legend
+tagOMach05Desc=Reach Omega level 100
+
+tagOMach06Title=Omega Monster Slayer
+tagOMach06Desc=Eradicate 25 Omega Nemesis.
+tagOMach07Title=Omega Heroic Slayer
+tagOMach07Desc=Eradicate 100 Omega Nemesis.
+tagOMach08Title=Omega Legendary Slayer
+tagOMach08Desc=Eradicate 1000 Omega Nemesis.

@@ -1,0 +1,1 @@
+marketMedalTable,DAIL/items/loottables/dailoneskilldash0001.dbr,

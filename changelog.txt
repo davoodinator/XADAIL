@@ -4,7 +4,7 @@ LATEST CHANGES
 ***********************************************************************
 ***********************************************************************
 GLOSSARY
-* = not done yet
+* = not done yet (if it says im trying to solve it, and the * isn't there. i solved it and was too lazy to explain or was minor edit)
 % = something pending a vote - will decide when votes hit 200+
 ^ = something i will leave for later version or someone else to do. and otherwise don't see myself working on for a while unless im really bored
 ***********************************************************************
@@ -13,8 +13,8 @@ GLOSSARY
 ***********************************************************************
 Polls
 Active: None
-%(http://www.strawpoll.me/10679140) how to deal with epic/leg affixes
 Old Polls:
+%(http://www.strawpoll.me/10679140) (YES) revert to the legendary/epic affixes.  I added a twist though. I manually merged it with most of the GQ lootaffixes.  let's see if it breaks anything
 %(http://www.strawpoll.me/10551741/) (NO) remove legendary/epic affixes. you can keep the items you already got but new ones won't drop anymore at least not until DGA has post100 leveling
 %(http://www.strawpoll.me/10550732/) (NO) remove depravities from the grimmest portion of DAIL mod
 %(http://www.strawpoll.me/10562759/) (YES) devotion shrines combat only
@@ -30,20 +30,56 @@ Procrastination - also stuff other people can work on if they are keeners
 ^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
 ^make some kind of tool to check line endings in all .dbr files to see if they end in , and contain exactly two commas per line, ignoring blank lines.
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
+^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
+^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit  so it shouldn't matter later
+^sometimes tag spam from component vendor summoning item.. but no component vendor.. happens on clvl=1 char
+^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-0045 - ?
-*tagCraftWeap2Scythe01 -> missing tag from Dawn of Heroes
-*update graphics and naming conventions on the skill components
-*check for baron wradlith in spined cove - fix if needed
-*(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
-*fix (H)arlequin  and terror knight mastery skillups so no gaps for special modifiers
+0047 - ?
+*reverse spear models
+*write a fing tool to check for commas in all .dbr files.
+
+0046 - planned stable release - unless DGA 0.4 appears :D
+Njorunn : Rupture skill-tag is still bugged in 0045 (elementalist tree  TagClass12SkillName12B not found (Elementalist) fix it 
+no xp again. whoops fixed for real. modeled the formula and everything
+customize component vendor popups to have specific text for specific vendor - nah.. now you can choose when to summon them it doesn't matter
+Discord Days: @Davood - only getting demo and soldier scrolls! Had 5 so far and no other mastery is dropping. - i played with the RNG a little. lets see how it works out.
+check "Grove keeper" skill... was attached to rogue. wtf  -   fixed.   priest was renamed back to priest :D even though the file says ench.. too many name changes makes jack a very sad boy
 *check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
-*check that missing harpy tag in DGA. is it me or is it DGA ? :P
-*add grim quest blueprints as purchasable items from a special magic vendor that spawns with the other magic vendors
-*customize component vendor popups to have specific text for specific vendor
+*check for baron wradlith in spined cove - fix if needed
+*check that missing harpy tag in DGA. is it me or is it DGA ? :P i need a screenshot damnit.  i keep killing them too fast.
+*Light of Empyrion is bugged too.It procs on your attacks instead of being on when you get hit, and instead now it hits yourself somehow. is this somethign i need to fix?
+*update to ncff 0.55
+*setup magic clicking script from Ceno for ease-of-building
+
+0045 - 2:02 PM 7/11/2016
+added a 'lite' installer for those who dont care much for extra audio - installer went from 328 MB down to 141 MB - already uploaded a 0044 BUILD version of it. in teh future I will try and make this and the other one even smaller (TQ masteries adds 100 megs by itself ...)
+something is wrong we are seeing too many soldier and demo vendors popping. this isnt random there are 35 possible npcs we should see more variety - i think i fixed it. lets see what people say....
+soldiers arlequin gift of dail +1/+1 not working. say unknown skill for arlequin side.
+scale x-mode xp to playerLevel/10*(base xp reward formula)
+Loot quality has been increased slightly overall for X/AX mode. where as in regular modes there is a chance of 0 affixes on epic/leg items.  in X/AX mode. leg/epic items ALWAYS have affixes :D
+removed cornucopia affix changes - they are really really bugged atm. im not going to fix them since they are in flux
+lower crossing zombeis not giving xp in x mode - going to ask for a screenshot of the zombie names and location. so i can trace it.
+cant fix this. will make it "intended" for now - adding it to TODO: for whenever. Discord Days: And if you play multiplayer with other people, if other players aren't in a close vicinity when the npc appears - it won't be visible to others once they get there, only to the first player
+Discord Days: Apprentice staff bp still drops and crashes if you hover mouse over it - REMOVE IT - removed blueprint from drop tables
+update installer documentation. WTF is X/AX mode anywways.
+think about deconstructing items quest / something - nevermind wanebare is taking care of it
+tagCraftWeap2Scythe01 -> missing tag from Dawn of Heroes
+TagClass12SkillName12B not found (Elementalist) fix it
+fix (H)arlequin  and terror knight mastery skillups so no gaps for special modifiers - not sure this was the problem.  maybe remove the decimals.. hmmm
+dga crystal reflect too much??? - so what. let wanebare worry about this.
+Pre add credit for Okami29 new mod : (http://www.grimdawn.com/forums/showthread.php?p=408819) Lost Treasures - not available yet
+added some placerholders for donate buttons on github page
+tagShoulderENCH01 tag issue
+change the npc spawns to expendable click items intead of npc spawns in the wild.  the click item will appear in your inventory :D make sure you have room - still broken atm.. skills won trigger
+the dismantle function doesn't work in DGA for some reasons. - not sure. let's see how DGA 0.4 pans out.. i comapred my rifts folder its identical wehre it matters.. with  DGA 0.31
+update dawn of heroes to 2.1
+update omega mod to 0.4
+check xp of x mode to see if it is working on stuff. - it works after clean build. derp derp derp derp derp
 
 0044 - 4:57 AM 7/9/2016
 releasing this early so people can enjoy the critical bug fixes i deployed and X/AX mode.
@@ -51,7 +87,7 @@ fix 5% spawn chance npc announcement stuff.. I want it to announce that an npc h
 ripped apart my mod folders again. deleted all .dbr files duplicated in grim dawn base dir - this will make things a bit smaller
 something is up with triggered areas . since i  removed world01.map eveything isnt triggering properly hmmmm damnit IE cellar door.. can't complete 2nd quest of main game. FIXED. just needed a script refresher :D
 look into new mode DAIL - X/AX = reduced spawns, increased difficulty w/ grimmest boss spawns, minus the two grimmest hero spawns, increased % for component vendors to pop and other stuff increased too.. hint:7
-quest related trigers being weird still. i blaeme lua. must fix. - feeksd
+quest related triggers being weird still. i blaeme lua. must fix. - feeksd
 change loot drops back to super epic time - manually merged a bunch of files. i wonder whats broken kekekeke
 
 0043 - 3:00 AM 7/8/2016
