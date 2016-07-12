@@ -20,9 +20,9 @@ omega.scripts.spawnomegaboss();
 end
 --DAIL START
 	math.randomseed(Time.Now());
-	local DAILpop = random(1, 20);
+	local DAILpop = random(1, 2000);
 	--5% chance
-	if DAILpop < 2 then
+	if DAILpop < 200 then
 		UI.Notify("DAIL_AETHERIAL_POP");
 		dail.scripts.spawndailitems();
 --		dail.scripts.spawndailnpcs();

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Samael's Witchblade - Eldritch Fire,
+buffSkillName,records/skills/devotion/tier2_11e_skill_buff.dbr,

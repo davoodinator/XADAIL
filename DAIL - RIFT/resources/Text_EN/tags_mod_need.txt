@@ -3175,7 +3175,7 @@ tagClass12SkillDescription11A=A surge of intense thermal and electrical energies
 
 tagClass12SkillName12A=Rupture
 tagClass12SkillDescription12A=Smash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
-tagClass02SkillName12B=Fire Pillar
+tagClass12SkillName12B=Fire Pillar
 tagClass12SkillDescription12B=Scorching flames rocket out of the earth.
 
 tagClass12SkillName13A=Citadel of Ice

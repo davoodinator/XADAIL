@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Menhir's Obelisk,
+buffSkillName,records/skills/devotion/tier3_05g_skill_buff.dbr,
+instantCast,1,

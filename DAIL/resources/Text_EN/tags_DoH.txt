@@ -63,8 +63,8 @@ tagFKSkillName15=Absolute Zero
 tagFKSkillDesc15={^S}Crowd Control {^n}{^n}{^w}Freezes nearest enemies solid, making them unable to attack or use skills for a short time.
 
 #Class08
-tagClassEnchName=Grove Keeper
-tagClassEnchDesc=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+#tagClassEnchName=Grove Keeper
+#tagClassEnchDesc=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 tagEnchSkill01=Barkskin
 tagEnchSkill01B=Entangling Vines
 tagEnchDesc01={^S}Self Buff {^n}{^n}{^w}Substantly increases your protection and health regeneration but makes you susceptible to fire attacks. Enemies that stike you are immobilized and poisoned for a short time.

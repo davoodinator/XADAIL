@@ -42,19 +42,20 @@ Procrastination - also stuff other people can work on if they are keeners
 0047 - ?
 *reverse spear models
 *write a fing tool to check for commas in all .dbr files.
+*check for baron wradlith in spined cove - fix if needed
 
-0046 - planned stable release - unless DGA 0.4 appears :D
+0046 - 10:05 PM 7/11/2016
 Njorunn : Rupture skill-tag is still bugged in 0045 (elementalist tree  TagClass12SkillName12B not found (Elementalist) fix it 
 no xp again. whoops fixed for real. modeled the formula and everything
 customize component vendor popups to have specific text for specific vendor - nah.. now you can choose when to summon them it doesn't matter
 Discord Days: @Davood - only getting demo and soldier scrolls! Had 5 so far and no other mastery is dropping. - i played with the RNG a little. lets see how it works out.
 check "Grove keeper" skill... was attached to rogue. wtf  -   fixed.   priest was renamed back to priest :D even though the file says ench.. too many name changes makes jack a very sad boy
-*check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
-*check for baron wradlith in spined cove - fix if needed
-*check that missing harpy tag in DGA. is it me or is it DGA ? :P i need a screenshot damnit.  i keep killing them too fast.
-*Light of Empyrion is bugged too.It procs on your attacks instead of being on when you get hit, and instead now it hits yourself somehow. is this somethign i need to fix?
-*update to ncff 0.55
-*setup magic clicking script from Ceno for ease-of-building
+nope. no idea why its crashing randomly. check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
+skip this for now - 0.4 DGA is coming soon check that missing harpy tag in DGA. is it me or is it DGA ? :P i need a screenshot damnit.  i keep killing them too fast.
+Light of Empyrion is bugged too.It procs on your attacks instead of being on when you get hit, and instead now it hits yourself somehow. is this somethign i need to fix?  re-merged cornucopia. seems lots of files were missing
+some affix bugs. i think its fixed
+update to ncff 0.55 - done with some of the affixes and items. but not all. there were too many. far too many :(
+setup magic clicking script from Ceno for ease-of-building - hmm nah its going to take less time to click myself than to get it working right ;o
 
 0045 - 2:02 PM 7/11/2016
 added a 'lite' installer for those who dont care much for extra audio - installer went from 328 MB down to 141 MB - already uploaded a 0044 BUILD version of it. in teh future I will try and make this and the other one even smaller (TQ masteries adds 100 megs by itself ...)
