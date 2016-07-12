@@ -5,9 +5,9 @@ tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
 #Areas
-tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0045)
-tagMapHomestead=Homestead^r(DAIL 0045)
-tagMapFortIkon=Fort Ikon^r(DAIL 0045)
+tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0046)
+tagMapHomestead=Homestead^r(DAIL 0046)
+tagMapFortIkon=Fort Ikon^r(DAIL 0046)
 
 
 #DAIL SPAWNS

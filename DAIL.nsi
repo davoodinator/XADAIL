@@ -6,7 +6,7 @@
 ;SetCompressor /SOLID BZIP2
 
 ;this results in 702M
-;after compacting it results in 517MB
+;after compacting it RESULTS in 517MB
 ;after super ninja config it results in ? MB
 SetCompressor /SOLID lzma
 SetCompressorDictSize 64
@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0045"
+!define PRODUCT_VERSION "0046"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -119,7 +119,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0045.exe"
+OutFile "DAIL 0046.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"

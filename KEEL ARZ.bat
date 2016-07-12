@@ -12,9 +12,9 @@ del ".\DAILmain - AX\database\DAILmain - AX.arz"
 del ".\DAILmain - X\database\DAILmain - X.arz"
 
 keel skareepetz
-del ".\DAIL\resources\scripts.arc"
-del ".\DAILmain - X\resources\scripts.arc"
-del ".\DAIL\resources\scripts\"
-del ".\DAILmain - X\resources\scripts\"
+rem del ".\DAIL\resources\scripts.arc"
+rem del ".\DAILmain - X\resources\scripts.arc"
+rem del ".\DAIL\resources\scripts\"
+rem del ".\DAILmain - X\resources\scripts\"
 
 pause
