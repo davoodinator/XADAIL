@@ -37,12 +37,31 @@ Procrastination - also stuff other people can work on if they are keeners
 ^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
 ***********************************************************************
 ***********************************************************************
+GREP SEARCH FOR ; missing at end of lines in .dbr files
+to find the commas 
+.,$
+to find the missing commas 
+.[^, \n]$
 ***********************************************************************
 ***********************************************************************
-0047 - ?
+0048 - ?
 *reverse spear models
-*write a fing tool to check for commas in all .dbr files.
 *check for baron wradlith in spined cove - fix if needed
+
+0047 - 4:08 AM 7/13/2016
+spirit mastery fixed again ;[ derp
+write a fing tool to check for commas in all .dbr files. - nah here is a grep search for that -> this is the search  .[^, \n]$
+fixed a bug in a dbr file with my new search !
+add a page on github pages for hybrid names done you can see link here -> https://davoodinator.github.io/XADAIL/
+(component vendor click) Also, if you have a bunch of these text items in your inventory each time you enter a game you get the red text for each of them. So if you have 20 you get 20 messages.  gonna fix this with what im doing on next line
+clicky summons in pack = annoying. make a potion that uses a skill slot. is stackable and chooses a random npc 
+	step 1 get teh potion to drop and stack in inventory
+	step 2 get the clicky added to dbr files
+	step 3 get it to actually triger the dail.summon.npc()
+the "Rhowari Legacy"-quest is broken now. The quest-npc gives you the quest, you find spirit/runed stone as normal - but once you arrive at the shrine it's still cleansed from previous DAIL versions. - added option to the quest giver if you have over 100k iron
+increase overall loot quality in x mode
+	drop rates are the same but loot quality has been drastically increased, every item will have a prefix and suffix, no item will have only a prefix or only a suffix.
+update omega mod to 0.5
 
 0046 - 10:05 PM 7/11/2016
 Njorunn : Rupture skill-tag is still bugged in 0045 (elementalist tree  TagClass12SkillName12B not found (Elementalist) fix it 

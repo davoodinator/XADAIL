@@ -11,7 +11,7 @@ del ".\DAILmain - AB\database\DAILmain - AB.arz"
 del ".\DAILmain - AX\database\DAILmain - AX.arz"
 del ".\DAILmain - X\database\DAILmain - X.arz"
 
-keel skareepetz
+rem keel skareepetz
 rem del ".\DAIL\resources\scripts.arc"
 rem del ".\DAILmain - X\resources\scripts.arc"
 rem del ".\DAIL\resources\scripts\"

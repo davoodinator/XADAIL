@@ -5,16 +5,16 @@ tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
 #Areas
-tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0045)
-tagMapHomestead=Homestead^r(DAIL 0045)
-tagMapFortIkon=Fort Ikon^r(DAIL 0045)
+tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0047)
+tagMapHomestead=Homestead^r(DAIL 0047)
+tagMapFortIkon=Fort Ikon^r(DAIL 0047)
 
 
 #DAIL SPAWNS
 DAIL_AETHERIAL_POP=^rYou feel an aetherial rift open for a moment and your pockets begin to glow... you better check your packs!!!!!?!?!
-DAIL_AETHERIAL_POP2=^rYou feel an aetherial rift open from the glowing scroll in your hands....! SOMETHING HAS STEPPED THROUGH!!?!?!?
-#DAIL_AETHERIAL_ITEM=^rYou feel like something is ready to burst from this item... there is an inscription on it......
+DAIL_AETHERIAL_POP2=^rYou feel an aetherial rift open from the glowing potion you smashed on the ground....! SOMETHING HAS STEPPED THROUGH!!?!?!?
 DAIL_AETHERIAL_ITEM=^rGlowing Scroll
+DAIL_AETHERIAL_ITEM2=^rYou feel like something is ready to burst from this bubbling potion......
 DAILsummonskilldisplay=^rSummon a friendly Aetherial
 DAILsummonskilldetails=^rThis skill summons a friendly Aetherial who will help you in exchange for something......
 

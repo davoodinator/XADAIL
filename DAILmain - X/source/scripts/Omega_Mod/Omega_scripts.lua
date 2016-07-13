@@ -20,11 +20,13 @@ omega.scripts.spawnomegaboss();
 end
 --DAIL START
 	math.randomseed(Time.Now());
-	local DAILpop = random(1, 20);
-	--5% chance
-	if DAILpop < 5 then
+	local DAILpop = random(1, 100000);
+	--25% chance
+	if DAILpop < 25000 then
 		UI.Notify("DAIL_AETHERIAL_POP");
-		dail.scripts.spawndailitems();
+		local player = Game.GetLocalPlayer();
+		player:GiveItem('DAIL/items/summon/dailRNGpot.dbr', 1, true);
+--		dail.scripts.spawndailitems();
 --		dail.scripts.spawndailnpcs();
 	end
 --DAIL END
@@ -80,6 +82,7 @@ end
 --		'DAIL/creatures/npcs/merchants/DAILclassplusser0030.dbr',
 
 function dail.scripts.spawndailnpcs()
+	UI.Notify("DAIL_AETHERIAL_POP2");
 	local Player = Game.GetLocalPlayer();
 	local coords = Player:GetCoords();
 	local dbrNPC = {
