@@ -10,7 +10,8 @@ tagOM_HeroeSoul=Hero Soul
 tagOM_HeroeSoulDesc="Souls of heroes slain in Ultimate Difficulty.Collect them for completing Omega Quests"
 tagOMEssenceLegendary=Legendary Essence
 tagOMEssenceLegendaryDesc="Essence of a Legendary Item given after extracting it's power.Collect them for completing Omega Quests"
-
+tagOM_BossSoul=Boss Soul
+tagOM_BossSoulDesc="Souls of bosses slain in Ultimate Difficulty.Collect them to have 100% chance to spawn an Omega nemesis when opening a Nemesis chest.Exchange them to Kamui Shiro"
 #Omega Potions
 tagOMPotionspeed=Bottomless potion of Speed
 tagOMPotionspeedDesc="Increase Total Speed by +1% per Potion level" 

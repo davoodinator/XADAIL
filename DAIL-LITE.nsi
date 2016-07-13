@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0046-LITE"
+!define PRODUCT_VERSION "0047-LITE"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -119,7 +119,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0046-LITE.exe"
+OutFile "DAIL 0047-LITE.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"
