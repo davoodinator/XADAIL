@@ -12,9 +12,8 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" 
 rem restore super loot tables for x mode
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_loot\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\records\items\/" /S *.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_loot\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\records\items\/" /S *.dbr
-
-rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\/" /S *.tpl
-rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - Survival\database\/" /S *.tpl
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_bossmerge\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\records\creatures\enemies\/" /S *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_bossmerge\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\records\creatures\enemies\/" /S *.dbr
 
 rem text_en replication
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\text_en\" /y

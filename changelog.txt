@@ -45,21 +45,23 @@ to find the missing commas
 ***********************************************************************
 0049 - ?
 *create UI for 99 masteries.. just in case
-*create spreadsheet update for 99 masteries... just in case
+*added a loading screen replacement - will be improved in the future
+*GAH where is this ? 91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
 
-0048 - ?
+0048 - 6:44 PM 7/14/2016
 Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!
 tag issues with CFTX drops
 add AngryWeasel as a component vendor and OP credits for doing this : https://www.youtube.com/watch?v=JhV_wq_G-rE
 re-import DGA tags.. my editing has caused some to dissapear! damn merger thinking my updates are more up to date :( - my updates are up to date. something is up with DGA ill let warebare sort it out
 mogdrogan fix from 0047 didnt work fro everyone. made a better mogdrogan fix. cough up those iron bits people! now it works for reals i tested it :P
 food/drinks give mana again. yay i broke it in 0042 i think
-*test the omega changes
-*add Aaron Barton and SL AM to credits for names
-*check for baron wradlith in spined cove - fix if needed
-*Hey, still having an issue with some items rolling with the "Replicating Missile" proc on them, however the cooldown is sometimes replaced with an energy cost
-*91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
-*more x-mode stuff: Just set healthGainOnKillPct to 100 and healthGainOnKillDifficulty to 0 for every entity in records/creatures/enemies/boss&quest. 
+create spreadsheet update for 99 masteries... just in case. added some unused masteries to it in advance if we want to start naming them. 272 missing names people. get to it !
+add Aaron Barton and SL AM to credits for names
+test the omega changes - works
+check for baron wradlith in spined cove - fix if needed - hes there
+update omega mod to 0.52
+this seems like a vanilla problem. can someone tell me i not crazy on this? if so lets complain to crate.  -> Hey, still having an issue with some items rolling with the "Replicating Missile" proc on them, however the cooldown is sometimes replaced with an energy cost
+more x-mode stuff: Just set healthGainOnKillPct to 100 and healthGainOnKillDifficulty to 0 for every entity in records/creatures/enemies/boss&quest. 
 
 0047 - 4:08 AM 7/13/2016
 spirit mastery fixed again ;[ derp
