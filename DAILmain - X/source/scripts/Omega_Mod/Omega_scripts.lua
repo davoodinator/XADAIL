@@ -32,6 +32,13 @@ end
 --DAIL END
 end
 
+function omega.scripts.onbossdeath()
+	if Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
+		local player = Game.GetLocalPlayer();
+		player:GiveItem('records/omega/items/questitems/Omega_Soul_Boss.dbr', 1, true);
+		player:GiveItem('records/omega/items/questitems/Omega_Soul_Boss.dbr', 1, true);
+	end
+end
 
 --DAIL START
 function dail.scripts.spawndailitems()
@@ -276,12 +283,11 @@ local t={'OMEGA_LEVEL_1','OMEGA_LEVEL_2','OMEGA_LEVEL_3','OMEGA_LEVEL_4','OMEGA_
 	
 	if spOMbosschance > 10000 then
 		local spOMpetRandomizer = 0
-		spOMpetRandomizer = random(1,6)
-		if spOMpetRandomizer < 6 then
-			omega.scripts.summonatfeet('records/omega/creatures/om_spawnerpet.dbr');
-		else
-			omega.scripts.summonatfeet('records/omega/creatures/om_spawnerpet2.dbr');
-		end
+		local OmegaNemesisDBRs = { 'records/omega/creatures/om_spawnerpet_aetherial.dbr','records/omega/creatures/om_spawnerpet_chthonian.dbr','records/omega/creatures/om_spawnerpet_kymon.dbr','records/omega/creatures/om_spawnerpet_order.dbr','records/omega/creatures/om_spawnerpet_outlaw.dbr','records/omega/creatures/om_spawnerpet_undead.dbr' }
+		local totalOmegaNemesis = table.getn(OmegaNemesisDBRs)
+		spOMpetRandomizer = random(1,totalOmegaNemesis)
+		omega.scripts.summonatfeet(OmegaNemesisDBRs[spOMpetRandomizer]);
+
 	end
 end
 
@@ -360,4 +366,41 @@ function omega.scripts.bossMIonAddToWorld(objectId)
 					test:NetworkEnable()
 					test:SetCoords(itemCoords)
 				end
+end
+
+-----Give a low chance to summon the corresponding Omega boss when opening Nemesis chest in Ultimate Difficulty.
+function omega.scripts.onopenchestnemesis(objectID)
+	local player = Game.GetLocalPlayer()
+	if player:HasToken('OMEGA_START_QUEST') and Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
+		local spOMbosschance = 0
+		math.randomseed(Time.Now())
+		spOMbosschance = random(1,100)
+			if spOMbosschance > 96 then
+					omega.scripts.summonatfeet(objectID)
+				else
+					if player:HasToken('OMEGA_BUFF_SPAWN') then
+						omega.scripts.summonatfeet(objectID)
+						player:RemoveToken('OMEGA_BUFF_SPAWN')
+					end
+			end
+	end
+end
+
+function omega.scripts.onopenchestaetherial()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_aetherial.dbr');
+end
+function omega.scripts.onopenchestchthonian()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_chthonian.dbr');
+end
+function omega.scripts.onopenchestkymon()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_kymon.dbr');
+end
+function omega.scripts.onopenchestorder()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_order.dbr');
+end
+function omega.scripts.onopenchestoutlaw()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_outlaw.dbr');
+end
+function omega.scripts.onopenchestundead()
+	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_undead.dbr');
 end

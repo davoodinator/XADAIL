@@ -28,13 +28,12 @@ Procrastination - also stuff other people can work on if they are keeners
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
 ^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
-^make some kind of tool to check line endings in all .dbr files to see if they end in , and contain exactly two commas per line, ignoring blank lines.
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
 ^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
 ^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
 ^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit  so it shouldn't matter later
-^sometimes tag spam from component vendor summoning item.. but no component vendor.. happens on clvl=1 char
 ^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
+^reverse spear models
 ***********************************************************************
 ***********************************************************************
 GREP SEARCH FOR ; missing at end of lines in .dbr files
@@ -44,9 +43,23 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
+0049 - ?
+*create UI for 99 masteries.. just in case
+*create spreadsheet update for 99 masteries... just in case
+
 0048 - ?
-*reverse spear models
+Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!
+tag issues with CFTX drops
+add AngryWeasel as a component vendor and OP credits for doing this : https://www.youtube.com/watch?v=JhV_wq_G-rE
+re-import DGA tags.. my editing has caused some to dissapear! damn merger thinking my updates are more up to date :( - my updates are up to date. something is up with DGA ill let warebare sort it out
+mogdrogan fix from 0047 didnt work fro everyone. made a better mogdrogan fix. cough up those iron bits people! now it works for reals i tested it :P
+food/drinks give mana again. yay i broke it in 0042 i think
+*test the omega changes
+*add Aaron Barton and SL AM to credits for names
 *check for baron wradlith in spined cove - fix if needed
+*Hey, still having an issue with some items rolling with the "Replicating Missile" proc on them, however the cooldown is sometimes replaced with an energy cost
+*91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
+*more x-mode stuff: Just set healthGainOnKillPct to 100 and healthGainOnKillDifficulty to 0 for every entity in records/creatures/enemies/boss&quest. 
 
 0047 - 4:08 AM 7/13/2016
 spirit mastery fixed again ;[ derp
@@ -57,7 +70,7 @@ add a page on github pages for hybrid names done you can see link here -> https:
 clicky summons in pack = annoying. make a potion that uses a skill slot. is stackable and chooses a random npc 
 	step 1 get teh potion to drop and stack in inventory
 	step 2 get the clicky added to dbr files
-	step 3 get it to actually triger the dail.summon.npc()
+	step 3 get it to actually trigger the dail.summon.npc()
 the "Rhowari Legacy"-quest is broken now. The quest-npc gives you the quest, you find spirit/runed stone as normal - but once you arrive at the shrine it's still cleansed from previous DAIL versions. - added option to the quest giver if you have over 100k iron
 increase overall loot quality in x mode
 	drop rates are the same but loot quality has been drastically increased, every item will have a prefix and suffix, no item will have only a prefix or only a suffix.

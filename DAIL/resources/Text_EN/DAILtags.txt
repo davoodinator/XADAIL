@@ -5,9 +5,9 @@ tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
 #Areas
-tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0047)
-tagMapHomestead=Homestead^r(DAIL 0047)
-tagMapFortIkon=Fort Ikon^r(DAIL 0047)
+tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0048)
+tagMapHomestead=Homestead^r(DAIL 0048)
+tagMapFortIkon=Fort Ikon^r(DAIL 0048)
 
 
 #DAIL SPAWNS
@@ -39,7 +39,7 @@ tagDailThentyZShopping0017=^oMamba the ^wHunting ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0018=^oCyberreefer the ^wSpirit ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0019=^oAdoomgod the ^wWarfare ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0020=^oElfe the ^wNature ^oEmissary of ^wASYLUM101
-tagDailThentyZShopping0021=^rPLACEHOLDER the ^wRogue ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0021=^rAngryWeasel the ^wRogue ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0022=^oAzri Kun the ^wEarth ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0023=^oOleg Martynov the ^wStorm ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0024=^oDeathbit the ^wDream ^oEmissary of ^wASYLUM101
