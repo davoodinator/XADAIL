@@ -43,10 +43,16 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
+0050 - planned stable release
+
 0049 - ?
+*Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in Devil's Aquifer, unable to finish quest. "Primordian, the Forgotten One" was in it's place.
 *create UI for 99 masteries.. just in case
 *added a loading screen replacement - will be improved in the future
 *GAH where is this ? 91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
+*update omega scripts in x mode (whuups) add it as a script mk
+*THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049)
+*merge DGA 0.4
 
 0048 - 6:44 PM 7/14/2016
 Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!
