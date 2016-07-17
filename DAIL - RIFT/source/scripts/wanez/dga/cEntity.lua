@@ -2,7 +2,7 @@
 Entity Classification Methods
 ]]--
 function wanez.dga.cEntity(argClassID)
-    local ClassID = argClassID || 0
+    local ClassID = argClassID or 0
     local GlobalLoot = {}
     local class = {
         __constructor = function(self)
@@ -12,19 +12,10 @@ function wanez.dga.cEntity(argClassID)
             GlobalLoot.ListLT = wanez.dga._Data.LootTables.Global
             GlobalLoot.CountLT = table.getn(GlobalLoot.ListLT)
             GlobalLoot.aLT = {} -- list tables inside globalLT
-            --GlobalLoot.aLT.aRatio = {}
-            --GlobalLoot.aLT.MaxCount = 0
-            --GlobalLoot.aLT.MaxRatio = 0
             
-            --local maxRatio = 0
-            --GlobalLoot.CountSubLT = table.getn(GlobalLoot.ListLT)
             for i=1,GlobalLoot.CountLT do
                 local curLT = GlobalLoot.ListLT[i]
                 local maxRatio = 0
-                
-                --GlobalLoot.aLT.MaxRatio = GlobalLoot.aLT.MaxRatio + curLT.Ratio
-                --table.insert(GlobalLoot.aLT.aRatio,curLT.Ratio)
-                
                 
                 GlobalLoot.aLT[i] = {}
                 GlobalLoot.aLT[i].Count = table.getn(curLT)
@@ -35,25 +26,18 @@ function wanez.dga.cEntity(argClassID)
                     table.insert(GlobalLoot.aLT[i].aRatio,curLT[j].Ratio)
                 end;
                 GlobalLoot.aLT[i].maxRatio = maxRatio
-                
-                --UI.Notify(maxRatio)
             end;
         end;
         dropLoot = function(self,argDBR,argCount,argCoords)
-            argCoords = argCoords || false
-            --argObjectId = argObjectId || false
-            if(wanez.dga.var.GiveItem || argCoords == false)then
-                --local newItem = Entity.Create(itemDBR)
+            argCoords = argCoords or false
+            if(wanez.dga.var.GiveItem or argCoords == false)then
                 Game.GetLocalPlayer():GiveItem(argDBR,argCount,false)
             else
-                --local coords = Character.Get(argObjectId):GetCoords()
                 for j=1,argCount do
                     local newItem = Entity.Create(argDBR)
                     newItem:SetCoords(argCoords)
                 end;
             end
-            --argCount = argCount - 1
-            --if(argCount > 0)then self:genLoot(argObjectId,argCount);end;
         end;
         calcGlobalDropChance = function(self,argSlot)
             return wanez.RNG({1,GlobalLoot.DropChance[argSlot][1]},GlobalLoot.DropChance[argSlot][2])
@@ -65,7 +49,7 @@ function wanez.dga.cEntity(argClassID)
             
             local endWhile = false;
             while(endWhile == false)do
-                local reqLevel = argList[randItem][2] || 0
+                local reqLevel = argList[randItem][2] or 0
                 
                 if(argEnemyLevel >= reqLevel)then
                     retDBR = argList[randItem][1]
@@ -90,7 +74,7 @@ function wanez.dga.cEntity(argClassID)
             
         end;
         genLoot = function(self,argObjectId,argItemCount)
-            argItemCount = argItemCount || 0
+            argItemCount = argItemCount or 0
             local enemy = Character.Get(argObjectId)
             for h=1,GlobalLoot.DropSlots do
                 if(self:calcGlobalDropChance(h))then
@@ -109,8 +93,7 @@ function wanez.dga.cEntity(argClassID)
                             --local itemCount = (argItemCount > 0) && argItemCount || 1
                             local itemCount = 1
                             local itemDBR = false
-                            
-                            
+
                             -- check if reqlevel or tier is used to determine DBR
                             if(curLT["UseTier"][randList] == false)then
                                 itemDBR = self:usesLevel(curLT["Lists"][randList][randListType][wanez.DifficultyID],enemy:GetLevel())
@@ -123,7 +106,6 @@ function wanez.dga.cEntity(argClassID)
                             if(curLT["ICwD"][randList])then itemCount = wanez.DifficultyID;end;
                             -- Give or Drop Items
                             self:dropLoot(itemDBR,itemCount,enemy:GetCoords())
-                            --self:dropLoot(itemData,itemCount,enemy:GetCoords())
                         end
                     end;
                 end

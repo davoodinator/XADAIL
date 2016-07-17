@@ -9,20 +9,21 @@ function wanez.dga.cReward()
     local UberID = 1
     local waData = {}
     local BlockBossSpawn = false
+    local killCount = 0
     
     local class = {
         --__constructor = function(self)
         --end;
         setSpecialData = function(self)
-            UberID = (wanez.dga.Settings:getIsUber()) && 2 || 1
+            UberID = wanez.dga.Settings:getUberID()
             waData = wanez.dga._Settings.Reward.Special[SpecialID][UberID]
             --wanez.dga._Settings.Reward.Special[SpecialID][1].Credit.Gain.Kills
         end;
-        resetData = function(self)
+        resetData = function(self,argUberID)
             SpecialCredit = 0
             SpecialID = 0
             ModeID = 0
-            UberID = 1
+            UberID = argUberID
             waData = {}
             BlockBossSpawn = false
         end;
@@ -37,20 +38,25 @@ function wanez.dga.cReward()
         end;
         getSpawnRating = function(self)
             local spawnRating = 0
+            local mathRespawnThreshold = 1
             if(SpecialID > 0)then
-                local mathRespawnThreshold = (wanez.dga.Areas[dgaAreaType].EnemyCount / 100) * waData.Credit.Scaling[wanez.DifficultyID]
-                spawnRating = SpecialCredit / mathRespawnThreshold * 100 * 10
+                if(waData.Credit.Scaling[wanez.DifficultyID] ~= 0)then
+                    mathRespawnThreshold = (wanez.dga.Areas[dgaAreaType].EnemyCount / 100) * waData.Credit.Scaling[wanez.DifficultyID];
+                    spawnRating = SpecialCredit / mathRespawnThreshold * 100 * 10
+                else
+                    spawnRating = SpecialCredit
+                end
                 
                 --if(mathSpawn >= waData.Credit.Requirements[argType][wanez.DifficultyID])
-            elseif(ModeID > 0)then
+            elseif(ModeID > 1)then
                 
             end
             return spawnRating
         end;
         checkIfSpawn = function(self,argObjectId)
-            local poolBoss = wanez._Data.Enemies.Boss
+            local poolBoss = wanez._Data.Enemies.RandomRaid
             local spawnRating = self:getSpawnRating()
-            if(waData.Credit.Requirements.BossSpawn != nil && BlockBossSpawn == false)then
+            if(waData.Credit.Requirements.BossSpawn ~= nil and BlockBossSpawn == false)then
                 if(spawnRating >= waData.Credit.Requirements.BossSpawn[wanez.DifficultyID])then
                     local enemyLoc = Character.Get(argObjectId):GetCoords()
                     local bossDBR = poolBoss[wanez.RNG({1,table.getn(poolBoss)})]
@@ -59,15 +65,21 @@ function wanez.dga.cReward()
                     BlockBossSpawn = true
                     UI.Notify("tagWaSpecialBossSpawned")
                 end
-            elseif(waData.Credit.Requirements.ReSpawn != nil)then
+            elseif(waData.Credit.Requirements.ReSpawn ~= nil)then
                 
             end
             --if(spawnRating >= waData.Credit.Requirements[argType][wanez.DifficultyID])
         end;
         giveSpecialCredit = function(self,argEvent,argClassId,argObjectId)
             if(argEvent == "onDie")then
+                local scrollDBR = 'mod_wanez/items/dga/scroll_portal_dga01.dbr'
+                local _player = Game.GetLocalPlayer()
+                if(argClassId == 4 and SpecialCredit ~= 0)then
+                    _player:GiveItem(scrollDBR,1,true)
+                    UI.Notify("tagWaScrollSpecialReceived")
+                end
                 SpecialCredit = SpecialCredit + waData.Credit.Gain.Kills[argClassId]
-                if(BlockBossSpawn && argClassId == 5)then
+                if(BlockBossSpawn and argClassId == 7)then
                     SpecialCredit = 0;
                     -- TODO: UBER SWITCH
                     local uberChance = wanez.dga._Data.Chances.Special.UberComp[wanez.DifficultyID] * (wanez.dga.Settings:getTier() + 1)
@@ -84,11 +96,15 @@ function wanez.dga.cReward()
                         local itemDBR = wanez.dga._Data.Items.Uber.Token[SpecialID][wanez.RNG({1,totalRNG},rngArray)][1]
                         local itemCount = 1
                         local enemyLoc = Character.Get(argObjectId):GetCoords()
-                        wanez.dga.Data.Entities[5]:dropLoot(itemDBR,itemCount,enemyLoc)
+                        if(UberID == 1)then wanez.dga.Data.Entities[5]:dropLoot(itemDBR,itemCount,enemyLoc);end;
+                        if(UberID == 2)then wanez.dga.Data.Entities[5]:dropLoot('mod_wanez/items/token/souls/soul_uber.dbr',itemCount,enemyLoc);end;
                     end
-                    
                     SpecialCredit = 0
-                    UI.Notify("tagWaMonsterDespawnedYouCanLeave")
+                    -- remove portal scroll if player has one
+                    if(_player:HasItem(scrollDBR,1,true))then
+                        _player:TakeItem(scrollDBR,1,true)
+                    end
+                    UI.Notify("tagWaSpecialBossDeafeated")
                     --wanez.dga.Areas[dgaAreaType]:removeEntities()
                 end;
             end
@@ -104,6 +120,29 @@ function wanez.dga.cReward()
         end;
         setCredit = function(self,argValue)
             SpecialCredit = 1
+        end;
+        addKill = function(self)
+            killCount = killCount + 1
+        end;
+        getKillCount = function(self)
+            return killCount
+        end;
+        resetKillCount = function(self)
+            killCount = 0
+        end;
+        
+        mathDupeChance = function(self,argTotalChance) -- when the chance is higher than 100% it can drop additional items
+            local itemCount = 0; -- {int ItemCount,int RemainingChance}
+            local remainingChance = argTotalChance
+            
+            if(argTotalChance > 100)then
+                -- wanez.RNG({},curChance)
+                itemCount = math.floor(argTotalChance / 100)
+                remainingChance = argTotalChance - (itemCount * 100)
+            end
+            itemCount = (wanez.RNG({1,100},remainingChance)) and itemCount + 1 or itemCount
+            
+            return itemCount;
         end;
     }
     --class:__constructor();

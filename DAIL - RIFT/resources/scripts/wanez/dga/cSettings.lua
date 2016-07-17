@@ -2,7 +2,7 @@
 Primary Settings, or global settings inside DGA-MOD
 ]]--
 function wanez.dga.cSettings(argObjectId,optData)
-    optData = optData || {["AreaID"]=0,["LayoutID"]=0,["FloorID"]=0,["RegionID"]=0,["Tier"]=0,["ModeID"]=0,["SpecialID"]=0};
+    optData = optData or {["AreaID"]=0,["LayoutID"]=0,["FloorID"]=0,["RegionID"]=0,["Tier"]=0,["ModeID"]=0,["SpecialID"]=0};
     local class = {
         Data = optData;
         Hideout = {};
@@ -21,7 +21,7 @@ function wanez.dga.cSettings(argObjectId,optData)
             self.Data.AreaID = self:genRandomAreaID(argAreaId);
         end;
         setLayoutID = function(self,argLayoutId)
-            argLayoutId = argLayoutId || self:genLayoutID()
+            argLayoutId = argLayoutId or self:genLayoutID()
             self.Data.LayoutID = argLayoutId;
         end;
         setFloorID = function(self,argFloorId)
@@ -52,7 +52,7 @@ function wanez.dga.cSettings(argObjectId,optData)
             self.Hideout.LocPortalToArea = Entity.Get(argObjectId):GetCoords();
         end;
         setSpawnTrigger = function(self,argSpawn)
-            argSpawn = argSpawn || false
+            argSpawn = argSpawn or false
             self.Data.SpawnTrigger = argSpawn
         end;
         setIsUber = function(self,argIsUber)
@@ -73,6 +73,7 @@ function wanez.dga.cSettings(argObjectId,optData)
             
         end;
         onOpenPortal = function(self,argAreaId,argSpecialId,argIsUber)
+            argIsUber = argIsUber or false
             self:setSpecialID(argSpecialId);
             self:setIsUber(argIsUber)
             self:setAreaID(argAreaId);
@@ -81,10 +82,13 @@ function wanez.dga.cSettings(argObjectId,optData)
             self:setRegionID(1);
             self:setPortalCharges();
             self:setSpawnTrigger(true);
+            wanez.dga.Data.Rewards:resetData(self:getUberID())
             
             return {self:getAreaID(),self:getLayoutID(),self:getTier()};
         end;
         prepPortal = function(self,argTier,argModeId)
+            --argIsUber = argIsUber or false
+            --self:setIsUber(argIsUber)
             math.randomseed(Time.Now())
             self:setTier(argTier);
             self:setModeID(argModeId);
@@ -92,13 +96,25 @@ function wanez.dga.cSettings(argObjectId,optData)
             self:setKillCount(0);
             self:setSpecialCredit(0);
             wanez.dga.var.BlockProxyCleanUp = false
-            wanez.dga.Data.Rewards:resetData()
+            wanez.dga.Data.Rewards:resetData(1)
             
             wanez.dga.Areas.Default:removeEntities();
             --wanez.dga.Data.Portals[self:getAreaID()][self:getLayoutID()]:movePortal(true);
         end;
+        onOpenPortalNextArea = function(self,argAreaId)
+            wanez.dga.var.BlockProxyCleanUp = false
+            math.randomseed(Time.Now())
+            self:setAreaID(argAreaId);
+            self:setLayoutID();
+            self:setPortalCharges();
+            --self:setSpawnTrigger(true);
+
+            wanez.dga.Areas.Default:removeEntities();
+
+            return {self:getAreaID(),self:getLayoutID(),self:getTier()};
+        end;
         genLayoutID = function(self,argAreaId)
-            argAreaId = argAreaId || self:getAreaID()
+            argAreaId = argAreaId or self:getAreaID()
             -- set default LayoutID
             local newLayoutID = 1
             
@@ -108,7 +124,7 @@ function wanez.dga.cSettings(argObjectId,optData)
                 if(self.PrevLayoutID[argAreaId] == nil)then self.PrevLayoutID[argAreaId] = {};end;
                 local prevLayoutIDCount = table.getn(self.PrevLayoutID[argAreaId])
                 local rndLayoutID = wanez.RNG({1,countLayouts})
-                if(prevLayoutIDCount != 0)then
+                if(prevLayoutIDCount ~= 0)then
                     local whileLayoutID = 0
                     while (whileLayoutID == 0) do
                         whileLayoutID = rndLayoutID
@@ -139,7 +155,7 @@ function wanez.dga.cSettings(argObjectId,optData)
                 ["Reward"] = self.Reward,
                 ["Hideout"] = self.Hideout
             }
-            local retArray = (argArray != nil) && newArray[argArray] || newArray
+            local retArray = (argArray ~= nil) and newArray[argArray] or newArray
             return retArray;
         end;
         getTier = function(self) return self.Data.Tier;end;
@@ -150,6 +166,10 @@ function wanez.dga.cSettings(argObjectId,optData)
         getLocPortalToArea = function(self) return self.Hideout.LocPortalToArea;end;
         getSpawnTrigger = function(self) return self.Data.SpawnTrigger;end;
         getIsUber = function(self) return self.Data.isUber;end;
+        getUberID = function(self)
+            local uberId = self.Data.isUber and 2 or 1
+            return uberId;
+        end;
         
         
     }

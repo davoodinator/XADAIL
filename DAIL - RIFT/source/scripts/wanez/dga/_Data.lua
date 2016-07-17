@@ -1,3 +1,14 @@
+-- NPCPool.[1:int spawn chance;2:array Pools] - Pool: {string DBR,(optional) int spawn ratio [default: 1],(optional) array conversation settings [default: nil]} - ConversationSettings: int number of options, array ratio
+local listRandomNPC = {
+    {
+        25,
+        {
+            {"mod_wanez/creatures/npcs/dga/souleater/event_souleater_01_npc.dbr",2,{2,{6,4,2,1}}}, -- Vanilla (Relics)
+            --{"mod_wanez/creatures/npcs/dga/souleater/event_souleater_02_npc.dbr",2}, -- DGA
+            {"mod_wanez/creatures/npcs/dga/souleater/event_souleater_03_npc.dbr",2} -- OMEGA
+        }
+    }
+}
 
 local listRewardsDGA = {
 	["Containers"] = {
@@ -14,7 +25,6 @@ local listRewardsDGA = {
 local listKeysDGA = {
     {
         [1]={
-            --[0] = "mod_wanez/items/dga/key_normal_00.dbr",
             [1] = "mod_wanez/items/dga/key_normal_01.dbr",
             [2] = "mod_wanez/items/dga/key_normal_02.dbr",
             [3] = "mod_wanez/items/dga/key_normal_03.dbr",
@@ -22,7 +32,6 @@ local listKeysDGA = {
             [5] = "mod_wanez/items/dga/key_normal_05.dbr"
         },
         [2]={
-            --[0] = "mod_wanez/items/dga/key_elite_00.dbr",
             [1] = "mod_wanez/items/dga/key_elite_01.dbr",
             [2] = "mod_wanez/items/dga/key_elite_02.dbr",
             [3] = "mod_wanez/items/dga/key_elite_03.dbr",
@@ -130,17 +139,31 @@ local listCurrency = {
 	}
 }
 -- 
+local listAether = {
+    {
+        [1] = {
+            {"records/items/materia/compa_aethercrystal.dbr"}
+        },
+        [2] = {
+            {"records/items/materia/compa_aethercrystal.dbr"}
+        },
+        [3] = {
+            {"records/items/materia/compa_aethercrystal.dbr"}
+        }
+    }
+}
+-- 
 local listSouls = {
     {
         [1] = {
             {"mod_wanez/items/token/souls/soul_common.dbr"},
             {"mod_wanez/items/token/souls/soul_champion.dbr"},
             {"mod_wanez/items/token/souls/soul_hero.dbr"},
-            {"mod_wanez/items/token/souls/soul_miniboss.dbr"},
+            {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_nemesis.dbr"},
             {"mod_wanez/items/token/souls/soul_raid.dbr"},
-            {"mod_wanez/items/token/souls/soul_uber.dbr"},
+            {"mod_wanez/items/token/souls/soul_souleater.dbr"},
             {"mod_wanez/items/token/souls/soul_aethercrystal.dbr"},
             {"mod_wanez/items/token/souls/soul_aetherobelisk.dbr"}
         },
@@ -148,11 +171,11 @@ local listSouls = {
             {"mod_wanez/items/token/souls/soul_common.dbr"},
             {"mod_wanez/items/token/souls/soul_champion.dbr"},
             {"mod_wanez/items/token/souls/soul_hero.dbr"},
-            {"mod_wanez/items/token/souls/soul_miniboss.dbr"},
+            {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_nemesis.dbr"},
             {"mod_wanez/items/token/souls/soul_raid.dbr"},
-            {"mod_wanez/items/token/souls/soul_uber.dbr"},
+            {"mod_wanez/items/token/souls/soul_souleater.dbr"},
             {"mod_wanez/items/token/souls/soul_aethercrystal.dbr"},
             {"mod_wanez/items/token/souls/soul_aetherobelisk.dbr"}
         },
@@ -160,11 +183,11 @@ local listSouls = {
             {"mod_wanez/items/token/souls/soul_common.dbr"},
             {"mod_wanez/items/token/souls/soul_champion.dbr"},
             {"mod_wanez/items/token/souls/soul_hero.dbr"},
-            {"mod_wanez/items/token/souls/soul_miniboss.dbr"},
+            {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_boss.dbr"},
             {"mod_wanez/items/token/souls/soul_nemesis.dbr"},
             {"mod_wanez/items/token/souls/soul_raid.dbr"},
-            {"mod_wanez/items/token/souls/soul_uber.dbr"},
+            {"mod_wanez/items/token/souls/soul_souleater.dbr"},
             {"mod_wanez/items/token/souls/soul_aethercrystal.dbr"},
             {"mod_wanez/items/token/souls/soul_aetherobelisk.dbr"}
         }
@@ -181,15 +204,15 @@ local globalDropChancePerEntity = {
 	["Classification"] = {
 		[1] = { -- Common
 			"Common",
-			{{100,1}}
+			{{1000,1}}
 		},
 		[2] = { -- Champion
 			"Champion",
-			{{50,1}}
+			{{500,1}}
 		},
 		[3] = { -- Hero
 			"Hero",
-			{{1,1},{2,1},{4,1},{5,1},{10,1}}
+			{{2,1},{4,1},{6,1},{8,1},{10,1}}
 		},
 		[4] = { -- Mini-Boss
 			"MiniBoss",
@@ -197,18 +220,18 @@ local globalDropChancePerEntity = {
 		},
 		[5] = { -- Boss
 			"Boss",
-			{{1,1},{1,1},{2,1},{4,1},{5,1}}
+			{{1,1},{2,1},{4,1},{6,1},{8,1}}
 		},
 		[6] = { -- Nemesis
 			"Nemesis",
-			{{1,1},{1,1},{1,1},{1,1},{2,1},{5,1}}
+			{{1,1},{1,1},{2,1},{2,1},{4,1},{4,1}}
 		},
 		[7] = { -- Raid
 			"Raid",
 			{{3,1},{5,1}}
 		},
 		[8] = { -- Uber
-			"Uber",
+			"SoulEater",
 			{{3,1},{5,1}}
 		},
         [9] = { -- 
@@ -287,7 +310,8 @@ wanez.dga._Data = {
                 ["TierComp"] = listDGAComp,
                 ["TierKeys"] = listKeysDGA,
                 ["Essences"] = listDGAToken
-            }
+            },
+            ["Aether"] = listAether
         },
         ["Special"] = {
             ["UberComp"] = specialUberCompTables
@@ -312,5 +336,8 @@ wanez.dga._Data = {
     ["Quests"] = {
         ["Repeatable"] = questsRepeatable,
         ["SpecialDGA"] = questsSpecialDGA
+    },
+    ["NPC"] = {
+        ["Random"] = listRandomNPC
     }
 };

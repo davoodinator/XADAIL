@@ -104,6 +104,12 @@ local poolX01 = {
 	["Champion"]={"mod_wanez/creatures/enemies/.dbr"},
 	["Hero"]={"mod_wanez/creatures/enemies/hero/.dbr"}
 }
+--
+local poolAetherialsOnDie01 = {
+	["Common"]={"mod_wanez/creatures/enemies/.dbr"},
+	["Champion"]={"mod_wanez/creatures/enemies/reanimator_b01.dbr","mod_wanez/creatures/enemies/reanimator_b02.dbr","mod_wanez/creatures/enemies/reanimator_c01.dbr","mod_wanez/creatures/enemies/reanimator_d01.dbr"},
+	["Hero"]={"mod_wanez/creatures/enemies/hero/reanimator_h01.dbr","mod_wanez/creatures/enemies/hero/reanimator_h02.dbr","mod_wanez/creatures/enemies/hero/reanimator_h03.dbr","mod_wanez/creatures/enemies/hero/reanimator_h04.dbr"}
+}
 -- AETHER
 local poolMiscAetherCrystal = {"mod_wanez/creatures/anomalies/aethercrystal_a01.dbr","mod_wanez/creatures/anomalies/aethercrystal_a02.dbr","mod_wanez/creatures/anomalies/aethercrystal_a03.dbr"}
 local poolMiscAetherObelisk = {"mod_wanez/creatures/enemies/aetherialobelisk_a01.dbr"}
@@ -141,7 +147,10 @@ local enemyMiniBossPool = {
 	[7]="mod_wanez/creatures/enemies/boss&quest/banditminiboss_lieutenant_06.dbr",
 	[8]="mod_wanez/creatures/enemies/boss&quest/ghost_oligarch_01.dbr",
 	[9]="mod_wanez/creatures/enemies/boss&quest/ghost_oligarch_02.dbr",
-	[10]="mod_wanez/creatures/enemies/boss&quest/ghost_oligarch_03.dbr"
+	[10]="mod_wanez/creatures/enemies/boss&quest/ghost_oligarch_03.dbr",
+	[11]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier01.dbr",
+	[12]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier02.dbr",
+	[13]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier03.dbr"
 	--[]="mod_wanez/creatures/enemies/boss&quest/.dbr"
 }
 
@@ -163,21 +172,18 @@ local enemyBossPool = {
 	[14]="mod_wanez/creatures/enemies/boss&quest/cultist_captain_01.dbr",
 	[15]="mod_wanez/creatures/enemies/boss&quest/cultist_captain_02.dbr",
 	[16]="mod_wanez/creatures/enemies/boss&quest/cultist_cultleader_01.dbr",
-	[17]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier01.dbr",
-	[18]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier02.dbr",
-	[19]="mod_wanez/creatures/enemies/boss&quest/dermapteran_vizier03.dbr",
-	[20]="mod_wanez/creatures/enemies/boss&quest/dranghoul_jaggedwaste.dbr", -- 02
-	[21]="mod_wanez/creatures/enemies/boss&quest/ghost_arkovianfoothills_01.dbr",
-	[22]="mod_wanez/creatures/enemies/boss&quest/ghost_maninneed_01.dbr",
-	[23]="mod_wanez/creatures/enemies/boss&quest/ghost_necroritual_01.dbr",
-	[24]="mod_wanez/creatures/enemies/boss&quest/ghoul_factioncrypt_01.dbr", -- 02
-	[25]="mod_wanez/creatures/enemies/boss&quest/ghoul_kymoncrypt_01.dbr", -- 02
-	[26]="mod_wanez/creatures/enemies/boss&quest/ghoul_necropolis_01.dbr", -- 02
-	[27]="mod_wanez/creatures/enemies/boss&quest/golemrock_miniboss_cave.dbr",
-	[28]="mod_wanez/creatures/enemies/boss&quest/golemrock_miniboss_cave_02.dbr",
-	[29]="mod_wanez/creatures/enemies/boss&quest/groble_burrwitchoutskirts_01.dbr",
-	[30]="mod_wanez/creatures/enemies/boss&quest/grundleplith.dbr",
-	[31]="mod_wanez/creatures/enemies/boss&quest/yeti_asterkarnmountains_01.dbr"
+	[17]="mod_wanez/creatures/enemies/boss&quest/dranghoul_jaggedwaste.dbr", -- 02
+	[18]="mod_wanez/creatures/enemies/boss&quest/ghost_arkovianfoothills_01.dbr",
+	[19]="mod_wanez/creatures/enemies/boss&quest/ghost_maninneed_01.dbr",
+	[20]="mod_wanez/creatures/enemies/boss&quest/ghost_necroritual_01.dbr",
+	[21]="mod_wanez/creatures/enemies/boss&quest/ghoul_factioncrypt_01.dbr", -- 02
+	[22]="mod_wanez/creatures/enemies/boss&quest/ghoul_kymoncrypt_01.dbr", -- 02
+	[23]="mod_wanez/creatures/enemies/boss&quest/ghoul_necropolis_01.dbr", -- 02
+	[24]="mod_wanez/creatures/enemies/boss&quest/golemrock_miniboss_cave.dbr",
+	[25]="mod_wanez/creatures/enemies/boss&quest/golemrock_miniboss_cave_02.dbr",
+	[26]="mod_wanez/creatures/enemies/boss&quest/groble_burrwitchoutskirts_01.dbr",
+	[27]="mod_wanez/creatures/enemies/boss&quest/grundleplith.dbr",
+	[28]="mod_wanez/creatures/enemies/boss&quest/yeti_asterkarnmountains_01.dbr"
 	--[]="mod_wanez/creatures/enemies/boss&quest/.dbr"
 }
 --
@@ -201,11 +207,32 @@ local enemyNemesisPool = {
 	"mod_wanez/creatures/enemies/nemesis/nemesis_undead_03.dbr"
 }
 --
-local enemyRaidPool = {
+local enemyRandomRaidPool = {
 	[1]="mod_wanez/creatures/enemies/boss&quest/banditleader_darius.dbr",
 	[2]="mod_wanez/creatures/enemies/boss&quest/chthonian_chthonicroguelike_01.dbr",
 	[3]="mod_wanez/creatures/enemies/boss&quest/cultist_chthonianmonstrosity.dbr"
 	--[]="mod_wanez/creatures/enemies/boss&quest/.dbr"
+}
+--
+local enemyRaidPool = {
+	[1]="mod_wanez/creatures/enemies/boss&quest/banditleader_darius.dbr",
+	[2]="mod_wanez/creatures/enemies/boss&quest/chthonian_chthonicroguelike_01.dbr",
+	[3]="mod_wanez/creatures/enemies/boss&quest/cultist_chthonianmonstrosity.dbr",
+	[3]="mod_wanez/creatures/enemies/boss&quest/warden01.dbr"
+	--[]="mod_wanez/creatures/enemies/boss&quest/.dbr"
+}
+local enemySouleaterPool = {
+	{
+		"mod_wanez/creatures/enemies/souleater/omboss_aetherial_01.dbr",
+		"mod_wanez/creatures/enemies/souleater/omboss_chthonian_02.dbr",
+		"mod_wanez/creatures/enemies/souleater/omboss_kymon_02.dbr",
+		"mod_wanez/creatures/enemies/souleater/omboss_orderdeathsvigil_01.dbr",
+		"mod_wanez/creatures/enemies/souleater/omboss_outlaw_01.dbr",
+		"mod_wanez/creatures/enemies/souleater/omboss_skeleton_undercity_01.dbr"
+	},
+	{
+		"mod_wanez/creatures/enemies/souleater/eater_chthonianleech_01.dbr"
+	}
 }
 --
 local enemyAether = {poolMiscAetherCrystal,poolMiscAetherObelisk}
@@ -221,8 +248,8 @@ local containerPoolRare = {
 local containerPoolRandom01 = {
 	["Common"]=containerPoolCommon,
 	["Rare"]=containerPoolRare,
-	["Special"]={"mod_wanez/items/chests/containers/dga_special_01.dbr"},
-	["Boss"]={"mod_wanez/items/chests/containers/dga_boss_01.dbr"}
+	["Special"]={}, -- "mod_wanez/items/chests/containers/dga_special_01.dbr"
+	["Boss"]={} -- "mod_wanez/items/chests/containers/dga_boss_01.dbr"
 }
 -- Pool for Basic DGA (Maze)
 local containerPoolRandom02 = {
@@ -281,15 +308,20 @@ local containerPool = {
 
 
 
--- 
+--
 wanez._Data = {
     ["Enemies"] = {
         ["Default"] = monsterPackPools,
         ["MiniBoss"] = enemyMiniBossPool,
         ["Boss"] = enemyBossPool,
         ["Nemesis"] = enemyNemesisPool,
-        ["Raid"] = enemyRaidPool,
+        ["RandomRaid"] = enemyRandomRaidPool,
+		["Raid"] = enemyRaidPool,
+		["Souleater"] = enemySouleaterPool,
         ["Aether"] = enemyAether
+    },
+    ["OnDie"] = {
+        ["AetherialCrystal"] = poolAetherialsOnDie01
     },
     ["Containers"] = containerPool,
     ["Loot"] = {

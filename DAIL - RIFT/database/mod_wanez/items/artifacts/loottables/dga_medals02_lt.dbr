@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1,
+records,mod_wanez/items/artifacts/loottables/dga_medals02_tdyn.dbr,

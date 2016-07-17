@@ -12,7 +12,9 @@ function omega.scripts.onherodeath()
 			end
 		omega.scripts.spawnomegaboss();
 	end
+	----START CALL for DAIL if Omega mod merge with DAIL.Function callDAILonherodeath() is inside DAIL.lua
 	callDAILonherodeath()
+	----END CALL for DAIL mod
 end
 
 function omega.scripts.onbossdeath()

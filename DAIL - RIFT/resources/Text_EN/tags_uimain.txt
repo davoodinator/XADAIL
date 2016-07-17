@@ -58,11 +58,6 @@ tagMenuImport04=Class
 tagMenuImport05=Level
 tagMenuImport06=Rename Character:
 
-#tagRDifficultyTitle01=Normal
-#tagRDifficultyTitle02=Elite
-#tagRDifficultyTitle03=Ultimate
-#tagChallengeDifficulty=Veteran
-#tagHardcore=Hardcore
 tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
 tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
 tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.

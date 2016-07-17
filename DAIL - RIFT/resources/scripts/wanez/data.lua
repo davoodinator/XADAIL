@@ -9,7 +9,7 @@ wanez.data = {
             [5] = "Boss",
             [6] = "Nemesis",
             [7] = "RaidBoss",
-            [8] = "UberRaidBoss",
+            [8] = "SoulEater",
             [9] = "AetherCrystal",
             [10] = "AetherObelisk"
         },

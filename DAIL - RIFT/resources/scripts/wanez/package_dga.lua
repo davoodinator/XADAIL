@@ -27,6 +27,8 @@ wanez.dga.Data.Portals = {};
 wanez.dga.Data.Entities = {};
 wanez.dga.Data.Rewards = {};
 wanez.dga.Rifts = {};
+wanez.dga.DynRifts = {}; -- rifts opened by a scroll
+wanez.dga.RiftHO = false
 Script.Load("scripts/wanez/dga/cMain.lua");
 Script.Load("scripts/wanez/dga/cPortal.lua");
 Script.Load("scripts/wanez/dga/cReward.lua");
@@ -42,6 +44,7 @@ Script.Load("scripts/wanez/dga/dbrArea.lua");
 Script.Load("scripts/wanez/dga/dbrEntity.lua");
 Script.Load("scripts/wanez/dga/dbrMisc.lua");
 Script.Load("scripts/wanez/dga/dbrQuest.lua");
+Script.Load("scripts/wanez/dga/dbrNPC.lua");
 --Script.Load("scripts/wanez/dga/dbrSouls.lua");
 
 --[[

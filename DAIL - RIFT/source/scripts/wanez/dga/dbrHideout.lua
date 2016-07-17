@@ -1,15 +1,58 @@
- --[[
+--[[
  Events triggered upon entering the hideout
- ]]--
+]]--
 local currentPortalToArea = false
-local portalCharges = 0
+portalCharges = 0
+dgaBlockPortalCollector = false
+dgaBlockScrollPortalSpawnDGA = false
 local resetGlobalCharges = 0
 
-local function iniEntity()
+--
+local function devOnlyFn()
+    if(wanez.isDev)then
+        local player = Game.GetLocalPlayer()
+        local playerCoords = player:GetCoords()
+        local mainPath = 'mod_wanez/items/artifacts/dev/'
+        local godModeItems = {
+            '0000_accessoryset_necklace',
+            '0000_accessoryset_ring01',
+            '0000_accessoryset_ring02',
+            '0000_accessoryset_waist',
+            '0000_armourset_feet',
+            '0000_armourset_hands',
+            '0000_armourset_head',
+            '0000_armourset_legs',
+            '0000_armourset_shoulders',
+            '0000_armourset_torso',
+            '0000_armourset_waist',
+            '0000_weapon_scepter001',
+            '0000_weapon_focus001'
+        }
+        for i=1,table.getn(godModeItems) do
+            local newItem = Entity.Create(mainPath..godModeItems[i]..'.dbr')
+            newItem:SetCoords(playerCoords)
+        end
+    end
+end
+local function iniFirstEnter()
+    local player = Game.GetLocalPlayer()
+    if not(player:HasToken("DGA_FIRST_ENTER_01"))then
+        player:GiveToken("DISMANTLING_UNLOCKED") -- Dismantle
+        if not(player:HasItem("mod_wanez/items/dga/scroll_portal_hideout.dbr",1,true))then
+            player:GiveItem("mod_wanez/items/dga/scroll_portal_hideout.dbr",1,true) -- Portal Scroll (Hideout)
+        end
+        -- give DGA Token at the end in case of a crash
+        --player:GiveToken("DGA_FIRST_ENTER_01")
+    end
+end
+local function iniHideout()
     local totalClassIDs = table.getn(wanez.data.Enemies.Classification)
     for i=1,totalClassIDs do
         wanez.dga.Data.Entities[i] = wanez.dga.cEntity(i)
     end
+
+    iniFirstEnter()
+    --devOnlyFn()
 end
 local function removeDGAKey()
     --
@@ -23,13 +66,13 @@ local function removeDGAKey()
 		if(Tier > FreeTier)then
 			local keyDBR = wanez.dga._Data.Items.Global.DGA.TierKeys[1][wanez.DifficultyID][Tier]
 			local player = Game.GetLocalPlayer()
-			if(wanez.dga._Settings.Areas.Requirements.DGAKey[ModeID] == 1 && SpecialID == 0)then
+			if(wanez.dga._Settings.Areas.Requirements.DGAKey[ModeID] == 1 and SpecialID == 0)then
 				player:DestroyItem(keyDBR)
 			else
-				local loopCount = (SpecialID == 0) && wanez.dga._Settings.Areas.Requirements.DGAKey[ModeID] || wanez.dga._Settings.Areas.Requirements.DGAKeySpecial[SpecialID]
+				local loopCount = (SpecialID == 0) and wanez.dga._Settings.Areas.Requirements.DGAKey[ModeID] or wanez.dga._Settings.Areas.Requirements.DGAKeySpecial[SpecialID]
 				for i=1,loopCount do
 					player:DestroyItem(keyDBR)
-				end
+                end
 			end
 		end
 	end
@@ -44,7 +87,7 @@ local function waGrantQuest(argType,argQuestId)
         local taskId = questPool[argQuestId][2]
 
         local questState = player:GetQuestState(questId)
-        if(questState != QuestState.InProgress)then
+        if(questState ~= QuestState.InProgress)then
             if(wanez.dga.Settings:getSpecialID())then wanez.dga.Data.Rewards:setCredit(1);end;
             player:GrantQuest(questId,taskId)
             --player:CompleteQuest(questId)
@@ -52,10 +95,19 @@ local function waGrantQuest(argType,argQuestId)
     end
 end
 --
+local function moveRiftsBackToHO()
+    for i=1,table.getn(wanez.dga.DynRifts) do
+        wanez.dga.DynRifts[i]:actionPortal('hide')
+    end
+    wanez.dga.RiftHO:actionPortal('hide')
+end
+--
 local function resetGlobal()
     if(resetGlobalCharges == 0)then
         wanez.dga.Areas[dgaAreaType]:removeEntities();
         wanez.dga.Data.Rewards:resetData()
+
+        moveRiftsBackToHO('hide')
     end
 end
 --
@@ -68,15 +120,24 @@ local function applyGameSettings()
     end
     wanez.dga.var.GiveItem = wanez.dga.getGameSettings("DGA_GIVE_ITEM")
 end
---
+-- 
 function wanez.dga.regPortalCoordsToDGA(argObjectId)
 	math.randomseed(Time.Now())
     if(wanez.dga.Settings == nil)then
         wanez.dga.Settings = wanez.dga.cSettings(argObjectId)
         wanez.dga.Areas = {}
         wanez.dga.Data.Rewards = wanez.dga.cReward();
-        -- 
-        iniEntity()
+        --
+        --if(wanez.isDev)then
+            --Game.GetLocalPlayer():GiveItem("mod_wanez/items/artifacts/beginner/tdev/token.dbr",1,true)
+        --end
+
+        -- DEV: test if new faction fn is working - remove with v0.5
+        --if(wanez.getFactionRank('USER14') >= 4)then UI.Notify("PM is maxed");end;
+        --if(wanez.getFactionRank('USER14') >= 3)then UI.Notify("PM is 3+");end;
+        --if(wanez.getFactionRank('USER15') >= 3)then UI.Notify("INV is maxed");end;
+
+        iniHideout()
         applyGameSettings()
         UI.Notify("tagWaWelcomeDGA");
     else
@@ -84,32 +145,29 @@ function wanez.dga.regPortalCoordsToDGA(argObjectId)
             resetGlobalCharges = resetGlobalCharges - 1
             resetGlobal()
         end
+        local scrollDBR = 'mod_wanez/items/dga/scroll_portal_dga01.dbr'
+        local _player = Game.GetLocalPlayer()
+        if not(_player:HasItem(scrollDBR,1,true))then
+            dgaBlockScrollPortalSpawnDGA = true
+            _player:TakeItem(scrollDBR,1,true)
+            dgaBlockScrollPortalSpawnDGA = false
+        end
     end
-    --UI.Notify(wanez.dga.Settings:getData().AreaID);
-    --wanez.dga.Settings:onOpenPortal(3);
-    --UI.Notify(wanez.dga.Settings.Data.AreaID);
-    --UI.Notify(tostring(wanez.dga.Settings:getLocPortalToArea()));
     
 end
 function wanez.dga.setSettings(argTier,argModeId)
-    if(currentPortalToArea != false)then currentPortalToArea:movePortal(true);end;
-    argTier = argTier || 0
-    argModeId = argModeId || 1
+    if(currentPortalToArea ~= false)then currentPortalToArea:movePortal(true);end;
+    argTier = argTier or 0
+    argModeId = argModeId or 1
     wanez.dga.Settings:prepPortal(argTier,argModeId)
 	math.randomseed(Time.Now())
-    --UI.Notify(wanez.dga.Settings:getTier())
-	--dgaSettings.CategoryOffset = "Default"
-	--dgaSettings.BlockRespawn = false
-	--dgaSettings.BlockBossSpawn = false
-	--dgaSettings.SpecialReset = true
-	--setTier(argTier)
-	--hidePortal()
-	--removeEntities()
 end
 function wanez.dga.openPortal(argAreaId,argSpecialId,argIsUber)
-    argAreaId = argAreaId || 0
-    argSpecialId = argSpecialId || 0
-    argIsUber = argIsUber || false
+    --wanez.dga.movePortalReturnToHideout()
+    moveRiftsBackToHO()
+    argAreaId = argAreaId or 0
+    argSpecialId = argSpecialId or 0
+    argIsUber = argIsUber or false
     
     portalCharges = Game.GetNumPlayers()
     resetGlobalCharges = Game.GetNumPlayers()
@@ -125,44 +183,33 @@ function wanez.dga.openPortal(argAreaId,argSpecialId,argIsUber)
         end
         
     end
-    --UI.Notify() -- tostring(portal:getObjectID())..tostring(portal.Loc)
-	-- remove DGA-Key from invetory and (TODO) check if player has required items before opening the portal
-	--if(removeDGAKey() == true)then
-	--	showPortal()
-	--	dgaSettings["BlockSpawn"] = false
-	--	dgaSettings.BlockBridge = false
-	--	if(dgaSettings.SpecialID == 1)then
-	--		dgaSettings.SpecialCredit = 1
-	--		--wanezGrantQuest(2)
-	--	end
-	--	if(dgaSettings.prevPortal[argAreaId] != nil)then dgaSettings.prevPortal[argAreaId] = {} end
-	--end
 end
-function wanez.dga.openSpecialPortal(argAreaId,argSpecialId)
+function wanez.dga.openSpecialPortal(argAreaId,argSpecialId,argIsUber)
+    argIsUber = argIsUber or false
 	--wanez.dga.Settings:setSpecialID(argSpecialId)
 	--dgaSettings.CategoryOffset = "Special"
-    wanez.dga.openPortal(argAreaId,argSpecialId)
-    --if()then
-    --  if(dgaSettings.SpecialID == 1)then
-	--		dgaSettings.SpecialCredit = 1
-	--		--wanezGrantQuest(2)
-	--	end
-    --end
+    wanez.dga.openPortal(argAreaId,argSpecialId,argIsUber)
+end
+--
+function wanez.dga.openRaidPortal(argAreaId,argSpecialId)
+	--dgaSettings.SpecialID = argSpecialId
+	--dgaSettings.CategoryOffset = "Uber"
+	--wanez.dga.openPortal(argAreaId)
 end
 --
 local rewardChestLoc = false
-local rewardContainer = nil
+local rewardContainer = false
 --
 function wanez.dga.regRewardChest01Loc(argObjectId)
 	if(rewardChestLoc == false)then rewardChestLoc = Entity.Get(argObjectId):GetCoords();end;
 end
 function wanez.dga.showRewardChest(argChestId)
-    argChestId = argChestId || 1
+    argChestId = argChestId or 1
 	local player = Game.GetLocalPlayer()
     local rewardData = wanez.dga._Data.Rewards
-	if(rewardContainer != nil)then
+	if(rewardContainer ~= false)then
 		rewardContainer:Destroy()
-		rewardContainer = nil
+		rewardContainer = false
 	end
 	rewardContainer = Entity.Create(rewardData.Containers[argChestId])
 	rewardContainer:SetCoords(rewardChestLoc)
@@ -171,38 +218,63 @@ function wanez.dga.showRewardChest(argChestId)
 end
 --
 function wanez.dga.setGameSettings(argName,argValue)
-    argValue = argValue || false
-    local player = Game.GetLocalPlayer()
-    if(argValue)then
-        player:GiveToken(argName)
-    else
-        player:RemoveToken(argName)
+    if(Server)then
+        argValue = argValue and false
+        local player = Game.GetLocalPlayer()
+        if(argValue)then
+            player:GiveToken(argName)
+        else
+            player:RemoveToken(argName)
+        end
+        if(argName == "DGA_GIVE_ITEM")then
+            wanez.dga.var.GiveItem = argValue
+        else
+            wanez.dga.Token[argName] = argValue
+        end
     end
-    if(argName == "DGA_GIVE_ITEM")then
-        wanez.dga.var.GiveItem = argValue
-    else
-        wanez.dga.Token[argName] = argValue
-    end
-    
 end
 --
 function wanez.dga.getGameSettings(argName)
-    local player = Game.GetLocalPlayer()
-    return player:HasToken(argName)
-end
---
-function wanez.dga.openUberPortal(argAreaId,argSpecialId)
-	--dgaSettings.SpecialID = argSpecialId
-	--dgaSettings.CategoryOffset = "Uber"
-	--wanez.dga.openPortal(argAreaId)
+    if(Server)then
+        local player = Game.GetLocalPlayer()
+        return player:HasToken(argName)
+    end
 end
 function wanez.dga.tempPortalOnInteract(argObjectId)
     portalCharges = portalCharges - 1
-    if(currentPortalToArea != false && portalCharges == 0)then currentPortalToArea:movePortal(true);end;
+    if(wanez.dga.Settings:getSpawnTrigger() == true)then
+        if(currentPortalToArea ~= false and portalCharges == 0)then currentPortalToArea:movePortal(true);end;
+    else
+        wanez.dga.Settings:setSpawnTrigger(true)
+    end
+    dgaBlockPortalCollector = false
 end
-local function setPortalDataToArea(argObjectId,argAreaId,argLayoutId) -- LayoutID == PortalID (!= Portal's ObjectID)
-    if(wanez.dga.Data.Portals[argAreaId] == nil)then wanez.dga.Data.Portals[argAreaId] = {};end;
-    if(wanez.dga.Data.Portals[argAreaId][argLayoutId] == nil)then wanez.dga.Data.Portals[argAreaId][argLayoutId] = wanez.dga.cPortal(argObjectId);end; -- prevent override
+-- Portal for "Portal Scroll (Hideout)"
+function wanez.dga.regPortalReturnToHideout(argObjectId)
+    if(wanez.dga.RiftHO == false)then
+        wanez.dga.RiftHO = wanez.dga.cPortal(argObjectId)
+    end
+end
+--
+local function setPortalDataToArea(argObjectId,argAreaId,argLayoutId)
+    if(Server)then
+        local randomData = wanez.dga._Settings.Areas.Random.Default
+        --local isInRandomData = false
+        -- wanez.dga.DynRifts
+        if(wanez.dga.Data.Portals[argAreaId] == nil)then
+            wanez.dga.Data.Portals[argAreaId] = {};
+            if(wanez.dga.Data.Portals[argAreaId][argLayoutId] == nil)then
+                wanez.dga.Data.Portals[argAreaId][argLayoutId] = wanez.dga.cPortal(argObjectId);
+                for i=1,table.getn(randomData) do
+                    if(randomData[i] == argAreaId)then
+                        --local newCount = table.getn(wanez.dga.DynRifts) + 1
+                        --wanez.dga.DynRifts[newCount] = wanez.dga.Data.Portals[argAreaId][argLayoutId]
+                        table.insert(wanez.dga.DynRifts,wanez.dga.Data.Portals[argAreaId][argLayoutId])
+                    end
+                end
+            end
+        end
+    end
 end
 function wanez.dga.regPortalBasicDGA_001_A_00(argObjectId) setPortalDataToArea(argObjectId,1,1);end;
 --function wanez.dga.regPortalBasicDGA_001_B_00(argObjectId) setPortalData(argObjectId,1,2);end;
@@ -242,3 +314,6 @@ function wanez.dga.regPortalBasicDGA_007_B_00(argObjectId) setPortalDataToArea(a
 function wanez.dga.regPortalEndlessDGA_001_A_00(argObjectId) setPortalDataToArea(argObjectId,101,1);end;
 -- ID: 102
 function wanez.dga.regPortalEndlessDGA_002_A_00(argObjectId) setPortalDataToArea(argObjectId,102,1);end;
+
+-- ID 500
+function wanez.dga.regPortalSpecialOmegaDGA_001_A_00(argObjectId) setPortalDataToArea(argObjectId,500,1);end;

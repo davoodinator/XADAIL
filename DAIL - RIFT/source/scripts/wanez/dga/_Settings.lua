@@ -3,23 +3,29 @@
 local rewardKeyThreshold = {0,2000,10000};
 
 -- TODO
-local enemyAreaPoolsDefault = {
-    
+local enemyAreaPoolsDefault = { -- [int AreaID]={int chance/10,int PoolID}
+    [1]={3,2},
+    [2]={3,3},
+    [3]={3,1},
+    [4]={3,19},
+    [5]={3,6},
+    [6]={3,10},
+    [7]={3,12}
 }
 -- unset area will roll a random boss
-local enemyAreaPoolsBoss = {
+local enemyAreaPoolsBoss = { -- [int AreaID]={int BossID,int BossID,...}
 	[1]={8},
 	[2]={2},
 	[3]={3},
 	[4]={9},
 	[5]={10},
 	[6]={16},
-	[7]={34}
+	[7]={28}
 };
 --
 local enemyRatioAether = {3,1}; -- Crystal,Obelisk
 -- For randomized DGA selection
-local areaRandomDefault = {1,2,3,4,5,6,7}
+local areaRandomDefault = {1,2,3,5,6,7}
 --
 local areaRequirements = {
 	["FreeTiers"] = { -- By Mode
@@ -46,15 +52,24 @@ local rewardSpecialDGA = {
 		{
             ["Credit"] = {
                 ["Gain"] = {
-                    ["Kills"] = {1,3,5,7,10,30}
+                    ["Kills"] = {1,3,5,7,10,20,1,60,1,1} -- {1,3,5,7,10,30,1,50,1,1}
                 },
                 ["Requirements"] = {
-                    ["BossSpawn"] = {1000,1000,1000}
+                    ["BossSpawn"] = {5000,5000,5000}
                 },
-                ["Scaling"] = {90,90,90} -- 0: no scaling
+                ["Scaling"] = {0,0,0} -- 0: no scaling
             }
         },
         {
+            ["Credit"] = {
+                ["Gain"] = {
+                    ["Kills"] = {0,0,10,0,15,30,0,90,0,0} -- {1,3,5,7,10,30,1,50,1,1}
+                },
+                ["Requirements"] = {
+                    ["BossSpawn"] = {5000,5000,5000}
+                },
+                ["Scaling"] = {0,0,0} -- 0: no scaling
+            }
         }
 	}
 }

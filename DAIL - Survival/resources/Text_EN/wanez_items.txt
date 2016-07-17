@@ -1,6 +1,7 @@
 # Items specific to the "Wanez-Mods"
 
-
+tagWaTrash01_NAME=Soul Eater - Trash
+tagWaTrash01_DESC="Looks like that Soul Eater just took your Enemy Souls and gave you some useless trash, better luck next time I guess!"
 
 # Beginner (LvLing) Sets (T00-T10) [0000 - Basic Sets]
 # TIERS
@@ -74,7 +75,7 @@ tagWaBeginnerShield01_0000=Shield (Beginner)
 
 
 # Blacksmith
-tagWaNPC_MerchantMateria00_DESC=Compontent
+tagWaNPC_MerchantMateria00_DESC=Component
 tagWaNPC_MerchantMateria00_PROFESSION=Store
 tagWaNPC_MerchantLv00_DESC=Beginner (Artifacts)
 tagWaNPC_MerchantLv00_PROFESSION=Store
@@ -85,9 +86,3 @@ tagWaNPC_Crafter01_PROFESSION=Old Recipes
 
 # Enchants
 tagDamageModifierTotalDamageR={%+.0f0}%-{%+.0f1}% {^E}to All Damage
-
-
-# Gamble
-tagWaGambleUsable01_NAME=Gamble
-tagWaGambleUsable01_DESC=Gain 1-30000 Iron Bits
-Test?

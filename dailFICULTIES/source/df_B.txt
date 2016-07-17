@@ -1,0 +1,5 @@
+tagRDifficultyTitle01=Normalo(B 0049) 
+tagChallengeDifficulty=Veterano(B 0049) 
+tagRDifficultyTitle03=Eliteo(B 0049) 
+tagRDifficultyTitle04=Ultimateo(B 0049) 
+tagHardcore=Hardcoreo(B 0049) 

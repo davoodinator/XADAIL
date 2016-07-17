@@ -54,7 +54,7 @@ skillName25,records/skills/itemskills/consumableskills/bonus_summonwillowisp.dbr
 skillLevel25,1,
 skillName26,records/skills/itemskills/consumableskills/item_cratebox.dbr,
 skillLevel26,1,
-skillName27,mod_wanez/items/artifacts/skill_gamble_01.dbr,
+skillName27,mod_wanez/items/dga/rewards/bounty_usable_skill.dbr,
 skillLevel27,1,
 skillName28,DAIL/skills/itemskills/dailRNGpot.dbr,
 skillLevel28,1,

@@ -142,7 +142,9 @@ Section "Common Files" SEC99
 
   ;kill the maps.arc from < 0043
   Delete $INSTDIR\mods\DAIL\resources\maps.arc
-  
+  ;kill the old RIFT levels_wa_map.arc from < 0049
+  Delete "$INSTDIR\mods\DAIL - RIFT\resources\levels_wa_map.arc"
+
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
   File /oname=Creatures.arc ".\DAIL\resources\Creatures.arc"
@@ -454,7 +456,7 @@ Section /o "(SX)" SEC09
 
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
-  File ".\DAILmain - SX\resources\scripts.arc"
+  File ".\DAILmain - X\resources\scripts.arc"
 
   SetOutPath "$INSTDIR\resources\"
   SetOverwrite on
@@ -468,7 +470,7 @@ Section /o "(ASX)" SEC10
 
   SetOutPath "$INSTDIR\mods\DAIL\resources"
   SetOverwrite on
-  File ".\DAILmain - ASX\resources\scripts.arc"
+  File ".\DAILmain - X\resources\scripts.arc"
 
   SetOutPath "$INSTDIR\resources\"
   SetOverwrite on

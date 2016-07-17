@@ -1,7 +1,7 @@
 templateName,database/templates/npc.tpl,
 ActorName,,
 Class,Npc,
-FileDescription,,
+FileDescription,NPC :: Enemy Souls - Collector,
 messageFileName,,
 messageSoundFile,,
 messageScrollRate,0.01,

@@ -3,18 +3,97 @@ onDie Events for Enemies
 ]]--
 --
 local function giveSoul(argEnemyClassId)
-    local chances = {33,66,100} -- TODO: add it to settings
-    local randDropChance = wanez.RNG({},chances[wanez.DifficultyID])
-    if(wanez.RNG({},chances[wanez.DifficultyID]))then
+    local chances = { -- TODO: add it to settings
+        {3,6,15}, -- 1: Common
+        {3,6,15},-- 2: Champion
+        {10,20,50},-- 3: Hero
+        {5,10,25},-- 4: MiniBoss
+        {33,66,100},-- 5: Boss
+        {33,66,100},-- 6: Nemesis
+        {5,10,20},-- 7: RaidBoss
+        {5,10,50},-- 8: Souleater
+        {33,66,100},-- 9: AetherCrystal
+        {33,66,100}-- 10: AetherObelisk
+        --10,25,75
+    }
+    local chanceMultiplier = (wanez.dga.Settings:getTier() > 0) and wanez.dga.Settings:getTier() / 10 or 0
+    local curChance = chances[argEnemyClassId][wanez.DifficultyID] + chanceMultiplier * chances[argEnemyClassId][wanez.DifficultyID]
+    local itemCount = wanez.dga.Data.Rewards:mathDupeChance(curChance)
+    if(itemCount > 0)then
         local DBR = wanez.dga._Data.Items.Souls[1][wanez.DifficultyID][argEnemyClassId][1]
-        Game.GetLocalPlayer():GiveItem(DBR,1,false)
+        Game.GetLocalPlayer():GiveItem(DBR,itemCount,false)
     end
 end
--- 
+--
+local function bountyGiveTokenPM(argEnemyClassId)
+    local chances = { -- TODO: add it to settings
+        { -- 1: Common
+            {{},{3,6,15}}
+        },
+        { -- 2: Champion
+            {{},{3,6,15}}
+        },
+        { -- 3: Hero
+            {{0x1A7E3AA0,0x553AEC00,1},{5,10,25}}
+        },
+        { -- 4: MiniBoss
+            {{0xFCAFE400,0x7FBDF000,1},{50,50,100}}
+        },
+        { -- 5: Boss
+            {{},{5,10,25} }
+        },
+        { -- 6: Nemesis
+            {{0x5AF4D080,0x7EA32800,1},{5,10,25}}
+        },
+        { -- 7: RaidBoss
+            {{},{5,10,25} }
+        },
+        { -- 8: Souleater
+            {{},{5,10,25} }
+        },
+        { -- 9: AetherCrystal
+            {{},{5,10,25} }
+        },
+        { -- 10: AetherObelisk
+            {{},{5,10,25} }
+        }
+    }
+
+    local chanceMultiplier = (wanez.dga.Settings:getTier() > 0) and wanez.dga.Settings:getTier() / 10 or 0
+    local questTaskState = false;
+    local _player = Game.GetLocalPlayer()
+    local curData = false
+
+    if(table.getn(chances[argEnemyClassId]) > 0)then
+        for i=1,table.getn(chances[argEnemyClassId]) do
+            questTaskState = _player:GetQuestTaskState(chances[argEnemyClassId][i][1][1],chances[argEnemyClassId][i][1][2])
+            if(questTaskState == QuestState.InProgress)then
+                if(wanez.dga.Areas[dgaAreaType]:getAreaTypeID() == 0 or wanez.dga.Areas[dgaAreaType]:getAreaTypeID() == chances[argEnemyClassId][i][1][3])then curData = chances[argEnemyClassId][i][2][wanez.DifficultyID];end;
+            end
+        end;
+    end
+
+    --UI.Notify("triggered bounty kill")
+    if(curData)then
+        local curChance = curData + chanceMultiplier * curData
+        local itemCount = wanez.dga.Data.Rewards:mathDupeChance(curChance)
+        --UI.Notify("triggered bounty kill loot")
+        if(itemCount > 0)then
+            local DBR = "mod_wanez/items/dga/rewards/bounty_token_dga_pm.dbr"
+            _player:GiveItem(DBR,itemCount,false)
+        end
+        --UI.Notify("triggered bounty kill, after loot")
+    end
+end
+--
 local function genericOnDie(enemyClassID,argObjectId)
-    local callGenLoot = {true,true,true,false,true,true}
-    local callSpecial = {true,true,true,true,true,true}
-    local callGiveSoul = {false,true,true,false,true,true}
+    --UI.Notify("01")
+    local callGenLoot = {true,true,true,true,true,true,true,false,false,false}
+    local callSpecial = {true,true,true,true,true,true,true,true,false,false}
+    local callGiveSoul = {true,true,true,true,true,true,true,true,true,false}
+    local callSummonContainer = {false,false,false,true,true,true,true,true,false,false}
+    local callGiveBountyPM = {false,false,true,true,false,true,false,false,false,false}
+    --UI.Notify("02")
     if(callGenLoot[enemyClassID])then
         wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
     end
@@ -24,62 +103,96 @@ local function genericOnDie(enemyClassID,argObjectId)
     if(callGiveSoul[enemyClassID])then
         giveSoul(enemyClassID)
     end
+    if(callSummonContainer[enemyClassID])then
+        wanez.dga.Areas[dgaAreaType]:onDieSpawnContainer(enemyClassID,argObjectId)
+    end
+    if(callGiveBountyPM[enemyClassID])then
+        bountyGiveTokenPM(enemyClassID)
+    end
+    --UI.Notify("03")
+    wanez.dga.Data.Rewards:addKill()
+    --UI.Notify("04")
 end
 --
 function wanez.dga.dieCommon(argObjectId)
 	local enemyClassID = 1
     genericOnDie(enemyClassID,argObjectId)
-	--wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
-    --giveSoul(enemyClassID)
-	--fnSpecialCredit(enemyClassID,argObjectId)
 end
 --
 function wanez.dga.dieChampion(argObjectId)
 	local enemyClassID = 2
     genericOnDie(enemyClassID,argObjectId)
-	--wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
-    --giveSoul(enemyClassID)
-	--fnSpecialCredit(enemyClassID,argObjectId)
 end
 --
 function wanez.dga.dieHero(argObjectId)
 	local enemyClassID = 3
     genericOnDie(enemyClassID,argObjectId)
-	--wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
-    --giveSoul(enemyClassID)
-	--fnSpecialCredit(enemyClassID,argObjectId)
+
+    -- OMEGA MOD
+    if(wanez.RNG({1,100},25) and wanez.DifficultyID == 3)then
+       omega.scripts.spawnomegaboss();
+    end
+end
+--
+function wanez.dga.dieMiniBoss(argObjectId)
+	local enemyClassID = 4
+    genericOnDie(enemyClassID,argObjectId)
+    --local player = Game.GetLocalPlayer()
+    --if(player:HasToken("BOUNTY_TASK_PM_01"))then player:RemoveToken("BOUNTY_TASK_PM_01");end;
+    --genericOnDie(enemyClassID,argObjectId)
+
+    -- OMEGA MOD
+    if(wanez.DifficultyID == 3)then
+        omega.scripts.spawnomegaboss();
+    end
 end
 --
 function wanez.dga.dieBoss(argObjectId)
 	local enemyClassID = 5
     genericOnDie(enemyClassID,argObjectId)
-	--wanezCompleteQuestTask("Repeatable",1)
-	--wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
-    --giveSoul(enemyClassID)
-	--fnSpecialCredit(enemyClassID,argObjectId)
-    --[[
-	if(dgaSettings.SpecialID == 1)then
-		--removeEntities()
-		dgaSettings.BlockRespawn = true
-		local calcChance = waDGAUberComponents[1][2] * (dgaSettings.Tier + 1)
-		math.randomseed(Time.Now())
-		local randUberChance = random(1,100)
-		if(randUberChance <= calcChance)then
-			local enemyLoc = Character.Get(argObjectId):GetCoords()
-			local newItem = Entity.Create(waDGAUberComponents[1][1])
-			newItem:SetCoords(enemyLoc)
-		end
-		dgaSettings.SpecialCredit = 0
-		UI.Notify("tagWaSpecialBossDeafeated")
-	end
-    ]]--
+
+    -- Endless
+    if(wanez.dga.Areas[dgaAreaType]:getAreaTypeID() == 2 and wanez.dga.Settings:getAreaID() ~= 101 and wanez.dga.Settings:getAreaID() ~= 102)then
+        local scrollDBR = 'mod_wanez/items/dga/scroll_portal_dga01.dbr'
+        local _player = Game.GetLocalPlayer()
+        if not(_player:HasItem(scrollDBR,1,true))then
+            _player:GiveItem(scrollDBR,1,true)
+        end
+    end
 end
 --
 function wanez.dga.dieNemesis(argObjectId)
 	local enemyClassID = 6
     genericOnDie(enemyClassID,argObjectId)
-	--wanez.dga.Data.Entities[enemyClassID]:genLoot(argObjectId)
-    --giveSoul(enemyClassID)
-	--fnSpecialCredit(enemyClassID,argObjectId)
-	--wanezCompleteQuestTask(1)
+end
+--
+function wanez.dga.dieRaidBoss(argObjectId)
+    local enemyClassID = 7
+    genericOnDie(enemyClassID,argObjectId)
+end
+--
+function wanez.dga.dieSouleater(argObjectId)
+    local enemyClassID = 8
+    genericOnDie(enemyClassID,argObjectId)
+end
+--
+function wanez.dga.dieAetherCrystal(argObjectId)
+    --UI.Notify("aether died")
+    local enemyClassID = 9
+    genericOnDie(enemyClassID,argObjectId)
+    --
+    local enemyLoc = Character.Get(argObjectId):GetCoords()
+
+    local baseDropChance = {40,60,85}
+    if(wanez.RNG({1,100},baseDropChance[wanez.DifficultyID]))then
+        wanez.dga.Data.Entities[9]:dropLoot(wanez.dga._Data.Items.Global.Aether[1][wanez.DifficultyID][1][1],1,enemyLoc)
+    end
+
+    -- create New Monsters
+    local playerLoc = Game.GetLocalPlayer():GetCoords()
+    local baseSpawnChance = {33,66,100}
+    if(wanez.RNG({1,100},baseSpawnChance[wanez.DifficultyID]))then
+        wanez.dga.Areas[dgaAreaType]:createEntity(wanez._Data.OnDie.AetherialCrystal.Hero[wanez.RNG({1,table.getn(wanez._Data.OnDie.AetherialCrystal.Hero)})],enemyLoc,wanez.dga.Areas[dgaAreaType]:getEnemyLevel(wanez._Settings.Enemies.LevelOffset[wanez.data.Enemies.Classification[3]]));
+        wanez.dga.Areas[dgaAreaType]:createEntity(wanez._Data.OnDie.AetherialCrystal.Hero[wanez.RNG({1,table.getn(wanez._Data.OnDie.AetherialCrystal.Hero)})],playerLoc,wanez.dga.Areas[dgaAreaType]:getEnemyLevel(wanez._Settings.Enemies.LevelOffset[wanez.data.Enemies.Classification[3]]));
+    end
 end

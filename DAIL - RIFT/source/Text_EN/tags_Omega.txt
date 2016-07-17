@@ -519,3 +519,10 @@ tagOMach07Title=Omega Heroic Slayer
 tagOMach07Desc=Eradicate 100 Omega Nemesis.
 tagOMach08Title=Omega Legendary Slayer
 tagOMach08Desc=Eradicate 1000 Omega Nemesis.
+
+#OMEGA Faction Hostile reward
+tagOM_Rewards1=Omega Reward 1
+tagOM_Rewards2=Omega Reward 2
+tagOM_Rewards3=Omega Reward 3
+tagOM_Rewards4=Omega Reward 4
+tagOM_Rewards5=Omega Reward 5

@@ -12,10 +12,10 @@ function wanez.dga.CRift()
         __constructor = function(self)
         end;
         moveRift = function(self,argLocked) -- argLocked: also decides if show coords or hide coords
-            argLocked = argLocked || false
-            if(curRiftID != 0)then
+            argLocked = argLocked or false
+            if(curRiftID ~= 0)then
                 local curData = self.Data[curRiftID]
-                local newLoc = (argLocked == false) && self:getLocShow() || curData.Loc
+                local newLoc = (argLocked == false) and self:getLocShow() or curData.Loc
                 curData.Instance:SetLocked(argLocked)
                 curData.Instance:SetCoords(newLoc)
             end
@@ -48,7 +48,7 @@ function wanez.dga.CRift()
                 if(prevRifts == nil)then prevRifts = {};end;
                 local prevRiftIDCount = table.getn(prevRifts)
                 local rndRiftID = wanez.RNG({1,countRifts})
-                if(prevRiftIDCount != 0)then
+                if(prevRiftIDCount ~= 0)then
                     local whileRiftID = 0
                     while (whileRiftID == 0) do
                         whileRiftID = rndRiftID

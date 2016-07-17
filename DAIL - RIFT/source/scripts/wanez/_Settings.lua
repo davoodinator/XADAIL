@@ -14,22 +14,22 @@ local EnemyLevelOffset = {
 	["MiniBoss"] = 2, -- Nemesis (Small)
 	["Boss"] = 3, -- DGA Boss, Endless Boss, Special Boss
 	["Nemesis"] = 4, -- Nemesis
-	["RaidBoss"] = 5, -- Raid Boss (only found in Special DGA) [since v0.3.0]
-	["UberRaidBoss"] = 10, -- Uber Boss (v0.3.x)
-	["AetherObelisk"] = 1,
-	["AetherCrystal"] = 2
+	["RaidBoss"] = 10, -- Raid Boss (v0.5.x)
+	["SoulEater"] = 5, -- Souleater (only found after making special NPCs angry)
+	["AetherCrystal"] = 2,
+	["AetherObelisk"] = 1
 }
 -- Bonus Offset depending on the DGA-Category
 local CategoryLevelOffset = {
 	["Default"] = 0, -- Endless DGA, Basic DGA
-	["Special"] = 1, -- SPecial DGA
+	["Special"] = 1, -- Special DGA
 	["Uber"] = 6, -- Special Uber DGA
 	["Raid"] = 5, -- Special DGA (RAID)
 	["UberRaid"] = 10 -- Special Uber DGA (UBER RAID)
 }
-/**
+--[[
  * Enemy Count
- */
+]]
 local EnemyCount = {
 	["Common"] = {{4,5},{4,6},{4,6}},
 	["Champion"] = {{3,4},{3,5},{4,5}},
@@ -43,12 +43,12 @@ local EntityChance = {
 		["Rare"] = {2,4,6}
 	},
 	["Enemies"] = {
-		["Champion"] = {20,35,50},
+		["Champion"] = {20,30,40},
 		["Hero"] = {{40,15,0},{75,40,10},{100,50,25}}, -- {1st},{2nd},{3rd} - hero chance (per common pack); 3rd chance won't be used if the hero count < 3
-		["Aether"] = {2,2,2}
+		["Aether"] = {1,1,1}
 	},
 	["Anomalies"] = {
-		["Aether"] = {10,20,25}
+		["Aether"] = {10,10,10}
 	}
 }
 local EntityLevelRequirements = {

@@ -1,14 +1,7 @@
-{
-    name   = "Anchor2"
-    origin = (-0.062149, -0.003161, -0.165337)
-    xAxis  = (0.023299, -0.999729, 0.000000)
-    yAxis  = (0.999729, 0.023299, 0.000000)
-    zAxis  = (0.000000, 0.000000, 1.000000)
-}
 AttachPoint
 {
     name   = "Anchor1"
-    origin = (-0.076048, 0.000901, -1.358806)
+    origin = (-0.25, 0.000901, -1.58)
     xAxis  = (0.070657, -0.997501, 0.000000)
     yAxis  = (0.997501, 0.070657, 0.000000)
     zAxis  = (0.000000, 0.000000, 1.000000)
@@ -21,15 +14,16 @@ AttachPoint
     yAxis  = (0.008398, -0.000058, -0.999965)
     zAxis  = (0.999941, -0.006913, 0.008398)
 }
+AttachPoint
 {
-    name   = "Blade_PFX"
-    origin = (0.000000, -0.004866, -0.354882)
-    xAxis  = (1.000000, 0.000000, 0.000000)
-    yAxis  = (0.000000, -0.013711, -0.999906)
-    zAxis  = (0.000000, 0.999906, -0.013711)
+    name   = "Omega_BladePFX"
+    origin = (0.0, 0.0, -0.2)
+    xAxis  = (-0.006913, -0.999976, 0.000000)
+    yAxis  = (-0.25, 0.000901, -1.58)
+    zAxis  = (0.999941, -0.006913, 0.008398)
 }
 CreateEntity
 {
-    attach = "BladePFX"
+    attach = "Omega_BladePFX"
     entity = "Records\omega\FX\itemskills\omega_SwordFlameBlue03_FX.dbr"
 }

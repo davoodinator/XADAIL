@@ -8,6 +8,7 @@ rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\database\/" /S *.dbr *.tpl
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\/" /S *.dbr *.tpl /xf gameengine.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\/" /S *.dbr *.tpl /xf gameengine.dbr
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - X\database\records\game\gameengine.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\X\database\records\game\" /y
 
 rem restore super loot tables for x mode
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_loot\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\records\items\/" /S *.dbr
@@ -23,7 +24,7 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_
 
 rem specific script replication
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\/" /S *.dbr
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod\DAIL.lua.bak" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\DAIL.lua" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod\DAIL.lua.bak" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod\DAIL.lua" /y
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\/" /S *.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\assets\scripts\/" /S *.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\scripts\/" /S *.dbr
@@ -150,8 +151,8 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\rec
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\skills\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\skills\/" /S
 
 rem build SX and ASX mode
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\/" /S /MIR
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\/" /S /MIR
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\database\/" /S /MIR *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\database\/" /S /MIR *.dbr
 rem grab the limit_unlimited.dbr from S mode
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - SX\database\records\proxies\proxypoolequation_01.dbr" /y
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - ASX\database\records\proxies\proxypoolequation_01.dbr" /y

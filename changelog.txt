@@ -44,12 +44,17 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0050 - planned stable release
+added raid mode description to DAILL.txt oops ehe
+*move downloads up in the OP
 *create UI for 99 masteries.. just in case
 *91% + health item is still kicking around wtf. waiting on cornucopia they claimed responsibility. enjoy it for now casuls
 *level75+ epics are not RNG properly? or whats the deal?
+*Discord Days: I wanted to propose that you add a new craftable to the game if possible! Aether Clusters!
+*fiddle with loot tables - are there duplicate entries? need magic script to check this.
 
-0049 - ?
+0049 - 3:22 AM 7/17/2016
 introducing RAID MODE (SX and ASX) - insanely hard enemies x 1000000000000
+All versions of X/AX/SX/ASX have increased loot quality as well.
 fixed some scripts for merging scripts that merged scripts
 loading screen image changed - sorry about version 48 ;o
 update omega scripts in x mode (whuups) add it as a script mk
@@ -59,17 +64,17 @@ BUG: When I craft Imbuded Silver I gain a Scavenged Plating instead. I have trie
 revamped the OP on gd forums quite extensively. it should read better now
 Discord Days: SoT gate closes like in vanilla in 0048 - fixed - re added old script
 THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049)
-*gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
-*What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
-*	test this myself in DAIL - get the crash to happen
-*	if crash successful - then test considitions with JUST the mod this mastery is from
-*		report findings to ceno - if crash x2
-*	repeat both above steps for cenobite - also round 8/9 in survival if i can't crash in same circumstances
-*		report findings to cftx - if crash x2
-*update to omega 0.6
-*update to ncff 0.56
-*update to DGA 0.4b
-*WareBare: k, forgot to remove the enemy count UI.Notify when they spawn :) hope thats the only debugging UI.Notify I forgot - WareBare: cArea.lua line 392
+gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
+What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
+	test this myself in DAIL - get the crash to happen - nah large creatures didnt crash it. need to ask people to send me saved game and then i can try in exactly the same situations
+x	if crash successful - then test conditions with JUST the mod this mastery is from
+x		report findings to ceno - if crash x2
+x	repeat both above steps for cenobite - also round 8/9 in survival if i can't crash in same circumstances
+x		report findings to cftx - if crash x2
+update to omega 0.6
+update to DGA 0.4b
+	WareBare: k, forgot to remove the enemy count UI.Notify when they spawn :) hope thats the only debugging UI.Notify I forgot - WareBare: cArea.lua line 392
+update to ncff 0.56
 
 0048 - 6:44 PM 7/14/2016
 Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!

@@ -1,5 +1,0 @@
-tagRDifficultyTitle01=Normal{^n}{^n}^rDAIL0021 AB
-tagRDifficultyTitle02=Elite{^n}{^n}^rDAIL0021 AB
-tagRDifficultyTitle03=Ultimate{^n}{^n}^rDAIL0021 AB
-tagChallengeDifficulty=Veteran{^n}{^n}^rDAIL0021 AB
-tagHardcore=Hardcore{^n}{^n}^rDAIL0021 AB

@@ -1,7 +1,7 @@
 templateName,database/templates/questitem.tpl,
 ActorName,,
 Class,QuestItem,
-FileDescription,,
+FileDescription,Essence: Artifact (Normal),
 bitmap,wanez/artifacts/essence_normal_01.tex,
 trailEffect,,
 requiredQuestFile,,

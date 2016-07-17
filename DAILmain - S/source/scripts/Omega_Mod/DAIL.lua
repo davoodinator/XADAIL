@@ -10,8 +10,8 @@ dail.summon = {}
 function callDAILonherodeath()
 	math.randomseed(Time.Now());
 	local DAILpop = random(1, 100000);
-	--25% chance
-	if DAILpop < 25000 then
+	--5% chance
+	if DAILpop < 5000 then
 		UI.Notify("DAIL_AETHERIAL_POP");
 		local player = Game.GetLocalPlayer();
 		player:GiveItem('DAIL/items/summon/dailRNGpot.dbr', 1, true);
