@@ -51,6 +51,7 @@ added raid mode description to DAILL.txt oops ehe
 *level75+ epics are not RNG properly? or whats the deal?
 *Discord Days: I wanted to propose that you add a new craftable to the game if possible! Aether Clusters!
 *fiddle with loot tables - are there duplicate entries? need magic script to check this.
+*update dawn of heroes to 2.2
 
 0049 - 3:22 AM 7/17/2016
 introducing RAID MODE (SX and ASX) - insanely hard enemies x 1000000000000

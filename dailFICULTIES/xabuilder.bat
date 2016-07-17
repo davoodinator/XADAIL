@@ -5,7 +5,11 @@ rem Text_En prepper
 del *.arc -y
 del *.arc.* -y
 del *.txt -y
-copy ..\DAIL\resources\Text_En.arc
+rem copy ..\DAIL\resources\Text_En.arc
+copy ..\VanillaBak\text_en.arc.1004HF1
+copy ..\DAIL\source\Text_EN\tags_uimain.txt
+copy text_en.arc.1004HF1 Text_En.arc
+
 copy Text_En.arc Text_En.arc.S.arc
 copy Text_En.arc Text_En.arc.A.arc
 copy Text_En.arc Text_En.arc.ANG.arc
@@ -17,74 +21,97 @@ copy Text_En.arc Text_En.arc.X.arc
 copy Text_En.arc Text_En.arc.SX.arc
 copy Text_En.arc Text_En.arc.ASX.arc
 
-mkdir source
+mkdir source_S
+mkdir source_A
+mkdir source_ANG
+mkdir source_NG
+mkdir source_B
+mkdir source_AB
+mkdir source_AX
+mkdir source_X
+mkdir source_SX
+mkdir source_ASX
 
-echo tagRDifficultyTitle01=Normal^o(S 0049) > .\source\df_S.txt
-echo tagRDifficultyTitle01=Normal^o(A 0049) > .\source\df_A.txt
-echo tagRDifficultyTitle01=Normal^o(ANG 0049) > .\source\df_ANG.txt
-echo tagRDifficultyTitle01=Normal^o(NG 0049) > .\source\df_NG.txt
-echo tagRDifficultyTitle01=Normal^o(B 0049) > .\source\df_B.txt
-echo tagRDifficultyTitle01=Normal^o(AB 0049) > .\source\df_AB.txt
-echo tagRDifficultyTitle01=Normal^o(AX 0049) > .\source\df_AX.txt
-echo tagRDifficultyTitle01=Normal^o(X 0049) > .\source\df_X.txt
-echo tagRDifficultyTitle01=Normal^o(SX 0049) > .\source\df_SX.txt
-echo tagRDifficultyTitle01=Normal^o(ASX 0049) > .\source\df_ASX.txt
+COPY tags_uimain.txt .\source_S\ /y
+COPY tags_uimain.txt .\source_A\ /y
+COPY tags_uimain.txt .\source_ANG\ /y
+COPY tags_uimain.txt .\source_NG\ /y
+COPY tags_uimain.txt .\source_B\ /y
+COPY tags_uimain.txt .\source_AB\ /y
+COPY tags_uimain.txt .\source_AX\ /y
+COPY tags_uimain.txt .\source_X\ /y
+COPY tags_uimain.txt .\source_SX\ /y
+COPY tags_uimain.txt .\source_ASX\ /y
 
-echo tagChallengeDifficulty=Veteran^o(S 0049) >> .\source\df_S.txt
-echo tagChallengeDifficulty=Veteran^o(A 0049) >> .\source\df_A.txt
-echo tagChallengeDifficulty=Veteran^o(ANG 0049) >> .\source\df_ANG.txt
-echo tagChallengeDifficulty=Veteran^o(NG 0049) >> .\source\df_NG.txt
-echo tagChallengeDifficulty=Veteran^o(B 0049) >> .\source\df_B.txt
-echo tagChallengeDifficulty=Veteran^o(AB 0049) >> .\source\df_AB.txt
-echo tagChallengeDifficulty=Veteran^o(AX 0049) >> .\source\df_AX.txt
-echo tagChallengeDifficulty=Veteran^o(X 0049) >> .\source\df_X.txt
-echo tagChallengeDifficulty=Veteran^o(SX 0049) >> .\source\df_SX.txt
-echo tagChallengeDifficulty=Veteran^o(ASX 0049) >> .\source\df_ASX.txt
+echo tagRDifficultyTitle01=Normal(S 0049) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(A 0049) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(ANG 0049) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(NG 0049) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(B 0049) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(AB 0049) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(AX 0049) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(X 0049) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(SX 0049) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(ASX 0049) >> .\source_ASX\tags_uimain.txt
 
-echo tagRDifficultyTitle03=Elite^o(S 0049) >> .\source\df_S.txt
-echo tagRDifficultyTitle03=Elite^o(A 0049) >> .\source\df_A.txt
-echo tagRDifficultyTitle03=Elite^o(ANG 0049) >> .\source\df_ANG.txt
-echo tagRDifficultyTitle03=Elite^o(NG 0049) >> .\source\df_NG.txt
-echo tagRDifficultyTitle03=Elite^o(B 0049) >> .\source\df_B.txt
-echo tagRDifficultyTitle03=Elite^o(AB 0049) >> .\source\df_AB.txt
-echo tagRDifficultyTitle03=Elite^o(AX 0049) >> .\source\df_AX.txt
-echo tagRDifficultyTitle03=Elite^o(X 0049) >> .\source\df_X.txt
-echo tagRDifficultyTitle03=Elite^o(SX 0049) >> .\source\df_SX.txt
-echo tagRDifficultyTitle03=Elite^o(ASX 0049) >> .\source\df_ASX.txt
+echo tagChallengeDifficulty=Veteran(S 0049) >> .\source_S\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(A 0049) >> .\source_A\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(ANG 0049) >> .\source_ANG\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(NG 0049) >> .\source_NG\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(B 0049) >> .\source_B\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(AB 0049) >> .\source_AB\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(AX 0049) >> .\source_AX\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(X 0049) >> .\source_X\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(SX 0049) >> .\source_SX\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(ASX 0049) >> .\source_ASX\tags_uimain.txt
 
-echo tagRDifficultyTitle04=Ultimate^o(S 0049) >> .\source\df_S.txt
-echo tagRDifficultyTitle04=Ultimate^o(A 0049) >> .\source\df_A.txt
-echo tagRDifficultyTitle04=Ultimate^o(ANG 0049) >> .\source\df_ANG.txt
-echo tagRDifficultyTitle04=Ultimate^o(NG 0049) >> .\source\df_NG.txt
-echo tagRDifficultyTitle04=Ultimate^o(B 0049) >> .\source\df_B.txt
-echo tagRDifficultyTitle04=Ultimate^o(AB 0049) >> .\source\df_AB.txt
-echo tagRDifficultyTitle04=Ultimate^o(AX 0049) >> .\source\df_AX.txt
-echo tagRDifficultyTitle04=Ultimate^o(X 0049) >> .\source\df_X.txt
-echo tagRDifficultyTitle04=Ultimate^o(SX 0049) >> .\source\df_SX.txt
-echo tagRDifficultyTitle04=Ultimate^o(ASX 0049) >> .\source\df_ASX.txt
+echo tagRDifficultyTitle02=Elite(S 0049) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(A 0049) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(ANG 0049) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(NG 0049) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(B 0049) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(AB 0049) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(AX 0049) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(X 0049) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(SX 0049) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(ASX 0049) >> .\source_ASX\tags_uimain.txt
 
-echo tagHardcore=Hardcore^o(S 0049) >> .\source\df_S.txt
-echo tagHardcore=Hardcore^o(A 0049) >> .\source\df_A.txt
-echo tagHardcore=Hardcore^o(ANG 0049) >> .\source\df_ANG.txt
-echo tagHardcore=Hardcore^o(NG 0049) >> .\source\df_NG.txt
-echo tagHardcore=Hardcore^o(B 0049) >> .\source\df_B.txt
-echo tagHardcore=Hardcore^o(AB 0049) >> .\source\df_AB.txt
-echo tagHardcore=Hardcore^o(AX 0049) >> .\source\df_AX.txt
-echo tagHardcore=Hardcore^o(X 0049) >> .\source\df_X.txt
-echo tagHardcore=Hardcore^o(SX 0049) >> .\source\df_SX.txt
-echo tagHardcore=Hardcore^o(ASX 0049) >> .\source\df_ASX.txt
+echo tagRDifficultyTitle03=Ultimate(S 0049) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(A 0049) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(ANG 0049) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(NG 0049) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(B 0049) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(AB 0049) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(AX 0049) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(X 0049) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(SX 0049) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(ASX 0049) >> .\source_ASX\tags_uimain.txt
+
+echo tagHardcore=Hardcore(S 0049) >> .\source_S\tags_uimain.txt
+echo tagHardcore=Hardcore(A 0049) >> .\source_A\tags_uimain.txt
+echo tagHardcore=Hardcore(ANG 0049) >> .\source_ANG\tags_uimain.txt
+echo tagHardcore=Hardcore(NG 0049) >> .\source_NG\tags_uimain.txt
+echo tagHardcore=Hardcore(B 0049) >> .\source_B\tags_uimain.txt
+echo tagHardcore=Hardcore(AB 0049) >> .\source_AB\tags_uimain.txt
+echo tagHardcore=Hardcore(AX 0049) >> .\source_AX\tags_uimain.txt
+echo tagHardcore=Hardcore(X 0049) >> .\source_X\tags_uimain.txt
+echo tagHardcore=Hardcore(SX 0049) >> .\source_SX\tags_uimain.txt
+echo tagHardcore=Hardcore(ASX 0049) >> .\source_ASX\tags_uimain.txt
+
+rem rename text_en.arc.1004HF1 text_en.arc.1004HF1.arc
+rem Arhivetool.exe text_en.arc.1004HF1.arc -update . ..\DAIL\source\Text_EN\DAIL_hybrid_tags.txt 6
 
 rem Text_en fiddler
-Archivetool.exe Text_EN.arc.S.arc -update  .\source\Text_EN\df_S.txt Text_EN 6
-Archivetool.exe Text_EN.arc.A.arc -update  .\source\Text_EN\df_A.txt Text_EN 6
-Archivetool.exe Text_EN.arc.ANG.arc -update  .\source\Text_EN\df_ANG.txt Text_EN 6
-Archivetool.exe Text_EN.arc.NG.arc -update  .\source\Text_EN\df_NG.txt Text_EN 6
-Archivetool.exe Text_EN.arc.B.arc -update  .\source\Text_EN\df_B.txt Text_EN 6
-Archivetool.exe Text_EN.arc.AB.arc -update  .\source\Text_EN\df_AB.txt Text_EN 6
-Archivetool.exe Text_EN.arc.AX.arc -update  .\source\Text_EN\df_AX.txt Text_EN 6
-Archivetool.exe Text_EN.arc.X.arc -update  .\source\Text_EN\df_X.txt Text_EN 6
-Archivetool.exe Text_EN.arc.SX.arc -update  .\source\Text_EN\df_SX.txt Text_EN 6
-Archivetool.exe Text_EN.arc.ASX.arc -update  .\source\Text_EN\df_ASX.txt Text_EN 6
+Archivetool.exe Text_EN.arc.S.arc -update  .\source_S\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.A.arc -update  .\source_A\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.ANG.arc -update  .\source_ANG\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.NG.arc -update  .\source_NG\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.B.arc -update  .\source_B\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.AB.arc -update  .\source_AB\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.AX.arc -update  .\source_AX\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.X.arc -update  .\source_X\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.SX.arc -update  .\source_SX\tags_uimain.txt Text_EN 6
+Archivetool.exe Text_EN.arc.ASX.arc -update  .\source_ASX\tags_uimain.txt Text_EN 6
 
 rename Text_EN.arc.S.arc Text_EN.arc.S
 rename Text_EN.arc.A.arc Text_EN.arc.A
