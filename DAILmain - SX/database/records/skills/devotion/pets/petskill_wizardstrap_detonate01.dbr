@@ -1,0 +1,8 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/devotion/pets/petskill_wizardstrap_detonate01_buff.dbr,
+pointBlank,1,
+fileNameHistoryEntry,mods/cornucopia002/records/skills/devotion/pets/petskill_wizardstrap_detonate01.dbr,
+fileNameHistoryEntry,mods/cornucopia002/records/skills/devotion/pets/petskill_wizardstrap_detonate01.dbr,

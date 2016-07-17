@@ -1,0 +1,4 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,LightningMastery_StoreStrike,
+Class,SkillSecondary_PetModifier,
+petSkillName,records/skills/dream/nightmare_petskill_mastermind.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,NatureMastery_Renewal,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/nature/regrowth_buff.dbr,
+instantCast,0,

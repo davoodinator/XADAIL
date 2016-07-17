@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;42;55,
+records,records/items/loottables/weapons/tdyn_spear1h_01.dbr;records/items/loottables/weapons/tdyn_spear1h_02.dbr;records/items/loottables/weapons/tdyn_spear1h_03.dbr,

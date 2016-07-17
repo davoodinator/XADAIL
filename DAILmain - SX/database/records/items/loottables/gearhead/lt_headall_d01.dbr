@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;8;15;15,
+records,records/items/loottables/gearhead/tdyn_headlight_a01.dbr;records/items/loottables/gearhead/tdyn_head_c01.dbr;records/items/loottables/gearhead/tdyn_headdemon.dbr;records/items/loottables/gearhead/tdyn_headpriest.dbr,

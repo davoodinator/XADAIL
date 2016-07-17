@@ -17,28 +17,23 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_boss
 
 rem text_en replication
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\source\text_en\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\tags_skills.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\text_en\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\source\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\source\text_en\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\assets\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\assets\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\assets\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\assets\text_en\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\text_en\DAIL_hybrid_tags.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\assets\text_en\" /y
 
 rem specific script replication
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\Omega_scripts.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Game\quests\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\scripts\Game\quests\" /y
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\/" /S *.dbr
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod\DAIL.lua.bak" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\DAIL.lua" /y
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\/" /S *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\assets\scripts\/" /S *.dbr
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\assets\scripts\/" /S *.dbr
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\Omega_scripts.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\" /y
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\Omega_scripts.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod\" /y
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Game\quests\" /y
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\DAIL.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Omega_Mod\" /y
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\source\scripts\Game\quests\" /y
+rem copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\assets\scripts\Game\quests\devilscrossing.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\assets\scripts\Game\quests\" /y
+rem F:\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\Omega_Mod
 
 rem specific DBR replication
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\creatures\pc\anm_femalepc.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\creatures\pc\" /y
@@ -154,3 +149,11 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\rec
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\skills\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\database\records\skills\/" /S
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\records\skills\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - SURVIVAL\database\records\skills\/" /S
 
+rem build SX and ASX mode
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\/" /S /MIR
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\/" /S /MIR
+rem grab the limit_unlimited.dbr from S mode
+copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - SX\database\records\proxies\proxypoolequation_01.dbr" /y
+copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - ASX\database\records\proxies\proxypoolequation_01.dbr" /y
+rem grab the tiny spiders from AS
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\records\creatures\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\database\records\creatures\/" /S

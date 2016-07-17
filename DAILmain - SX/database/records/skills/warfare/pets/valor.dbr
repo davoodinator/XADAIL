@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+FileDescription,AE Instant Heal / +% Damage / +300% Life Regen,
+buffSkillName,records/skills/warfare/pets/valorbuff.dbr,

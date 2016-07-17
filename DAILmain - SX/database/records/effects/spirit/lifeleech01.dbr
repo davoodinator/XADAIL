@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Life_Leech01,
+Class,EffectEntity,
+effectFile,effects/death/lifeleech01.pfx,

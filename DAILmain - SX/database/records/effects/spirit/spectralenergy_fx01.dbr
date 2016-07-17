@@ -1,0 +1,4 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Projectiles_ShardIce01,
+Class,EffectEntity,
+effectFile,effects/spirit/spectralenergy01.pfx,

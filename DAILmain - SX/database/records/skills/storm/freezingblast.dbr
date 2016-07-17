@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,ColdMastery_Freeze,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/storm/freezingblastbuff.dbr,

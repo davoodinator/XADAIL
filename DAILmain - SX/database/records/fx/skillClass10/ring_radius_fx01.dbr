@@ -1,0 +1,8 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+cameraShakeAmplitude,0.030000,
+cameraShakeDuration,0.020000,
+canBeSoft,1,
+effectFile,fx/pes/class10/icering.pfx,
+localOrientFix,1,

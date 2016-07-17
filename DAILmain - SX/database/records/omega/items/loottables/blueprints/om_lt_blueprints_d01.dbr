@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;15;50,
+records,records/items/loottables/gearaccessories/tdyn_waist_a01.dbr;records/items/loottables/blueprints/tdyn_blueprints_b01.dbr;records/omega/items/loottables/blueprints/om_tdyn_blueprints_d01.dbr,

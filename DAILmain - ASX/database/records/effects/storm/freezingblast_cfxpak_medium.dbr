@@ -1,0 +1,6 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,1.000000,
+colorGreen,0.000000,
+colorRed,0.300000,
+particleEffectNames,records/effects/storm/343freeze_medium_fx.dbr,
+useTintColor,1,

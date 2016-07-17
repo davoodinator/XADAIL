@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1,
+records,mod_wanez/items/chests/loottables/dga_comp_ultimate_tdyn.dbr,

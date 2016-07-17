@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0048"
+!define PRODUCT_VERSION "0049"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
@@ -119,7 +119,7 @@ FunctionEnd
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "DAIL 0048.exe"
+OutFile "DAIL 0049.exe"
 ;InstallDir "$PROGRAMFILES\steam\steamapps\common\grim dawn"
 
 LangString SteamNotInstalled ${LANG_ENGLISH} "Steam is not installed!$\r$\nYou will have to figure out the Folder yourself!"
@@ -344,9 +344,9 @@ Section "(S)" SEC01
   SetOverwrite on
   File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-; SetOverwrite on
-; File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.S"
+ SetOutPath "$INSTDIR\resources\"
+ SetOverwrite on
+ File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.S"
 SectionEnd
 
 Section /o "(A)" SEC02
@@ -358,9 +358,9 @@ Section /o "(A)" SEC02
   SetOverwrite on
   File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.A"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.A"
 SectionEnd
 
 Section /o "(NG)" SEC03
@@ -372,9 +372,9 @@ Section /o "(NG)" SEC03
 ;  SetOverwrite on
 ;  File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.NG"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.NG"
 SectionEnd
 
 Section /o "(ANG)" SEC04
@@ -386,9 +386,9 @@ Section /o "(ANG)" SEC04
 ;  SetOverwrite on
 ;  File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.ANG"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.ANG"
 SectionEnd
 
 Section /o "(B)" SEC05
@@ -400,9 +400,9 @@ Section /o "(B)" SEC05
   SetOverwrite on
   File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.B"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.B"
 SectionEnd
 
 Section /o "(AB)" SEC06
@@ -414,9 +414,9 @@ Section /o "(AB)" SEC06
   SetOverwrite on
   File ".\DAILmain - S\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
 SectionEnd
 
 Section /o "(X)" SEC07
@@ -428,9 +428,9 @@ Section /o "(X)" SEC07
   SetOverwrite on
   File ".\DAILmain - X\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.X"
 SectionEnd
 
 Section /o "(AX)" SEC08
@@ -442,9 +442,37 @@ Section /o "(AX)" SEC08
   SetOverwrite on
   File ".\DAILmain - X\resources\scripts.arc"
 
-;  SetOutPath "$INSTDIR\resources\"
-;  SetOverwrite on
-;  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AB"
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.AX"
+SectionEnd
+
+Section /o "(SX)" SEC09
+  SetOutPath "$INSTDIR\mods\DAIL\database\"
+  SetOverwrite on
+  File /oname=DAIL.arz ".\DAILmain - SX\database\DAILmain - SX.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - SX\resources\scripts.arc"
+
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.SX"
+SectionEnd
+
+Section /o "(ASX)" SEC10
+  SetOutPath "$INSTDIR\mods\DAIL\database\"
+  SetOverwrite on
+  File /oname=DAIL.arz ".\DAILmain - ASX\database\DAILmain - ASX.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File ".\DAILmain - ASX\resources\scripts.arc"
+
+  SetOutPath "$INSTDIR\resources\"
+  SetOverwrite on
+  File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.ASX"
 SectionEnd
 
 Section /o "FIX DB/TXT to 1.0.0.4 Hotfix2" SEC98
@@ -498,6 +526,8 @@ Function .onSelChange
 !insertmacro RadioButton "${SEC06}"
 !insertmacro RadioButton "${SEC07}"
 !insertmacro RadioButton "${SEC08}"
+!insertmacro RadioButton "${SEC09}"
+!insertmacro RadioButton "${SEC10}"
 !insertmacro RadioButton "${SEC98}"
 ;!insertmacro RadioButton "${SEC06}"
 !insertmacro EndRadioButtons

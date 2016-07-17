@@ -44,15 +44,32 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0050 - planned stable release
+*create UI for 99 masteries.. just in case
+*91% + health item is still kicking around wtf. waiting on cornucopia they claimed responsibility. enjoy it for now casuls
+*level75+ epics are not RNG properly? or whats the deal?
 
 0049 - ?
-*Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in Devil's Aquifer, unable to finish quest. "Primordian, the Forgotten One" was in it's place.
-*create UI for 99 masteries.. just in case
-*added a loading screen replacement - will be improved in the future
-*GAH where is this ? 91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
-*update omega scripts in x mode (whuups) add it as a script mk
-*THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049)
-*merge DGA 0.4
+introducing RAID MODE (SX and ASX) - insanely hard enemies x 1000000000000
+fixed some scripts for merging scripts that merged scripts
+loading screen image changed - sorry about version 48 ;o
+update omega scripts in x mode (whuups) add it as a script mk
+soldier+defense=soldier??? wtf? After restarting session, my defense+soldier (called soldier) now suddenly has 2x soldier masteries in the mastery-window. But I can still use defense abilities that I had on my actionbar. 
+Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in Devil's Aquifer, unable to finish quest. "Primordian, the Forgotten One" was in it's place. - did spawn for me. maybe you didnt go all the way in.
+BUG: When I craft Imbuded Silver I gain a Scavenged Plating instead. I have tried this 3 times and have the same result each time.  are you sure ? i got imbued silver. which version?
+revamped the OP on gd forums quite extensively. it should read better now
+Discord Days: SoT gate closes like in vanilla in 0048 - fixed - re added old script
+THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049)
+*gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
+*What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
+*	test this myself in DAIL - get the crash to happen
+*	if crash successful - then test considitions with JUST the mod this mastery is from
+*		report findings to ceno - if crash x2
+*	repeat both above steps for cenobite - also round 8/9 in survival if i can't crash in same circumstances
+*		report findings to cftx - if crash x2
+*update to omega 0.6
+*update to ncff 0.56
+*update to DGA 0.4b
+*WareBare: k, forgot to remove the enemy count UI.Notify when they spawn :) hope thats the only debugging UI.Notify I forgot - WareBare: cArea.lua line 392
 
 0048 - 6:44 PM 7/14/2016
 Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!

@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;8;25;65,
+records,records/items/loottables/gearhands/tdyn_hands_a01.dbr;records/items/loottables/gearhands/tdyn_hands_c01.dbr;records/items/loottables/gearhands/tdyn_handsdemon.dbr;records/items/loottables/gearhands/tdyn_hands_c01b.dbr,

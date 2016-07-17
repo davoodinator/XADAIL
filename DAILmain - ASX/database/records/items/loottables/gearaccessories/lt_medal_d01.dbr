@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;8;15;60,
+records,records/items/loottables/misc/tdyn_potions_a01.dbr;records/items/loottables/gearaccessories/tdyn_ring_c01.dbr;records/items/loottables/gearaccessories/tdyn_medal_c01.dbr;records/items/loottables/gearaccessories/tdyn_medal_d01.dbr,

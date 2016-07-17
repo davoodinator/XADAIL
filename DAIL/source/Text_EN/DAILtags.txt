@@ -4,12 +4,6 @@ tagDailHardyFactioner=^oHardy the ^wAetherial Interdictor
 tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
 tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
 
-#Areas
-tagMapDevilsCrossing01=Devil's Crossing^r(DAIL 0048)
-tagMapHomestead=Homestead^r(DAIL 0048)
-tagMapFortIkon=Fort Ikon^r(DAIL 0048)
-
-
 #DAIL SPAWNS
 DAIL_AETHERIAL_POP=^rYou feel an aetherial rift open for a moment and your pockets begin to glow... you better check your packs!!!!!?!?!
 DAIL_AETHERIAL_POP2=^rYou feel an aetherial rift open from the glowing potion you smashed on the ground....! SOMETHING HAS STEPPED THROUGH!!?!?!?

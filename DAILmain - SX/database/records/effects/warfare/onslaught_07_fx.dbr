@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+Anchored,0,
+Class,EffectEntity,
+boneList,Bone_R_Weapon;Bone_L_Weapon,
+effectFile,effects/warfare/343_onslaught_07.pfx,
+emitterType,Standard,
+localOrientFix,1,

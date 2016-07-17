@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,Y Gair Drown,
+petSkillName,records/skills/playerclasscoronus/pets/petskill_y_gair_drown.dbr,
+petChanges,,
