@@ -12,6 +12,14 @@ DAIL_AETHERIAL_ITEM2=^rYou feel like something is ready to burst from this bubbl
 DAILsummonskilldisplay=^rSummon a friendly Aetherial
 DAILsummonskilldetails=^rThis skill summons a friendly Aetherial who will help you in exchange for something......
 
+#DAIL NEMESIS NOTIFIERS
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel filth pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rThe iron Maiden is near !
+DAIL_NEMESIS_NECRO=^rnecro nemesis spawn. update text later
+DAIL_NEMESIS_OUTLAW=^routlaw nemesis spawn. update text later
+DAIL_NEMESIS_UNDEAD=^rUndead Nemesis spawn. update text later
+
 #DAIL MERCHANTS
 tagDailThentyZShopping0001=^oThentyZ the ^wSoldier ^oEmissary of ^wCrate
 tagDailThentyZShopping0002=^oLumera Relendra the ^wDemolitionist ^oEmissary of ^wCrate

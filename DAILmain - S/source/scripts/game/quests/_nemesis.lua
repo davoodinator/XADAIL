@@ -77,6 +77,7 @@ function gd.nemesis.aetherialNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("AETHERIALS") == -20000 && aetherialSpawned == false && aetherialChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_AETHERIAL");
 			aetherialSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(aetherialNemesisDBRs)
@@ -99,6 +100,7 @@ function gd.nemesis.chthonianNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("CTHONIANS") == -20000 && chthonianSpawned == false && chthonianChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_CTHONIAN");
 			chthonianSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(chthonianNemesisDBRs)
@@ -121,6 +123,7 @@ function gd.nemesis.kymonNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("USER8") == -20000 && kymonChosenSpawned == false && kymonChosenChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_KYMON");
 			kymonChosenSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(kymonChosenNemesisDBRs)
@@ -143,6 +146,7 @@ function gd.nemesis.orderDeathVigilNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("USER5") == -20000 && orderDeathVigilSpawned == false && orderDeathVigilChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_NECRO");
 			orderDeathVigilSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(orderDeathVigilNemesisDBRs)
@@ -165,6 +169,7 @@ function gd.nemesis.outlawNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("OUTLAWS") == -20000 && outlawSpawned == false && outlawChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_OUTLAW");
 			outlawSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(outlawNemesisDBRs)
@@ -187,6 +192,7 @@ function gd.nemesis.undeadNemesisOnAddToWorld(objectId)
 	if Server then
 		local player = Game.GetLocalPlayer()
 		if (player:GetFaction("USER6") == -20000 && undeadSpawned == false && undeadChestDestroyed == false) then
+			UI.Notify("DAIL_NEMESIS_UNDEAD");
 			undeadSpawned = true
 			monsterId = objectId
 			local totalNemesis = table.getn(undeadNemesisDBRs)

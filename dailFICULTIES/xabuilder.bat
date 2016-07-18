@@ -113,6 +113,17 @@ Archivetool.exe Text_EN.arc.X.arc -update  .\source_X\tags_uimain.txt Text_EN 6
 Archivetool.exe Text_EN.arc.SX.arc -update  .\source_SX\tags_uimain.txt Text_EN 6
 Archivetool.exe Text_EN.arc.ASX.arc -update  .\source_ASX\tags_uimain.txt Text_EN 6
 
+Archivetool.exe Text_EN.arc.S.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.A.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.ANG.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.NG.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.B.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.AB.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.AX.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.X.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.SX.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+Archivetool.exe Text_EN.arc.ASX.arc -update ..\DAIL\sources\Text_EN\DAIL_hybrid_tags.txt Text_EN 6
+
 rename Text_EN.arc.S.arc Text_EN.arc.S
 rename Text_EN.arc.A.arc Text_EN.arc.A
 rename Text_EN.arc.ANG.arc Text_EN.arc.ANG
