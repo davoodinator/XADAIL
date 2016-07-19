@@ -6,5 +6,5 @@ bitmapNameInFocus,ui/skills/classselection/skills_buttonclassselectionover01.tex
 bitmapNameUp,ui/skills/classselection/skills_buttonclassselectionup01.tex,
 isCircular,0,
 soundNameDown,records/sounds/ui/spak_buttonclickgenericlarge.dbr,
-bitmapPositionX,-68,  
-bitmapPositionY,540,  
+bitmapPositionX,750,  
+bitmapPositionY,46,  
