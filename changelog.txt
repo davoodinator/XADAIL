@@ -43,15 +43,16 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0050 - planned stable release
+changed all the randomization functions per this thread www.grimdawn.com/forums/showthread.php?p=412589#post412589 - thanks warebare and okami29
 added raid mode description to DAILL.txt oops ehe
 re remove cratebox.dbr
 adding announcement for appearance of nemesis in an area
 move downloads up in the OP
 fixing mastery names on first load
-create UI for 99 masteries.. just in case - seems 51 is the max ?!?!?
+create UI for 99 masteries.. just in case - seems 51 is the max ?!?!? do more experimenting later.. can we hack in more masteries than 30 somehow????
 add a custom NG script.arc also needs updater script for it too including omega stuff.
-*do better write-ups for nemesis pop scripts
-*re add warebare version of cratebox
+do better write-ups for nemesis pop scripts
+*merge warebare version of cratebox
 *add back depravities into creatures folder and increase size to normal size
 *Davo, i'm not sure if its from the harlequin mastery itself or not but at version 48 at max level 16 Zhanni swords - they are at 0 HP, but at level 15 they work just fine, it seems that the 16th point of the skill makes the HP of the summons 0 and its basically not allowing any summons 
 *level75+ epics are not RNG properly? or whats the deal?

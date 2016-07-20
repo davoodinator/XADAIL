@@ -14,11 +14,11 @@ DAILsummonskilldetails=^rThis skill summons a friendly Aetherial who will help y
 
 #DAIL NEMESIS NOTIFIERS
 DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
-DAIL_NEMESIS_CTHONIAN=^rYou feel filth pass over you as something from the Cthonian void rips into this world. !
-DAIL_NEMESIS_KYMON=^rThe iron Maiden is near !
-DAIL_NEMESIS_NECRO=^rnecro nemesis spawn. update text later
-DAIL_NEMESIS_OUTLAW=^routlaw nemesis spawn. update text later
-DAIL_NEMESIS_UNDEAD=^rUndead Nemesis spawn. update text later
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
 
 #DAIL MERCHANTS
 tagDailThentyZShopping0001=^oThentyZ the ^wSoldier ^oEmissary of ^wCrate
