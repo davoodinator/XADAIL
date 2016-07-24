@@ -1,0 +1,4 @@
+instantCast,1,
+Class,Skill_BuffRadiusToggled,
+templateName,database/templates/skill_buffradiustoggled.tpl,
+buffSkillName,records/skills/devotion/pets/petskill_elementalseeker_aura_buff.dbr,

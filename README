@@ -22,12 +22,16 @@ Finally:
 This folder contains the un-install files needed to reset your grim dawn game back to how it was before DAIL. (SADFACE)
 
 Combinations of the above include
-A
-B
-S
-AB
-NG
-ANG
+(X)   = Hard Mode (increased xp, enemy difficulty, lower enemy population and 10-100% loot quality increase)
+(S)   = S class mode - prepare for your GPU and CPU to melt. full grimmest everything.
+(B)   = Medium Grimmest - this is essentially boss script upgrades and x2 heroes with regular other spawns
+(NG)  = Vanilla Difficulty (No Grimmest)
+(A)   = Tiny Spiders + S Mode
+(AB)  = Tiny Spiders + B Mode
+(AX)  = Tiny Spiders + X Mode
+(ANG) = Tiny Spiders + Vanilla Mode
+(SX)  = Raid Mode. its X mode with S spawns
+(ASX) = Tiny Spiders + Raid Mode
 
 ******************************************
 Individual files sitting in the root dir:

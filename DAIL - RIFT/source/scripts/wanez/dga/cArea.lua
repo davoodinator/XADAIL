@@ -45,7 +45,7 @@ function wanez.dga.cArea(argProxyTypes)
             local difOffset = wanez._Settings.Difficulty.LevelOffset[wanez.DifficultyID]
             local enemyOffset = argEnemyLevelOffset
             local catOffset = wanez._Settings.Category.LevelOffset[self.CategoryOffset]
-            local uberOffset = wanez.dga.Settings:getUberID() == 1 and 0 or 2 -- TODO: better solution with changing catOffset
+            local uberOffset = wanez.dga.Settings:getUberID() == 1 and 0 or 5 -- TODO: better solution with changing catOffset
             -- calculation
             local enemyLevel = playerLevel + dgaTier + difOffset + enemyOffset + catOffset + uberOffset
             return enemyLevel -- , nil
@@ -241,7 +241,7 @@ function wanez.dga.cArea(argProxyTypes)
                 --    elseif(playerFactionValue <= -8000)then FactionValueID = 2
                 --    elseif(playerFactionValue <= -1500)then FactionValueID = 1 end
                 --end
-                if (factionRank_DGA_Enemy > 0)then
+                if (factionRank_DGA_Enemy > 0 and player:HasToken("DGA_BLOCK_SPAWN_NEMESIS") == false)then
                     -- number of nemesis spawns
                     local countNemesisSpawns = wanez.RNG({wanez._Settings.Enemies.Count.Nemesis[factionRank_DGA_Enemy][1],wanez._Settings.Enemies.Count.Nemesis[factionRank_DGA_Enemy][2]})
                     -- check if Nemesis should spawn

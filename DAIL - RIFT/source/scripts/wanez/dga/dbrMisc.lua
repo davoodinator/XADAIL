@@ -14,7 +14,7 @@ function wanez.dga.onDieBountyMonster_DGA_PM_000(argObjectId)
     
     --player:GiveItem("mod_wanez/items/token/upgrade_token_beginner.dbr",1,false)
     
-	local moneyValue = random(1,5000)
+	local moneyValue = random(1,2000)
 	player:AdjustMoney(moneyValue)
 	--UI.Notify("You just gambled: "..moneyValue.." Iron Bits")
 end

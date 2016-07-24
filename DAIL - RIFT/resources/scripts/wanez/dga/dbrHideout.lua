@@ -226,7 +226,7 @@ function wanez.dga.setGameSettings(argName,argValue)
         else
             player:RemoveToken(argName)
         end
-        if(argName == "DGA_GIVE_ITEM")then
+        if(argName == "DGA_AUTOLOOT")then
             wanez.dga.var.GiveItem = argValue
         else
             wanez.dga.Token[argName] = argValue
@@ -310,6 +310,10 @@ function wanez.dga.regPortalBasicDGA_006_A_00(argObjectId) setPortalDataToArea(a
 -- ID: 7
 function wanez.dga.regPortalBasicDGA_007_A_00(argObjectId) setPortalDataToArea(argObjectId,7,1);end;
 function wanez.dga.regPortalBasicDGA_007_B_00(argObjectId) setPortalDataToArea(argObjectId,7,2);end;
+-- ID: 9
+function wanez.dga.regPortalBasicDGA_009_A_00(argObjectId) setPortalDataToArea(argObjectId,9,1);end;
+-- ID: 10
+function wanez.dga.regPortalBasicDGA_010_A_00(argObjectId) setPortalDataToArea(argObjectId,10,1);end;
 -- ID: 101
 function wanez.dga.regPortalEndlessDGA_001_A_00(argObjectId) setPortalDataToArea(argObjectId,101,1);end;
 -- ID: 102

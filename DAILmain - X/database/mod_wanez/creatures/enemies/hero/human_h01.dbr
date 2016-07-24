@@ -691,7 +691,7 @@ skillName5,records/skills/nonplayerskills/heroskills/bloodyjack_anticlottinginje
 skillName6,records/skills/nonplayerskills/heroskills/bloodyjack_hemorrhage.dbr,
 skillName7,records/skills/nonplayerskills/heroskills/bloodyjack_rend.dbr,
 skillName8,records/skills/playerclass04/wpattack2.dbr,
-skillName9,records/skills/nonplayerskills/heroskills/hero loot chests/hero_chest_equippedreduced_01.dbr,
+skillName9,mod_wanez/creatures/enemies/containers/skills/hero_chest_equippedreduced_01.dbr,
 spearAlertAnimSpeed1,1.000000,
 spearAlertAnimSpeed2,1.000000,
 spearAlertAnimSpeed3,1.000000,

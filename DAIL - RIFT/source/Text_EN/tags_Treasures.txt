@@ -1,0 +1,158 @@
+#LOST TREASURES mof tag by okami29
+#Treasures tag ITEM
+tagT_swordAeons=Sword of Aeons
+tagT_swordAeonsDesc=This sword was made in homage to Cftx.
+tagT_wings=Wings of Freedom
+tagT_wingsDesc=Gives you an aura with increased ligh radius.
+tagT_chaoseater=Chaoseater
+tagT_chaoseaterDesc=This sword was made in homage to WareBare.
+tagT_chillrend=Chillrend
+tagT_chillrendDesc=Can freeze even the most powerful foes.This sword was made in homage to Davood
+tagT_dawnbreaker=Dawnbreaker
+tagT_dawnbreakerDesc=This sword was made in homage to adoomgod & Ceno.
+tagT_bladeolympus=Blade of Olympus
+tagT_bladeolympusDesc=This sword was made in homage to Asylum101.
+tagT_mjolnir=Mjolnir
+tagT_mjolnirDesc=This hammer was made in homage to Jiaco.
+tagT_gorehowl=Gorehowl
+tagT_gorehowlDesc=This axe was made in homage to Elfe
+tagT_bookEden=Book of Eden
+tagT_bookEdenDesc=This book was made in homage to mamba
+
+#Treasures tag ITEM IMRPOVED
+tagT_wings2=Improved Wings of Freedom
+tagT_wingsDesc2=Gives you an aura with increased ligh radius.
+
+#Treasures tag Recipe
+tagT_craft_chaoseater=Chaoseater recipe
+tagT_craft_chaoseaterDesc=Improves Chaoseater
+tagT_craft_swordAeons=Sword of Aeons recipe
+tagT_craft_swordAeonsDesc=Improves Sword of Aeons
+tagT_craft_chillrend=Chillrend recipe
+tagT_craft_chillrendDesc=Improves Chillrend
+tagT_craft_dawnbreaker=Dawnbreaker recipe
+tagT_craft_dawnbreakerDesc=Improves Dawnbreaker
+tagT_craft_mjolnir=Mjolnir recipe
+tagT_craft_mjolnirDesc=Improves Mjolnir
+tagT_craft_gorehowl=Gorehowl recipe
+tagT_craft_gorehowlDesc=Improves Gorehowl
+tagT_craft_bookEden=Book of Eden recipe
+tagT_craft_bookEdenDesc=Improves Book of Eden
+tagT_craft_bladeolympus=Blade of Olympus recipe
+tagT_craft_bladeolympusDesc=Improves Blade of Olympus
+
+#Treasures tag Spells
+tagT_wings_enchant=Wings of Freedom
+tagT_wingsD_enchantDesc=Gives you an aura with increased ligh radius.
+tagT_summonsword=Animated swords
+tagT_summonswordDesc=Summon 3sword of Aeons copies for 30 seconds
+tagT_summonsword_atack=Animated sword blink attack
+tagT_summonsword_atackDesc=Teleport to the target and deals weapon damage in a 180° radius
+tagT_skill_olympus=Olympus protection
+tagT_skill_olympusDesc=You are protected for a short duration
+tagT_skill_mjolnir=Mjolnir golden hammers
+tagT_skill_mjolnirDesc=Piercing, golden hammer orbit around you and create even more hammers farther on critical attack.
+tagT_skill_chaoseater=Chaoseater explosion
+
+
+#Treasures tag Creatures
+tagT_guardianUltimate=Ultimate Treasure Guardian
+tagT_guardian01=Treasure Guardian: Riftsnout ~ Voidtouched- PrincessLuna's follower
+tagT_guardian02=Treasure Guardian: Waban'Ak- Somerled's follower
+tagT_guardian03=Treasure Guardian: Festerlis ~ Bruiser- LuxDelux's follower
+tagT_guardian04=Treasure Guardian: Faldrak ~ Reflective- Salan's follower
+tagT_guardian05=Treasure Guardian: Intesius
+tagT_guardian06=Treasure Guardian: Wrathclaw ~ Corrupted
+tagT_guardian07=Treasure Guardian: Sarmaz'Din ~ Frozen
+tagT_guardian08=Treasure Guardian: GurgothSiin ~ Burning
+tagT_guardian09=Treasure Guardian: Yakwa'Anatu ~ Unstoppable
+tagT_guardian10=Treasure Guardian: Vildrix ~ Voidtouched
+tagT_guardian11=Treasure Guardian: Vinaldaar ~ Voidtouched
+tagT_guardian12=Treasure Guardian: Illumin ~ Electrified
+tagT_guardian13=Treasure Guardian: Aetherwraith ~ Corrupted
+tagT_guardian14=Treasure Guardian: Voidstone ~ Voidtouched
+tagT_guardian15=Treasure Guardian: Wrathwing ~ Corrupted
+tagT_guardian16=Treasure Guardian: Nadra
+tagT_guardian17=Treasure Guardian: Drygolukog ~ Charger
+tagT_guardian18=Treasure Guardian: Olagarr ~ Voidtouched
+tagT_guardian19=Treasure Guardian: Uldina ~ Defender
+tagT_guardian20=Treasure Guardian: Ooldacrax ~ Voidtouched
+
+
+
+#Treasures tag other Notifications
+tagT_ondrop=A treasure item is on the ground, pick it up !
+
+tagT_onkill1=You have killed 1 treasure guardian !
+tagT_onkill2=You have killed 2 treasures guardians !
+tagT_onkill3=You have killed 3 treasures guardians !
+tagT_onkill4=You have killed 4 treasures guardians !
+tagT_onkill5=You have killed 5 treasures guardians !
+tagT_onkill6=You have killed 6 treasures guardians !
+tagT_onkill7=You have killed 7 treasures guardians !
+tagT_onkill8=You have killed 8 treasures guardians !
+tagT_onkill9=You have killed 9 treasures guardians !
+tagT_onkill10=You have killed 10 treasures guardians !
+tagT_onkill11=You have killed 11 treasures guardians !
+tagT_onkill12=You have killed 12 treasures guardians !
+tagT_onkill13=You have killed 13 treasures guardians !
+tagT_onkill14=You have killed 14 treasures guardians !
+tagT_onkill15=You have killed 15 treasures guardians !
+tagT_onkill16=You have killed 15 treasures guardians !
+tagT_onkill17=You have killed 15 treasures guardians !
+tagT_onkill18=You have killed 15 treasures guardians !
+tagT_onkill19=You have killed 15 treasures guardians !
+tagT_onkill20=You have killed 20 treasures guardians !
+tagT_onkill21=You have killed 21 treasures guardians !
+tagT_onkill22=You have killed 22 treasures guardians !
+tagT_onkill23=You have killed 23 treasures guardians !
+tagT_onkill24=You have killed 24 treasures guardians !
+tagT_onkill25=You have killed 25 treasures guardians !
+
+#CLUE - HINT IS located
+tagT_place1=Major treasure guardian is located in Warden laboratory
+tagT_place2=Major treasure guardian is located in Depraved Sanctuary
+tagT_place3=Major treasure guardian is located in Lab spiders
+tagT_place4=Major treasure guardian is located in Hallowed Hill
+tagT_place5=Major treasure guardian is located in Cultist lair
+tagT_place6=Major treasure guardian is located in Darius 
+tagT_place7=Major treasure guardian is located in Wasp nest
+tagT_place8=Major treasure guardian is located in Broken Hills ruins 
+tagT_place9=Major treasure guardian is located in Arkovian Foothills cave
+tagT_place10=Major treasure guardian is located in Burrwitch rat den
+tagT_place11=Major treasure guardian is located in Flooded passage ruins
+tagT_place12=Major treasure guardian is located in Jagged waste
+tagT_place13=Major treasure guardian is located in Hidden wealth
+tagT_place14=Major treasure guardian is located in Dermapteran
+tagT_place15=Major treasure guardian is located in Obsidian throne
+tagT_place16=Major treasure guardian is located in Cultist summoner chest
+tagT_place17=Major treasure guardian is located in Necropolis
+tagT_place18=Major treasure guardian is located in Final boss
+tagT_place19=Major treasure guardian is located in Homestead conflagration
+tagT_place20=Major treasure guardian is located in Bastion of chaos
+tagT_place21=Major treasure guardian is located in Unknown place
+tagT_majorkilled=Major treasure guardian is already killed !
+#CLUE - HINT is NOT located
+
+tagT_NOTplace1=Major treasure guardian is NOT located in Warden laboratory
+tagT_NOTplace2=Major treasure guardian is NOT located in Depraved Sanctuary
+tagT_NOTplace3=Major treasure guardian is NOT located in Lab spiders
+tagT_NOTplace4=Major treasure guardian is NOT located in Hallowed Hill
+tagT_NOTplace5=Major treasure guardian is NOT located in Cultist lair
+tagT_NOTplace6=Major treasure guardian is NOT located in Darius 
+tagT_NOTplace7=Major treasure guardian is NOT located in Wasp nest
+tagT_NOTplace8=Major treasure guardian is NOT located in Broken Hills ruins 
+tagT_NOTplace9=Major treasure guardian is NOT located in Arkovian Foothills cave
+tagT_NOTplace10=Major treasure guardian is NOT located in Burrwitch rat den
+tagT_NOTplace11=Major treasure guardian is NOT located in Flooded passage ruins
+tagT_NOTplace12=Major treasure guardian is NOT located in Jagged waste
+tagT_NOTplace13=Major treasure guardian is NOT located in Hidden wealth
+tagT_NOTplace14=Major treasure guardian is NOT located in Dermapteran
+tagT_NOTplace15=Major treasure guardian is NOT located in Obsidian throne
+tagT_NOTplace16=Major treasure guardian is NOT located in Cultist summoner chest
+tagT_NOTplace17=Major treasure guardian is NOT located in Necropolis
+tagT_NOTplace18=Major treasure guardian is NOT located in Final boss
+tagT_NOTplace19=Major treasure guardian is NOT located in Homestead conflagration
+tagT_NOTplace20=Major treasure guardian is NOT located in Bastion of chaos
+tagT_NOTplace21=Major treasure guardian is NOT located in Unknown place
+

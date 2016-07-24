@@ -20,6 +20,7 @@ dgaSpecialCredit = 0
 
 Script.Load("scripts/wanez/dga/_data.lua");
 Script.Load("scripts/wanez/dga/_settings.lua");
+Script.Load("scripts/Omega_Mod/dga.lua");
 
 wanez.dga.Data = {};
 wanez.dga.Token = {};

@@ -30,7 +30,7 @@ function wanez.dga.cEntity(argClassID)
         end;
         dropLoot = function(self,argDBR,argCount,argCoords)
             argCoords = argCoords or false
-            if(wanez.dga.var.GiveItem or argCoords == false)then
+            if(Game.GetLocalPlayer():HasToken('DGA_AUTOLOOT') or argCoords == false)then -- wanez.dga.var.GiveItem
                 Game.GetLocalPlayer():GiveItem(argDBR,argCount,false)
             else
                 for j=1,argCount do

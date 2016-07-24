@@ -709,7 +709,7 @@ skillName13,records/skills/nonplayerskills/attackprojectile/humanpossessed_aethe
 skillName2,records/skills/nonplayerskills/passive/damagebonus_physical02.dbr,
 skillName3,records/skills/nonplayerskills/passive/armorbase03.dbr,
 skillName4,records/skills/nonplayerskills/passive/resists_heroboss.dbr,
-skillName5,records/skills/nonplayerskills/heroskills/hero loot chests/hero_chest_equippedreduced_01.dbr,
+skillName5,mod_wanez/creatures/enemies/containers/skills/hero_chest_equippedreduced_01.dbr,
 skillName6,records/skills/nonplayerskills/attackprojectile/humanpossessed_aetherburst.dbr,
 skillName7,records/skills/nonplayerskills/buff/humanpossessed_arcaneshield.dbr,
 skillName8,records/skills/nonplayerskills/attackrain/humanpossessed_devastation.dbr,

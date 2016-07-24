@@ -296,6 +296,9 @@ local containerPool = {
 	[5]=containerPoolRandom01,
 	[6]=containerPoolRandom01,
 	[7]=containerPoolRandom01,
+	[8]=containerPoolRandom01,
+	[9]=containerPoolRandom01,
+	[10]=containerPoolRandom01,
 	-- ENDLESS (LINEAR)
 	[101]=containerPoolRandom11,
 	[102]=containerPoolRandom11

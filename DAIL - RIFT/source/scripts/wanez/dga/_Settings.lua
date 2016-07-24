@@ -10,7 +10,9 @@ local enemyAreaPoolsDefault = { -- [int AreaID]={int chance/10,int PoolID}
     [4]={3,19},
     [5]={3,6},
     [6]={3,10},
-    [7]={3,12}
+    [7]={3,12},
+    [9]={3,12},
+    [10]={3,12}
 }
 -- unset area will roll a random boss
 local enemyAreaPoolsBoss = { -- [int AreaID]={int BossID,int BossID,...}
@@ -20,12 +22,14 @@ local enemyAreaPoolsBoss = { -- [int AreaID]={int BossID,int BossID,...}
 	[4]={9},
 	[5]={10},
 	[6]={16},
-	[7]={28}
+	[7]={28},
+    [9]={28},
+    [10]={28}
 };
 --
 local enemyRatioAether = {3,1}; -- Crystal,Obelisk
 -- For randomized DGA selection
-local areaRandomDefault = {1,2,3,5,6,7}
+local areaRandomDefault = {1,2,3,5,6,7,9,10}
 --
 local areaRequirements = {
 	["FreeTiers"] = { -- By Mode

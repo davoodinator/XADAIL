@@ -9,7 +9,7 @@ dail.summon = {}
 --DAIL START
 function callDAILonherodeath()
 	math.randomseed(Time.Now());
-	local DAILpop = random(1, 100000);
+	local DAILpop = math.random(1, 100000);
 	--25% chance
 	if DAILpop < 25000 then
 		UI.Notify("DAIL_AETHERIAL_POP");
@@ -57,8 +57,8 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/dailfactionsummon0003.dbr'
 	};
 	math.randomseed(Time.Now());
---	local randNPC = random(1, table.getn(dbrITEM));
-	local randITEM = random(1, 31);
+--	local randNPC = math.random(1, table.getn(dbrITEM));
+	local randITEM = math.random(1, 31);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
 	player:GiveItem(dbrITEM[randITEM], 1, true);
 
@@ -106,8 +106,8 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/npcs/hardy.dbr'
 	};
 	math.randomseed(Time.Now());
---	local randNPC = random(1, table.getn(dbrNPC));
-	local randNPC = random(1, 31);
+--	local randNPC = math.random(1, table.getn(dbrNPC));
+	local randNPC = math.random(1, 31);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);
 --	local playerCoords = Game.GetLocalPlayer():GetCoords();
 --	newNPC:SetCoords(playerCoords);

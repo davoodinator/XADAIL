@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,Applies valiant shout aoe buff,
+instantCast,1,
+buffSkillName,records/skills/itemskills/item_valiantshout_buff.dbr,

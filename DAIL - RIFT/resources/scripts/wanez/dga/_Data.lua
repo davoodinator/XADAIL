@@ -269,7 +269,7 @@ local ltDGA_01 = {
         ["Ratio"] = 2,
 		["LevelRequirements"] = {0,25,50},
 		["UseTier"] = {false},
-        ["ICwD"] = {true},
+        ["ICwD"] = {false},
 		["Lists"] = {
 			listDGAToken
 		}

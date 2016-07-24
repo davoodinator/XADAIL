@@ -63,6 +63,7 @@ tagFKSkillName15=Absolute Zero
 tagFKSkillDesc15={^S}Crowd Control {^n}{^n}{^w}Freezes nearest enemies solid, making them unable to attack or use skills for a short time.
 
 #Class08
+tagPetFaerie=Faerie
 tagClassEnchName=Grove Keeper
 tagClassEnchDesc=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 tagEnchSkill01=Barkskin
@@ -118,3 +119,9 @@ tagEnchSkill16A=Life Veil
 tagEnchDesc16A={^S}Modifier {^n}{^n}{^w}When you heal with Life's Touch you apply an absorbing shield for a short time.
 tagEnchSkill17=Resurgence
 tagEnchDesc17={^S}AoE Buff {^n}{^n}{^w}There's always hope! Fully restores lost health and energy to allies, and shields them for a short time.
+tagEnchSkill18=Summon Faerie
+tagEnchSkill18A=Faerie Fire
+tagEnchSkill18B=Nature's Veil
+tagEnchDesc18={^S}Summon {^n}{^n}{^w}Summons a spirit of the forest that debilitates your enemies and bolsters allies. ^oScales with pet bonuses.
+tagEnchSkill19=Venomous Stings
+tagEnchDesc19={^S}Crowd Control {^n}{^n}{^w}Sends forth a wave of poisoned thorns erupting from the ground that envenom all enemies on its path and put them to sleep for a short time.

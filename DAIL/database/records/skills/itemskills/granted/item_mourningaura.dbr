@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,0,
+buffSkillName,records/skills/itemskills/granted/item_mourningaura_buff.dbr,

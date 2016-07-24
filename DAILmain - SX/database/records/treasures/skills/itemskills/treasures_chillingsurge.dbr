@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,Attack Buff Radius,
+buffSkillName,records/treasures/skills/itemskills/treasures_chillingsurge_buff.dbr,
+pointBlank,1,
