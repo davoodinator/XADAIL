@@ -542,8 +542,8 @@ tagResetCloudWarning=Are you sure you want to delete all characters and data sto
 tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
 tagWorking=Working...
 
-tagRDifficultyTitle01=Normal(X 0049) 
-tagChallengeDifficulty=Veteran(X 0049) 
-tagRDifficultyTitle02=Elite(X 0049) 
-tagRDifficultyTitle03=Ultimate(X 0049) 
-tagHardcore=Hardcore(X 0049) 
+tagRDifficultyTitle01=Normal(X 0050) 
+tagChallengeDifficulty=Veteran(X 0050) 
+tagRDifficultyTitle02=Elite(X 0050) 
+tagRDifficultyTitle03=Ultimate(X 0050) 
+tagHardcore=Hardcore(X 0050) 

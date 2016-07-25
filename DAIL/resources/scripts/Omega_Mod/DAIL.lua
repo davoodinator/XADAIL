@@ -56,7 +56,7 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/dailfactionsummon0002.dbr',
 		'DAIL/items/summon/dailfactionsummon0003.dbr'
 	};
-	math.randomseed(Time.Now());
+--	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrITEM));
 	local randITEM = math.random(1, 31);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
@@ -105,7 +105,7 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/npcs/khalanos.dbr',
 		'DAIL/creatures/npcs/npcs/hardy.dbr'
 	};
-	math.randomseed(Time.Now());
+--	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrNPC));
 	local randNPC = math.random(1, 31);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);

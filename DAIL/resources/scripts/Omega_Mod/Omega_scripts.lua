@@ -4,6 +4,7 @@
 omega.scripts = {}
 
 function omega.scripts.onherodeath()
+		UI.Notify("DAIL_AETHERIAL_POOP");
 	if Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
 		local player = Game.GetLocalPlayer();
 		player:GiveItem('records/omega/items/questitems/Omega_Soul_Heroes.dbr', 1, true);

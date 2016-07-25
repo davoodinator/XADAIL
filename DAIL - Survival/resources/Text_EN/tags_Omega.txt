@@ -46,9 +46,9 @@ tagOMPotionAttribute=Potion of Attribute
 tagOMPotionExperience=Potion of Experience
 tagOMPotionAttributeDesc="Use it when your Energy is not full !" 
 tagOMPotionEmpty=Empty potion of attribute
-tagOMPotionEmptyDesc="Reagent used with any nemesis Monster Infrequent item to craft a Potion of attribute" 
-tagOMReagentnemesis=Power of a nemesis
-tagOMReagentnemesisDesc="Reagent used with an Empty potion of attribute to craft a Potion of attribute" 
+tagOMPotionEmptyDesc="Used in a recipe to craft a potion of attribute" 
+tagOMReagentnemesis=Nemesis soul
+tagOMReagentnemesisDesc="Used in a recipe to craft a potion of attribute" 
 
 #ItemSkills
 
@@ -142,10 +142,10 @@ tagOM_skilllightningstrikeDesc=Target suffer lightning damage and is slowed, fre
 tagOM_skilllightningaura=Lightning aura
 tagOM_skilllightningauraDesc=Deals lightning damage to a random enemy 20 times per second.Use it to trigger procs !
 #RecipeItems
-tagOMRecipePotionAttributeDesc="Recipe to craft a Potion of Attribute"
+tagOMRecipePotionAttributeDesc="Recipe to craft a Potion of Attribute.The Mythical relic required can be any with a level 70.Nemesis souls can be replaced by a Nemesis monster infrequent shoulder"
 tagOMRecipePotionAttribute=Potion of Attribute recipe
-tagOMRecipeReagentnemesis=Power of a nemesis recipe
-tagOMRecipeReagentnemesisDesc="Recipe to craft a stackable reagent Power of a nemesis (used for crafting a Potion of attribute)" 
+tagOMRecipeReagentnemesis=Nemesis soul recipe
+tagOMRecipeReagentnemesisDesc="Craft a Nemesis soul from any shoulder Nemesis monster infrequent" 
 
 #TransferItems
 tagOMtransfer1=Omega Proof Level 1

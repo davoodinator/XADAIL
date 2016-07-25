@@ -14,7 +14,6 @@ Script.Load("scripts/libs/shared.lua")
 
 -- Game
 Script.Load("scripts/game/grimdawn.lua")
-Script.Load("scripts/game/wavespawn.lua")
 
 --Omega Mod
 Script.Load("scripts/Omega_Mod/Omega_Mod.lua")

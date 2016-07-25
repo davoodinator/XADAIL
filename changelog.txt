@@ -47,7 +47,28 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
-0051 - ? ? ? ?  :(
+0051 - ?
+update coronus to 1.3?
+update dawn of heroes to 2.3
+
+0050 - HF1 - ???
+Tag not Found: tagEPNCFF_N_01
+stackable item limit DAIL 3, rift 2, survival 1 (wtf?) - shown on scrap metal - nope it wroks fine
+DGA mode keys tagnotfound (probably missing asset entry) - see below
+old DGA files in DAIL 0050 (the key drop thing)
+	delete or replace with vanilla:
+	records/items/lootchests/chestloottables/chest_heroloot_all_01.dbr
+	records/items/lootchests/chestloottables/chest_heroloot_all_01e.dbr
+	records/items/lootchests/chestloottables/chest_heroloot_all_01u.dbr
+	those seem to be the ones from before the hotfix, I deleted them with the hotfix.
+Also while trying to import DAIL DB in Grim Stash a new kind of error appeared: Error in Affix records/items/lootaffixes/completionrelics/malediction/malediction1.dbr 
+	A truncation error was encountered trying to shrink VARCHAR 'Common;Magical;Rare;Epic;Legendary;Broken;' to length 32.
+There is still a duplicate entry in: records/items/loottables/weapons/tdyn_melee2h_scythe01.dbr
+	@Davood - Just change lootName6 (scythe_01a3.dbr) to "records/items/custom/weap2h/scythe_01al3.dbr"
+I report more in ver 50:
+	*- Item Hero Soul (Item quest of Omega Quest): Hero/Boss mob havent drop.
+	involves merging omega 0.63
+	- Item Growing Scroll: use and havent summon Shop. * this item doesn't drop anymore. the potions work though
 
 0050 - 8:20 AM 7/24/2016
 changed all the randomization functions per this thread www.grimdawn.com/forums/showthread.php?p=412589#post412589 - thanks warebare and okami29

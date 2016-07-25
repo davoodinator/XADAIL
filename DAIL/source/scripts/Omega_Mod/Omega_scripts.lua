@@ -36,7 +36,7 @@ local spOMbossRandomizer = 0
 local spOMbosschance = 0
 local player = Game.GetLocalPlayer();
 math.randomseed(Time.Now())
-spOMbossRandomizer = random(1,10000)
+spOMbossRandomizer = math.random(1,10000)
 
 local t={'OMEGA_LEVEL_1','OMEGA_LEVEL_2','OMEGA_LEVEL_3','OMEGA_LEVEL_4','OMEGA_LEVEL_5','OMEGA_LEVEL_6','OMEGA_LEVEL_7','OMEGA_LEVEL_8','OMEGA_LEVEL_9','OMEGA_LEVEL_10','OMEGA_LEVEL_11','OMEGA_LEVEL_12','OMEGA_LEVEL_13','OMEGA_LEVEL_14','OMEGA_LEVEL_15','OMEGA_LEVEL_16','OMEGA_LEVEL_17','OMEGA_LEVEL_18','OMEGA_LEVEL_19','OMEGA_LEVEL_20','OMEGA_LEVEL_21','OMEGA_LEVEL_22','OMEGA_LEVEL_23','OMEGA_LEVEL_24','OMEGA_LEVEL_25','OMEGA_LEVEL_26','OMEGA_LEVEL_27','OMEGA_LEVEL_28','OMEGA_LEVEL_29','OMEGA_LEVEL_30','OMEGA_LEVEL_31','OMEGA_LEVEL_32','OMEGA_LEVEL_33','OMEGA_LEVEL_34','OMEGA_LEVEL_35','OMEGA_LEVEL_36','OMEGA_LEVEL_37','OMEGA_LEVEL_38','OMEGA_LEVEL_39','OMEGA_LEVEL_40','OMEGA_LEVEL_41','OMEGA_LEVEL_42','OMEGA_LEVEL_43','OMEGA_LEVEL_44','OMEGA_LEVEL_45','OMEGA_LEVEL_46','OMEGA_LEVEL_47','OMEGA_LEVEL_48','OMEGA_LEVEL_49','OMEGA_LEVEL_50','OMEGA_LEVEL_51','OMEGA_LEVEL_52','OMEGA_LEVEL_53','OMEGA_LEVEL_54','OMEGA_LEVEL_55','OMEGA_LEVEL_56','OMEGA_LEVEL_57','OMEGA_LEVEL_58','OMEGA_LEVEL_59','OMEGA_LEVEL_60','OMEGA_LEVEL_61','OMEGA_LEVEL_62','OMEGA_LEVEL_63','OMEGA_LEVEL_64','OMEGA_LEVEL_65','OMEGA_LEVEL_66','OMEGA_LEVEL_67','OMEGA_LEVEL_68','OMEGA_LEVEL_69','OMEGA_LEVEL_70','OMEGA_LEVEL_71','OMEGA_LEVEL_72','OMEGA_LEVEL_73','OMEGA_LEVEL_74','OMEGA_LEVEL_75','OMEGA_LEVEL_76','OMEGA_LEVEL_77','OMEGA_LEVEL_78','OMEGA_LEVEL_79','OMEGA_LEVEL_80','OMEGA_LEVEL_81','OMEGA_LEVEL_82','OMEGA_LEVEL_83','OMEGA_LEVEL_84','OMEGA_LEVEL_85','OMEGA_LEVEL_86','OMEGA_LEVEL_87','OMEGA_LEVEL_88','OMEGA_LEVEL_89','OMEGA_LEVEL_90','OMEGA_LEVEL_91','OMEGA_LEVEL_92','OMEGA_LEVEL_93','OMEGA_LEVEL_94','OMEGA_LEVEL_95','OMEGA_LEVEL_96','OMEGA_LEVEL_97','OMEGA_LEVEL_98','OMEGA_LEVEL_99','OMEGA_LEVEL_100'}		
 		for i=1,100 do
@@ -51,7 +51,8 @@ local t={'OMEGA_LEVEL_1','OMEGA_LEVEL_2','OMEGA_LEVEL_3','OMEGA_LEVEL_4','OMEGA_
 		local spOMpetRandomizer = 0
 		local OmegaNemesisDBRs = { 'records/omega/creatures/om_spawnerpet_aetherial.dbr','records/omega/creatures/om_spawnerpet_chthonian.dbr','records/omega/creatures/om_spawnerpet_kymon.dbr','records/omega/creatures/om_spawnerpet_order.dbr','records/omega/creatures/om_spawnerpet_outlaw.dbr','records/omega/creatures/om_spawnerpet_undead.dbr' }
 		local totalOmegaNemesis = table.getn(OmegaNemesisDBRs)
-		spOMpetRandomizer = random(1,totalOmegaNemesis)
+		--math.randomseed(Time.Now())
+		spOMpetRandomizer = math.random(1,totalOmegaNemesis)
 		omega.scripts.summonatfeet(OmegaNemesisDBRs[spOMpetRandomizer]);
 
 	end
@@ -140,7 +141,7 @@ function omega.scripts.onopenchestnemesis(objectID)
 	if player:HasToken('OMEGA_START_QUEST') and Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
 		local spOMbosschance = 0
 		math.randomseed(Time.Now())
-		spOMbosschance = random(1,100)
+		spOMbosschance = math.random(1,100)
 			if spOMbosschance > 96 then
 					omega.scripts.summonatfeet(objectID)
 				else
