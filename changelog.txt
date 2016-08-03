@@ -38,6 +38,7 @@ Old Polls:
 	^don't have time for this
 ^Discord Days: I wanted to propose that you add a new craftable to the game if possible! Aether Clusters!
 ^My game keeps crashing the moment Loghorrean attacks me, tried 3 times and on the third walked in slowly, stood there and when his projectiles hit me I crashed right away, on DAIL48 atm.
+^add ground cleaner for survival mode
 ***********************************************************************
 ***********************************************************************
 GREP SEARCH FOR , missing at end of lines in .dbr files
@@ -47,10 +48,49 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
-0051 - ?
-update coronus to 1.3?
-update dawn of heroes to 2.3
+0052 - ?
+*added new game mode - DAIL - Crucible
 
+
+0051 - ?
+I'm not able to assign skills to some celestial powers like ghoulish hunger or messenger of war or spear of heavens... Is this a bug or is there something that i don't know about these powers? I'm on 0050 X mode, and i'm a level 36 Kensai (fangshi + warfare). And I made a clean install for 0050.
+	i wanna see his char file. asking for it.
+	people saying its fine.. shrug
+Davood said that Survival isn't supposed to give points. Are you saying it still does? 
+	its fine. no extra skill points given. just checked the .lua files and re-removed the rewards
+is there a way to fix the class not found glitch when you enter the character select screen ?
+	this should be fixed. do you use 50HF1 ???
+http://www.grimdawn.com/forums/showpost.php?p=417031&postcount=2340
+	checking into this
+	nevermind
+clergy's amulet missing texture
+	fixed - was missing source/asset folder entries from NCFF. moar uploading your source bro
+	not actually fixed until i complete task below "merge ncff 0.58" i might move that to 0052 since its a BEAST of a task every time.
+the ultimate mastery level of the ranger class does not grant health - fixed, mana was also lacking
+sorry but i don't know how the lost treasures feature work in Ultimate ? do i need to find all 20 one shot chest before the guardian appears ? i alrdy find some one shot chest and when i returned in new session nothing appears. thank you vm.
+	I thin i need to re enable the screipts for this sorry.
+	will do some medium level testing. i dont have much time for this anymore.
+update grim quest to 1.2 - nevermind seems i ddi this alreaedy
+update coronus to 1.3.1 - regular version. not the "unbound" version
+added a "DAIL BUILD INSTRUCTIONS.txt" for masochists
+*update to ncff 0.58 (LOTS of .arc updates)
+*update darkest dawn to 1.0 (whoohoooo)
+*update engineer mastery to latest github stuff (2016 07 31) pay attention to the following notes:
+*update dawn of heroes to whatever is on the nexus on 2016 07 31
+*update cornucopia devotions and item affixes to 2016 07 31 github
+*update dga to 0.42b
+	_CLASSTREE_ClassEngineer.dbr - Not using my custom template, so some skills won't show up. templateName,database/templates/skilltree_expanded.tpl,
+	ClassPanelBackgroundImage.dbr - wrong image. bitmapName,ui/Engineer/Special/skills_classbackgroundimage_ext.tex,
+	ClassPanelReallocationImage.dbr - wrong image. bitmapName,ui/Engineer/Special/skills_classreallocationbackgroundimage_ext.tex,
+	ClassTABLE.dbr - missing tabSkillButtons entries for skills 35-37.
+	skill31.dbr - Old file
+	skill32.dbr - Old file
+	skill33.dbr - Old file
+	skill35.dbr - Missing
+	skill36.dbr - Missing
+	skill37.dbr - Missing
+*merged in 1.0.0.5 changes - crucible merge will happen for 0052
+	
 0050 - HF1 - 4:33 AM 7/26/2016
 Tag not Found: tagEPNCFF_N_01
 stackable item limit DAIL 3, rift 2, survival 1 (wtf?) - shown on scrap metal - nope it wroks fine

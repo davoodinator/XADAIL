@@ -1,0 +1,17 @@
+[DAIL] Build instructions.
+
+so you have downloaded the .zip from github? your a masochist. congratulations.
+
+decompress everything into \grim dawn\mods\
+
+then start by doing the following
+
+1. Propogate any files that i forgot to with  "SKILLMERGER.bat" from the root of \mods\
+2. Load the asset manager
+3. go through every mod that has "DAIL" at the start and hit F7 on each
+4. after each mod is run. choose archive -> compact
+5. once this is done run "GQMERGE.bat" from the root of \mods\
+6. after that mess is run - you need to load NSIS
+7. load DAIL.nsi and hit CTRL+F9
+8. repeat for DAIL-LITE.nsi
+9. thats it you have built DAIL.  upload it to nexus and tell the world of its arrival.

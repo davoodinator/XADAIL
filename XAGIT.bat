@@ -30,4 +30,5 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.nsi" "f:\SHTEEM\steamapps\comm
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.bat" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\README" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\changelog.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL BUILD INSTRUCTIONS.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
 rem pause

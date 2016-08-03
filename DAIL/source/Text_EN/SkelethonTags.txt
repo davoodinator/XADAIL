@@ -1,26 +1,6 @@
-#Be sure to replace 07 with whatever masterynumeration Skelethon you assigned it to
-#exemple: tagSkillClassName0107 > tagSkillClassName0113
-tagSkillClassNameSkelethon=Skelethon
-#tagSkillClassName07=Skelethon
-#tagSkillClassName0107=Stigma
-#tagSkillClassName0207=Eskimo Boy
-#tagSkillClassName0307=Great Crow
-#tagSkillClassName0407=Undead Assassin
-#tagSkillClassName0507=Hollow
-#tagSkillClassName0607=Gatekeeper
-#Songs: Skelethon;Crow;Hollow;Gatekeeper;Stigma;Eskimo Boy
-tagSkillClassDescriptionSkelethon=The Skelethon is one-of-a-kind summoner dealing in the art of necromancy and war. Carrier of the secret of the Three, the Skelethon knows about Bysmiel and her web moreso than anybody else, hence his ability to control a copious amount of spirits and other undead. For bearing such knowledge, it is impossible for the Skelethon to only rely on bringing back the dead to his plane of existence, which is why the need to master powerful techniques for slaughtering his foes in close combat is required if one wants to thrive.
-
-#ClassSkelethon
-
-
-#these ones is just in case:
-
-tagClassSkelethonSkillName00=Skelethon
-tagClassSkelethonSkillDescription00=The Skelethon is one-of-a-kind summoner dealing in the art of necromancy. Carrier of the secret of the Three, the Skelethon knows more about Bysmiel and her web than anybody else, hence his ability to control a copious amount of spirits and other undead.
 
 tagClassSkelethonSkillName01A=Dead Dogs
-tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The warrior skeleton also have the ability to raise the undead on his own kills, but one can only summon up to 1 skeleton. ^O This ability must be toggled to maintain its effect. ^A Your warrior skeletons last for 8 minutes and theirs for 4. ^O Secondary summons vanish when changing instances.
+tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The skeleton warrior have the ability to raise the undead on his own kills, but can only summon up to 1 skeleton. ^O This ability must be toggled to maintain its effect. ^A Your warrior skeletons last for 8 minutes and theirs for 4. ^O Secondary summons vanish when changing instances.
 tagClassSkelethonSkillName01B=Dirt
 tagClassSkelethonSkillDescription01B=Your skeleton charges at his enemy and fucks him up like he would a slutty hot undead spooky ghost.
 tagClassSkelethonSkillName01C=Five Fingers
@@ -34,7 +14,7 @@ tagClassSkelethonDescriptionRush=Catch up quickly to an enemy to take him by sur
 tagClassSkelethonSkillName04A=Zero Dark Thirty
 tagClassSkelethonSkillDescription=Slice em' good! SLICE EM GOOD
 tagClassSkelethonSkillName04B=Birds With Broken Wings
-tagClassSkelethonSkillDescription04B=Sometimes you just need pure brute force. Adds more % weapon damage and overall increases damage done by Zero Dark Thirty.
+tagClassSkelethonSkillDescription04B=Sometimes you just need pure brute force. Adds more % weapon damage and increases the overall damage done by Zero Dark Thirty.
 tagClassSkelethonSkillName04C=Summon Undead Warrior
 tagClassSkelethonSkillName04D=Summon Undead Warrior (50% On Enemy Death)
 
@@ -51,7 +31,7 @@ tagClassSkelethonSkillName06B=Alpha Centauri
 tagClassSkelethonSkillDescription06B=Increases the duration of Ignition while increasing your life regeneration.
 
 tagClassSkelethonSkillName07A=Rain Smell
-tagClassSkelethonSkillDescription07A=Summon two undead archers ready to impale your enemies with accelerated knives launched from heavily modified crossbows created shortly after the Grim Dawn by outlanders. They can raise a skeleton warrior on kill but one archer can only summon up to 1 skeleton. ^A Their warrior skeletons last for 4 minutes. ^O Secondary summons vanish when changing instances
+tagClassSkelethonSkillDescription07A=Summon two undead archers ready to impale your enemies with accelerated knives launched from heavily modified crossbows, created shortly after the Grim Dawn by outlanders. They can raise a skeleton warrior on kill but one archer can only summon up to 1 skeleton. ^A Their warrior skeletons last for 4 minutes. ^O Secondary summons vanish when changing instances.
 tagClassSkelethonSkillName07B=Secant
 tagClassSkelethonSkillDescription07B=Your archers are now able to fire a knife infused with the elements that explodes in a small area on contact.
 tagClassSkelethonSkillName07C=Venter
@@ -64,6 +44,9 @@ tagClassSkelethonSkillDescription08A=Lead as a true general would; by empowering
 
 tagClassSkelethonSkillName09A=Richardson Road
 tagClassSkelethonSkillDescription09A=Amplifies your ability to defend yourself against all blows. ^o Requires a two handed melee weapon.
+
+tagClassSkelethonSkillName10A=Sun Harmonics
+tagClassSkelethonSkillDescription10A=As a general who prefer to stay in the backline giving orders while also dealing death himself, you sacrifice some of your own vitality for more power to you and your team. ^o Requires a two handed ranged weapon.
 
 tagPetAbacus01=Skeleton Warrior
 tagPetRainSmell01=Skeleton Archer
