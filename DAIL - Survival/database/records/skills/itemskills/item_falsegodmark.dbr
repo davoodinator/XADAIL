@@ -1,0 +1,5 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/itemskills/item_falsegodmark_buff.dbr,

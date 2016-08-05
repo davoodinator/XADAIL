@@ -1,0 +1,250 @@
+tagWaWelcomeDGA=^gWelcome To Dynamically Generated Areas (DGA) MOD [v0.4.2]
+tagWaPlayerIsNearCaravan=^rItem cannot be used near a Caravan (Stash)
+tagWaScrollSpecialReceived=You received a Scroll to open a Portal to the next Area
+tagWaContainerSpawned=Killing your Enemy spawned a Special Chest for you to loot
+tagWaNewAffixDGA=You generated a new DGA Affix
+
+# Everything related to DGA (easier to include for other projects)
+
+tagWaNPC_Zana01_DESC=Basic DGA
+tagWaNPC_Zana01_PROFESSION=Portal Master
+tagWaNPC_Zana02_DESC=Endless DGA
+tagWaNPC_Zana02_PROFESSION=Portal Master
+tagWaNPC_Zana03_DESC=Special DGA
+tagWaNPC_Zana03_PROFESSION=Portal Master
+tagWaNPC_Reward01=Chest Summoner
+tagWaNPC_Tireless01=Tireless - Repeatable Quests
+tagWaNPC_Artifact01=The Archaeologist
+tagWaNPC_Guide01=DGA-Settings | Guide | Information
+tagWaNPC_EnemySouls01=Enemy Souls 
+tagWaNPC_Collector01=Collector
+tagWaNPC_GameType01_PROF=Vanilla
+tagWaNPC_GameType02_PROF=DGA
+tagWaNPC_GameType03_PROF=OMEGA
+tagWaNPC_Souleater01_NAME=Soul Eater
+
+tagWaNPC_FactionTable_14=Portal-Master
+tagWaNPC_FactionTable_14b=Bounty Table
+tagWaNPC_MapAffix_01=DGA Affixes
+
+tagWaRift00_Hideout_00=Hideout Rift
+tagWaWorld00_MapStart=Map Entrance
+tagWaWorld00_MapPortals=Portal Spawn (Hideout)
+tagWaWorld00_FloorStart=Start
+tagWaFloorDoorCave01_gotoNextFloor=To Next Area (no return)
+
+tagWaPortal_00_MapExit00=Return To Hideout
+tagWaPortal_Endless_PortToStart=Port back to Start
+tagWaPortal_00_EndlessNextArea_00=Go To Next Area
+tagWaPortal_00_EndlessReturnToBridge_00=Return to Portal-Bridge
+tagWaPortal_00_EndlessReturnToStart_00=Return to Endless Start
+tagWaPortal_00_Map01=Canyon - Portal
+tagWaPortal_00_Map02=Forest: Hills - Portal
+tagWaPortal_00_Map03=Dungeon - Portal
+tagWaPortal_00_Map04=Mine - Portal
+tagWaPortal_00_Map05=Map05 - Portal
+tagWaPortal_00_Map06=Forest: Ritual - Portal
+tagWaPortal_00_Map07=Map07 - Portal
+tagWaPortal_00_Map09_Zaknafein=Bone Pit Sanctuary - Portal
+tagWaPortal_00_Map10_Zaknafein=King Temple - Portal
+tagWaPortal_00_Map11_hawk4me=Island of Woe - Portal
+tagWaPortal_00_MapX=Laboratory - Portal
+tagWaPortal_00_Endless01=Endless Circle - Portal
+tagWaPortal_00_Endless02=Endless Worlds - Portal
+
+tagWaPortal_00_ReturnToHideout=Return To Hideout
+
+tagWaWorld00_Hideout=Hideout
+tagWaWorld00_Map01=Canyon
+tagWaWorld00_Map02=Forest: Hills
+tagWaWorld00_Map03=Dungeon
+tagWaWorld00_Map04=Mine
+tagWaWorld00_Map05=Map05
+tagWaWorld00_Map06=Forest: Ritual
+tagWaWorld00_Map07=Map07
+tagWaWorld00_Map09_Zaknafein=Bone Pit Sanctuary [Zaknafein]
+tagWaWorld00_Map10_Zaknafein=King Temple [Zaknafein]
+tagWaWorld00_Map11_Hawk4me=Island of Woe [hawk4me]
+tagWaWorld00_MapX=Laboratory
+tagWaWorld00_Endless01=Endless Circle
+tagWaWorld00_Endless02=Endless Worlds
+# ===========================================================================
+# DROPS
+# ---------------------------------------------------------------------------
+tagWaDGAUpgradeToken01_NAME=DGA Essence
+tagWaDGAUpgradeToken01_DESC=Used to create an access key to open DGA-Portals
+tagWaDGAUpgradeTokenNormal01_NAME=DGA Normal Upgrade (Token)
+tagWaDGAUpgradeTokenNormal01_DESC=Used to upgrade 2 Keys to the next tier
+tagWaDGAUpgradeTokenElite01_NAME=DGA Elite Upgrade (Token)
+tagWaDGAUpgradeTokenElite01_DESC=Used to upgrade 2 Keys to the next tier
+tagWaDGAUpgradeTokenUltimate01_NAME=DGA Ultimate Upgrade (Token)
+tagWaDGAUpgradeTokenUltimate01_DESC=Used to upgrade 2 Keys to the next tier
+tagWaDGAUberMaterial01_NAME=Uber Material (Rift)
+tagWaDGAUberMaterial01_DESC=Used to create a key to enter the Uber version of Rift
+# ---------------------------------------------------------------------------
+tagWaDGANormal01A_NAME=Tier 1 (Comp)
+tagWaDGANormal01A_DESC=DGA Tier 1 Material [NORMAL]
+tagWaDGANormal02A_NAME=Tier 2 (Comp)
+tagWaDGANormal02A_DESC=DGA Tier 2 Material [NORMAL]
+tagWaDGANormal03A_NAME=Tier 3 (Comp)
+tagWaDGANormal03A_DESC=DGA Tier 3 Material [NORMAL]
+tagWaDGANormal04A_NAME=Tier 4 (Comp)
+tagWaDGANormal04A_DESC=DGA Tier 4 Material [NORMAL]
+tagWaDGANormal05A_NAME=Tier 5 (Comp)
+tagWaDGANormal05A_DESC=DGA Tier 5 Material [NORMAL]
+tagWaDGANormal01B_NAME=Tier 1 (Key)
+tagWaDGANormal01B_DESC=DGA Tier 1 Key [NORMAL]
+tagWaDGANormal02B_NAME=Tier 2 (Key)
+tagWaDGANormal02B_DESC=DGA Tier 2 Key [NORMAL]
+tagWaDGANormal03B_NAME=Tier 3 (Key)
+tagWaDGANormal03B_DESC=DGA Tier 3 Key [NORMAL]
+tagWaDGANormal04B_NAME=Tier 4 (Key)
+tagWaDGANormal04B_DESC=DGA Tier 4 Key [NORMAL]
+tagWaDGANormal05B_NAME=Tier 5 (Key)
+tagWaDGANormal05B_DESC=DGA Tier 5 Key [NORMAL]
+# ---------------------------------------------------------------------------
+tagWaDGAElite01A_NAME=Tier 1 (Comp)
+tagWaDGAElite01A_DESC=DGA Tier 1 Material [ELITE]
+tagWaDGAElite02A_NAME=Tier 2 (Comp)
+tagWaDGAElite02A_DESC=DGA Tier 2 Material [ELITE]
+tagWaDGAElite03A_NAME=Tier 3 (Comp)
+tagWaDGAElite03A_DESC=DGA Tier 3 Material [ELITE]
+tagWaDGAElite04A_NAME=Tier 4 (Comp)
+tagWaDGAElite04A_DESC=DGA Tier 4 Material [ELITE]
+tagWaDGAElite05A_NAME=Tier 5 (Comp)
+tagWaDGAElite05A_DESC=DGA Tier 5 Material [ELITE]
+tagWaDGAElite06A_NAME=Tier 6 (Comp)
+tagWaDGAElite06A_DESC=DGA Tier 6 Material [ELITE]
+tagWaDGAElite07A_NAME=Tier 7 (Comp)
+tagWaDGAElite07A_DESC=DGA Tier 7 Material [ELITE]
+tagWaDGAElite08A_NAME=Tier 8 (Comp)
+tagWaDGAElite08A_DESC=DGA Tier 8 Material [ELITE]
+tagWaDGAElite09A_NAME=Tier 9 (Comp)
+tagWaDGAElite09A_DESC=DGA Tier 9 Material [ELITE]
+tagWaDGAElite10A_NAME=Tier 10 (Comp)
+tagWaDGAElite10A_DESC=DGA Tier 10 Material [ELITE]
+tagWaDGAElite01B_NAME=Tier  1 (Key)
+tagWaDGAElite01B_DESC=DGA Tier 1 Key [ELITE]
+tagWaDGAElite02B_NAME=Tier  2 (Key)
+tagWaDGAElite02B_DESC=DGA Tier 2 Key [ELITE]
+tagWaDGAElite03B_NAME=Tier  3 (Key)
+tagWaDGAElite03B_DESC=DGA Tier 3 Key [ELITE]
+tagWaDGAElite04B_NAME=Tier  4 (Key)
+tagWaDGAElite04B_DESC=DGA Tier 4 Key [ELITE]
+tagWaDGAElite05B_NAME=Tier  5 (Key)
+tagWaDGAElite05B_DESC=DGA Tier 5 Key [ELITE]
+tagWaDGAElite06B_NAME=Tier  6 (Key)
+tagWaDGAElite06B_DESC=DGA Tier 6 Key [ELITE]
+tagWaDGAElite07B_NAME=Tier  7 (Key)
+tagWaDGAElite07B_DESC=DGA Tier 7 Key [ELITE]
+tagWaDGAElite08B_NAME=Tier  8 (Key)
+tagWaDGAElite08B_DESC=DGA Tier 8 Key [ELITE]
+tagWaDGAElite09B_NAME=Tier  9 (Key)
+tagWaDGAElite09B_DESC=DGA Tier 9 Key [ELITE]
+tagWaDGAElite10B_NAME=Tier 10 (Key)
+tagWaDGAElite10B_DESC=DGA Tier 10 Key [ELITE]
+# ---------------------------------------------------------------------------
+tagWaDGAUltimate01A_NAME=Tier 1 (Comp)
+tagWaDGAUltimate01A_DESC=DGA Tier 1 Material [ULTIMATE]
+tagWaDGAUltimate02A_NAME=Tier 2 (Comp)
+tagWaDGAUltimate02A_DESC=DGA Tier 2 Material [ULTIMATE]
+tagWaDGAUltimate03A_NAME=Tier 3 (Comp)
+tagWaDGAUltimate03A_DESC=DGA Tier 3 Material [ULTIMATE]
+tagWaDGAUltimate04A_NAME=Tier 4 (Comp)
+tagWaDGAUltimate04A_DESC=DGA Tier 4 Material [ULTIMATE]
+tagWaDGAUltimate05A_NAME=Tier 5 (Comp)
+tagWaDGAUltimate05A_DESC=DGA Tier 5 Material [ULTIMATE]
+tagWaDGAUltimate06A_NAME=Tier 6 (Comp)
+tagWaDGAUltimate06A_DESC=DGA Tier 6 Material [ULTIMATE]
+tagWaDGAUltimate07A_NAME=Tier 7 (Comp)
+tagWaDGAUltimate07A_DESC=DGA Tier 7 Material [ULTIMATE]
+tagWaDGAUltimate08A_NAME=Tier 8 (Comp)
+tagWaDGAUltimate08A_DESC=DGA Tier 8 Material [ULTIMATE]
+tagWaDGAUltimate09A_NAME=Tier 9 (Comp)
+tagWaDGAUltimate09A_DESC=DGA Tier 9 Material [ULTIMATE]
+tagWaDGAUltimate10A_NAME=Tier 10 (Comp)
+tagWaDGAUltimate10A_DESC=DGA Tier 10 Material [ULTIMATE]
+tagWaDGAUltimate01B_NAME=Tier  1 (Key)
+tagWaDGAUltimate01B_DESC=DGA Tier 1 Key [ULTIMATE]
+tagWaDGAUltimate02B_NAME=Tier  2 (Key)
+tagWaDGAUltimate02B_DESC=DGA Tier 2 Key [ULTIMATE]
+tagWaDGAUltimate03B_NAME=Tier  3 (Key)
+tagWaDGAUltimate03B_DESC=DGA Tier 3 Key [ULTIMATE]
+tagWaDGAUltimate04B_NAME=Tier  4 (Key)
+tagWaDGAUltimate04B_DESC=DGA Tier 4 Key [ULTIMATE]
+tagWaDGAUltimate05B_NAME=Tier  5 (Key)
+tagWaDGAUltimate05B_DESC=DGA Tier 5 Key [ULTIMATE]
+tagWaDGAUltimate06B_NAME=Tier  6 (Key)
+tagWaDGAUltimate06B_DESC=DGA Tier 6 Key [ULTIMATE]
+tagWaDGAUltimate07B_NAME=Tier  7 (Key)
+tagWaDGAUltimate07B_DESC=DGA Tier 7 Key [ULTIMATE]
+tagWaDGAUltimate08B_NAME=Tier  8 (Key)
+tagWaDGAUltimate08B_DESC=DGA Tier 8 Key [ULTIMATE]
+tagWaDGAUltimate09B_NAME=Tier  9 (Key)
+tagWaDGAUltimate09B_DESC=DGA Tier 9 Key [ULTIMATE]
+tagWaDGAUltimate10B_NAME=Tier 10 (Key)
+tagWaDGAUltimate10B_DESC=DGA Tier 10 Key [ULTIMATE]
+# ---------------------------------------------------------------------------
+tagWaDGARewardKey01A_NAME=Copper Key
+tagWaDGARewardKey01A_DESC=Key to get a special container at the reward NPC
+tagWaDGARewardKey02A_NAME=Silver Key
+tagWaDGARewardKey02A_DESC=Key to get a special container at the reward NPC
+tagWaDGARewardKey03A_NAME=Gold Key
+tagWaDGARewardKey03A_DESC=Key to get a special container at the reward NPC
+#
+tagWaChestRewardKey01Desc=Copper Chest
+tagWaChestRewardKey02Desc=Silver Chest
+tagWaChestRewardKey03Desc=Gold Chest
+#
+tagWaScrollReturnHideout_NAME=Portal Scroll (Hideout)
+tagWaScrollReturnHideout_DESC="Opens a Portal to take you back to the Hideout. The Settings | Guide can remove the scroll from your inventory or give you a new one."
+tagWaCannotUsePortalScrollHidoutInHideout=You cannot use Portal Scroll (Hideout) while you are in your hideout or before killing at least 10 enemies!
+
+
+# CRAFTER
+tagWaNPC_BlacksmithDGANormal_DESC=Normal
+tagWaNPC_BlacksmithDGANormal_PROFESSION=DGA Crafter
+tagWaNPC_BlacksmithDGAElite_DESC=Elite
+tagWaNPC_BlacksmithDGAElite_PROFESSION=DGA Crafter
+tagWaNPC_BlacksmithDGAUltimate_DESC=Ultimate
+tagWaNPC_BlacksmithDGAUltimate_PROFESSION=DGA Crafter
+
+
+tagWaEventNewMonsters=New enemies have arrived, enjoy!
+
+# Faction
+tagWaRewardBountyDGA01_NAME=Magical Container
+tagWaRewardBountyDGA01_DESC="Bounty Reward from the Portal-Masters. Contains: Iron Bits and Random Items (small chance on a legendary)" ----------------------------- ^rUsing this near the Stash will result in losing the container! You can however store it in your stash.
+tagWaBountyToken_DGA_PM_NAME=Bounty Token (Portal Masters)
+tagWaBountyToken_DGA_PM_DESC="Item required to complete Bounties"
+
+# Specials/Uniques
+
+
+# BUFFS
+tagWaBuff_XPBonus01_NAME=Small XP Bonus
+tagWaBuff_XPBonus01_DESC=+25% XP
+tagWaBuff_XPBonus02_NAME=Medium XP Bonus
+tagWaBuff_XPBonus02_DESC=+50% XP
+
+# Chests
+tagWaChestCommon01Desc=Common Chest 01
+tagWaChestCommon02Desc=Common Chest 02
+tagWaChestCommon03Desc=Common Chest 03
+tagWaChestRare01Desc=Rare Chest 01
+tagWaChestRare02Desc=Rare Chest 02
+tagWaChestRare03Desc=Rare Chest 03
+tagWaChestSpecial01Desc=^pSpecial Chest (Basic DGA)
+tagWaChestBoss01Desc=Boss Chest
+
+tagDunes01=some Dunes?
+tagEnemyHarpyA02=fixed Common Harpy!
+tagEnemyHarpyB02=fixed Champion Harpy!
+
+tagWaNPC_QuestDGAMain01_DESC=DGA
+tagWaNPC_QuestDGAMain01_PROFESSION=Quest Line
+
+
+tagWaEventGlobalHeroReward01=Congratulations you killed enough Heroes to recieve a Key
+tagWaSpecialBossSpawned=A Boss has come to kill you!
+tagWaSpecialBossDeafeated=Congratulations, you defeated the Boss. You can go back to you Hideout.

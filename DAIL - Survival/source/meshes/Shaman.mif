@@ -1,0 +1,177 @@
+AttachPoint
+{
+    name   = "SpecialHit01"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit02"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit03"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit04"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "HeadFXUP"
+    parent = "Bone003"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXCentered"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Target"
+    parent = "Bone002"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXUnParentedCenter"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "CastFX"
+    parent = "Bone003"
+    origin = (0.225913, -0.000000, -0.000000)
+    xAxis  = (1.000011, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000011, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXForward"
+    parent = "Bone003"
+    origin = (0.198588, -0.000000, -0.000000)
+    xAxis  = (1.000006, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000006, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "L Hand"
+    parent = "Bone003"
+    origin = (0.215671, -0.000000, -0.000000)
+    xAxis  = (1.000006, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000006, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "R Hand"
+    parent = "Bone003"
+    origin = (0.215823, -0.000000, -0.000000)
+    xAxis  = (1.000005, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000005, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FX1"
+    parent = "Bone001"
+    origin = (0.549677, 0.548405, -0.545217)
+    xAxis  = (1.000000, -0.000000, 0.000000)
+    yAxis  = (-0.000000, 1.000000, -0.000000)
+    zAxis  = (0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FX2"
+    parent = "Bone001"
+    origin = (0.544459, 0.526557, 0.517135)
+    xAxis  = (1.000000, -0.000000, 0.000000)
+    yAxis  = (-0.000000, 1.000000, -0.000000)
+    zAxis  = (0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FX3"
+    parent = "Bone001"
+    origin = (0.515206, -0.527299, 0.529627)
+    xAxis  = (1.000000, -0.000000, 0.000000)
+    yAxis  = (-0.000000, 1.000000, -0.000000)
+    zAxis  = (0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FX4"
+    parent = "Bone001"
+    origin = (0.502527, -0.507005, -0.530118)
+    xAxis  = (1.000000, -0.000000, 0.000000)
+    yAxis  = (-0.000000, 1.000000, -0.000000)
+    zAxis  = (0.000000, -0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FX5"
+    parent = "Bone003"
+    origin = (0.205078, -0.000000, -0.000000)
+    xAxis  = (1.000006, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000006, -0.000000)
+    zAxis  = (-0.000000, -0.000000, 1.000000)
+}
+CreateEntity
+{
+    attach = "FX1"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "FX2"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "FX3"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "FX4"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}
+CreateEntity
+{
+    attach = "FX5"
+    entity = "records\fx\skillclass06\stormtotem_fragmentflight_fx.dbr"
+}

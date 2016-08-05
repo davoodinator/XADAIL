@@ -85,7 +85,7 @@ local player = Game.GetLocalPlayer()
 		player:GiveToken("WAVE_45")
 		player:GiveToken("DEBUG")
 		player:GiveLevels(84)
-		player:GiveSkillPoints(100)
+--		player:GiveSkillPoints(100)
 		player:AdjustMoney(10000000)
 	elseif (DebugMode == 2) then
 		player:RemoveToken("DEBUG")
@@ -379,13 +379,13 @@ local player = Game.GetLocalPlayer()
 	local i = random(1,100)
 		if (i >= 75) then
 			UI.Notify("tagAttributePointAwardedc")
-			player:GiveItem("records/items/misc/essence_power.dbr", 1, true)
+--			player:GiveItem("records/items/misc/essence_power.dbr", 1, true)
 			return
 		end
 		
 		if (i >= 50) then
 			UI.Notify("tagSkillPointAwardedc")
-			player:GiveItem("records/items/misc/essence_skill.dbr", 1, true)
+--			player:GiveItem("records/items/misc/essence_skill.dbr", 1, true)
 		end
 		*/
 end

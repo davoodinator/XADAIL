@@ -10,6 +10,7 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\source\scripts\/" /S *.dbr *.tpl /xf gameengine.dbr
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\database\/" /S *.dbr *.tpl /xf gameengine.dbr
 copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - X\database\records\game\gameengine.dbr" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\X\database\records\game\" /y
+copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\source\scripts\Omega_Mod\DAIL.lua" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\source\scripts\Omega_Mod\" /y
 
 rem restore super loot tables for x mode
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\X_loot\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\database\records\items\/" /S *.dbr

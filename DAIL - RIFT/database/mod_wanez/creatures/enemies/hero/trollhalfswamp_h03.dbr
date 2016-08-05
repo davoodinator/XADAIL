@@ -689,7 +689,7 @@ skillName14,records/skills/nonplayerskills/heroskills/archetypes/shielded_ranged
 skillName2,records/skills/nonplayerskills/passive/damagebonus_physical02.dbr,
 skillName3,records/skills/nonplayerskills/passive/armorbase03.dbr,
 skillName4,records/skills/nonplayerskills/passive/resists_heroboss.dbr,
-skillName5,records/skills/nonplayerskills/heroskills/hero loot chests/hero_chest_all_01.dbr,
+skillName5,mod_wanez/creatures/enemies/containers/skills/hero_chest_all_01.dbr,
 skillName6,records/skills/nonplayerskills/passive/passiveproperties_herodeflection.dbr,
 skillName7,records/skills/nonplayerskills/passive/passiveproperties_trollhalf_elder.dbr,
 skillName8,records/skills/nonplayerskills/passivelyactivated/trollhalf_trollblood02.dbr,

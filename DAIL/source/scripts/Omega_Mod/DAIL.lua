@@ -38,6 +38,8 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/dailskillsummon0011.dbr',
 		'DAIL/items/summon/dailskillsummon0012.dbr',
 		'DAIL/items/summon/dailskillsummon0013.dbr',
+		'DAIL/items/summon/dailskillsummon0014.dbr',
+		'DAIL/items/summon/dailskillsummon0015.dbr',
 		'DAIL/items/summon/dailskillsummon0016.dbr',
 		'DAIL/items/summon/dailskillsummon0017.dbr',
 		'DAIL/items/summon/dailskillsummon0018.dbr',
@@ -58,7 +60,7 @@ function dail.scripts.spawndailitems()
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrITEM));
-	local randITEM = math.random(1, 31);
+	local randITEM = math.random(1, 33);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
 	player:GiveItem(dbrITEM[randITEM], 1, true);
 
@@ -87,6 +89,9 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0011.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0012.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0013.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0014.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0015.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0013.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0016.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0017.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0018.dbr',
@@ -107,7 +112,7 @@ function dail.scripts.spawndailnpcs()
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrNPC));
-	local randNPC = math.random(1, 31);
+	local randNPC = math.random(1, 33);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);
 --	local playerCoords = Game.GetLocalPlayer():GetCoords();
 --	newNPC:SetCoords(playerCoords);

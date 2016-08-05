@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,0,
+buffSkillName,records/skills/playerclass15/pets/dd_pet_myreflection2_buff.dbr,

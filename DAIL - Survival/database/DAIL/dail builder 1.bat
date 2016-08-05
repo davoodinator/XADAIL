@@ -7025,7 +7025,7 @@ copy .\dail_base.dbr .\items\materia\class0011\FrostKnight24.dbr /y
 copy .\dail_base.dbr .\items\materia\class0011\FrostKnight25.dbr /y
 copy .\dail_base.dbr .\items\materia\class0011\FrostKnight26.dbr /y
 copy .\dail_base.dbr .\items\materia\class0011\FrostKnight27.dbr /y
-copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight28.dbr /y
+copy .\dail_base.dbr .\items\materia\class0011\FrostKnight28.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight29.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight30.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight31.dbr /y
@@ -7076,9 +7076,9 @@ copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight75.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight76.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight77.dbr /y
 copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight78.dbr /y
-
-
-
+copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight79.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight80.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0011\FrostKnight81.dbr /y
 
 
 
@@ -7176,9 +7176,9 @@ echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, 
 echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight76.dbr
 echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight77.dbr
 echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight79.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight80.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -7276,9 +7276,9 @@ echo itemCost,500000, >> .\items\materia\class0011\FrostKnight75.dbr
 echo itemCost,500000, >> .\items\materia\class0011\FrostKnight76.dbr
 echo itemCost,500000, >> .\items\materia\class0011\FrostKnight77.dbr
 echo itemCost,500000, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo itemCost,500000, >> .\items\materia\class0011\FrostKnight79.dbr
+echo itemCost,500000, >> .\items\materia\class0011\FrostKnight80.dbr
+echo itemCost,500000, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -7376,9 +7376,9 @@ echo description,dailCompDescFrostKnight75, >> .\items\materia\class0011\FrostKn
 echo description,dailCompDescFrostKnight76, >> .\items\materia\class0011\FrostKnight76.dbr
 echo description,dailCompDescFrostKnight77, >> .\items\materia\class0011\FrostKnight77.dbr
 echo description,dailCompDescFrostKnight78, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo description,dailCompDescFrostKnight79, >> .\items\materia\class0011\FrostKnight79.dbr
+echo description,dailCompDescFrostKnight80, >> .\items\materia\class0011\FrostKnight80.dbr
+echo description,dailCompDescFrostKnight81, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -7476,9 +7476,9 @@ echo itemText,dailCompTextFrostKnight75, >> .\items\materia\class0011\FrostKnigh
 echo itemText,dailCompTextFrostKnight76, >> .\items\materia\class0011\FrostKnight76.dbr
 echo itemText,dailCompTextFrostKnight77, >> .\items\materia\class0011\FrostKnight77.dbr
 echo itemText,dailCompTextFrostKnight78, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo itemText,dailCompTextFrostKnight79, >> .\items\materia\class0011\FrostKnight79.dbr
+echo itemText,dailCompTextFrostKnight80, >> .\items\materia\class0011\FrostKnight80.dbr
+echo itemText,dailCompTextFrostKnight81, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -7525,7 +7525,7 @@ echo augmentSkillLevel1,1, >> .\items\materia\class0011\FrostKnight24.dbr
 echo augmentSkillLevel1,1, >> .\items\materia\class0011\FrostKnight25.dbr
 echo augmentSkillLevel1,1, >> .\items\materia\class0011\FrostKnight26.dbr
 echo augmentSkillLevel1,1, >> .\items\materia\class0011\FrostKnight27.dbr
-echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight28.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0011\FrostKnight28.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight29.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight30.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight31.dbr
@@ -7550,8 +7550,8 @@ echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight49.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight50.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight51.dbr
 echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight52.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight53.dbr
-echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight54.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight53.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0011\FrostKnight54.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight55.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight56.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight57.dbr
@@ -7576,9 +7576,9 @@ echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight75.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight76.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight77.dbr
 echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight79.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight80.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -7601,84 +7601,84 @@ echo augmentSkillLevel1,5, >> .\items\materia\class0011\FrostKnight78.dbr
 echo augmentMasteryName1,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0011\FrostKnight1.dbr
 echo augmentMasteryName1,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0011\FrostKnight2.dbr
 echo augmentMasteryName1,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0011\FrostKnight3.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight4.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight5.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight6.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight7.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight8.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/training.dbr, >> .\items\materia\class0011\FrostKnight9.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight10.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight11.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight12.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight13.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/lethality.dbr, >> .\items\materia\class0011\FrostKnight14.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight15.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight16.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight17.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight18.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight19.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight20.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight21.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight22.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight23.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight24.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight25.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight26.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight27.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight28.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight29.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight30.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight31.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight32.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight33.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/training.dbr, >> .\items\materia\class0011\FrostKnight34.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight35.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight36.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight37.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight38.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/lethality.dbr, >> .\items\materia\class0011\FrostKnight39.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight40.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight41.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight42.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight43.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight44.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight45.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight46.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight47.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight48.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight49.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight50.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight51.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight52.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight53.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight54.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight55.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight56.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight57.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight58.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/training.dbr, >> .\items\materia\class0011\FrostKnight59.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight60.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight61.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight62.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight63.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/lethality.dbr, >> .\items\materia\class0011\FrostKnight64.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight65.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight66.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight67.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight68.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight69.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight70.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight71.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight72.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight73.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight74.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight75.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight76.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight77.dbr
-echo augmentSkillName1,records/skills/FrostKnightClass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight78.dbr
-
-
-
+echo augmentSkillName1,records/skills/frostknightclass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight4.dbr
+echo augmentSkillName1,records/skills/frostknightclass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight5.dbr
+echo augmentSkillName1,records/skills/frostknightclass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight6.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight7.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight8.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod2.dbr, >> .\items\materia\class0011\FrostKnight9.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight10.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight11.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight12.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight13.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight14.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight15.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight16.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight17.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight18.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight19.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight20.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight21.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight22.dbr
+echo augmentSkillName1,records/skills/frostknightclass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight23.dbr
+echo augmentSkillName1,records/skills/frostknightclass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight24.dbr
+echo augmentSkillName1,records/skills/frostknightclass/lethality.dbr, >> .\items\materia\class0011\FrostKnight25.dbr
+echo augmentSkillName1,records/skills/frostknightclass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight26.dbr
+echo augmentSkillName1,records/skills/frostknightclass/training.dbr, >> .\items\materia\class0011\FrostKnight27.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight28.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight29.dbr
+echo augmentSkillName1,records/skills/frostknightclass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight30.dbr
+echo augmentSkillName1,records/skills/frostknightclass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight31.dbr
+echo augmentSkillName1,records/skills/frostknightclass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight32.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight33.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight34.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod2.dbr, >> .\items\materia\class0011\FrostKnight35.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight36.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight37.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight38.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight39.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight40.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight41.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight42.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight43.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight44.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight45.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight46.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight47.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight48.dbr
+echo augmentSkillName1,records/skills/frostknightclass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight49.dbr
+echo augmentSkillName1,records/skills/frostknightclass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight50.dbr
+echo augmentSkillName1,records/skills/frostknightclass/lethality.dbr, >> .\items\materia\class0011\FrostKnight51.dbr
+echo augmentSkillName1,records/skills/frostknightclass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight52.dbr
+echo augmentSkillName1,records/skills/frostknightclass/training.dbr, >> .\items\materia\class0011\FrostKnight53.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight54.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight55.dbr
+echo augmentSkillName1,records/skills/frostknightclass/coldblood.dbr, >> .\items\materia\class0011\FrostKnight56.dbr
+echo augmentSkillName1,records/skills/frostknightclass/coldsnap.dbr, >> .\items\materia\class0011\FrostKnight57.dbr
+echo augmentSkillName1,records/skills/frostknightclass/crushingwinds.dbr, >> .\items\materia\class0011\FrostKnight58.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura.dbr, >> .\items\materia\class0011\FrostKnight59.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod.dbr, >> .\items\materia\class0011\FrostKnight60.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostaura_mod2.dbr, >> .\items\materia\class0011\FrostKnight61.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast.dbr, >> .\items\materia\class0011\FrostKnight62.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_mod.dbr, >> .\items\materia\class0011\FrostKnight63.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostblast_transmuter.dbr, >> .\items\materia\class0011\FrostKnight64.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostborn.dbr, >> .\items\materia\class0011\FrostKnight65.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostbreath.dbr, >> .\items\materia\class0011\FrostKnight66.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell.dbr, >> .\items\materia\class0011\FrostKnight67.dbr
+echo augmentSkillName1,records/skills/frostknightclass/frostshell_mod.dbr, >> .\items\materia\class0011\FrostKnight68.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike.dbr, >> .\items\materia\class0011\FrostKnight69.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_fever.dbr, >> .\items\materia\class0011\FrostKnight70.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_iceflows.dbr, >> .\items\materia\class0011\FrostKnight71.dbr
+echo augmentSkillName1,records/skills/frostknightclass/froststrike_transmuter01.dbr, >> .\items\materia\class0011\FrostKnight72.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciation_mod.dbr, >> .\items\materia\class0011\FrostKnight73.dbr
+echo augmentSkillName1,records/skills/frostknightclass/glaciationwp.dbr, >> .\items\materia\class0011\FrostKnight74.dbr
+echo augmentSkillName1,records/skills/frostknightclass/harbinger.dbr, >> .\items\materia\class0011\FrostKnight75.dbr
+echo augmentSkillName1,records/skills/frostknightclass/heartofice.dbr, >> .\items\materia\class0011\FrostKnight76.dbr
+echo augmentSkillName1,records/skills/frostknightclass/lethality.dbr, >> .\items\materia\class0011\FrostKnight77.dbr
+echo augmentSkillName1,records/skills/frostknightclass/pathoffrost.dbr, >> .\items\materia\class0011\FrostKnight78.dbr
+echo augmentSkillName1,records/skills/frostknightclass/training.dbr, >> .\items\materia\class0011\FrostKnight79.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift.dbr, >> .\items\materia\class0011\FrostKnight80.dbr
+echo augmentSkillName1,records/skills/frostknightclass/wintersgift_mod.dbr, >> .\items\materia\class0011\FrostKnight81.dbr
 
 
 
@@ -9098,6 +9098,1406 @@ echo augmentSkillName1,records/skills/zenithclass01/mania_buff.dbr, >> .\items\m
 
 
 
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer22.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer23.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer24.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer25.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer26.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer27.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer28.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer29.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer30.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer31.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer32.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer33.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer34.dbr /y
+copy .\dail_base.dbr .\items\materia\class0014\Arch Necromancer35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer63.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer64.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer65.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer66.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer67.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer68.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer69.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer70.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer71.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer72.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer73.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer74.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer75.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer76.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer77.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer78.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer79.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer80.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer81.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer82.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer83.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer84.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer85.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer86.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer87.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer88.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer89.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer90.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer91.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer92.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer93.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer94.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer95.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer96.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer97.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer98.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer99.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0014\Arch Necromancer100.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer100.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo itemCost,600000, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo itemCost,100000, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo itemCost,300000, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo itemCost,500000, >> .\items\materia\class0014\Arch Necromancer100.dbr
+echo description,dailCompDescArch Necromancer1, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo description,dailCompDescArch Necromancer2, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo description,dailCompDescArch Necromancer3, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo description,dailCompDescArch Necromancer4, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo description,dailCompDescArch Necromancer5, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo description,dailCompDescArch Necromancer6, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo description,dailCompDescArch Necromancer7, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo description,dailCompDescArch Necromancer8, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo description,dailCompDescArch Necromancer9, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo description,dailCompDescArch Necromancer10, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo description,dailCompDescArch Necromancer11, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo description,dailCompDescArch Necromancer12, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo description,dailCompDescArch Necromancer13, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo description,dailCompDescArch Necromancer14, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo description,dailCompDescArch Necromancer15, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo description,dailCompDescArch Necromancer16, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo description,dailCompDescArch Necromancer17, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo description,dailCompDescArch Necromancer18, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo description,dailCompDescArch Necromancer19, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo description,dailCompDescArch Necromancer20, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo description,dailCompDescArch Necromancer21, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo description,dailCompDescArch Necromancer22, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo description,dailCompDescArch Necromancer23, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo description,dailCompDescArch Necromancer24, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo description,dailCompDescArch Necromancer25, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo description,dailCompDescArch Necromancer26, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo description,dailCompDescArch Necromancer27, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo description,dailCompDescArch Necromancer28, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo description,dailCompDescArch Necromancer29, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo description,dailCompDescArch Necromancer30, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo description,dailCompDescArch Necromancer31, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo description,dailCompDescArch Necromancer32, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo description,dailCompDescArch Necromancer33, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo description,dailCompDescArch Necromancer34, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo description,dailCompDescArch Necromancer35, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo description,dailCompDescArch Necromancer36, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo description,dailCompDescArch Necromancer37, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo description,dailCompDescArch Necromancer38, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo description,dailCompDescArch Necromancer39, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo description,dailCompDescArch Necromancer40, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo description,dailCompDescArch Necromancer41, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo description,dailCompDescArch Necromancer42, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo description,dailCompDescArch Necromancer43, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo description,dailCompDescArch Necromancer44, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo description,dailCompDescArch Necromancer45, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo description,dailCompDescArch Necromancer46, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo description,dailCompDescArch Necromancer47, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo description,dailCompDescArch Necromancer48, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo description,dailCompDescArch Necromancer49, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo description,dailCompDescArch Necromancer50, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo description,dailCompDescArch Necromancer51, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo description,dailCompDescArch Necromancer52, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo description,dailCompDescArch Necromancer53, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo description,dailCompDescArch Necromancer54, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo description,dailCompDescArch Necromancer55, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo description,dailCompDescArch Necromancer56, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo description,dailCompDescArch Necromancer57, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo description,dailCompDescArch Necromancer58, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo description,dailCompDescArch Necromancer59, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo description,dailCompDescArch Necromancer60, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo description,dailCompDescArch Necromancer61, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo description,dailCompDescArch Necromancer62, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo description,dailCompDescArch Necromancer63, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo description,dailCompDescArch Necromancer64, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo description,dailCompDescArch Necromancer65, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo description,dailCompDescArch Necromancer66, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo description,dailCompDescArch Necromancer67, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo description,dailCompDescArch Necromancer68, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo description,dailCompDescArch Necromancer69, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo description,dailCompDescArch Necromancer70, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo description,dailCompDescArch Necromancer71, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo description,dailCompDescArch Necromancer72, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo description,dailCompDescArch Necromancer73, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo description,dailCompDescArch Necromancer74, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo description,dailCompDescArch Necromancer75, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo description,dailCompDescArch Necromancer76, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo description,dailCompDescArch Necromancer77, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo description,dailCompDescArch Necromancer78, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo description,dailCompDescArch Necromancer79, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo description,dailCompDescArch Necromancer80, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo description,dailCompDescArch Necromancer81, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo description,dailCompDescArch Necromancer82, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo description,dailCompDescArch Necromancer83, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo description,dailCompDescArch Necromancer84, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo description,dailCompDescArch Necromancer85, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo description,dailCompDescArch Necromancer86, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo description,dailCompDescArch Necromancer87, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo description,dailCompDescArch Necromancer88, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo description,dailCompDescArch Necromancer89, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo description,dailCompDescArch Necromancer90, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo description,dailCompDescArch Necromancer91, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo description,dailCompDescArch Necromancer92, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo description,dailCompDescArch Necromancer93, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo description,dailCompDescArch Necromancer94, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo description,dailCompDescArch Necromancer95, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo description,dailCompDescArch Necromancer96, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo description,dailCompDescArch Necromancer97, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo description,dailCompDescArch Necromancer98, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo description,dailCompDescArch Necromancer99, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo description,dailCompDescArch Necromancer100, >> .\items\materia\class0014\Arch Necromancer100.dbr
+echo itemText,dailCompTextArch Necromancer1, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo itemText,dailCompTextArch Necromancer2, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo itemText,dailCompTextArch Necromancer3, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo itemText,dailCompTextArch Necromancer4, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo itemText,dailCompTextArch Necromancer5, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo itemText,dailCompTextArch Necromancer6, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo itemText,dailCompTextArch Necromancer7, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo itemText,dailCompTextArch Necromancer8, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo itemText,dailCompTextArch Necromancer9, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo itemText,dailCompTextArch Necromancer10, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo itemText,dailCompTextArch Necromancer11, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo itemText,dailCompTextArch Necromancer12, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo itemText,dailCompTextArch Necromancer13, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo itemText,dailCompTextArch Necromancer14, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo itemText,dailCompTextArch Necromancer15, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo itemText,dailCompTextArch Necromancer16, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo itemText,dailCompTextArch Necromancer17, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo itemText,dailCompTextArch Necromancer18, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo itemText,dailCompTextArch Necromancer19, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo itemText,dailCompTextArch Necromancer20, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo itemText,dailCompTextArch Necromancer21, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo itemText,dailCompTextArch Necromancer22, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo itemText,dailCompTextArch Necromancer23, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo itemText,dailCompTextArch Necromancer24, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo itemText,dailCompTextArch Necromancer25, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo itemText,dailCompTextArch Necromancer26, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo itemText,dailCompTextArch Necromancer27, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo itemText,dailCompTextArch Necromancer28, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo itemText,dailCompTextArch Necromancer29, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo itemText,dailCompTextArch Necromancer30, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo itemText,dailCompTextArch Necromancer31, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo itemText,dailCompTextArch Necromancer32, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo itemText,dailCompTextArch Necromancer33, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo itemText,dailCompTextArch Necromancer34, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo itemText,dailCompTextArch Necromancer35, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo itemText,dailCompTextArch Necromancer36, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo itemText,dailCompTextArch Necromancer37, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo itemText,dailCompTextArch Necromancer38, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo itemText,dailCompTextArch Necromancer39, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo itemText,dailCompTextArch Necromancer40, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo itemText,dailCompTextArch Necromancer41, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo itemText,dailCompTextArch Necromancer42, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo itemText,dailCompTextArch Necromancer43, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo itemText,dailCompTextArch Necromancer44, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo itemText,dailCompTextArch Necromancer45, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo itemText,dailCompTextArch Necromancer46, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo itemText,dailCompTextArch Necromancer47, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo itemText,dailCompTextArch Necromancer48, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo itemText,dailCompTextArch Necromancer49, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo itemText,dailCompTextArch Necromancer50, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo itemText,dailCompTextArch Necromancer51, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo itemText,dailCompTextArch Necromancer52, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo itemText,dailCompTextArch Necromancer53, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo itemText,dailCompTextArch Necromancer54, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo itemText,dailCompTextArch Necromancer55, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo itemText,dailCompTextArch Necromancer56, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo itemText,dailCompTextArch Necromancer57, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo itemText,dailCompTextArch Necromancer58, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo itemText,dailCompTextArch Necromancer59, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo itemText,dailCompTextArch Necromancer60, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo itemText,dailCompTextArch Necromancer61, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo itemText,dailCompTextArch Necromancer62, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo itemText,dailCompTextArch Necromancer63, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo itemText,dailCompTextArch Necromancer64, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo itemText,dailCompTextArch Necromancer65, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo itemText,dailCompTextArch Necromancer66, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo itemText,dailCompTextArch Necromancer67, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo itemText,dailCompTextArch Necromancer68, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo itemText,dailCompTextArch Necromancer69, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo itemText,dailCompTextArch Necromancer70, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo itemText,dailCompTextArch Necromancer71, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo itemText,dailCompTextArch Necromancer72, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo itemText,dailCompTextArch Necromancer73, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo itemText,dailCompTextArch Necromancer74, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo itemText,dailCompTextArch Necromancer75, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo itemText,dailCompTextArch Necromancer76, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo itemText,dailCompTextArch Necromancer77, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo itemText,dailCompTextArch Necromancer78, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo itemText,dailCompTextArch Necromancer79, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo itemText,dailCompTextArch Necromancer80, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo itemText,dailCompTextArch Necromancer81, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo itemText,dailCompTextArch Necromancer82, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo itemText,dailCompTextArch Necromancer83, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo itemText,dailCompTextArch Necromancer84, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo itemText,dailCompTextArch Necromancer85, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo itemText,dailCompTextArch Necromancer86, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo itemText,dailCompTextArch Necromancer87, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo itemText,dailCompTextArch Necromancer88, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo itemText,dailCompTextArch Necromancer89, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo itemText,dailCompTextArch Necromancer90, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo itemText,dailCompTextArch Necromancer91, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo itemText,dailCompTextArch Necromancer92, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo itemText,dailCompTextArch Necromancer93, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo itemText,dailCompTextArch Necromancer94, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo itemText,dailCompTextArch Necromancer95, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo itemText,dailCompTextArch Necromancer96, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo itemText,dailCompTextArch Necromancer97, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo itemText,dailCompTextArch Necromancer98, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo itemText,dailCompTextArch Necromancer99, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo itemText,dailCompTextArch Necromancer100, >> .\items\materia\class0014\Arch Necromancer100.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0014\Arch Necromancer100.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer1.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer2.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer3.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_ancientrites.dbr, >> .\items\materia\class0014\Arch Necromancer4.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance1.dbr, >> .\items\materia\class0014\Arch Necromancer5.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2.dbr, >> .\items\materia\class0014\Arch Necromancer6.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer7.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3.dbr, >> .\items\materia\class0014\Arch Necromancer8.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer9.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance4.dbr, >> .\items\materia\class0014\Arch Necromancer10.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_circleofprotection.dbr, >> .\items\materia\class0014\Arch Necromancer11.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich1.dbr, >> .\items\materia\class0014\Arch Necromancer12.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer13.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer14.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton1.dbr, >> .\items\materia\class0014\Arch Necromancer15.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer16.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer17.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton4_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer18.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher1.dbr, >> .\items\materia\class0014\Arch Necromancer19.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer20.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion1.dbr, >> .\items\materia\class0014\Arch Necromancer21.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion2.dbr, >> .\items\materia\class0014\Arch Necromancer22.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_duality.dbr, >> .\items\materia\class0014\Arch Necromancer23.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor1.dbr, >> .\items\materia\class0014\Arch Necromancer24.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor2.dbr, >> .\items\materia\class0014\Arch Necromancer25.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch1.dbr, >> .\items\materia\class0014\Arch Necromancer26.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch2.dbr, >> .\items\materia\class0014\Arch Necromancer27.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch3.dbr, >> .\items\materia\class0014\Arch Necromancer28.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding1.dbr, >> .\items\materia\class0014\Arch Necromancer29.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding2.dbr, >> .\items\materia\class0014\Arch Necromancer30.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding3.dbr, >> .\items\materia\class0014\Arch Necromancer31.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot1.dbr, >> .\items\materia\class0014\Arch Necromancer32.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_ancientrites.dbr, >> .\items\materia\class0014\Arch Necromancer33.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance1.dbr, >> .\items\materia\class0014\Arch Necromancer34.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2.dbr, >> .\items\materia\class0014\Arch Necromancer35.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer36.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3.dbr, >> .\items\materia\class0014\Arch Necromancer37.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer38.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance4.dbr, >> .\items\materia\class0014\Arch Necromancer39.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_circleofprotection.dbr, >> .\items\materia\class0014\Arch Necromancer40.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich1.dbr, >> .\items\materia\class0014\Arch Necromancer41.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer42.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer43.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton1.dbr, >> .\items\materia\class0014\Arch Necromancer44.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer45.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer46.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton4_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer47.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher1.dbr, >> .\items\materia\class0014\Arch Necromancer48.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer49.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion1.dbr, >> .\items\materia\class0014\Arch Necromancer50.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion2.dbr, >> .\items\materia\class0014\Arch Necromancer51.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_duality.dbr, >> .\items\materia\class0014\Arch Necromancer52.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor1.dbr, >> .\items\materia\class0014\Arch Necromancer53.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor2.dbr, >> .\items\materia\class0014\Arch Necromancer54.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch1.dbr, >> .\items\materia\class0014\Arch Necromancer55.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch2.dbr, >> .\items\materia\class0014\Arch Necromancer56.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch3.dbr, >> .\items\materia\class0014\Arch Necromancer57.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding1.dbr, >> .\items\materia\class0014\Arch Necromancer58.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding2.dbr, >> .\items\materia\class0014\Arch Necromancer59.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding3.dbr, >> .\items\materia\class0014\Arch Necromancer60.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot1.dbr, >> .\items\materia\class0014\Arch Necromancer61.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot1_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer62.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot2.dbr, >> .\items\materia\class0014\Arch Necromancer63.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot3.dbr, >> .\items\materia\class0014\Arch Necromancer64.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_tonguesofold.dbr, >> .\items\materia\class0014\Arch Necromancer65.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_uroboruuksascendancy.dbr, >> .\items\materia\class0014\Arch Necromancer66.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_ancientrites.dbr, >> .\items\materia\class0014\Arch Necromancer67.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance1.dbr, >> .\items\materia\class0014\Arch Necromancer68.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2.dbr, >> .\items\materia\class0014\Arch Necromancer69.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance2_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer70.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3.dbr, >> .\items\materia\class0014\Arch Necromancer71.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance3_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer72.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_bonelance4.dbr, >> .\items\materia\class0014\Arch Necromancer73.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_circleofprotection.dbr, >> .\items\materia\class0014\Arch Necromancer74.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich1.dbr, >> .\items\materia\class0014\Arch Necromancer75.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer76.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjurelich3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer77.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton1.dbr, >> .\items\materia\class0014\Arch Necromancer78.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer79.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton3_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer80.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeleton4_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer81.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher1.dbr, >> .\items\materia\class0014\Arch Necromancer82.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_conjureskeletonarcher2_petmodifier.dbr, >> .\items\materia\class0014\Arch Necromancer83.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion1.dbr, >> .\items\materia\class0014\Arch Necromancer84.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_corrosion2.dbr, >> .\items\materia\class0014\Arch Necromancer85.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_duality.dbr, >> .\items\materia\class0014\Arch Necromancer86.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor1.dbr, >> .\items\materia\class0014\Arch Necromancer87.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_exoskeletalarmor2.dbr, >> .\items\materia\class0014\Arch Necromancer88.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch1.dbr, >> .\items\materia\class0014\Arch Necromancer89.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch2.dbr, >> .\items\materia\class0014\Arch Necromancer90.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_reaperstouch3.dbr, >> .\items\materia\class0014\Arch Necromancer91.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding1.dbr, >> .\items\materia\class0014\Arch Necromancer92.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding2.dbr, >> .\items\materia\class0014\Arch Necromancer93.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_riteofbinding3.dbr, >> .\items\materia\class0014\Arch Necromancer94.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot1.dbr, >> .\items\materia\class0014\Arch Necromancer95.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot1_transmuter.dbr, >> .\items\materia\class0014\Arch Necromancer96.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot2.dbr, >> .\items\materia\class0014\Arch Necromancer97.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_therot3.dbr, >> .\items\materia\class0014\Arch Necromancer98.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_tonguesofold.dbr, >> .\items\materia\class0014\Arch Necromancer99.dbr
+echo augmentSkillName1,records/skills/playerclass14/dd_uroboruuksascendancy.dbr, >> .\items\materia\class0014\Arch Necromancer100.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist1.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist2.dbr /y
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist3.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist4.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist5.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist6.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist7.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist8.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist9.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist10.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist11.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist12.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist13.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist14.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist15.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist16.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist17.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist18.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist19.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist20.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist21.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist22.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist23.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist24.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist25.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist26.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist27.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist28.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist29.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist30.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist31.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist32.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist33.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist34.dbr /y
+copy .\dail_base.dbr .\items\materia\class0015\Illusionist35.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist36.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist37.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist38.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist39.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist40.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist41.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist42.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist43.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist44.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist45.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist46.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist47.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist48.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist49.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist50.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist51.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist52.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist53.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist54.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist55.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist56.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist57.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist58.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist59.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist60.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist61.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist62.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist63.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist64.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist65.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist66.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist67.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist68.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist69.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist70.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist71.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist72.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist73.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist74.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist75.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist76.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist77.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist78.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist79.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist80.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist81.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist82.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist83.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist84.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist85.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist86.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist87.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist88.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist89.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist90.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist91.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist92.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist93.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist94.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist95.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist96.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist97.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist98.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist99.dbr /y
+copy .\dail_base3.dbr .\items\materia\class0015\Illusionist100.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist1.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist2.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist3.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist4.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist5.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist6.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist7.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist8.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist9.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist10.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist11.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist12.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist13.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist14.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist15.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist16.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist17.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist18.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist19.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist20.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist21.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist22.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist23.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist24.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist25.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist26.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist27.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist28.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist29.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist30.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist31.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist32.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist33.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist34.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist35.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist36.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist37.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist38.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist39.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist40.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist41.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist42.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist43.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist44.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist45.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist46.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist47.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist48.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist49.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist50.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist51.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist52.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist53.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist54.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist55.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist56.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist57.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist58.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist59.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist60.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist61.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist62.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist63.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist64.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist65.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist66.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist67.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist68.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist69.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist70.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist71.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist72.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist73.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist74.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist75.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist76.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist77.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist78.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist79.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist80.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist81.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist82.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist83.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist84.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist85.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist86.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist87.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist88.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist89.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist90.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist91.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist92.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist93.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist94.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist95.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist96.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist97.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist98.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist99.dbr
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist100.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist1.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist2.dbr
+echo itemCost,600000, >> .\items\materia\class0015\Illusionist3.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist4.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist5.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist6.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist7.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist8.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist9.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist10.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist11.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist12.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist13.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist14.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist15.dbr
+echo itemCost,100000, >> .\items\materia\class0015\Illusionist16.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist17.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist18.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist19.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist20.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist21.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist22.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist23.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist24.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist25.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist26.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist27.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist28.dbr
+echo itemCost,300000, >> .\items\materia\class0015\Illusionist29.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist30.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist31.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist32.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist33.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist34.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist35.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist36.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist37.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist38.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist39.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist40.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist41.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist42.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist43.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist44.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist45.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist46.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist47.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist48.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist49.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist50.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist51.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist52.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist53.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist54.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist55.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist56.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist57.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist58.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist59.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist60.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist61.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist62.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist63.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist64.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist65.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist66.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist67.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist68.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist69.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist70.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist71.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist72.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist73.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist74.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist75.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist76.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist77.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist78.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist79.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist80.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist81.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist82.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist83.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist84.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist85.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist86.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist87.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist88.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist89.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist90.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist91.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist92.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist93.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist94.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist95.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist96.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist97.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist98.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist99.dbr
+echo itemCost,500000, >> .\items\materia\class0015\Illusionist100.dbr
+echo description,dailCompDescIllusionist1, >> .\items\materia\class0015\Illusionist1.dbr
+echo description,dailCompDescIllusionist2, >> .\items\materia\class0015\Illusionist2.dbr
+echo description,dailCompDescIllusionist3, >> .\items\materia\class0015\Illusionist3.dbr
+echo description,dailCompDescIllusionist4, >> .\items\materia\class0015\Illusionist4.dbr
+echo description,dailCompDescIllusionist5, >> .\items\materia\class0015\Illusionist5.dbr
+echo description,dailCompDescIllusionist6, >> .\items\materia\class0015\Illusionist6.dbr
+echo description,dailCompDescIllusionist7, >> .\items\materia\class0015\Illusionist7.dbr
+echo description,dailCompDescIllusionist8, >> .\items\materia\class0015\Illusionist8.dbr
+echo description,dailCompDescIllusionist9, >> .\items\materia\class0015\Illusionist9.dbr
+echo description,dailCompDescIllusionist10, >> .\items\materia\class0015\Illusionist10.dbr
+echo description,dailCompDescIllusionist11, >> .\items\materia\class0015\Illusionist11.dbr
+echo description,dailCompDescIllusionist12, >> .\items\materia\class0015\Illusionist12.dbr
+echo description,dailCompDescIllusionist13, >> .\items\materia\class0015\Illusionist13.dbr
+echo description,dailCompDescIllusionist14, >> .\items\materia\class0015\Illusionist14.dbr
+echo description,dailCompDescIllusionist15, >> .\items\materia\class0015\Illusionist15.dbr
+echo description,dailCompDescIllusionist16, >> .\items\materia\class0015\Illusionist16.dbr
+echo description,dailCompDescIllusionist17, >> .\items\materia\class0015\Illusionist17.dbr
+echo description,dailCompDescIllusionist18, >> .\items\materia\class0015\Illusionist18.dbr
+echo description,dailCompDescIllusionist19, >> .\items\materia\class0015\Illusionist19.dbr
+echo description,dailCompDescIllusionist20, >> .\items\materia\class0015\Illusionist20.dbr
+echo description,dailCompDescIllusionist21, >> .\items\materia\class0015\Illusionist21.dbr
+echo description,dailCompDescIllusionist22, >> .\items\materia\class0015\Illusionist22.dbr
+echo description,dailCompDescIllusionist23, >> .\items\materia\class0015\Illusionist23.dbr
+echo description,dailCompDescIllusionist24, >> .\items\materia\class0015\Illusionist24.dbr
+echo description,dailCompDescIllusionist25, >> .\items\materia\class0015\Illusionist25.dbr
+echo description,dailCompDescIllusionist26, >> .\items\materia\class0015\Illusionist26.dbr
+echo description,dailCompDescIllusionist27, >> .\items\materia\class0015\Illusionist27.dbr
+echo description,dailCompDescIllusionist28, >> .\items\materia\class0015\Illusionist28.dbr
+echo description,dailCompDescIllusionist29, >> .\items\materia\class0015\Illusionist29.dbr
+echo description,dailCompDescIllusionist30, >> .\items\materia\class0015\Illusionist30.dbr
+echo description,dailCompDescIllusionist31, >> .\items\materia\class0015\Illusionist31.dbr
+echo description,dailCompDescIllusionist32, >> .\items\materia\class0015\Illusionist32.dbr
+echo description,dailCompDescIllusionist33, >> .\items\materia\class0015\Illusionist33.dbr
+echo description,dailCompDescIllusionist34, >> .\items\materia\class0015\Illusionist34.dbr
+echo description,dailCompDescIllusionist35, >> .\items\materia\class0015\Illusionist35.dbr
+echo description,dailCompDescIllusionist36, >> .\items\materia\class0015\Illusionist36.dbr
+echo description,dailCompDescIllusionist37, >> .\items\materia\class0015\Illusionist37.dbr
+echo description,dailCompDescIllusionist38, >> .\items\materia\class0015\Illusionist38.dbr
+echo description,dailCompDescIllusionist39, >> .\items\materia\class0015\Illusionist39.dbr
+echo description,dailCompDescIllusionist40, >> .\items\materia\class0015\Illusionist40.dbr
+echo description,dailCompDescIllusionist41, >> .\items\materia\class0015\Illusionist41.dbr
+echo description,dailCompDescIllusionist42, >> .\items\materia\class0015\Illusionist42.dbr
+echo description,dailCompDescIllusionist43, >> .\items\materia\class0015\Illusionist43.dbr
+echo description,dailCompDescIllusionist44, >> .\items\materia\class0015\Illusionist44.dbr
+echo description,dailCompDescIllusionist45, >> .\items\materia\class0015\Illusionist45.dbr
+echo description,dailCompDescIllusionist46, >> .\items\materia\class0015\Illusionist46.dbr
+echo description,dailCompDescIllusionist47, >> .\items\materia\class0015\Illusionist47.dbr
+echo description,dailCompDescIllusionist48, >> .\items\materia\class0015\Illusionist48.dbr
+echo description,dailCompDescIllusionist49, >> .\items\materia\class0015\Illusionist49.dbr
+echo description,dailCompDescIllusionist50, >> .\items\materia\class0015\Illusionist50.dbr
+echo description,dailCompDescIllusionist51, >> .\items\materia\class0015\Illusionist51.dbr
+echo description,dailCompDescIllusionist52, >> .\items\materia\class0015\Illusionist52.dbr
+echo description,dailCompDescIllusionist53, >> .\items\materia\class0015\Illusionist53.dbr
+echo description,dailCompDescIllusionist54, >> .\items\materia\class0015\Illusionist54.dbr
+echo description,dailCompDescIllusionist55, >> .\items\materia\class0015\Illusionist55.dbr
+echo description,dailCompDescIllusionist56, >> .\items\materia\class0015\Illusionist56.dbr
+echo description,dailCompDescIllusionist57, >> .\items\materia\class0015\Illusionist57.dbr
+echo description,dailCompDescIllusionist58, >> .\items\materia\class0015\Illusionist58.dbr
+echo description,dailCompDescIllusionist59, >> .\items\materia\class0015\Illusionist59.dbr
+echo description,dailCompDescIllusionist60, >> .\items\materia\class0015\Illusionist60.dbr
+echo description,dailCompDescIllusionist61, >> .\items\materia\class0015\Illusionist61.dbr
+echo description,dailCompDescIllusionist62, >> .\items\materia\class0015\Illusionist62.dbr
+echo description,dailCompDescIllusionist63, >> .\items\materia\class0015\Illusionist63.dbr
+echo description,dailCompDescIllusionist64, >> .\items\materia\class0015\Illusionist64.dbr
+echo description,dailCompDescIllusionist65, >> .\items\materia\class0015\Illusionist65.dbr
+echo description,dailCompDescIllusionist66, >> .\items\materia\class0015\Illusionist66.dbr
+echo description,dailCompDescIllusionist67, >> .\items\materia\class0015\Illusionist67.dbr
+echo description,dailCompDescIllusionist68, >> .\items\materia\class0015\Illusionist68.dbr
+echo description,dailCompDescIllusionist69, >> .\items\materia\class0015\Illusionist69.dbr
+echo description,dailCompDescIllusionist70, >> .\items\materia\class0015\Illusionist70.dbr
+echo description,dailCompDescIllusionist71, >> .\items\materia\class0015\Illusionist71.dbr
+echo description,dailCompDescIllusionist72, >> .\items\materia\class0015\Illusionist72.dbr
+echo description,dailCompDescIllusionist73, >> .\items\materia\class0015\Illusionist73.dbr
+echo description,dailCompDescIllusionist74, >> .\items\materia\class0015\Illusionist74.dbr
+echo description,dailCompDescIllusionist75, >> .\items\materia\class0015\Illusionist75.dbr
+echo description,dailCompDescIllusionist76, >> .\items\materia\class0015\Illusionist76.dbr
+echo description,dailCompDescIllusionist77, >> .\items\materia\class0015\Illusionist77.dbr
+echo description,dailCompDescIllusionist78, >> .\items\materia\class0015\Illusionist78.dbr
+echo description,dailCompDescIllusionist79, >> .\items\materia\class0015\Illusionist79.dbr
+echo description,dailCompDescIllusionist80, >> .\items\materia\class0015\Illusionist80.dbr
+echo description,dailCompDescIllusionist81, >> .\items\materia\class0015\Illusionist81.dbr
+echo description,dailCompDescIllusionist82, >> .\items\materia\class0015\Illusionist82.dbr
+echo description,dailCompDescIllusionist83, >> .\items\materia\class0015\Illusionist83.dbr
+echo description,dailCompDescIllusionist84, >> .\items\materia\class0015\Illusionist84.dbr
+echo description,dailCompDescIllusionist85, >> .\items\materia\class0015\Illusionist85.dbr
+echo description,dailCompDescIllusionist86, >> .\items\materia\class0015\Illusionist86.dbr
+echo description,dailCompDescIllusionist87, >> .\items\materia\class0015\Illusionist87.dbr
+echo description,dailCompDescIllusionist88, >> .\items\materia\class0015\Illusionist88.dbr
+echo description,dailCompDescIllusionist89, >> .\items\materia\class0015\Illusionist89.dbr
+echo description,dailCompDescIllusionist90, >> .\items\materia\class0015\Illusionist90.dbr
+echo description,dailCompDescIllusionist91, >> .\items\materia\class0015\Illusionist91.dbr
+echo description,dailCompDescIllusionist92, >> .\items\materia\class0015\Illusionist92.dbr
+echo description,dailCompDescIllusionist93, >> .\items\materia\class0015\Illusionist93.dbr
+echo description,dailCompDescIllusionist94, >> .\items\materia\class0015\Illusionist94.dbr
+echo description,dailCompDescIllusionist95, >> .\items\materia\class0015\Illusionist95.dbr
+echo description,dailCompDescIllusionist96, >> .\items\materia\class0015\Illusionist96.dbr
+echo description,dailCompDescIllusionist97, >> .\items\materia\class0015\Illusionist97.dbr
+echo description,dailCompDescIllusionist98, >> .\items\materia\class0015\Illusionist98.dbr
+echo description,dailCompDescIllusionist99, >> .\items\materia\class0015\Illusionist99.dbr
+echo description,dailCompDescIllusionist100, >> .\items\materia\class0015\Illusionist100.dbr
+echo itemText,dailCompTextIllusionist1, >> .\items\materia\class0015\Illusionist1.dbr
+echo itemText,dailCompTextIllusionist2, >> .\items\materia\class0015\Illusionist2.dbr
+echo itemText,dailCompTextIllusionist3, >> .\items\materia\class0015\Illusionist3.dbr
+echo itemText,dailCompTextIllusionist4, >> .\items\materia\class0015\Illusionist4.dbr
+echo itemText,dailCompTextIllusionist5, >> .\items\materia\class0015\Illusionist5.dbr
+echo itemText,dailCompTextIllusionist6, >> .\items\materia\class0015\Illusionist6.dbr
+echo itemText,dailCompTextIllusionist7, >> .\items\materia\class0015\Illusionist7.dbr
+echo itemText,dailCompTextIllusionist8, >> .\items\materia\class0015\Illusionist8.dbr
+echo itemText,dailCompTextIllusionist9, >> .\items\materia\class0015\Illusionist9.dbr
+echo itemText,dailCompTextIllusionist10, >> .\items\materia\class0015\Illusionist10.dbr
+echo itemText,dailCompTextIllusionist11, >> .\items\materia\class0015\Illusionist11.dbr
+echo itemText,dailCompTextIllusionist12, >> .\items\materia\class0015\Illusionist12.dbr
+echo itemText,dailCompTextIllusionist13, >> .\items\materia\class0015\Illusionist13.dbr
+echo itemText,dailCompTextIllusionist14, >> .\items\materia\class0015\Illusionist14.dbr
+echo itemText,dailCompTextIllusionist15, >> .\items\materia\class0015\Illusionist15.dbr
+echo itemText,dailCompTextIllusionist16, >> .\items\materia\class0015\Illusionist16.dbr
+echo itemText,dailCompTextIllusionist17, >> .\items\materia\class0015\Illusionist17.dbr
+echo itemText,dailCompTextIllusionist18, >> .\items\materia\class0015\Illusionist18.dbr
+echo itemText,dailCompTextIllusionist19, >> .\items\materia\class0015\Illusionist19.dbr
+echo itemText,dailCompTextIllusionist20, >> .\items\materia\class0015\Illusionist20.dbr
+echo itemText,dailCompTextIllusionist21, >> .\items\materia\class0015\Illusionist21.dbr
+echo itemText,dailCompTextIllusionist22, >> .\items\materia\class0015\Illusionist22.dbr
+echo itemText,dailCompTextIllusionist23, >> .\items\materia\class0015\Illusionist23.dbr
+echo itemText,dailCompTextIllusionist24, >> .\items\materia\class0015\Illusionist24.dbr
+echo itemText,dailCompTextIllusionist25, >> .\items\materia\class0015\Illusionist25.dbr
+echo itemText,dailCompTextIllusionist26, >> .\items\materia\class0015\Illusionist26.dbr
+echo itemText,dailCompTextIllusionist27, >> .\items\materia\class0015\Illusionist27.dbr
+echo itemText,dailCompTextIllusionist28, >> .\items\materia\class0015\Illusionist28.dbr
+echo itemText,dailCompTextIllusionist29, >> .\items\materia\class0015\Illusionist29.dbr
+echo itemText,dailCompTextIllusionist30, >> .\items\materia\class0015\Illusionist30.dbr
+echo itemText,dailCompTextIllusionist31, >> .\items\materia\class0015\Illusionist31.dbr
+echo itemText,dailCompTextIllusionist32, >> .\items\materia\class0015\Illusionist32.dbr
+echo itemText,dailCompTextIllusionist33, >> .\items\materia\class0015\Illusionist33.dbr
+echo itemText,dailCompTextIllusionist34, >> .\items\materia\class0015\Illusionist34.dbr
+echo itemText,dailCompTextIllusionist35, >> .\items\materia\class0015\Illusionist35.dbr
+echo itemText,dailCompTextIllusionist36, >> .\items\materia\class0015\Illusionist36.dbr
+echo itemText,dailCompTextIllusionist37, >> .\items\materia\class0015\Illusionist37.dbr
+echo itemText,dailCompTextIllusionist38, >> .\items\materia\class0015\Illusionist38.dbr
+echo itemText,dailCompTextIllusionist39, >> .\items\materia\class0015\Illusionist39.dbr
+echo itemText,dailCompTextIllusionist40, >> .\items\materia\class0015\Illusionist40.dbr
+echo itemText,dailCompTextIllusionist41, >> .\items\materia\class0015\Illusionist41.dbr
+echo itemText,dailCompTextIllusionist42, >> .\items\materia\class0015\Illusionist42.dbr
+echo itemText,dailCompTextIllusionist43, >> .\items\materia\class0015\Illusionist43.dbr
+echo itemText,dailCompTextIllusionist44, >> .\items\materia\class0015\Illusionist44.dbr
+echo itemText,dailCompTextIllusionist45, >> .\items\materia\class0015\Illusionist45.dbr
+echo itemText,dailCompTextIllusionist46, >> .\items\materia\class0015\Illusionist46.dbr
+echo itemText,dailCompTextIllusionist47, >> .\items\materia\class0015\Illusionist47.dbr
+echo itemText,dailCompTextIllusionist48, >> .\items\materia\class0015\Illusionist48.dbr
+echo itemText,dailCompTextIllusionist49, >> .\items\materia\class0015\Illusionist49.dbr
+echo itemText,dailCompTextIllusionist50, >> .\items\materia\class0015\Illusionist50.dbr
+echo itemText,dailCompTextIllusionist51, >> .\items\materia\class0015\Illusionist51.dbr
+echo itemText,dailCompTextIllusionist52, >> .\items\materia\class0015\Illusionist52.dbr
+echo itemText,dailCompTextIllusionist53, >> .\items\materia\class0015\Illusionist53.dbr
+echo itemText,dailCompTextIllusionist54, >> .\items\materia\class0015\Illusionist54.dbr
+echo itemText,dailCompTextIllusionist55, >> .\items\materia\class0015\Illusionist55.dbr
+echo itemText,dailCompTextIllusionist56, >> .\items\materia\class0015\Illusionist56.dbr
+echo itemText,dailCompTextIllusionist57, >> .\items\materia\class0015\Illusionist57.dbr
+echo itemText,dailCompTextIllusionist58, >> .\items\materia\class0015\Illusionist58.dbr
+echo itemText,dailCompTextIllusionist59, >> .\items\materia\class0015\Illusionist59.dbr
+echo itemText,dailCompTextIllusionist60, >> .\items\materia\class0015\Illusionist60.dbr
+echo itemText,dailCompTextIllusionist61, >> .\items\materia\class0015\Illusionist61.dbr
+echo itemText,dailCompTextIllusionist62, >> .\items\materia\class0015\Illusionist62.dbr
+echo itemText,dailCompTextIllusionist63, >> .\items\materia\class0015\Illusionist63.dbr
+echo itemText,dailCompTextIllusionist64, >> .\items\materia\class0015\Illusionist64.dbr
+echo itemText,dailCompTextIllusionist65, >> .\items\materia\class0015\Illusionist65.dbr
+echo itemText,dailCompTextIllusionist66, >> .\items\materia\class0015\Illusionist66.dbr
+echo itemText,dailCompTextIllusionist67, >> .\items\materia\class0015\Illusionist67.dbr
+echo itemText,dailCompTextIllusionist68, >> .\items\materia\class0015\Illusionist68.dbr
+echo itemText,dailCompTextIllusionist69, >> .\items\materia\class0015\Illusionist69.dbr
+echo itemText,dailCompTextIllusionist70, >> .\items\materia\class0015\Illusionist70.dbr
+echo itemText,dailCompTextIllusionist71, >> .\items\materia\class0015\Illusionist71.dbr
+echo itemText,dailCompTextIllusionist72, >> .\items\materia\class0015\Illusionist72.dbr
+echo itemText,dailCompTextIllusionist73, >> .\items\materia\class0015\Illusionist73.dbr
+echo itemText,dailCompTextIllusionist74, >> .\items\materia\class0015\Illusionist74.dbr
+echo itemText,dailCompTextIllusionist75, >> .\items\materia\class0015\Illusionist75.dbr
+echo itemText,dailCompTextIllusionist76, >> .\items\materia\class0015\Illusionist76.dbr
+echo itemText,dailCompTextIllusionist77, >> .\items\materia\class0015\Illusionist77.dbr
+echo itemText,dailCompTextIllusionist78, >> .\items\materia\class0015\Illusionist78.dbr
+echo itemText,dailCompTextIllusionist79, >> .\items\materia\class0015\Illusionist79.dbr
+echo itemText,dailCompTextIllusionist80, >> .\items\materia\class0015\Illusionist80.dbr
+echo itemText,dailCompTextIllusionist81, >> .\items\materia\class0015\Illusionist81.dbr
+echo itemText,dailCompTextIllusionist82, >> .\items\materia\class0015\Illusionist82.dbr
+echo itemText,dailCompTextIllusionist83, >> .\items\materia\class0015\Illusionist83.dbr
+echo itemText,dailCompTextIllusionist84, >> .\items\materia\class0015\Illusionist84.dbr
+echo itemText,dailCompTextIllusionist85, >> .\items\materia\class0015\Illusionist85.dbr
+echo itemText,dailCompTextIllusionist86, >> .\items\materia\class0015\Illusionist86.dbr
+echo itemText,dailCompTextIllusionist87, >> .\items\materia\class0015\Illusionist87.dbr
+echo itemText,dailCompTextIllusionist88, >> .\items\materia\class0015\Illusionist88.dbr
+echo itemText,dailCompTextIllusionist89, >> .\items\materia\class0015\Illusionist89.dbr
+echo itemText,dailCompTextIllusionist90, >> .\items\materia\class0015\Illusionist90.dbr
+echo itemText,dailCompTextIllusionist91, >> .\items\materia\class0015\Illusionist91.dbr
+echo itemText,dailCompTextIllusionist92, >> .\items\materia\class0015\Illusionist92.dbr
+echo itemText,dailCompTextIllusionist93, >> .\items\materia\class0015\Illusionist93.dbr
+echo itemText,dailCompTextIllusionist94, >> .\items\materia\class0015\Illusionist94.dbr
+echo itemText,dailCompTextIllusionist95, >> .\items\materia\class0015\Illusionist95.dbr
+echo itemText,dailCompTextIllusionist96, >> .\items\materia\class0015\Illusionist96.dbr
+echo itemText,dailCompTextIllusionist97, >> .\items\materia\class0015\Illusionist97.dbr
+echo itemText,dailCompTextIllusionist98, >> .\items\materia\class0015\Illusionist98.dbr
+echo itemText,dailCompTextIllusionist99, >> .\items\materia\class0015\Illusionist99.dbr
+echo itemText,dailCompTextIllusionist100, >> .\items\materia\class0015\Illusionist100.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist1.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist2.dbr
+echo augmentMasteryLevel1,3, >> .\items\materia\class0015\Illusionist3.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist4.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist5.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist6.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist7.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist8.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist9.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist10.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist11.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist12.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist13.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist14.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist15.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist16.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist17.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist18.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist19.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist20.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist21.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist22.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist23.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist24.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist25.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist26.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist27.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist28.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist29.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist30.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist31.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist32.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist33.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist34.dbr
+echo augmentSkillLevel1,1, >> .\items\materia\class0015\Illusionist35.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist36.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist37.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist38.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist39.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist40.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist41.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist42.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist43.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist44.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist45.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist46.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist47.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist48.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist49.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist50.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist51.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist52.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist53.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist54.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist55.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist56.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist57.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist58.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist59.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist60.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist61.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist62.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist63.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist64.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist65.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist66.dbr
+echo augmentSkillLevel1,3, >> .\items\materia\class0015\Illusionist67.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist68.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist69.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist70.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist71.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist72.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist73.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist74.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist75.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist76.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist77.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist78.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist79.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist80.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist81.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist82.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist83.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist84.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist85.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist86.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist87.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist88.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist89.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist90.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist91.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist92.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist93.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist94.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist95.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist96.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist97.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist98.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist99.dbr
+echo augmentSkillLevel1,5, >> .\items\materia\class0015\Illusionist100.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist1.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist2.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist3.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut1.dbr, >> .\items\materia\class0015\Illusionist4.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2.dbr, >> .\items\materia\class0015\Illusionist5.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2_transmuter.dbr, >> .\items\materia\class0015\Illusionist6.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut3.dbr, >> .\items\materia\class0015\Illusionist7.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut4.dbr, >> .\items\materia\class0015\Illusionist8.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate1.dbr, >> .\items\materia\class0015\Illusionist9.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate2.dbr, >> .\items\materia\class0015\Illusionist10.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage1.dbr, >> .\items\materia\class0015\Illusionist11.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage3.dbr, >> .\items\materia\class0015\Illusionist12.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_equilibrium.dbr, >> .\items\materia\class0015\Illusionist13.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_focalism.dbr, >> .\items\materia\class0015\Illusionist14.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_gyrussphereofrepulsion.dbr, >> .\items\materia\class0015\Illusionist15.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect1.dbr, >> .\items\materia\class0015\Illusionist16.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect2.dbr, >> .\items\materia\class0015\Illusionist17.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade1.dbr, >> .\items\materia\class0015\Illusionist18.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade2.dbr, >> .\items\materia\class0015\Illusionist19.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade3.dbr, >> .\items\materia\class0015\Illusionist20.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink.dbr, >> .\items\materia\class0015\Illusionist21.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink2.dbr, >> .\items\materia\class0015\Illusionist22.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_minddwellersgaze.dbr, >> .\items\materia\class0015\Illusionist23.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection1.dbr, >> .\items\materia\class0015\Illusionist24.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection2_petmodifier.dbr, >> .\items\materia\class0015\Illusionist25.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_pareidolia.dbr, >> .\items\materia\class0015\Illusionist26.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep1.dbr, >> .\items\materia\class0015\Illusionist27.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2.dbr, >> .\items\materia\class0015\Illusionist28.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2_transmuter.dbr, >> .\items\materia\class0015\Illusionist29.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep3.dbr, >> .\items\materia\class0015\Illusionist30.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime1.dbr, >> .\items\materia\class0015\Illusionist31.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime2.dbr, >> .\items\materia\class0015\Illusionist32.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut1.dbr, >> .\items\materia\class0015\Illusionist33.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2.dbr, >> .\items\materia\class0015\Illusionist34.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2_transmuter.dbr, >> .\items\materia\class0015\Illusionist35.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut3.dbr, >> .\items\materia\class0015\Illusionist36.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut4.dbr, >> .\items\materia\class0015\Illusionist37.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate1.dbr, >> .\items\materia\class0015\Illusionist38.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate2.dbr, >> .\items\materia\class0015\Illusionist39.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage1.dbr, >> .\items\materia\class0015\Illusionist40.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage3.dbr, >> .\items\materia\class0015\Illusionist41.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_equilibrium.dbr, >> .\items\materia\class0015\Illusionist42.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_focalism.dbr, >> .\items\materia\class0015\Illusionist43.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_gyrussphereofrepulsion.dbr, >> .\items\materia\class0015\Illusionist44.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect1.dbr, >> .\items\materia\class0015\Illusionist45.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect2.dbr, >> .\items\materia\class0015\Illusionist46.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade1.dbr, >> .\items\materia\class0015\Illusionist47.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade2.dbr, >> .\items\materia\class0015\Illusionist48.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade3.dbr, >> .\items\materia\class0015\Illusionist49.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink.dbr, >> .\items\materia\class0015\Illusionist50.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink2.dbr, >> .\items\materia\class0015\Illusionist51.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_minddwellersgaze.dbr, >> .\items\materia\class0015\Illusionist52.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection1.dbr, >> .\items\materia\class0015\Illusionist53.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection2_petmodifier.dbr, >> .\items\materia\class0015\Illusionist54.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_pareidolia.dbr, >> .\items\materia\class0015\Illusionist55.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep1.dbr, >> .\items\materia\class0015\Illusionist56.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2.dbr, >> .\items\materia\class0015\Illusionist57.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2_transmuter.dbr, >> .\items\materia\class0015\Illusionist58.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep3.dbr, >> .\items\materia\class0015\Illusionist59.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime1.dbr, >> .\items\materia\class0015\Illusionist60.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime2.dbr, >> .\items\materia\class0015\Illusionist61.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling1.dbr, >> .\items\materia\class0015\Illusionist62.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling2_petmodifier.dbr, >> .\items\materia\class0015\Illusionist63.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling2_transmuter.dbr, >> .\items\materia\class0015\Illusionist64.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling3_petmodifier.dbr, >> .\items\materia\class0015\Illusionist65.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_vanish.dbr, >> .\items\materia\class0015\Illusionist66.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut1.dbr, >> .\items\materia\class0015\Illusionist67.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2.dbr, >> .\items\materia\class0015\Illusionist68.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut2_transmuter.dbr, >> .\items\materia\class0015\Illusionist69.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut3.dbr, >> .\items\materia\class0015\Illusionist70.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_amigdalascut4.dbr, >> .\items\materia\class0015\Illusionist71.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate1.dbr, >> .\items\materia\class0015\Illusionist72.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_decellerate2.dbr, >> .\items\materia\class0015\Illusionist73.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage1.dbr, >> .\items\materia\class0015\Illusionist74.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_enrage3.dbr, >> .\items\materia\class0015\Illusionist75.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_equilibrium.dbr, >> .\items\materia\class0015\Illusionist76.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_focalism.dbr, >> .\items\materia\class0015\Illusionist77.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_gyrussphereofrepulsion.dbr, >> .\items\materia\class0015\Illusionist78.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect1.dbr, >> .\items\materia\class0015\Illusionist79.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_haloeffect2.dbr, >> .\items\materia\class0015\Illusionist80.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade1.dbr, >> .\items\materia\class0015\Illusionist81.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade2.dbr, >> .\items\materia\class0015\Illusionist82.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hiddenblade3.dbr, >> .\items\materia\class0015\Illusionist83.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink.dbr, >> .\items\materia\class0015\Illusionist84.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_hyppocasblink2.dbr, >> .\items\materia\class0015\Illusionist85.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_minddwellersgaze.dbr, >> .\items\materia\class0015\Illusionist86.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection1.dbr, >> .\items\materia\class0015\Illusionist87.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_myreflection2_petmodifier.dbr, >> .\items\materia\class0015\Illusionist88.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_pareidolia.dbr, >> .\items\materia\class0015\Illusionist89.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep1.dbr, >> .\items\materia\class0015\Illusionist90.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2.dbr, >> .\items\materia\class0015\Illusionist91.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep2_transmuter.dbr, >> .\items\materia\class0015\Illusionist92.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsofsleep3.dbr, >> .\items\materia\class0015\Illusionist93.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime1.dbr, >> .\items\materia\class0015\Illusionist94.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_sandsoftime2.dbr, >> .\items\materia\class0015\Illusionist95.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling1.dbr, >> .\items\materia\class0015\Illusionist96.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling2_petmodifier.dbr, >> .\items\materia\class0015\Illusionist97.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling2_transmuter.dbr, >> .\items\materia\class0015\Illusionist98.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_summonchangeling3_petmodifier.dbr, >> .\items\materia\class0015\Illusionist99.dbr
+echo augmentSkillName1,records/skills/playerclass15/dd_vanish.dbr, >> .\items\materia\class0015\Illusionist100.dbr
 copy .\dail_base2.dbr .\items\materia\class0016\Defense1.dbr /y
 copy .\dail_base2.dbr .\items\materia\class0016\Defense2.dbr /y
 copy .\dail_base2.dbr .\items\materia\class0016\Defense3.dbr /y

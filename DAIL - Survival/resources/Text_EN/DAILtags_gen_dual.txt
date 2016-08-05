@@ -2598,6 +2598,406 @@ dailCompTextTerrorKnight60dual=^oThis feels warm to the touch, almost familiar ^
 
 
 
+ dailCompDescArch Necromancer1dual=^pArch Necromancer's Soldier Gift of DAIL
+dailCompTextArch Necromancer1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer2dual=^pArch Necromancer's Demolitionist Gift of DAIL
+dailCompTextArch Necromancer2dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer3dual=^pArch Necromancer's Occultist Gift of DAIL
+dailCompTextArch Necromancer3dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer4dual=^pArch Necromancer's Nightblade Gift of DAIL
+dailCompTextArch Necromancer4dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer5dual=^pArch Necromancer's Arcanist Gift of DAIL
+dailCompTextArch Necromancer5dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer6dual=^pArch Necromancer's Shaman Gift of DAIL
+dailCompTextArch Necromancer6dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer7dual=^pArch Necromancer's Necromancer Gift of DAIL
+dailCompTextArch Necromancer7dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer8dual=^pArch Necromancer's Ranger Gift of DAIL
+dailCompTextArch Necromancer8dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer9dual=^pArch Necromancer's Coronus Gift of DAIL
+dailCompTextArch Necromancer9dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer10dual=^pArch Necromancer's Fangshi Gift of DAIL
+dailCompTextArch Necromancer10dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer11dual=^pArch Necromancer's Frost Knight Gift of DAIL
+dailCompTextArch Necromancer11dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer12dual=^pArch Necromancer's Elementalist Gift of DAIL
+dailCompTextArch Necromancer12dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer13dual=^pArch Necromancer's Terror Knight Gift of DAIL
+dailCompTextArch Necromancer13dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer14dual=^pArch Necromancer's Arch Necromancer Gift of DAIL
+dailCompTextArch Necromancer14dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer15dual=^pArch Necromancer's Illusionist Gift of DAIL
+dailCompTextArch Necromancer15dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer16dual=^pArch Necromancer's Defense Gift of DAIL
+dailCompTextArch Necromancer16dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer17dual=^pArch Necromancer's Hunting Gift of DAIL
+dailCompTextArch Necromancer17dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer18dual=^pArch Necromancer's Spirit Gift of DAIL
+dailCompTextArch Necromancer18dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer19dual=^pArch Necromancer's Warfare Gift of DAIL
+dailCompTextArch Necromancer19dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer20dual=^pArch Necromancer's Nature Gift of DAIL
+dailCompTextArch Necromancer20dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer21dual=^pArch Necromancer's Rogue Gift of DAIL
+dailCompTextArch Necromancer21dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer22dual=^pArch Necromancer's Earth Gift of DAIL
+dailCompTextArch Necromancer22dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer23dual=^pArch Necromancer's Storm Gift of DAIL
+dailCompTextArch Necromancer23dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer24dual=^pArch Necromancer's Dream Gift of DAIL
+dailCompTextArch Necromancer24dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer25dual=^pArch Necromancer's Stargazer Gift of DAIL
+dailCompTextArch Necromancer25dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer26dual=^pArch Necromancer's [ms]Priest[fs]Priestess Gift of DAIL
+dailCompTextArch Necromancer26dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer27dual=^pArch Necromancer's Engineer Gift of DAIL
+dailCompTextArch Necromancer27dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer28dual=^pArch Necromancer's Cenobite Gift of DAIL
+dailCompTextArch Necromancer28dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer29dual=^pArch Necromancer's [ms]Arlequin[fs]Harlequin Gift of DAIL
+dailCompTextArch Necromancer29dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer30dual=^pArch Necromancer's Elwar Gift of DAIL
+dailCompTextArch Necromancer30dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer31dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer31dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer32dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer32dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer33dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer33dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer34dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer34dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer35dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer35dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer36dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer36dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer37dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer37dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer38dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer38dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer39dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer39dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer40dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer40dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer41dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer41dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer42dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer42dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer43dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer43dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer44dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer44dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer45dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer45dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer46dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer46dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer47dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer47dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer48dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer48dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer49dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer49dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer50dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer50dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer51dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer51dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer52dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer52dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer53dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer53dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer54dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer54dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer55dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer55dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer56dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer56dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer57dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer57dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer58dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer58dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer59dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer59dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescArch Necromancer60dual=^pArch Necromancer's  Gift of DAIL
+dailCompTextArch Necromancer60dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ dailCompDescIllusionist1dual=^pIllusionist's Soldier Gift of DAIL
+dailCompTextIllusionist1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist2dual=^pIllusionist's Demolitionist Gift of DAIL
+dailCompTextIllusionist2dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist3dual=^pIllusionist's Occultist Gift of DAIL
+dailCompTextIllusionist3dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist4dual=^pIllusionist's Nightblade Gift of DAIL
+dailCompTextIllusionist4dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist5dual=^pIllusionist's Arcanist Gift of DAIL
+dailCompTextIllusionist5dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist6dual=^pIllusionist's Shaman Gift of DAIL
+dailCompTextIllusionist6dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist7dual=^pIllusionist's Necromancer Gift of DAIL
+dailCompTextIllusionist7dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist8dual=^pIllusionist's Ranger Gift of DAIL
+dailCompTextIllusionist8dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist9dual=^pIllusionist's Coronus Gift of DAIL
+dailCompTextIllusionist9dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist10dual=^pIllusionist's Fangshi Gift of DAIL
+dailCompTextIllusionist10dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist11dual=^pIllusionist's Frost Knight Gift of DAIL
+dailCompTextIllusionist11dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist12dual=^pIllusionist's Elementalist Gift of DAIL
+dailCompTextIllusionist12dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist13dual=^pIllusionist's Terror Knight Gift of DAIL
+dailCompTextIllusionist13dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist14dual=^pIllusionist's Arch Necromancer Gift of DAIL
+dailCompTextIllusionist14dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist15dual=^pIllusionist's Illusionist Gift of DAIL
+dailCompTextIllusionist15dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist16dual=^pIllusionist's Defense Gift of DAIL
+dailCompTextIllusionist16dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist17dual=^pIllusionist's Hunting Gift of DAIL
+dailCompTextIllusionist17dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist18dual=^pIllusionist's Spirit Gift of DAIL
+dailCompTextIllusionist18dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist19dual=^pIllusionist's Warfare Gift of DAIL
+dailCompTextIllusionist19dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist20dual=^pIllusionist's Nature Gift of DAIL
+dailCompTextIllusionist20dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist21dual=^pIllusionist's Rogue Gift of DAIL
+dailCompTextIllusionist21dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist22dual=^pIllusionist's Earth Gift of DAIL
+dailCompTextIllusionist22dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist23dual=^pIllusionist's Storm Gift of DAIL
+dailCompTextIllusionist23dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist24dual=^pIllusionist's Dream Gift of DAIL
+dailCompTextIllusionist24dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist25dual=^pIllusionist's Stargazer Gift of DAIL
+dailCompTextIllusionist25dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist26dual=^pIllusionist's [ms]Priest[fs]Priestess Gift of DAIL
+dailCompTextIllusionist26dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist27dual=^pIllusionist's Engineer Gift of DAIL
+dailCompTextIllusionist27dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist28dual=^pIllusionist's Cenobite Gift of DAIL
+dailCompTextIllusionist28dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist29dual=^pIllusionist's [ms]Arlequin[fs]Harlequin Gift of DAIL
+dailCompTextIllusionist29dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist30dual=^pIllusionist's Elwar Gift of DAIL
+dailCompTextIllusionist30dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist31dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist31dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist32dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist32dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist33dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist33dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist34dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist34dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist35dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist35dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist36dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist36dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist37dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist37dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist38dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist38dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist39dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist39dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist40dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist40dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist41dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist41dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist42dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist42dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist43dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist43dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist44dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist44dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist45dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist45dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist46dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist46dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist47dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist47dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist48dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist48dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist49dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist49dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist50dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist50dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist51dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist51dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist52dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist52dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist53dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist53dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist54dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist54dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist55dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist55dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist56dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist56dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist57dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist57dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist58dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist58dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist59dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist59dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+ dailCompDescIllusionist60dual=^pIllusionist's  Gift of DAIL
+dailCompTextIllusionist60dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  dailCompDescDefense1dual=^pDefense's Soldier Gift of DAIL
 dailCompTextDefense1dual=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
  dailCompDescDefense2dual=^pDefense's Demolitionist Gift of DAIL

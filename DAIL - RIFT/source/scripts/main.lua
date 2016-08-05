@@ -1,12 +1,12 @@
 --[[
-	
-	GRIM DAWN
-	scripts/main.lua
-	
-	Scripting entrypoint.
-	
-	For more information visit us at http://www.grimdawn.com
-	
+
+GRIM DAWN
+scripts/main.lua
+
+Scripting entrypoint.
+
+For more information visit us at http://www.grimdawn.com
+
 ]]
 
 -- Libs
@@ -18,5 +18,5 @@ Script.Load("scripts/game/grimdawn.lua")
 --Omega Mod
 Script.Load("scripts/Omega_Mod/Omega_Mod.lua")
 
--- Wanez DGA
-Script.Load("scripts/wanez/main.lua")
+-- Wanez - MOD
+Script.Load("wanez/scripts/main.lua")

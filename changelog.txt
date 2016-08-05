@@ -39,6 +39,7 @@ Old Polls:
 ^Discord Days: I wanted to propose that you add a new craftable to the game if possible! Aether Clusters!
 ^My game keeps crashing the moment Loghorrean attacks me, tried 3 times and on the third walked in slowly, stood there and when his projectiles hit me I crashed right away, on DAIL48 atm.
 ^add ground cleaner for survival mode
+^IF YOUR READING THIS I CANT GET THE LAST THREE ULTIMATE SKILLS WORKING ON ENGINEER EVERYTHING IS LINKED RIGHT.  is it another arbitrary limit on the engine??? ! 
 ***********************************************************************
 ***********************************************************************
 GREP SEARCH FOR , missing at end of lines in .dbr files
@@ -49,12 +50,22 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0052 - ?
-*added new game mode - DAIL - Crucible
+*added a new shared spreadsheet for selecting item graphics. link is -> ???
+*Crucible not added or merged
+	this is a good case for having a CLI arz repacker because then i can just pack in my changes into YOUR crucible @ install time
+	http://www.grimdawn.com/forums/showthread.php?p=419600#post419600
+	seems like we cant do a crucible mod per se. but we could do a hard mod maybe. gonna experiment.
+*look into merging the dawn of heroes music files into ambient mix
 *make my .bat files great again
 	http://www.grimdawn.com/forums/showpost.php?p=418859&postcount=2367
 	give credit to kriescher
+*merged in 1.0.0.5 changes
+	comapared 1.0.0.5 against 1.0.0.4HF2
+	took that diff and merged differences to existing DAIL
 
-0051 - ?
+0051 - 6:49 PM 8/5/2016
+IF YOUR READING THIS I CANT GET THE LAST THREE ULTIMATE SKILLS WORKING ON ENGINEER EVERYTHING IS LINKED RIGHT.  is it another arbitrary limit on the engine??? ! 
+potions drop+work btw. tested in live stream. thanks Samael187 for reminding me to check.
 I'm not able to assign skills to some celestial powers like ghoulish hunger or messenger of war or spear of heavens... Is this a bug or is there something that i don't know about these powers? I'm on 0050 X mode, and i'm a level 36 Kensai (fangshi + warfare). And I made a clean install for 0050.
 	i wanna see his char file. asking for it.
 	people saying its fine.. shrug
@@ -77,11 +88,12 @@ update coronus to 1.3.1 - regular version. not the "unbound" version
 added a "DAIL BUILD INSTRUCTIONS.txt" for masochists
 update to ncff 0.58 (LOTS of .arc updates)
 general folder cleanup. removed .tex files from source folders (1000s of files removed from github repo)
-*update darkest dawn to 1.0 (whoohoooo)
-*update engineer mastery to latest github stuff (2016 07 31) pay attention to the following notes:
-*update dawn of heroes to whatever is on the nexus on 2016 07 31
-*update cornucopia devotions and item affixes to 2016 07 31 github
-*update dga to 0.42b
+update darkest dawn to 1.0 (whoohoooo)
+	arch necromancer upgraded to 100 mastery levels
+	illusionist upgraded to 100 mastery levels
+	arch/illu potion related stuff added
+	arch/illu lua stuff  added
+update engineer mastery to latest github stuff (2016 07 31) pay attention to the following notes:
 	_CLASSTREE_ClassEngineer.dbr - Not using my custom template, so some skills won't show up. templateName,database/templates/skilltree_expanded.tpl,
 	ClassPanelBackgroundImage.dbr - wrong image. bitmapName,ui/Engineer/Special/skills_classbackgroundimage_ext.tex,
 	ClassPanelReallocationImage.dbr - wrong image. bitmapName,ui/Engineer/Special/skills_classreallocationbackgroundimage_ext.tex,
@@ -92,9 +104,9 @@ general folder cleanup. removed .tex files from source folders (1000s of files r
 	skill35.dbr - Missing
 	skill36.dbr - Missing
 	skill37.dbr - Missing
-*merged in 1.0.0.5 changes - crucible merge will happen for 0052
-	comapared 1.0.0.5 against 1.0.0.4HF2
-	took that diff and merged differences to existing DAIL
+update dawn of heroes to whatever is on the nexus on 2016 08 05
+update cornucopia devotions and item affixes to 2016 08 05 github
+update dga to 0.42b
 	
 0050 - HF1 - 4:33 AM 7/26/2016
 Tag not Found: tagEPNCFF_N_01
@@ -158,7 +170,7 @@ Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in D
 BUG: When I craft Imbuded Silver I gain a Scavenged Plating instead. I have tried this 3 times and have the same result each time.  are you sure ? i got imbued silver. which version?
 revamped the OP on gd forums quite extensively. it should read better now
 Discord Days: SoT gate closes like in vanilla in 0048 - fixed - re added old script
-THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0050)
+THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0051)
 gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
 What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
 	test this myself in DAIL - get the crash to happen - nah large creatures didnt crash it. need to ask people to send me saved game and then i can try in exactly the same situations

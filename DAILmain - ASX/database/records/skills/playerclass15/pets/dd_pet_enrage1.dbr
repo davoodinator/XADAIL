@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/playerclass15/pets/dd_pet_enrage1_buff.dbr,
+pointBlank,0,

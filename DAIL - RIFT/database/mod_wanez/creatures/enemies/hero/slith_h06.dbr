@@ -656,7 +656,7 @@ skillName12,records/skills/nonplayerskills/heroskills/archetypes/corrupted_passi
 skillName2,records/skills/nonplayerskills/passive/damagebase_physical03.dbr,
 skillName3,records/skills/nonplayerskills/passive/armorbase03.dbr,
 skillName4,records/skills/nonplayerskills/passive/resists_heroboss.dbr,
-skillName5,records/skills/nonplayerskills/heroskills/hero loot chests/hero_chest_all_01.dbr,
+skillName5,mod_wanez/creatures/enemies/containers/skills/hero_chest_all_01.dbr,
 skillName6,records/skills/nonplayerskills/passive/passiveattackproperties_slith_vampire.dbr,
 skillName7,records/skills/nonplayerskills/buff/slith_rally.dbr,
 skillName8,records/skills/nonplayerskills/attackcharge/slith_freezecharge.dbr,

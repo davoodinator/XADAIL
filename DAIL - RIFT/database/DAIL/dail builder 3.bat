@@ -14298,6 +14298,2206 @@ echo lootWeight60,1, >> .\items\loottables\dailoneskill0013dual.dbr
 
 
 
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer1dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo description,dailCompDescArch Necromancer1dual, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo itemText,dailCompTextArch Necromancer1dual,  >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer1dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer2dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo description,dailCompDescArch Necromancer2dual, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo itemText,dailCompTextArch Necromancer2dual,  >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer2dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer3dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo description,dailCompDescArch Necromancer3dual, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo itemText,dailCompTextArch Necromancer3dual,  >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer3dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer4dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo description,dailCompDescArch Necromancer4dual, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo itemText,dailCompTextArch Necromancer4dual,  >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer4dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer5dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo description,dailCompDescArch Necromancer5dual, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo itemText,dailCompTextArch Necromancer5dual,  >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer5dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer6dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo description,dailCompDescArch Necromancer6dual, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo itemText,dailCompTextArch Necromancer6dual,  >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer6dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer7dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo description,dailCompDescArch Necromancer7dual, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo itemText,dailCompTextArch Necromancer7dual,  >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer7dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer8dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo description,dailCompDescArch Necromancer8dual, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo itemText,dailCompTextArch Necromancer8dual,  >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer8dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer9dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo description,dailCompDescArch Necromancer9dual, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo itemText,dailCompTextArch Necromancer9dual,  >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer9dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer10dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo description,dailCompDescArch Necromancer10dual, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo itemText,dailCompTextArch Necromancer10dual,  >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer10dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer11dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo description,dailCompDescArch Necromancer11dual, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo itemText,dailCompTextArch Necromancer11dual,  >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer11dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer12dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo description,dailCompDescArch Necromancer12dual, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo itemText,dailCompTextArch Necromancer12dual,  >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer12dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer13dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo description,dailCompDescArch Necromancer13dual, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo itemText,dailCompTextArch Necromancer13dual,  >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer13dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer14dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo description,dailCompDescArch Necromancer14dual, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo itemText,dailCompTextArch Necromancer14dual,  >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer14dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer15dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo description,dailCompDescArch Necromancer15dual, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo itemText,dailCompTextArch Necromancer15dual,  >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer15dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer16dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo description,dailCompDescArch Necromancer16dual, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo itemText,dailCompTextArch Necromancer16dual,  >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer16dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer17dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo description,dailCompDescArch Necromancer17dual, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo itemText,dailCompTextArch Necromancer17dual,  >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer17dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer18dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo description,dailCompDescArch Necromancer18dual, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo itemText,dailCompTextArch Necromancer18dual,  >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer18dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer19dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo description,dailCompDescArch Necromancer19dual, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo itemText,dailCompTextArch Necromancer19dual,  >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer19dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer20dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo description,dailCompDescArch Necromancer20dual, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo itemText,dailCompTextArch Necromancer20dual,  >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer20dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer21dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo description,dailCompDescArch Necromancer21dual, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo itemText,dailCompTextArch Necromancer21dual,  >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer21dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer22dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo description,dailCompDescArch Necromancer22dual, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo itemText,dailCompTextArch Necromancer22dual,  >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer22dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer23dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo description,dailCompDescArch Necromancer23dual, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo itemText,dailCompTextArch Necromancer23dual,  >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer23dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer24dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo description,dailCompDescArch Necromancer24dual, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo itemText,dailCompTextArch Necromancer24dual,  >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer24dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer25dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo description,dailCompDescArch Necromancer25dual, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo itemText,dailCompTextArch Necromancer25dual,  >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer25dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer26dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo description,dailCompDescArch Necromancer26dual, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo itemText,dailCompTextArch Necromancer26dual,  >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer26dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer27dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo description,dailCompDescArch Necromancer27dual, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo itemText,dailCompTextArch Necromancer27dual,  >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer27dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer28dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo description,dailCompDescArch Necromancer28dual, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo itemText,dailCompTextArch Necromancer28dual,  >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer28dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer29dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo description,dailCompDescArch Necromancer29dual, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo itemText,dailCompTextArch Necromancer29dual,  >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer29dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer30dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo description,dailCompDescArch Necromancer30dual, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo itemText,dailCompTextArch Necromancer30dual,  >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0014\Arch Necromancer30dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer31dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo description,dailCompDescArch Necromancer31dual, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo itemText,dailCompTextArch Necromancer31dual,  >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer31dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer32dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo description,dailCompDescArch Necromancer32dual, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo itemText,dailCompTextArch Necromancer32dual,  >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer32dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer33dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo description,dailCompDescArch Necromancer33dual, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo itemText,dailCompTextArch Necromancer33dual,  >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer33dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer34dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo description,dailCompDescArch Necromancer34dual, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo itemText,dailCompTextArch Necromancer34dual,  >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer34dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer35dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo description,dailCompDescArch Necromancer35dual, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo itemText,dailCompTextArch Necromancer35dual,  >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer35dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer36dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo description,dailCompDescArch Necromancer36dual, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo itemText,dailCompTextArch Necromancer36dual,  >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer36dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer37dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo description,dailCompDescArch Necromancer37dual, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo itemText,dailCompTextArch Necromancer37dual,  >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer37dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer38dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo description,dailCompDescArch Necromancer38dual, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo itemText,dailCompTextArch Necromancer38dual,  >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer38dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer39dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo description,dailCompDescArch Necromancer39dual, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo itemText,dailCompTextArch Necromancer39dual,  >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer39dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer40dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo description,dailCompDescArch Necromancer40dual, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo itemText,dailCompTextArch Necromancer40dual,  >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer40dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer41dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo description,dailCompDescArch Necromancer41dual, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo itemText,dailCompTextArch Necromancer41dual,  >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer41dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer42dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo description,dailCompDescArch Necromancer42dual, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo itemText,dailCompTextArch Necromancer42dual,  >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer42dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer43dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo description,dailCompDescArch Necromancer43dual, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo itemText,dailCompTextArch Necromancer43dual,  >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer43dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer44dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo description,dailCompDescArch Necromancer44dual, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo itemText,dailCompTextArch Necromancer44dual,  >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer44dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer45dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo description,dailCompDescArch Necromancer45dual, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo itemText,dailCompTextArch Necromancer45dual,  >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer45dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer46dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo description,dailCompDescArch Necromancer46dual, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo itemText,dailCompTextArch Necromancer46dual,  >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer46dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer47dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo description,dailCompDescArch Necromancer47dual, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo itemText,dailCompTextArch Necromancer47dual,  >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer47dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer48dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo description,dailCompDescArch Necromancer48dual, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo itemText,dailCompTextArch Necromancer48dual,  >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer48dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer49dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo description,dailCompDescArch Necromancer49dual, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo itemText,dailCompTextArch Necromancer49dual,  >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer49dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer50dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo description,dailCompDescArch Necromancer50dual, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo itemText,dailCompTextArch Necromancer50dual,  >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer50dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer51dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo description,dailCompDescArch Necromancer51dual, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo itemText,dailCompTextArch Necromancer51dual,  >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer51dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer52dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo description,dailCompDescArch Necromancer52dual, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo itemText,dailCompTextArch Necromancer52dual,  >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer52dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer53dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo description,dailCompDescArch Necromancer53dual, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo itemText,dailCompTextArch Necromancer53dual,  >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer53dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer54dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo description,dailCompDescArch Necromancer54dual, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo itemText,dailCompTextArch Necromancer54dual,  >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer54dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer55dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo description,dailCompDescArch Necromancer55dual, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo itemText,dailCompTextArch Necromancer55dual,  >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer55dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer56dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo description,dailCompDescArch Necromancer56dual, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo itemText,dailCompTextArch Necromancer56dual,  >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer56dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer57dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo description,dailCompDescArch Necromancer57dual, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo itemText,dailCompTextArch Necromancer57dual,  >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer57dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer58dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo description,dailCompDescArch Necromancer58dual, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo itemText,dailCompTextArch Necromancer58dual,  >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer58dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer59dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo description,dailCompDescArch Necromancer59dual, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo itemText,dailCompTextArch Necromancer59dual,  >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer59dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0014\Arch Necromancer60dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo description,dailCompDescArch Necromancer60dual, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo itemText,dailCompTextArch Necromancer60dual,  >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo augmentMasteryName1,records/skills/playerclass14/_classtree_class14.dbr, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0014\Arch Necromancer60dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootName1,DAIL/items/materia/class0014/Arch Necromancer1dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName2,DAIL/items/materia/class0014/Arch Necromancer2dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName3,DAIL/items/materia/class0014/Arch Necromancer3dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName4,DAIL/items/materia/class0014/Arch Necromancer4dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName5,DAIL/items/materia/class0014/Arch Necromancer5dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName6,DAIL/items/materia/class0014/Arch Necromancer6dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName7,DAIL/items/materia/class0014/Arch Necromancer7dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName8,DAIL/items/materia/class0014/Arch Necromancer8dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName9,DAIL/items/materia/class0014/Arch Necromancer9dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName10,DAIL/items/materia/class0014/Arch Necromancer10dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName11,DAIL/items/materia/class0014/Arch Necromancer11dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName12,DAIL/items/materia/class0014/Arch Necromancer12dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName13,DAIL/items/materia/class0014/Arch Necromancer13dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName14,DAIL/items/materia/class0014/Arch Necromancer14dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName15,DAIL/items/materia/class0014/Arch Necromancer15dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName16,DAIL/items/materia/class0014/Arch Necromancer16dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName17,DAIL/items/materia/class0014/Arch Necromancer17dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName18,DAIL/items/materia/class0014/Arch Necromancer18dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName19,DAIL/items/materia/class0014/Arch Necromancer19dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName20,DAIL/items/materia/class0014/Arch Necromancer20dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName21,DAIL/items/materia/class0014/Arch Necromancer21dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName22,DAIL/items/materia/class0014/Arch Necromancer22dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName23,DAIL/items/materia/class0014/Arch Necromancer23dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName24,DAIL/items/materia/class0014/Arch Necromancer24dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName25,DAIL/items/materia/class0014/Arch Necromancer25dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName26,DAIL/items/materia/class0014/Arch Necromancer26dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName27,DAIL/items/materia/class0014/Arch Necromancer27dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName28,DAIL/items/materia/class0014/Arch Necromancer28dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName29,DAIL/items/materia/class0014/Arch Necromancer29dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName30,DAIL/items/materia/class0014/Arch Necromancer30dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName31,DAIL/items/materia/class0014/Arch Necromancer31dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName32,DAIL/items/materia/class0014/Arch Necromancer32dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName33,DAIL/items/materia/class0014/Arch Necromancer33dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName34,DAIL/items/materia/class0014/Arch Necromancer34dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName35,DAIL/items/materia/class0014/Arch Necromancer35dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName36,DAIL/items/materia/class0014/Arch Necromancer36dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName37,DAIL/items/materia/class0014/Arch Necromancer37dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName38,DAIL/items/materia/class0014/Arch Necromancer38dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName39,DAIL/items/materia/class0014/Arch Necromancer39dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName40,DAIL/items/materia/class0014/Arch Necromancer40dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName41,DAIL/items/materia/class0014/Arch Necromancer41dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName42,DAIL/items/materia/class0014/Arch Necromancer42dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName43,DAIL/items/materia/class0014/Arch Necromancer43dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName44,DAIL/items/materia/class0014/Arch Necromancer44dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName45,DAIL/items/materia/class0014/Arch Necromancer45dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName46,DAIL/items/materia/class0014/Arch Necromancer46dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName47,DAIL/items/materia/class0014/Arch Necromancer47dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName48,DAIL/items/materia/class0014/Arch Necromancer48dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName49,DAIL/items/materia/class0014/Arch Necromancer49dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight49,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName50,DAIL/items/materia/class0014/Arch Necromancer50dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight50,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName51,DAIL/items/materia/class0014/Arch Necromancer51dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight51,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName52,DAIL/items/materia/class0014/Arch Necromancer52dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight52,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName53,DAIL/items/materia/class0014/Arch Necromancer53dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight53,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName54,DAIL/items/materia/class0014/Arch Necromancer54dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight54,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName55,DAIL/items/materia/class0014/Arch Necromancer55dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight55,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName56,DAIL/items/materia/class0014/Arch Necromancer56dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight56,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName57,DAIL/items/materia/class0014/Arch Necromancer57dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight57,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName58,DAIL/items/materia/class0014/Arch Necromancer58dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight58,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName59,DAIL/items/materia/class0014/Arch Necromancer59dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight59,1, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootName60,DAIL/items/materia/class0014/Arch Necromancer60dual.dbr, >> .\items\loottables\dailoneskill0014dual.dbr
+echo lootWeight60,1, >> .\items\loottables\dailoneskill0014dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist1dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo description,dailCompDescIllusionist1dual, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo itemText,dailCompTextIllusionist1dual,  >> .\items\materia\class0015\Illusionist1dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist1dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist1dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist2dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo description,dailCompDescIllusionist2dual, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo itemText,dailCompTextIllusionist2dual,  >> .\items\materia\class0015\Illusionist2dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist2dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist2dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist3dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo description,dailCompDescIllusionist3dual, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo itemText,dailCompTextIllusionist3dual,  >> .\items\materia\class0015\Illusionist3dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist3dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist3dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist4dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo description,dailCompDescIllusionist4dual, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo itemText,dailCompTextIllusionist4dual,  >> .\items\materia\class0015\Illusionist4dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist4dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist4dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist5dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo description,dailCompDescIllusionist5dual, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo itemText,dailCompTextIllusionist5dual,  >> .\items\materia\class0015\Illusionist5dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist5dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist5dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist6dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo description,dailCompDescIllusionist6dual, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo itemText,dailCompTextIllusionist6dual,  >> .\items\materia\class0015\Illusionist6dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist6dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist6dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist7dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo description,dailCompDescIllusionist7dual, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo itemText,dailCompTextIllusionist7dual,  >> .\items\materia\class0015\Illusionist7dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist7dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist7dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist8dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo description,dailCompDescIllusionist8dual, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo itemText,dailCompTextIllusionist8dual,  >> .\items\materia\class0015\Illusionist8dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist8dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist8dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist9dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo description,dailCompDescIllusionist9dual, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo itemText,dailCompTextIllusionist9dual,  >> .\items\materia\class0015\Illusionist9dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist9dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist9dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist10dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo description,dailCompDescIllusionist10dual, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo itemText,dailCompTextIllusionist10dual,  >> .\items\materia\class0015\Illusionist10dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist10dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist10dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist11dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo description,dailCompDescIllusionist11dual, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo itemText,dailCompTextIllusionist11dual,  >> .\items\materia\class0015\Illusionist11dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist11dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist11dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist12dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo description,dailCompDescIllusionist12dual, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo itemText,dailCompTextIllusionist12dual,  >> .\items\materia\class0015\Illusionist12dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist12dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist12dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist13dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo description,dailCompDescIllusionist13dual, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo itemText,dailCompTextIllusionist13dual,  >> .\items\materia\class0015\Illusionist13dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist13dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist13dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist14dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo description,dailCompDescIllusionist14dual, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo itemText,dailCompTextIllusionist14dual,  >> .\items\materia\class0015\Illusionist14dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist14dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist14dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist15dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo description,dailCompDescIllusionist15dual, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo itemText,dailCompTextIllusionist15dual,  >> .\items\materia\class0015\Illusionist15dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist15dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist15dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist16dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo description,dailCompDescIllusionist16dual, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo itemText,dailCompTextIllusionist16dual,  >> .\items\materia\class0015\Illusionist16dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist16dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist16dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist17dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo description,dailCompDescIllusionist17dual, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo itemText,dailCompTextIllusionist17dual,  >> .\items\materia\class0015\Illusionist17dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist17dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist17dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist18dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo description,dailCompDescIllusionist18dual, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo itemText,dailCompTextIllusionist18dual,  >> .\items\materia\class0015\Illusionist18dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist18dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist18dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist19dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo description,dailCompDescIllusionist19dual, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo itemText,dailCompTextIllusionist19dual,  >> .\items\materia\class0015\Illusionist19dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist19dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist19dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist20dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo description,dailCompDescIllusionist20dual, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo itemText,dailCompTextIllusionist20dual,  >> .\items\materia\class0015\Illusionist20dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist20dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist20dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist21dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo description,dailCompDescIllusionist21dual, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo itemText,dailCompTextIllusionist21dual,  >> .\items\materia\class0015\Illusionist21dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist21dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist21dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist22dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo description,dailCompDescIllusionist22dual, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo itemText,dailCompTextIllusionist22dual,  >> .\items\materia\class0015\Illusionist22dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist22dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist22dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist23dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo description,dailCompDescIllusionist23dual, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo itemText,dailCompTextIllusionist23dual,  >> .\items\materia\class0015\Illusionist23dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist23dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist23dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist24dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo description,dailCompDescIllusionist24dual, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo itemText,dailCompTextIllusionist24dual,  >> .\items\materia\class0015\Illusionist24dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist24dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist24dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist25dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo description,dailCompDescIllusionist25dual, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo itemText,dailCompTextIllusionist25dual,  >> .\items\materia\class0015\Illusionist25dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist25dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist25dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist26dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo description,dailCompDescIllusionist26dual, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo itemText,dailCompTextIllusionist26dual,  >> .\items\materia\class0015\Illusionist26dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist26dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist26dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist27dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo description,dailCompDescIllusionist27dual, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo itemText,dailCompTextIllusionist27dual,  >> .\items\materia\class0015\Illusionist27dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist27dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist27dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist28dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo description,dailCompDescIllusionist28dual, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo itemText,dailCompTextIllusionist28dual,  >> .\items\materia\class0015\Illusionist28dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist28dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist28dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist29dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo description,dailCompDescIllusionist29dual, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo itemText,dailCompTextIllusionist29dual,  >> .\items\materia\class0015\Illusionist29dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist29dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist29dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist30dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo itemCost,1000000, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo description,dailCompDescIllusionist30dual, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo itemText,dailCompTextIllusionist30dual,  >> .\items\materia\class0015\Illusionist30dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo augmentMasteryLevel1,1, >> .\items\materia\class0015\Illusionist30dual.dbr
+echo augmentMasteryLevel2,1, >> .\items\materia\class0015\Illusionist30dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist31dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo description,dailCompDescIllusionist31dual, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo itemText,dailCompTextIllusionist31dual,  >> .\items\materia\class0015\Illusionist31dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo augmentMasteryName2,records/skills/playerclass01/_classtraining_class01.dbr, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist31dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist31dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist32dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo description,dailCompDescIllusionist32dual, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo itemText,dailCompTextIllusionist32dual,  >> .\items\materia\class0015\Illusionist32dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo augmentMasteryName2,records/skills/playerclass02/_classtraining_class02.dbr, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist32dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist32dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist33dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo description,dailCompDescIllusionist33dual, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo itemText,dailCompTextIllusionist33dual,  >> .\items\materia\class0015\Illusionist33dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo augmentMasteryName2,records/skills/playerclass03/_classtraining_class03.dbr, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist33dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist33dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist34dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo description,dailCompDescIllusionist34dual, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo itemText,dailCompTextIllusionist34dual,  >> .\items\materia\class0015\Illusionist34dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo augmentMasteryName2,records/skills/playerclass04/_classtraining_class04.dbr, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist34dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist34dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist35dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo description,dailCompDescIllusionist35dual, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo itemText,dailCompTextIllusionist35dual,  >> .\items\materia\class0015\Illusionist35dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo augmentMasteryName2,records/skills/playerclass05/_classtraining_class05.dbr, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist35dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist35dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist36dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo description,dailCompDescIllusionist36dual, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo itemText,dailCompTextIllusionist36dual,  >> .\items\materia\class0015\Illusionist36dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo augmentMasteryName2,records/skills/playerclass06/_classtraining_class06.dbr, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist36dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist36dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist37dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo description,dailCompDescIllusionist37dual, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo itemText,dailCompTextIllusionist37dual,  >> .\items\materia\class0015\Illusionist37dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo augmentMasteryName2,records/skills/playerclass07/_classtraining_class07.dbr, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist37dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist37dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist38dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo description,dailCompDescIllusionist38dual, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo itemText,dailCompTextIllusionist38dual,  >> .\items\materia\class0015\Illusionist38dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo augmentMasteryName2,records/skills/playerclass08/_classtraining_class08.dbr, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist38dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist38dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist39dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo description,dailCompDescIllusionist39dual, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo itemText,dailCompTextIllusionist39dual,  >> .\items\materia\class0015\Illusionist39dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassCoronus/_ClassTraining_ClassCoronus.dbr, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist39dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist39dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist40dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo description,dailCompDescIllusionist40dual, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo itemText,dailCompTextIllusionist40dual,  >> .\items\materia\class0015\Illusionist40dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo augmentMasteryName2,records/skills/playerclass10/_classtraining_class10.dbr, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist40dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist40dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist41dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo description,dailCompDescIllusionist41dual, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo itemText,dailCompTextIllusionist41dual,  >> .\items\materia\class0015\Illusionist41dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo augmentMasteryName2,records/skills/FrostKnightClass/_ClassTraining_FK.dbr, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist41dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist41dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist42dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo description,dailCompDescIllusionist42dual, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo itemText,dailCompTextIllusionist42dual,  >> .\items\materia\class0015\Illusionist42dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass02/_classtraining_class12.dbr, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist42dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist42dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist43dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo description,dailCompDescIllusionist43dual, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo itemText,dailCompTextIllusionist43dual,  >> .\items\materia\class0015\Illusionist43dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo augmentMasteryName2,records/skills/zenithclass01/_classtraining_class13.dbr, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist43dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist43dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist44dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo description,dailCompDescIllusionist44dual, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo itemText,dailCompTextIllusionist44dual,  >> .\items\materia\class0015\Illusionist44dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist44dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist44dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist45dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo description,dailCompDescIllusionist45dual, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo itemText,dailCompTextIllusionist45dual,  >> .\items\materia\class0015\Illusionist45dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist45dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist45dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist46dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo description,dailCompDescIllusionist46dual, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo itemText,dailCompTextIllusionist46dual,  >> .\items\materia\class0015\Illusionist46dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo augmentMasteryName2,records/skills/defense/defensivemastery.dbr, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist46dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist46dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist47dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo description,dailCompDescIllusionist47dual, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo itemText,dailCompTextIllusionist47dual,  >> .\items\materia\class0015\Illusionist47dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo augmentMasteryName2,records/skills/hunting/huntingmastery.dbr, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist47dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist47dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist48dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo description,dailCompDescIllusionist48dual, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo itemText,dailCompTextIllusionist48dual,  >> .\items\materia\class0015\Illusionist48dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo augmentMasteryName2,records/skills/spirit/spiritmastery.dbr, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist48dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist48dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist49dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo description,dailCompDescIllusionist49dual, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo itemText,dailCompTextIllusionist49dual,  >> .\items\materia\class0015\Illusionist49dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo augmentMasteryName2,records/skills/warfare/warfaremastery.dbr, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist49dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist49dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist50dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo description,dailCompDescIllusionist50dual, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo itemText,dailCompTextIllusionist50dual,  >> .\items\materia\class0015\Illusionist50dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo augmentMasteryName2,records/skills/nature/naturemastery.dbr, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist50dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist50dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist51dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo description,dailCompDescIllusionist51dual, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo itemText,dailCompTextIllusionist51dual,  >> .\items\materia\class0015\Illusionist51dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo augmentMasteryName2,records/skills/stealth/stealthmastery.dbr, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist51dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist51dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist52dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo description,dailCompDescIllusionist52dual, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo itemText,dailCompTextIllusionist52dual,  >> .\items\materia\class0015\Illusionist52dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo augmentMasteryName2,records/skills/earth/earthmastery.dbr, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist52dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist52dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist53dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo description,dailCompDescIllusionist53dual, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo itemText,dailCompTextIllusionist53dual,  >> .\items\materia\class0015\Illusionist53dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo augmentMasteryName2,records/skills/storm/stormmastery.dbr, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist53dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist53dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist54dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo description,dailCompDescIllusionist54dual, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo itemText,dailCompTextIllusionist54dual,  >> .\items\materia\class0015\Illusionist54dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo augmentMasteryName2,records/skills/dream/dreammastery.dbr, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist54dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist54dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist55dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo description,dailCompDescIllusionist55dual, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo itemText,dailCompTextIllusionist55dual,  >> .\items\materia\class0015\Illusionist55dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist55dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist55dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist56dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo description,dailCompDescIllusionist56dual, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo itemText,dailCompTextIllusionist56dual,  >> .\items\materia\class0015\Illusionist56dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo augmentMasteryName2,records/skills/Enchanter/_ClassTraining_ENCH.dbr, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist56dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist56dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist57dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo description,dailCompDescIllusionist57dual, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo itemText,dailCompTextIllusionist57dual,  >> .\items\materia\class0015\Illusionist57dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClassEngineer/_ClassTraining_ClassEngineer.dbr, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist57dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist57dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist58dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo description,dailCompDescIllusionist58dual, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo itemText,dailCompTextIllusionist58dual,  >> .\items\materia\class0015\Illusionist58dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo augmentMasteryName2,records/skills/playerclass28/_classtraining_class28.dbr, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist58dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist58dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist59dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo description,dailCompDescIllusionist59dual, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo itemText,dailCompTextIllusionist59dual,  >> .\items\materia\class0015\Illusionist59dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo augmentMasteryName2,records/skills/PlayerClass29/_ClassTraining_Class29.dbr, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist59dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist59dual.dbr
+copy .\dail_base2.dbr .\items\materia\class0015\Illusionist60dual.dbr /y
+echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo itemCost,2000000, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo description,dailCompDescIllusionist60dual, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo itemText,dailCompTextIllusionist60dual,  >> .\items\materia\class0015\Illusionist60dual.dbr
+echo augmentMasteryName1,records/skills/playerclass15/_classtree_class15.dbr, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo augmentMasteryName2,records/skills, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo augmentMasteryLevel1,2, >> .\items\materia\class0015\Illusionist60dual.dbr
+echo augmentMasteryLevel2,2, >> .\items\materia\class0015\Illusionist60dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo lootName1,DAIL/items/materia/class0015/Illusionist1dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight1,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName2,DAIL/items/materia/class0015/Illusionist2dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight2,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName3,DAIL/items/materia/class0015/Illusionist3dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight3,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName4,DAIL/items/materia/class0015/Illusionist4dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight4,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName5,DAIL/items/materia/class0015/Illusionist5dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight5,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName6,DAIL/items/materia/class0015/Illusionist6dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight6,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName7,DAIL/items/materia/class0015/Illusionist7dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight7,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName8,DAIL/items/materia/class0015/Illusionist8dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight8,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName9,DAIL/items/materia/class0015/Illusionist9dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight9,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName10,DAIL/items/materia/class0015/Illusionist10dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight10,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName11,DAIL/items/materia/class0015/Illusionist11dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight11,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName12,DAIL/items/materia/class0015/Illusionist12dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight12,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName13,DAIL/items/materia/class0015/Illusionist13dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight13,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName14,DAIL/items/materia/class0015/Illusionist14dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight14,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName15,DAIL/items/materia/class0015/Illusionist15dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight15,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName16,DAIL/items/materia/class0015/Illusionist16dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight16,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName17,DAIL/items/materia/class0015/Illusionist17dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight17,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName18,DAIL/items/materia/class0015/Illusionist18dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight18,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName19,DAIL/items/materia/class0015/Illusionist19dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight19,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName20,DAIL/items/materia/class0015/Illusionist20dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight20,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName21,DAIL/items/materia/class0015/Illusionist21dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight21,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName22,DAIL/items/materia/class0015/Illusionist22dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight22,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName23,DAIL/items/materia/class0015/Illusionist23dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight23,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName24,DAIL/items/materia/class0015/Illusionist24dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight24,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName25,DAIL/items/materia/class0015/Illusionist25dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight25,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName26,DAIL/items/materia/class0015/Illusionist26dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight26,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName27,DAIL/items/materia/class0015/Illusionist27dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight27,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName28,DAIL/items/materia/class0015/Illusionist28dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight28,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName29,DAIL/items/materia/class0015/Illusionist29dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight29,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName30,DAIL/items/materia/class0015/Illusionist30dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight30,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName31,DAIL/items/materia/class0015/Illusionist31dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight31,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName32,DAIL/items/materia/class0015/Illusionist32dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight32,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName33,DAIL/items/materia/class0015/Illusionist33dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight33,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName34,DAIL/items/materia/class0015/Illusionist34dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight34,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName35,DAIL/items/materia/class0015/Illusionist35dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight35,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName36,DAIL/items/materia/class0015/Illusionist36dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight36,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName37,DAIL/items/materia/class0015/Illusionist37dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight37,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName38,DAIL/items/materia/class0015/Illusionist38dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight38,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName39,DAIL/items/materia/class0015/Illusionist39dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight39,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName40,DAIL/items/materia/class0015/Illusionist40dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight40,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName41,DAIL/items/materia/class0015/Illusionist41dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight41,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName42,DAIL/items/materia/class0015/Illusionist42dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight42,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName43,DAIL/items/materia/class0015/Illusionist43dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight43,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName44,DAIL/items/materia/class0015/Illusionist44dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight44,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName45,DAIL/items/materia/class0015/Illusionist45dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight45,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName46,DAIL/items/materia/class0015/Illusionist46dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight46,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName47,DAIL/items/materia/class0015/Illusionist47dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight47,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName48,DAIL/items/materia/class0015/Illusionist48dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight48,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName49,DAIL/items/materia/class0015/Illusionist49dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight49,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName50,DAIL/items/materia/class0015/Illusionist50dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight50,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName51,DAIL/items/materia/class0015/Illusionist51dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight51,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName52,DAIL/items/materia/class0015/Illusionist52dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight52,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName53,DAIL/items/materia/class0015/Illusionist53dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight53,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName54,DAIL/items/materia/class0015/Illusionist54dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight54,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName55,DAIL/items/materia/class0015/Illusionist55dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight55,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName56,DAIL/items/materia/class0015/Illusionist56dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight56,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName57,DAIL/items/materia/class0015/Illusionist57dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight57,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName58,DAIL/items/materia/class0015/Illusionist58dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight58,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName59,DAIL/items/materia/class0015/Illusionist59dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight59,1, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootName60,DAIL/items/materia/class0015/Illusionist60dual.dbr, >> .\items\loottables\dailoneskill0015dual.dbr
+echo lootWeight60,1, >> .\items\loottables\dailoneskill0015dual.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 copy .\dail_base2.dbr .\items\materia\class0016\Defense1dual.dbr /y
 echo relicBitmap,items/craftingparts/components/component_a52_bristlyfur_b.tex, >> .\items\materia\class0016\Defense1dual.dbr
 echo itemCost,1000000, >> .\items\materia\class0016\Defense1dual.dbr
