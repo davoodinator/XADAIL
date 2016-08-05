@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+FileDescription,Applies crushed resolve,
+buffSkillName,records/items/0ncff/epic/sets/skills/item_swordkingcrush_buff.dbr,

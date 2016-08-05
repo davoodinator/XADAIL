@@ -50,7 +50,9 @@ to find the missing commas
 ***********************************************************************
 0052 - ?
 *added new game mode - DAIL - Crucible
-
+*make my .bat files great again
+	http://www.grimdawn.com/forums/showpost.php?p=418859&postcount=2367
+	give credit to kriescher
 
 0051 - ?
 I'm not able to assign skills to some celestial powers like ghoulish hunger or messenger of war or spear of heavens... Is this a bug or is there something that i don't know about these powers? I'm on 0050 X mode, and i'm a level 36 Kensai (fangshi + warfare). And I made a clean install for 0050.
@@ -73,7 +75,8 @@ sorry but i don't know how the lost treasures feature work in Ultimate ? do i ne
 update grim quest to 1.2 - nevermind seems i ddi this alreaedy
 update coronus to 1.3.1 - regular version. not the "unbound" version
 added a "DAIL BUILD INSTRUCTIONS.txt" for masochists
-*update to ncff 0.58 (LOTS of .arc updates)
+update to ncff 0.58 (LOTS of .arc updates)
+general folder cleanup. removed .tex files from source folders (1000s of files removed from github repo)
 *update darkest dawn to 1.0 (whoohoooo)
 *update engineer mastery to latest github stuff (2016 07 31) pay attention to the following notes:
 *update dawn of heroes to whatever is on the nexus on 2016 07 31
@@ -90,6 +93,8 @@ added a "DAIL BUILD INSTRUCTIONS.txt" for masochists
 	skill36.dbr - Missing
 	skill37.dbr - Missing
 *merged in 1.0.0.5 changes - crucible merge will happen for 0052
+	comapared 1.0.0.5 against 1.0.0.4HF2
+	took that diff and merged differences to existing DAIL
 	
 0050 - HF1 - 4:33 AM 7/26/2016
 Tag not Found: tagEPNCFF_N_01
