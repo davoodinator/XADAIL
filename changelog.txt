@@ -52,15 +52,21 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0053 - ?
+*contemplate buum.7z + dail-cruzible.7z and the changes thereign
 *added a new shared spreadsheet for selecting item graphics. link is -> ???
-*make my .bat files great again
-	http://www.grimdawn.com/forums/showpost.php?p=418859&postcount=2367
-	give credit to kriescher
 *merge in eternal 0967 changes to my changes (damnit)
 *Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
 	no clue on this. gonna leave it till later
+*give credit to kriescher and Arendeth for making my bat files great again
+*add .bat to the updater xagit.bat
 
-0052 - ?
+0052 - hotfix 1 for crucible installer only - 2:32 PM 8/9/2016
+*used Arendeth updates to make it work for people including text change to remind people what to / not do
+
+0052 - 9:16 PM 8/8/2016
+make my .bat files great again
+	http://www.grimdawn.com/forums/showpost.php?p=418859&postcount=2367
+	http://www.grimdawn.com/forums/showpost.php?p=421342&postcount=2488
 merged in 1.0.0.5 changes
 	compared 1.0.0.5 against 1.0.0.4HF2
 	925 new/changed files in the database
@@ -74,7 +80,7 @@ DAIL 0052hf2, B mode: either i'm really unlucky or those elusive Merchant Potion
 	your unlucky
 	other people reporting it working just fine
 So I noticed one other thing, I don't have the number in the top left of the DAIL Version.
-*finish the patcher for DAIL-Crucible
+finish the patcher for DAIL-Crucible
 	
 0051 - HOT FIX 2 - 7:19 AM 8/6/2016
 fixed dga for real.... was alot of files i forgot in the patcher

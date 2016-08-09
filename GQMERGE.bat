@@ -1,33 +1,34 @@
-rem CRATE DLC asset merges
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\resources/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\survivalmode\resources\/" /S /xf *.arc
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\survivalmode\/" /S /xf *.arc
-cd survivalmode
-cd resources
-call updatearcsCRATE.bat
+SET BATCH_DIR=%~dp0
 
+@ECHO OFF
 
-rem cook in the grim quest assets
-cd ..
-cd ..
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\/" /S
-cd DAIL
-cd resources
+SET REG_KEY=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 219990
+SET VALUE_NAME=InstallLocation
+FOR /F "tokens=2*" %%A IN ('REG.exe query "%REG_KEY%" /v "%VALUE_NAME%"') DO (set pInstallDir=%%B)
+echo %pInstallDir%
+
+REM UPDATE DAIL
+SET TARGET=DAIL
+CALL :UPDATE
+
+REM UPDATE DAIL - RIFT
+SET TARGET=DAIL - RIFT
+CALL :UPDATE
+
+REM UPDATE DAIL - Survival
+SET TARGET=DAIL - Survival
+CALL :UPDATE
+
+REM GOTO END ECHO
+GOTO :ENDECHO
+
+:UPDATE
+PUSHD "%BATCH_DIR%%TARGET%\resources"
+robocopy "%BATCH_DIR%\DAILmergeGQ" "%BATCH_DIR%%TARGET%" /S /NFL /NDL
+ECHO call updatearcs.bat
 call updatearcs.bat
+POPD
+GOTO :EOF
 
-cd ..
-cd ..
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\/" /S
-cd "DAIL - RIFT"
-cd resources
-call updatearcs.bat
-
-cd ..
-cd ..
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - Survival\/" /S
-cd "DAIL - Survival"
-cd resources
-call updatearcs.bat
-
-
+:ENDECHO
 echo MAKE SURE YOU CTRL+C HERE
-rem MAKE SURE YOU CTRL+C HERE

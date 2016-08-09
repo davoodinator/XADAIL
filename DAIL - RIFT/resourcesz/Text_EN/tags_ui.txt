@@ -1,0 +1,23 @@
+#tagWaFactionDGA=Carto
+tagFactionUser14=Portal Master [DGA]
+tagFactionUser14Info=A group of wizards found an ancient way to open portals, because they were messing around with something they did not understand, everyone is now in danger. Since then monsters are threatening to invade the world of Grim Dawn, like the people in it didnt have enough on their plate already! Now its up to you to help the Portal Masters defeat the hordes of invaders in their world before they can enter yours.
+tagFactionUser14Rewards1=Nemesis Spawns
+tagFactionUser14Rewards2=Additional Hero Spawns
+tagFactionUser14Rewards3=Extra Spawns
+tagFactionUser14Rewards4=Empty
+tagFactionUser14Rewards5=Rewards5
+tagFactionUser14Rewards6=Rewards6
+tagFactionUser14Rewards7=Rewards7
+tagFactionUser14Rewards8=Rewards8
+
+#tagWaFactionCarto=DGA Faction
+tagFactionUser15=Invaders [DGA]
+tagFactionUser15Info=The invading enemies, the more they hate you the stronger they become. Remember to thank the Portal Masters for bringing them to you.
+tagFactionUser15Rewards1=Additional Nemesis Spawns
+tagFactionUser15Rewards2=Nemesis Spawns
+tagFactionUser15Rewards3=Mini-Nemesis Spawns
+tagFactionUser15Rewards4=Empty
+tagFactionUser15Rewards5=Rewards5
+tagFactionUser15Rewards6=Rewards6
+tagFactionUser15Rewards7=Rewards7
+tagFactionUser15Rewards8=Rewards8

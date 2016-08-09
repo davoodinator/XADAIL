@@ -1,0 +1,128 @@
+# Items specific to the "Wanez-Mods"
+
+# CURRENCY || ANTIQUITIES
+tagWaCurrencyNormal01_NAME=Antique Coin (Currency)
+tagWaCurrencyNormal01_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal02_NAME=Antique Book Page (Currency)
+tagWaCurrencyNormal02_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal03_NAME=Antique Cup (Currency)
+tagWaCurrencyNormal03_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal04_NAME=Antique Mirror (Currency)
+tagWaCurrencyNormal04_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal05_NAME=Antique Vase (Currency)
+tagWaCurrencyNormal05_DESC="An Archaeologist would love to have this antiquity!"
+
+# TOKEN || ESSENCE
+tagWaUpgradeTokenBeginner_NAME=Essence: Artifact (Normal)
+tagWaUpgradeTokenBeginner_DESC="This Essence is used to empower Artifacts (Beginner) or create Crafting-Materials!"
+tagWaEssenceEverlasting01_NAME=Essence: Everlasting
+tagWaEssenceEverlasting01_DESC="An Essence used to craft Antique Items, can only drop in Endless-DGA"
+
+# SOULS
+tagWaSoulCommon_NAME=Soul: Common (DGA)
+tagWaSoulCommon_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulChampion_NAME=Soul: Champion (DGA)
+tagWaSoulChampion_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulHero_NAME=Soul: Hero (DGA)
+tagWaSoulHero_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulNemesis_NAME=Soul: Nemesis (DGA)
+tagWaSoulNemesis_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulBoss_NAME=Soul: Boss (DGA)
+tagWaSoulBoss_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulRaid_NAME=Soul: Raid Boss (DGA)
+tagWaSoulRaid_DESC="Special Soul to trade with Soul-Eaters."
+tagWaSoulSouleater_NAME=Soul: Soul Eater (DGA)
+tagWaSoulSouleater_DESC="Special Soul to trade with Soul-Eaters."
+tagWaSoulAethercrystal_NAME=Soul: Aether Crystal (DGA)
+tagWaSoulAethercrystal_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulUber_NAME=Soul: Uber (DGA)
+tagWaSoulUber_DESC="Special Soul to trade with Soul-Eaters."
+
+tagWaEmpty=
+
+tagWaTrash01_NAME=Soul Eater - Trash
+tagWaTrash01_DESC="Looks like that Soul Eater just took your Enemy Souls and gave you some useless trash, better luck next time I guess!"
+
+# Beginner (LvLing) Sets (T00-T10) [0000 - Basic Sets]
+# TIERS
+tagWaQualityTier00=T0 :: 
+tagWaQualityTier01=T1 :: 
+tagWaQualityTier02=T2 :: 
+tagWaQualityTier03=T3 :: 
+tagWaQualityTier04=T4 :: 
+tagWaQualityTier05=T5 :: 
+tagWaQualityTier06=T6 :: 
+tagWaQualityTier07=T7 :: 
+tagWaQualityTier08=T8 :: 
+tagWaQualityTier09=T9 :: 
+tagWaQualityTier10=T10 :: 
+# SET-BONUS
+tagWaSetArmourBeginnerT00_0000Name=T00 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT00_0000Desc=Beginnings can be hard
+tagWaSetArmourBeginnerT01_0000Name=T01 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT01_0000Desc=Upgrades will make it easier I
+tagWaSetArmourBeginnerT02_0000Name=T02 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT02_0000Desc=Upgrades will make it easier II
+tagWaSetArmourBeginnerT03_0000Name=T03 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT03_0000Desc=Upgrades will make it easier III
+tagWaSetArmourBeginnerT04_0000Name=T04 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT04_0000Desc=Upgrades will make it easier IV
+tagWaSetArmourBeginnerT05_0000Name=T05 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT05_0000Desc=Upgrades will make it easier V
+tagWaSetArmourBeginnerT06_0000Name=T06 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT06_0000Desc=Upgrades will make it easier VI
+tagWaSetArmourBeginnerT07_0000Name=T07 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT07_0000Desc=Upgrades will make it easier VII
+tagWaSetArmourBeginnerT08_0000Name=T08 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT08_0000Desc=Upgrades will make it easier VIII
+tagWaSetArmourBeginnerT09_0000Name=T09 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT09_0000Desc=Upgrades will make it easier IX
+tagWaSetArmourBeginnerT10_0000Name=T10 Armour-Set (Beginner)
+tagWaSetArmourBeginnerT10_0000Desc=Upgrades will make it easier X
+# ARMOUR
+tagWaBeginnerHead_0000=Helm (Beginner)
+tagWaBeginnerShoulders_0000=Shoulders (Beginner)
+tagWaBeginnerHands_0000=Gloves (Beginner)
+tagWaBeginnerFeet_0000=Boots (Beginner)
+tagWaBeginnerLegs_0000=Pants (Beginner)
+tagWaBeginnerTorso_0000=Chest (Beginner)
+tagWaBeginnerArmourWaist_0000=Protective Belt (Beginner)
+# ACCESSORIES
+tagWaBeginnerAccessoryWaist_0000=Shiny Belt (Beginner)
+tagWaBeginnerNecklace_0000=Silver Necklace (Beginner)
+tagWaBeginnerRing01_0000=Copper Ring (Beginner)
+tagWaBeginnerRing02_0000=Silver Ring (Beginner)
+# WEAPONS
+tagWaBeginnerAxe01_0000=1H Axe (Beginner)
+tagWaBeginnerAxe02_0000=2H Axe (Beginner)
+tagWaBeginnerMace01_0000=1H Mace (Beginner)
+tagWaBeginnerMace02_0000=2H Mace (Beginner)
+tagWaBeginnerSword01_0000=1H Sword (Beginner)
+tagWaBeginnerSword02_0000=2H Sword (Beginner)
+tagWaBeginnerRanged01_0000=1H Gun (Beginner)
+tagWaBeginnerRanged02_0000=2H Gun (Beginner)
+tagWaBeginnerFocus01_0000=Caster Focus (Beginner)
+tagWaBeginnerScepter01_0000=Scepter (Beginner)
+tagWaBeginnerDagger01_0000=Dagger (Beginner)
+tagWaBeginnerShield01_0000=Shield (Beginner)
+
+
+# Ancient Sets (Coming With v0.3.0)
+
+# Champion Sets (Coming With v0.3.0)
+
+# Beginner Sets (Coming With v0.3.0)
+
+
+# Blacksmith
+tagWaNPC_MerchantMateria00_DESC=Component
+tagWaNPC_MerchantMateria00_PROFESSION=Store
+tagWaNPC_MerchantLv00_DESC=Beginner (Artifacts)
+tagWaNPC_MerchantLv00_PROFESSION=Store
+tagWaNPC_BlacksmithLv00_DESC=Beginner (Artifacts)
+tagWaNPC_BlacksmithLv00_PROFESSION=Upgrader
+tagWaNPC_Crafter01_DESC=Crate Crafting
+tagWaNPC_Crafter01_PROFESSION=Old Recipes
+
+# Enchants
+tagDamageModifierTotalDamageR={%+.0f0}%-{%+.0f1}% {^E}to All Damage

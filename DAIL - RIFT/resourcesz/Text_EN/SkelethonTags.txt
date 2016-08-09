@@ -1,0 +1,52 @@
+
+tagClassSkelethonSkillName01A=Dead Dogs
+tagClassSkelethonSkillDescription01A=Summon an undead warrior skeleton on kill. The skeleton warrior have the ability to raise the undead on his own kills, but can only summon up to 1 skeleton. ^O This ability must be toggled to maintain its effect. ^A Your warrior skeletons last for 8 minutes and theirs for 4. ^O Secondary summons vanish when changing instances.
+tagClassSkelethonSkillName01B=Dirt
+tagClassSkelethonSkillDescription01B=Your skeleton charges at his enemy and fucks him up like he would a slutty hot undead spooky ghost.
+tagClassSkelethonSkillName01C=Five Fingers
+tagClassSkelethonSkillDescription01C=Your warrior skeletons are more than just axes and bones.
+
+tagClassSkelethonSkillName03A=Rush
+tagClassSkelethonDescription03A=Sprint towards an enemy and bash his fucking head in.
+
+tagClassSkelethonDescriptionRush=Catch up quickly to an enemy to take him by surprise.
+
+tagClassSkelethonSkillName04A=Zero Dark Thirty
+tagClassSkelethonSkillDescription=Slice em' good! SLICE EM GOOD
+tagClassSkelethonSkillName04B=Birds With Broken Wings
+tagClassSkelethonSkillDescription04B=Sometimes you just need pure brute force. Adds more % weapon damage and increases the overall damage done by Zero Dark Thirty.
+tagClassSkelethonSkillName04C=Summon Undead Warrior
+tagClassSkelethonSkillName04D=Summon Undead Warrior (50% On Enemy Death)
+
+tagClassSkelethonSkillDescriptionZDT=Weakening your enemies to kill them easily is a good and safe way to succeed at surviving in this world. ^o Requires a two handed melee weapon.
+
+tagClassSkelethonSkillName05A=Proxy
+tagClassSkelethonSkillDescription05A=Wielding a two handed weapon might not be as good as dual-wielding, but you are more than just a common mortal with magical powers or great might. ^o Requires a two handed melee weapon.
+tagClassSkelethonSkillName05B=Oh Fields, My Fields
+tagClassSkelethonSkillDescription05B=Being able to manipulate so much undead forces would be a waste of power if you didn't empower your servants to help you in battle.
+
+tagClassSkelethonSkillName06A=Ignition
+tagClassSkelethonSkillDescription06A=Knowing even the secrets of Ch'thon because of a dark and twisted past, you sacrifice your own lifeforce to greatly empower yourself and your own pets for a short duration. You also transfer your own life to your summons, fueling their (un)life energy again.
+tagClassSkelethonSkillName06B=Alpha Centauri
+tagClassSkelethonSkillDescription06B=Increases the duration of Ignition while increasing your life regeneration.
+
+tagClassSkelethonSkillName07A=Rain Smell
+tagClassSkelethonSkillDescription07A=Summon two undead archers ready to impale your enemies with accelerated knives launched from heavily modified crossbows, created shortly after the Grim Dawn by outlanders. They can raise a skeleton warrior on kill but one archer can only summon up to 1 skeleton. ^A Their warrior skeletons last for 4 minutes. ^O Secondary summons vanish when changing instances.
+tagClassSkelethonSkillName07B=Secant
+tagClassSkelethonSkillDescription07B=Your archers are now able to fire a knife infused with the elements that explodes in a small area on contact.
+tagClassSkelethonSkillName07C=Venter
+tagClassSkelethonSkillDescription07C=Your archers can now launch bone-crafted grenades containing a special mixture of acid that engulfe enemies in flame when exploding.
+tagClassSkelethonSkillName07D=Accelerated Knife
+tagClassSkelethonSkillName07E=Summon Undead Warrior (30% On Enemy Death)
+
+tagClassSkelethonSkillName08A=Dark Eyes
+tagClassSkelethonSkillDescription08A=Lead as a true general would; by empowering your small but effective undead army. ^O This ability must be toggled to maintain its effect.
+
+tagClassSkelethonSkillName09A=Richardson Road
+tagClassSkelethonSkillDescription09A=Amplifies your ability to defend yourself against all blows. ^o Requires a two handed melee weapon.
+
+tagClassSkelethonSkillName10A=Sun Harmonics
+tagClassSkelethonSkillDescription10A=As a general who prefer to stay in the backline giving orders while also dealing death himself, you sacrifice some of your own vitality for more power to you and your team. ^o Requires a two handed ranged weapon.
+
+tagPetAbacus01=Skeleton Warrior
+tagPetRainSmell01=Skeleton Archer

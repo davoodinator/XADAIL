@@ -14,8 +14,8 @@ archivetool Sounds.arc -update . Sounds 6
 archivetool Soundeffects.arc -update . Soundeffects 6
 archivetool Textures.arc -update . Textures 6
 archivetool Text_EN.arc -update . Text_EN 6
-archivetool wanez.arc update- . wanez 6
-archivetool wanez-dga.arc update- . wanez-dga 6
+archivetool wanez.arc -update . wanez 6
+archivetool wanez-dga.arc -update . wanez-dga 6
 archivetool ui.arc -update . ui 6
 archivetool XPack.arc -update . XPack 6
 
