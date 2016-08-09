@@ -59,6 +59,7 @@ to find the missing commas
 	no clue on this. gonna leave it till later
 *give credit to kriescher and Arendeth for making my bat files great again
 *add .bat to the updater xagit.bat
+*Hasn't been true, at least, for me since you removed the maps. Your .lua script is borked. (referring to one shot doors for dungeons like sot and boc)
 
 0052 - hotfix 1 for crucible installer only - 2:32 PM 8/9/2016
 *used Arendeth updates to make it work for people including text change to remind people what to / not do
