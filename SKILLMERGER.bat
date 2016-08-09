@@ -1,3 +1,7 @@
+rem CRATE DLC merges
+rem yes this requires you to have unpacked the database into the appropriate dir. i wont be including that in the git uploads
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\survivalmode\database\/" /S *.dbr *.tpl
+
 rem dailFiculties merger.
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\database\/" /S *.dbr *.tpl
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\database\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\database\/" /S *.dbr *.tpl

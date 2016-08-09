@@ -30,7 +30,7 @@ Old Polls:
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
 ^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
 ^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
-^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit  so it shouldn't matter later
+^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit beyond 30 so it shouldn't matter later. also i have templated it up to 99 but only 51 will display
 ^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
 ^reverse spear models
 ^level75+ epics are not RNG properly? or whats the deal?
@@ -39,7 +39,9 @@ Old Polls:
 ^Discord Days: I wanted to propose that you add a new craftable to the game if possible! Aether Clusters!
 ^My game keeps crashing the moment Loghorrean attacks me, tried 3 times and on the third walked in slowly, stood there and when his projectiles hit me I crashed right away, on DAIL48 atm.
 ^add ground cleaner for survival mode
+^camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321
 ^IF YOUR READING THIS I CANT GET THE LAST THREE ULTIMATE SKILLS WORKING ON ENGINEER EVERYTHING IS LINKED RIGHT.  is it another arbitrary limit on the engine??? ! 
+^look into merging the dawn of heroes music files into ambient mix
 ***********************************************************************
 ***********************************************************************
 GREP SEARCH FOR , missing at end of lines in .dbr files
@@ -49,20 +51,41 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
-0052 - ?
+0053 - ?
 *added a new shared spreadsheet for selecting item graphics. link is -> ???
-*Crucible not added or merged
-	this is a good case for having a CLI arz repacker because then i can just pack in my changes into YOUR crucible @ install time
-	http://www.grimdawn.com/forums/showthread.php?p=419600#post419600
-	seems like we cant do a crucible mod per se. but we could do a hard mod maybe. gonna experiment.
-*look into merging the dawn of heroes music files into ambient mix
 *make my .bat files great again
 	http://www.grimdawn.com/forums/showpost.php?p=418859&postcount=2367
 	give credit to kriescher
-*merged in 1.0.0.5 changes
-	comapared 1.0.0.5 against 1.0.0.4HF2
-	took that diff and merged differences to existing DAIL
+*merge in eternal 0967 changes to my changes (damnit)
+*Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
+	no clue on this. gonna leave it till later
 
+0052 - ?
+merged in 1.0.0.5 changes
+	compared 1.0.0.5 against 1.0.0.4HF2
+	925 new/changed files in the database
+	took that diff and merged differences to existing DAIL
+	very few things needed to be changed :D
+check to make sure im not overwriting the skills for masteries 1 to 6 in every DAIL mod folder.
+frost knight 3 skills not  displaying?  - will go back to thread if its displayed but simply not working. anyways.
+DAIL - Survival\database\records\creatures\gods is missing, thats why the gods are insta-death. I compiled your sources with the missing files and survival worked with spawning gods. 
+add Kieran Cooper to credits for naming stuff and as component vendor npc
+DAIL 0052hf2, B mode: either i'm really unlucky or those elusive Merchant Potions still not dropping after 4 hours of intense gameplay((( 
+	your unlucky
+	other people reporting it working just fine
+So I noticed one other thing, I don't have the number in the top left of the DAIL Version.
+*finish the patcher for DAIL-Crucible
+	
+0051 - HOT FIX 2 - 7:19 AM 8/6/2016
+fixed dga for real.... was alot of files i forgot in the patcher
+		
+0051 - HOT FIX 1 - 8:49 PM 8/5/2016
+Crucible merged - separate installer available. will run a patch on 1.0.0.5 files.  ill make a new one each time. you have to "integrity check" the DLC each time.
+	this is a good case for having a CLI arz repacker because then i can just pack in my changes into YOUR crucible @ install time instead of this nasty business im doing now.
+	http://www.grimdawn.com/forums/showthread.php?p=419600#post419600	
+	cant get patch to work will upload it soon i promise ;o
+fixed bug with DGA .arc file missing in NSIS installer
+	
 0051 - 6:49 PM 8/5/2016
 IF YOUR READING THIS I CANT GET THE LAST THREE ULTIMATE SKILLS WORKING ON ENGINEER EVERYTHING IS LINKED RIGHT.  is it another arbitrary limit on the engine??? ! 
 potions drop+work btw. tested in live stream. thanks Samael187 for reminding me to check.
@@ -170,7 +193,7 @@ Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in D
 BUG: When I craft Imbuded Silver I gain a Scavenged Plating instead. I have tried this 3 times and have the same result each time.  are you sure ? i got imbued silver. which version?
 revamped the OP on gd forums quite extensively. it should read better now
 Discord Days: SoT gate closes like in vanilla in 0048 - fixed - re added old script
-THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0051)
+THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0052)
 gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
 What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
 	test this myself in DAIL - get the crash to happen - nah large creatures didnt crash it. need to ask people to send me saved game and then i can try in exactly the same situations

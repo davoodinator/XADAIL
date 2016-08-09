@@ -1,0 +1,1 @@
+call WPatch\DAILcible.bat

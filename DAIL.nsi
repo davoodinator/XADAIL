@@ -234,7 +234,7 @@ Section "Common Files" SEC99
   File /oname=ui.arc ".\DAIL\resources\ui.arc"
   SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
   SetOverwrite on
-  File /oname=wanez.arc ".\DAIL\resources\wanez.arc"
+  File /oname=wanez.arc ".\DAIL - RIFT\resources\wanez.arc"
   SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
   SetOverwrite on
   File /oname=xpack.arc ".\DAIL\resources\xpack.arc"
@@ -330,6 +330,21 @@ Section "Common Files" SEC99
   SetOutPath "$INSTDIR\mods\DAIL - Survival\database\"
   SetOverwrite on
   File ".\DAIL - Survival\database\DAIL - Survival.arz"
+
+  SetOutPath "$INSTDIR\mods\DAIL\resources"
+  SetOverwrite on
+  File /oname=wanez-dga.arc ".\DAIL\resources\wanez-dga.arc"
+  SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
+  SetOverwrite on
+  File /oname=wanez-dga.arc ".\DAIL - RIFT\resources\wanez-dga.arc"
+  SetOutPath "$INSTDIR\mods\DAIL - Survival\resources"
+  SetOverwrite on
+  File /oname=wanez-dga.arc ".\DAIL\resources\wanez-dga.arc"
+
+  SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
+  SetOverwrite on
+  File /oname=wanez-runes.arc ".\DAIL - RIFT\resources\wanez-runes.arc"
+
 
 
 SectionEnd

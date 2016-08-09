@@ -49,7 +49,7 @@ tagDailThentyZShopping0025=^oTrevor Manson the ^wStargazer ^oEmissary of ^wDraon
 tagDailThentyZShopping0026=^oSL AM the ^wPriest ^oEmissary of ^w3Jiou
 tagDailThentyZShopping0027=^oRorschachrev the ^wEngineer ^oEmissary of ^wKoba0100
 tagDailThentyZShopping0028=^oAaron Barton the ^wCenobite ^oEmissary of ^wCFTX
-tagDailThentyZShopping0029=^rPLACEHOLDER the ^wArleqin ^oEmissary of ^wAtrosatiro
+tagDailThentyZShopping0029=^rKieran Cooper the ^wArleqin ^oEmissary of ^wAtrosatiro
 tagDailThentyZShopping0030=^rPLACEHOLDER the ^wElwar ^oEmissary of ^wDiacred
 
 #components

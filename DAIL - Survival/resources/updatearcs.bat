@@ -1,3 +1,4 @@
+archivetool Custom.arc -update . Custom 6
 archivetool Creatures.arc -update . Creatures 6
 archivetool Effects.arc -update . Effects 6
 archivetool XPack.arc -update . XPack 6
