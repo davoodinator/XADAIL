@@ -147,5 +147,5 @@ copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILm
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - ASX\database\records\proxies\proxypoolequation_01.dbr" /y
 
 rem grab the tiny spiders from AS
-robocopy "%BATCH_DIR%DAILmain - AS\database\records\creatures" "%BATCH_DIR%DAILmain - AX\database\records\creatures" /S /NFL /NDL *spider*.dbr
-robocopy "%BATCH_DIR%DAILmain - AS\database\records\creatures" "%BATCH_DIR%DAILmain - ASX\database\records\creatures" /S /NFL /NDL *spider*.dbr
+robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - AX\database\records\creatures" /S /NFL /NDL *spider*.dbr
+robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - ASX\database\records\creatures" /S /NFL /NDL *spider*.dbr
