@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/nonplayerskills/godskills/raznar_mark_buff.dbr,
+pointBlank,,

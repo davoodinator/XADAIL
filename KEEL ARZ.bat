@@ -10,6 +10,7 @@ del ".\DAILmain - NG\database\DAILmain - NG.arz"
 del ".\DAILmain - AB\database\DAILmain - AB.arz"
 del ".\DAILmain - AX\database\DAILmain - AX.arz"
 del ".\DAILmain - X\database\DAILmain - X.arz"
+del ".\DAILmain - SX\database\DAILmain - SX.arz"
 
 rem keel skareepetz
 rem del ".\DAIL\resources\scripts.arc"

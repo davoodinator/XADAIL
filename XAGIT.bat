@@ -1,3 +1,6 @@
+rem prep the root - mirror the root - ignore the subdirs when mirroring
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\/" *.bat *.txt *.nsi README /MIR /xd *.*
+
 rem copy soft mods
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL - RIFT\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAIL - RIFT\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
@@ -12,8 +15,6 @@ robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\/" 
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - X\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - SX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - ASX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-rem no longer needed. base version of DAIL is NG
-rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - NG\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - NG\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - A NG\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 
 rem copy hard mod backup for "uninstalling"
@@ -24,11 +25,4 @@ copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\VanillaBak\VanillaBak.7z" "f:\SH
 rem copy the Grim Quest and TEXT_EN merger files
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmergeGQ\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmergeGQ\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\dailFICULTIES\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\dailFICULTIES\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-
-rem copy individual files
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.nsi" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\*.bat" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\README" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\changelog.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
-copy "f:\SHTEEM\steamapps\common\Grim Dawn\mods\DAIL BUILD INSTRUCTIONS.txt" "f:\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\" /y
-rem pause
+robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\survivalmode\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\survivalmode\/" /NDL /NFL /MIR /S /XO *.bat

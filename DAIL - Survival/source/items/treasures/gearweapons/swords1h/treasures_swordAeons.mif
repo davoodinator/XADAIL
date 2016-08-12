@@ -1,0 +1,37 @@
+AttachPoint
+{
+name = "Anchor2"
+origin = (-0.062149, -0.003161, -0.165337)
+xAxis = (0.023299, -0.999729, 0.000000)
+yAxis = (0.999729, 0.023299, 0.000000)
+zAxis = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+name = "Anchor1"
+origin = (-0.076048, 0.000901, -1.358806)
+xAxis = (0.070657, -0.997501, 0.000000)
+yAxis = (0.997501, 0.070657, 0.000000)
+zAxis = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+name = "BladePFX"
+origin = (-0.008883, 0.008458, -0.165337)
+xAxis = (-0.006913, -3.599976, 0.000000)
+yAxis = (0.008398, -0.000058, -0.999965)
+zAxis = (0.999941, -0.006913, 0.008398)
+}
+AttachPoint
+{
+name = "EnchantPFX"
+origin = (-0.008883, 0.008458, -0.165337)
+xAxis = (-0.006913, -3.599976, 0.000000)
+yAxis = (0.008398, -0.000058, -0.999965)
+zAxis = (0.999941, -0.006913, 0.008398)
+}
+CreateEntity
+{
+attach = "BladePFX"
+entity = "Records\treasures\fx\itemfx\magicalfx\swordaeons_fx.dbr"
+}

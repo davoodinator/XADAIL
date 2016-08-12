@@ -42,7 +42,10 @@ Old Polls:
 ^camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321
 ^IF YOUR READING THIS I CANT GET THE LAST THREE ULTIMATE SKILLS WORKING ON ENGINEER EVERYTHING IS LINKED RIGHT.  is it another arbitrary limit on the engine??? ! 
 ^look into merging the dawn of heroes music files into ambient mix
+^Door to survival arena in multiplayer can not be gone through except by host others get stuck on invisible wall. This was on version 0050 
 ***********************************************************************
+Some notes:
+http://www.grimdawn.com/forums/showpost.php?p=421510&postcount=2520 how to hack .exe > 2gb memory
 ***********************************************************************
 GREP SEARCH FOR , missing at end of lines in .dbr files
 to find the commas 
@@ -52,17 +55,41 @@ to find the missing commas
 ***********************************************************************
 ***********************************************************************
 0053 - ?
-*contemplate buum.7z + dail-cruzible.7z and the changes thereign
-*added a new shared spreadsheet for selecting item graphics. link is -> ???
-*merge in eternal 0967 changes to my changes (damnit)
+review these errors -> https://www.dropbox.com/s/da9vbgrs283jf5b/grimstash%20error%20log.txt?dl=0
+	gonna just ignore those errors for now. i found all the files and tags np
+merge in eternal 0967 changes to my changes (damnit)  I made custom directories for all of his stuff so that factions and other stuff wouldnt break by playing the mod.. anyways np must use the power of the REGEX
+	start by isolating the changes from 966 to 967
+	was a mess but its done. well see how it goes.
+added a new shared spreadsheet for selecting item graphics. link is -> ??? https://docs.google.com/spreadsheets/d/13WEswVGamETKAVfI1xBPGSsQlOJCeNWWLlEP5rxRayM/edit?usp=sharing
+Im getting a weird bug where the mastery icon of Engineer, all the skill icons of Terror Knight and Elementalist are 1/4 the size of normal. I had this issue in DAIL51 HF2 as well.
+	no its fine. its a little bit of trickyness to get 51 masteries to appear in mastery selection. unfortunately the windows are shared.
+Originally Posted by yestoanime View Post
+	so while just playing the game i got to tyrants hold and found a tomb stone with a health bar..
+	In Memory of:Gogo the Chaotic Mellon, lost in the service of Cairn
+	is that default to the game or added very randomly by a mod?
+	found it -> http://www.grimdawn.com/forums/showthread.php?p=422356#post422356
+My Cadence skill still has the %weap damage from before the patch, not the upgraded one like in main campain :/ 
+	seems to be fixed now.. rebuilt all of hte .arz files from a delete to be sure.
+If you select Illusionist, it will say ranger instead but the skill tree is fine.
 *Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
 	no clue on this. gonna leave it till later
-*give credit to kriescher and Arendeth for making my bat files great again
-*add .bat to the updater xagit.bat
-*Hasn't been true, at least, for me since you removed the maps. Your .lua script is borked. (referring to one shot doors for dungeons like sot and boc)
+add .bat to the updater xagit.bat
+cleaned up xagit.bat quite a bit
+Hasn't been true, at least, for me since you removed the maps. Your .lua script is borked. (referring to one shot doors for dungeons like sot and boc)
+	think i fixed it. removed the need to kill the door boss - dont have time to test
+*Skill Elementalist call "Ice Wall " put point but not change. 
+*BTW Frost Knight is still messed up, lines going out to an empty spot where there should be a skill, Howling Wind placed as if it requires 50 points in the mastery when it needs 32, and Priest is still lacking the pet summon it's supposed to have. I think your pick and choose merging of Dawn of Heroes isn't really working out. 
+*DAIL version number doesn't show up.
+*Also getting an issue where the modded music isnt playing in devil's crossing. I switched back to DAIL51 and it worked again 
+	likely i need to move the files to \mod\ from teh root music folder. np
+*potions are not dropping for people. FML TEST IT MOFO. change everything to 25% chance for potion add more potion npcs (x2) and remove the .bak replacer for SX/X modes.
+*give credit to kriescher and Arendeth for making my .bat files great again
+*update CFTX to 0.60
+*update loss treasures to 0.2
 
 0052 - hotfix 1 for crucible installer only - 2:32 PM 8/9/2016
-*used Arendeth updates to make it work for people including text change to remind people what to / not do
+used Arendeth updates to make it work for people including text change to remind people what to / not do
+	contemplate buum.7z + dail-cruzible.7z and the changes thereign
 
 0052 - 9:16 PM 8/8/2016
 make my .bat files great again
@@ -77,7 +104,7 @@ check to make sure im not overwriting the skills for masteries 1 to 6 in every D
 frost knight 3 skills not  displaying?  - will go back to thread if its displayed but simply not working. anyways.
 DAIL - Survival\database\records\creatures\gods is missing, thats why the gods are insta-death. I compiled your sources with the missing files and survival worked with spawning gods. 
 add Kieran Cooper to credits for naming stuff and as component vendor npc
-DAIL 0052hf2, B mode: either i'm really unlucky or those elusive Merchant Potions still not dropping after 4 hours of intense gameplay((( 
+DAIL-0051hf2, B mode: either i'm really unlucky or those elusive Merchant Potions still not dropping after 4 hours of intense gameplay((( 
 	your unlucky
 	other people reporting it working just fine
 So I noticed one other thing, I don't have the number in the top left of the DAIL Version.
@@ -200,7 +227,7 @@ Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in D
 BUG: When I craft Imbuded Silver I gain a Scavenged Plating instead. I have tried this 3 times and have the same result each time.  are you sure ? i got imbued silver. which version?
 revamped the OP on gd forums quite extensively. it should read better now
 Discord Days: SoT gate closes like in vanilla in 0048 - fixed - re added old script
-THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0052)
+THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049 )
 gameengine.dbr loot quality increase for X/AX/SX/ASX MODE DO EEET
 What happens;  I run into a pack pop Ice Citadel and let my maxed out Stormcall/Thunderclap + Devotion - Flame Torrent, melt the enemies down.  It seems to only crash when larger-sized enemies are engaged with me, or massive amounts of mobs.  Happened in the Necropolis, as well as the Boss troll guy(s) in Eastern Marsh.
 	test this myself in DAIL - get the crash to happen - nah large creatures didnt crash it. need to ask people to send me saved game and then i can try in exactly the same situations

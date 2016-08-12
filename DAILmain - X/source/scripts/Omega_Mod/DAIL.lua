@@ -10,7 +10,7 @@ dail.summon = {}
 function callDAILonherodeath()
 	math.randomseed(Time.Now());
 	local DAILpop = math.random(1, 100000);
-	--25% chance
+	--5% chance
 	if DAILpop < 25000 then
 		UI.Notify("DAIL_AETHERIAL_POP");
 		local player = Game.GetLocalPlayer();
@@ -58,7 +58,7 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/dailfactionsummon0002.dbr',
 		'DAIL/items/summon/dailfactionsummon0003.dbr'
 	};
-	math.randomseed(Time.Now());
+--	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrITEM));
 	local randITEM = math.random(1, 33);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
@@ -91,6 +91,7 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0013.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0014.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0015.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0013.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0016.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0017.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0018.dbr',
@@ -109,7 +110,7 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/npcs/khalanos.dbr',
 		'DAIL/creatures/npcs/npcs/hardy.dbr'
 	};
-	math.randomseed(Time.Now());
+--	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrNPC));
 	local randNPC = math.random(1, 33);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);
