@@ -77,11 +77,17 @@ add .bat to the updater xagit.bat
 cleaned up xagit.bat quite a bit
 Hasn't been true, at least, for me since you removed the maps. Your .lua script is borked. (referring to one shot doors for dungeons like sot and boc)
 	think i fixed it. removed the need to kill the door boss - dont have time to test
-*Skill Elementalist call "Ice Wall " put point but not change. 
-*BTW Frost Knight is still messed up, lines going out to an empty spot where there should be a skill, Howling Wind placed as if it requires 50 points in the mastery when it needs 32, and Priest is still lacking the pet summon it's supposed to have. I think your pick and choose merging of Dawn of Heroes isn't really working out. 
-*DAIL version number doesn't show up.
-*Also getting an issue where the modded music isnt playing in devil's crossing. I switched back to DAIL51 and it worked again 
+more repository scrubbing completed. less garbage and more flavour should be available now
+BTW Frost Knight is still messed up, lines going out to an empty spot where there should be a skill, Howling Wind placed as if it requires 50 points in the mastery when it needs 32, and Priest is still lacking the pet summon it's supposed to have. I think your pick and choose merging of Dawn of Heroes isn't really working out. 
+	it is fixed along some other bugs too i found ;o
+Skill Elementalist call "Ice Wall " put point but not change. 
+	updated to zenit 0.2c 
+	checked zenith itself.
+	this is a zenith problem. not dail
+Also getting an issue where the modded music isnt playing in devil's crossing. I switched back to DAIL51 and it worked again 
 	likely i need to move the files to \mod\ from teh root music folder. np
+	fixed. \sound\ was bad  \sound\mod\ was good. shrug this includes changing the paths back int he dbr files.
+*DAIL version number doesn't show up.
 *potions are not dropping for people. FML TEST IT MOFO. change everything to 25% chance for potion add more potion npcs (x2) and remove the .bak replacer for SX/X modes.
 *give credit to kriescher and Arendeth for making my .bat files great again
 *update CFTX to 0.60

@@ -162,7 +162,7 @@ function gd.quests.homesteadStepsOfTormentBosses.epicDoorOnInteract(objectId, us
 	if (door != nil) then
 		
 --		if player:HasItem("records/items/crafting/materials/craft_skeletonkey.dbr", 1, false) && doorPermaLocked == false && doorBossDead == true then
-		if player:HasItem("records/items/crafting/materials/craft_skeletonkey.dbr", 1, false) && doorBossDead == true then
+		if player:HasItem("records/items/crafting/materials/craft_skeletonkey.dbr", 1, false) then
 		
 			-- Mark the door as locked permanently for all players
 --			doorPermaLocked = true
