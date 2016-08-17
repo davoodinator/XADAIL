@@ -132,6 +132,8 @@ rem grab the limit_unlimited.dbr from S mode
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - SX\database\records\proxies\proxypoolequation_01.dbr" /y
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - ASX\database\records\proxies\proxypoolequation_01.dbr" /y
 
-rem grab the tiny spiders from AS
+rem grab the tiny spiders from A and shove into appropriate mods
 robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - AX\database\records\creatures" /S /NFL /NDL *spider/IF *.dbr
 robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - ASX\database\records\creatures" /S /NFL /NDL *spider/IF *.dbr
+robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - AB\database\records\creatures" /S /NFL /NDL *spider/IF *.dbr
+robocopy "%BATCH_DIR%DAILmain - A\database\records\creatures" "%BATCH_DIR%DAILmain - A NG\database\records\creatures" /S /NFL /NDL *spider/IF *.dbr

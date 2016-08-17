@@ -1,3 +1,0 @@
-templateName,database/templates/proxylevelvarianceequation.tpl,
-maxVarianceEquationNormal,(averagePlayerLevel/10)+(averagePlayerLevel+1)+(averagePlayerLevel/90),
-minVarianceEquationNormal,(averagePlayerLevel/10)+(averagePlayerLevel),

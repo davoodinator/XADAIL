@@ -1,6 +1,0 @@
-templateName,database/templates/skillsecondary_petmodifier.tpl,
-ActorName,,
-Class,SkillSecondary_PetModifier,
-FileDescription,,
-petSkillName,records/skills/playerclass15/pets/petskill_changeling_detonate.dbr,
-petChanges,,

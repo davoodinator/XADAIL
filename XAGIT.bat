@@ -10,12 +10,12 @@ rem copy hard mods
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - S\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - S\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - A\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - B\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - B\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - AB\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - AX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AB\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - AB\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - AX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - AX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - X\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - X\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - SX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - ASX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - A NG\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - SX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - SX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - ASX\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - ASX\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+rem robocopy /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\DAILmain - A NG\/" /"\localhost\f\SHTEEM\steamapps\common\Grim Dawn\mods\XADAIL\DAILmain - A NG\/" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 
 rem copy hard mod backup for "uninstalling"
 rem removed the line because .arz files are >50 megs and github was complaining.. just in case the .arz files get even larger.....

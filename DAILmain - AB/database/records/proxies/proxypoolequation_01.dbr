@@ -1,8 +1,0 @@
-templateName,database/templates/proxypoolequation.tpl,
-ActorName,,
-Class,,
-FileDescription,,
-spawnMinEquation,poolValue,
-spawnMaxEquation,poolValue,
-championMinEquation,poolValue,
-championMaxEquation,poolValue * 2,

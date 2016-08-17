@@ -1,6 +1,0 @@
-templateName,database/templates/skillsecondary_petmodifier.tpl,
-ActorName,,
-Class,SkillSecondary_PetModifier,
-FileDescription,,
-petSkillName,records/skills/enchanter/pets/sigil_discord.dbr,
-petChanges,,

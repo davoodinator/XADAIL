@@ -551,8 +551,8 @@ tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymou
 tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
 tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
 tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
-tagWorking=Working...tagRDifficultyTitle01=Normal(AX 0053) 
-tagChallengeDifficulty=Veteran(AX 0053) 
-tagRDifficultyTitle02=Elite(AX 0053) 
-tagRDifficultyTitle03=Ultimate(AX 0053) 
-tagHardcore=Hardcore(AX 0053) 
+tagWorking=Working...tagRDifficultyTitle01=Normal(AX 0054) 
+tagChallengeDifficulty=Veteran(AX 0054) 
+tagRDifficultyTitle02=Elite(AX 0054) 
+tagRDifficultyTitle03=Ultimate(AX 0054) 
+tagHardcore=Hardcore(AX 0054) 
