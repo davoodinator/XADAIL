@@ -9,9 +9,12 @@ dail.summon = {}
 --DAIL START
 function callDAILonherodeath()
 	math.randomseed(Time.Now());
+
 	local DAILpop = math.random(1, 100000);
+
+	--	UI.Notify("we made it into this function"); -- test this shit. does it work or not. 
 	--5% chance
-	if DAILpop < 25000 then
+	if DAILpop < 35000 then
 		UI.Notify("DAIL_AETHERIAL_POP");
 		local player = Game.GetLocalPlayer();
 		player:GiveItem('DAIL/items/summon/dailRNGpot.dbr', 1, true);
@@ -56,11 +59,41 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/cratebox.dbr',
 		'DAIL/items/summon/dailfactionsummon0001.dbr',
 		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
+		'DAIL/items/summon/dailfactionsummon0003.dbr',
+		'DAIL/items/summon/dailfactionsummon0001.dbr',
+		'DAIL/items/summon/dailfactionsummon0002.dbr',
 		'DAIL/items/summon/dailfactionsummon0003.dbr'
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrITEM));
-	local randITEM = math.random(1, 33);
+	local randITEM = math.random(1, 63);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
 	player:GiveItem(dbrITEM[randITEM], 1, true);
 
@@ -108,11 +141,43 @@ function dail.scripts.spawndailnpcs()
 		'records/creatures/npcs/merchants/transmogsmith.dbr',
 		'DAIL/creatures/npcs/npcs/davood.dbr',
 		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
+		'DAIL/creatures/npcs/npcs/hardy.dbr',
+		'records/creatures/npcs/merchants/transmogsmith.dbr',
+		'DAIL/creatures/npcs/npcs/davood.dbr',
+		'DAIL/creatures/npcs/npcs/khalanos.dbr',
 		'DAIL/creatures/npcs/npcs/hardy.dbr'
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrNPC));
-	local randNPC = math.random(1, 33);
+	local randNPC = math.random(1, 65);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);
 --	local playerCoords = Game.GetLocalPlayer():GetCoords();
 --	newNPC:SetCoords(playerCoords);

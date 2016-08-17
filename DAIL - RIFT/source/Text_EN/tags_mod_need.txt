@@ -3065,15 +3065,14 @@ tagClass07SkillDescription13B=Summons a Bone Prison to trap your enemies.
 
 tagSkillClassDescription12=Traditionally, Elementalists were persons of entertainment in Elonis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
 
-#Class12
+
 #Class13
-tagSkillClassDescription13=Hailing from the Obsidian Forests of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
 
 tagClass13SkillName00A=Terror Knight
 tagClass13SkillDescription00A=A vanguard of chaos and carnage.
 
 tagClass13SkillName01A=Banish
-tagClass13SkillDescription01A=Smash your foe out of this life and into the next one.
+tagClass13SkillDescription01A=Smash your foe out of this life and into the next one. ^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
 tagClass13SkillName01B=Blood Rage
 tagClass13SkillDescription01B=Push yourself past your limits to crush your opponent beneath insurmountable power.
 tagClass13SkillName01C=Smite
@@ -3125,12 +3124,11 @@ tagClass13SkillName10A=Entropic Reign
 tagClass13SkillDescription10A=Your foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
 
 #Class12
-
 tagClass12SkillName00A=Elementalist
 tagClass12SkillDescription00A=Tricks of the trade for conjuration and sorcery.
 
 tagClass12SkillName01A=Ice Wall
-tagClass12SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies.
+tagClass12SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies. {^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
 
 tagClass12SkillName02A=Fireball
 tagClass12SkillDescription02A=Hurl a conglomeration of molten rock toward your enemies.
@@ -3180,7 +3178,7 @@ tagClass12SkillName12B=Fire Pillar
 tagClass12SkillDescription12B=Scorching flames rocket out of the earth.
 
 tagClass12SkillName13A=Citadel of Ice
-tagClass12SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses.
+tagClass12SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses. ^oThis skill immobilizes you for its duration. It will also end prematurely if you run out of Energy.
 
 tagClass12SkillName14A=Fire Affinity
 tagClass12SkillDescription14A=Flames can breathe new life into your being or scorch your enemies to cinder.

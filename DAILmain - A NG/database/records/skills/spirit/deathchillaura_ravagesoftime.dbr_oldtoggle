@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,SpiritMastery_LifeLeech,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records/skills/spirit/deathchillaura_ravagesoftimebuff.dbr,
+instantCast,,
+fileNameHistoryEntry,mods/grim quest/records/skills/spirit/deathchillaura_ravagesoftime.dbr,

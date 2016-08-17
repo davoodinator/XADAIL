@@ -54,12 +54,24 @@ to find the missing commas
 .[^, \n]$
 ***********************************************************************
 ***********************************************************************
-0053 - ?
+0054 - ?
+*removed extra dirs that are generated at build time - removed from git that is
+*blow away the loot drops tables that conflict with grim quest
+	add back non replacing vanilla tables
+	manually grep in the legendary / epic affixes
+	winning @ life & grim dawn
+*give credit to kriescher and Arendeth for making my .bat files great again
+*update CFTX to 0.60
+*update loss treasures to 0.2
+*Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
+	no clue on this. gonna leave it till later
+*make fully self generating DAIL module folders
+*udpate uninstall option to include 1.0.0.5 path data for text_en
+*update DGA to 0.5
+
+0053 - 1:12 PM 8/17/2016
 review these errors -> https://www.dropbox.com/s/da9vbgrs283jf5b/grimstash%20error%20log.txt?dl=0
 	gonna just ignore those errors for now. i found all the files and tags np
-merge in eternal 0967 changes to my changes (damnit)  I made custom directories for all of his stuff so that factions and other stuff wouldnt break by playing the mod.. anyways np must use the power of the REGEX
-	start by isolating the changes from 966 to 967
-	was a mess but its done. well see how it goes.
 added a new shared spreadsheet for selecting item graphics. link is -> ??? https://docs.google.com/spreadsheets/d/13WEswVGamETKAVfI1xBPGSsQlOJCeNWWLlEP5rxRayM/edit?usp=sharing
 Im getting a weird bug where the mastery icon of Engineer, all the skill icons of Terror Knight and Elementalist are 1/4 the size of normal. I had this issue in DAIL51 HF2 as well.
 	no its fine. its a little bit of trickyness to get 51 masteries to appear in mastery selection. unfortunately the windows are shared.
@@ -71,8 +83,6 @@ Originally Posted by yestoanime View Post
 My Cadence skill still has the %weap damage from before the patch, not the upgraded one like in main campain :/ 
 	seems to be fixed now.. rebuilt all of hte .arz files from a delete to be sure.
 If you select Illusionist, it will say ranger instead but the skill tree is fine.
-*Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
-	no clue on this. gonna leave it till later
 add .bat to the updater xagit.bat
 cleaned up xagit.bat quite a bit
 Hasn't been true, at least, for me since you removed the maps. Your .lua script is borked. (referring to one shot doors for dungeons like sot and boc)
@@ -84,14 +94,19 @@ Skill Elementalist call "Ice Wall " put point but not change.
 	updated to zenit 0.2c 
 	checked zenith itself.
 	this is a zenith problem. not dail
+	seems that something changse in the files but the display never changes.. updated the skill description to the latest version
 Also getting an issue where the modded music isnt playing in devil's crossing. I switched back to DAIL51 and it worked again 
 	likely i need to move the files to \mod\ from teh root music folder. np
 	fixed. \sound\ was bad  \sound\mod\ was good. shrug this includes changing the paths back int he dbr files.
-*DAIL version number doesn't show up.
-*potions are not dropping for people. FML TEST IT MOFO. change everything to 25% chance for potion add more potion npcs (x2) and remove the .bak replacer for SX/X modes.
-*give credit to kriescher and Arendeth for making my .bat files great again
-*update CFTX to 0.60
-*update loss treasures to 0.2
+DAIL version number doesn't show up.
+	it does show up ;o
+potions are not dropping for people. FML TEST IT MOFO. change everything to 25% chance for potion add more potion npcs (x2) and remove the .bak replacer for SX/X modes.
+	ok i killed a bunch 5% is too low. increasing to 35% across the board.
+	added non component npcs to compensate for easy potion drops
+merge in eternal 0967 changes to my changes (damnit)  I made custom directories for all of his stuff so that factions and other stuff wouldnt break by playing the mod.. anyways np must use the power of the REGEX
+	start by isolating the changes from 966 to 967
+	was a mess but its done. well see how it goes.
+text files deleted - fixed
 
 0052 - hotfix 1 for crucible installer only - 2:32 PM 8/9/2016
 used Arendeth updates to make it work for people including text change to remind people what to / not do

@@ -1,0 +1,700 @@
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier1.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier2.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier3.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier4.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier5.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier6.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier7.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier8.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier9.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier10.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier11.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier12.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier13.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier14.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier15.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier16.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier17.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier18.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier19.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier20.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier21.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier22.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier23.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier24.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier25.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier26.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier27.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier28.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier29.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier30.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier31.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier32.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier33.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier34.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier35.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier36.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier37.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier38.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier39.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier40.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier41.dbr /y
+copy ./items/dail_base.dbr ./items/materia/class0001/Soldier42.dbr /y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier1.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier2.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier3.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier4.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier5.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier6.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier7.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier8.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier9.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier10.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier11.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier12.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier13.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier14.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier15.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier16.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier17.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier18.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier19.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier20.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier21.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier22.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier23.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier24.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier25.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier26.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier27.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier28.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier29.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier30.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier31.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier32.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier33.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier34.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier35.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier36.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier37.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier38.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier39.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier40.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier41.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier1.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier2.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier3.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier4.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier5.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier6.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier7.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier8.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier9.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier10.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier11.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier12.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier13.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier14.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier15.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier16.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier17.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier18.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier19.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier20.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier21.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier22.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier23.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier24.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier25.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier26.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier27.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier28.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier29.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier30.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier31.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier32.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier33.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier34.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier35.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier36.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier37.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier38.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier39.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier40.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier41.dbr
+echo shardBitmap,items/craftingparts/components/component_a52_bristlyfur_a.tex, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemCost,100000, >> ./items/materia/class0001/Soldier1.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier2.dbr
+echo itemCost,600000, >> ./items/materia/class0001/Soldier3.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier4.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier5.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier6.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier7.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier8.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier9.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier10.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier11.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier12.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier13.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier14.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier15.dbr
+echo itemCost,100000, >> ./items/materia/class0001/Soldier16.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier17.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier18.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier19.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier20.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier21.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier22.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier23.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier24.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier25.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier26.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier27.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier28.dbr
+echo itemCost,300000, >> ./items/materia/class0001/Soldier29.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier30.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier31.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier32.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier33.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier34.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier35.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier36.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier37.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier38.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier39.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier40.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier41.dbr
+echo itemCost,500000, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo description,dailCompDescSoldier1, >> ./items/materia/class0001/Soldier1.dbr
+echo description,dailCompDescSoldier2, >> ./items/materia/class0001/Soldier2.dbr
+echo description,dailCompDescSoldier3, >> ./items/materia/class0001/Soldier3.dbr
+echo description,dailCompDescSoldier4, >> ./items/materia/class0001/Soldier4.dbr
+echo description,dailCompDescSoldier5, >> ./items/materia/class0001/Soldier5.dbr
+echo description,dailCompDescSoldier6, >> ./items/materia/class0001/Soldier6.dbr
+echo description,dailCompDescSoldier7, >> ./items/materia/class0001/Soldier7.dbr
+echo description,dailCompDescSoldier8, >> ./items/materia/class0001/Soldier8.dbr
+echo description,dailCompDescSoldier9, >> ./items/materia/class0001/Soldier9.dbr
+echo description,dailCompDescSoldier10, >> ./items/materia/class0001/Soldier10.dbr
+echo description,dailCompDescSoldier11, >> ./items/materia/class0001/Soldier11.dbr
+echo description,dailCompDescSoldier12, >> ./items/materia/class0001/Soldier12.dbr
+echo description,dailCompDescSoldier13, >> ./items/materia/class0001/Soldier13.dbr
+echo description,dailCompDescSoldier14, >> ./items/materia/class0001/Soldier14.dbr
+echo description,dailCompDescSoldier15, >> ./items/materia/class0001/Soldier15.dbr
+echo description,dailCompDescSoldier16, >> ./items/materia/class0001/Soldier16.dbr
+echo description,dailCompDescSoldier17, >> ./items/materia/class0001/Soldier17.dbr
+echo description,dailCompDescSoldier18, >> ./items/materia/class0001/Soldier18.dbr
+echo description,dailCompDescSoldier19, >> ./items/materia/class0001/Soldier19.dbr
+echo description,dailCompDescSoldier20, >> ./items/materia/class0001/Soldier20.dbr
+echo description,dailCompDescSoldier21, >> ./items/materia/class0001/Soldier21.dbr
+echo description,dailCompDescSoldier22, >> ./items/materia/class0001/Soldier22.dbr
+echo description,dailCompDescSoldier23, >> ./items/materia/class0001/Soldier23.dbr
+echo description,dailCompDescSoldier24, >> ./items/materia/class0001/Soldier24.dbr
+echo description,dailCompDescSoldier25, >> ./items/materia/class0001/Soldier25.dbr
+echo description,dailCompDescSoldier26, >> ./items/materia/class0001/Soldier26.dbr
+echo description,dailCompDescSoldier27, >> ./items/materia/class0001/Soldier27.dbr
+echo description,dailCompDescSoldier28, >> ./items/materia/class0001/Soldier28.dbr
+echo description,dailCompDescSoldier29, >> ./items/materia/class0001/Soldier29.dbr
+echo description,dailCompDescSoldier30, >> ./items/materia/class0001/Soldier30.dbr
+echo description,dailCompDescSoldier31, >> ./items/materia/class0001/Soldier31.dbr
+echo description,dailCompDescSoldier32, >> ./items/materia/class0001/Soldier32.dbr
+echo description,dailCompDescSoldier33, >> ./items/materia/class0001/Soldier33.dbr
+echo description,dailCompDescSoldier34, >> ./items/materia/class0001/Soldier34.dbr
+echo description,dailCompDescSoldier35, >> ./items/materia/class0001/Soldier35.dbr
+echo description,dailCompDescSoldier36, >> ./items/materia/class0001/Soldier36.dbr
+echo description,dailCompDescSoldier37, >> ./items/materia/class0001/Soldier37.dbr
+echo description,dailCompDescSoldier38, >> ./items/materia/class0001/Soldier38.dbr
+echo description,dailCompDescSoldier39, >> ./items/materia/class0001/Soldier39.dbr
+echo description,dailCompDescSoldier40, >> ./items/materia/class0001/Soldier40.dbr
+echo description,dailCompDescSoldier41, >> ./items/materia/class0001/Soldier41.dbr
+echo description,dailCompDescSoldier42, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo itemText,dailCompTextSoldier1, >> ./items/materia/class0001/Soldier1.dbr
+echo itemText,dailCompTextSoldier2, >> ./items/materia/class0001/Soldier2.dbr
+echo itemText,dailCompTextSoldier3, >> ./items/materia/class0001/Soldier3.dbr
+echo itemText,dailCompTextSoldier4, >> ./items/materia/class0001/Soldier4.dbr
+echo itemText,dailCompTextSoldier5, >> ./items/materia/class0001/Soldier5.dbr
+echo itemText,dailCompTextSoldier6, >> ./items/materia/class0001/Soldier6.dbr
+echo itemText,dailCompTextSoldier7, >> ./items/materia/class0001/Soldier7.dbr
+echo itemText,dailCompTextSoldier8, >> ./items/materia/class0001/Soldier8.dbr
+echo itemText,dailCompTextSoldier9, >> ./items/materia/class0001/Soldier9.dbr
+echo itemText,dailCompTextSoldier10, >> ./items/materia/class0001/Soldier10.dbr
+echo itemText,dailCompTextSoldier11, >> ./items/materia/class0001/Soldier11.dbr
+echo itemText,dailCompTextSoldier12, >> ./items/materia/class0001/Soldier12.dbr
+echo itemText,dailCompTextSoldier13, >> ./items/materia/class0001/Soldier13.dbr
+echo itemText,dailCompTextSoldier14, >> ./items/materia/class0001/Soldier14.dbr
+echo itemText,dailCompTextSoldier15, >> ./items/materia/class0001/Soldier15.dbr
+echo itemText,dailCompTextSoldier16, >> ./items/materia/class0001/Soldier16.dbr
+echo itemText,dailCompTextSoldier17, >> ./items/materia/class0001/Soldier17.dbr
+echo itemText,dailCompTextSoldier18, >> ./items/materia/class0001/Soldier18.dbr
+echo itemText,dailCompTextSoldier19, >> ./items/materia/class0001/Soldier19.dbr
+echo itemText,dailCompTextSoldier20, >> ./items/materia/class0001/Soldier20.dbr
+echo itemText,dailCompTextSoldier21, >> ./items/materia/class0001/Soldier21.dbr
+echo itemText,dailCompTextSoldier22, >> ./items/materia/class0001/Soldier22.dbr
+echo itemText,dailCompTextSoldier23, >> ./items/materia/class0001/Soldier23.dbr
+echo itemText,dailCompTextSoldier24, >> ./items/materia/class0001/Soldier24.dbr
+echo itemText,dailCompTextSoldier25, >> ./items/materia/class0001/Soldier25.dbr
+echo itemText,dailCompTextSoldier26, >> ./items/materia/class0001/Soldier26.dbr
+echo itemText,dailCompTextSoldier27, >> ./items/materia/class0001/Soldier27.dbr
+echo itemText,dailCompTextSoldier28, >> ./items/materia/class0001/Soldier28.dbr
+echo itemText,dailCompTextSoldier29, >> ./items/materia/class0001/Soldier29.dbr
+echo itemText,dailCompTextSoldier30, >> ./items/materia/class0001/Soldier30.dbr
+echo itemText,dailCompTextSoldier31, >> ./items/materia/class0001/Soldier31.dbr
+echo itemText,dailCompTextSoldier32, >> ./items/materia/class0001/Soldier32.dbr
+echo itemText,dailCompTextSoldier33, >> ./items/materia/class0001/Soldier33.dbr
+echo itemText,dailCompTextSoldier34, >> ./items/materia/class0001/Soldier34.dbr
+echo itemText,dailCompTextSoldier35, >> ./items/materia/class0001/Soldier35.dbr
+echo itemText,dailCompTextSoldier36, >> ./items/materia/class0001/Soldier36.dbr
+echo itemText,dailCompTextSoldier37, >> ./items/materia/class0001/Soldier37.dbr
+echo itemText,dailCompTextSoldier38, >> ./items/materia/class0001/Soldier38.dbr
+echo itemText,dailCompTextSoldier39, >> ./items/materia/class0001/Soldier39.dbr
+echo itemText,dailCompTextSoldier40, >> ./items/materia/class0001/Soldier40.dbr
+echo itemText,dailCompTextSoldier41, >> ./items/materia/class0001/Soldier41.dbr
+echo itemText,dailCompTextSoldier42, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo augmentMasteryLevel1,1, >> ./items/materia/class0001/Soldier1.dbr
+echo augmentMasteryLevel1,2, >> ./items/materia/class0001/Soldier2.dbr
+echo augmentMasteryLevel1,3, >> ./items/materia/class0001/Soldier3.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier4.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier5.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier6.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier7.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier8.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier9.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier10.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier11.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier12.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier13.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier14.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier15.dbr
+echo augmentSkillLevel1,1, >> ./items/materia/class0001/Soldier16.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier17.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier18.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier19.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier20.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier21.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier22.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier23.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier24.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier25.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier26.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier27.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier28.dbr
+echo augmentSkillLevel1,3, >> ./items/materia/class0001/Soldier29.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier30.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier31.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier32.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier33.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier34.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier35.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier36.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier37.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier38.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier39.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier40.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier41.dbr
+echo augmentSkillLevel1,5, >> ./items/materia/class0001/Soldier42.dbr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

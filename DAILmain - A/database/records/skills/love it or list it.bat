@@ -1,0 +1,1 @@
+dir /w /b /s > fuck.txt

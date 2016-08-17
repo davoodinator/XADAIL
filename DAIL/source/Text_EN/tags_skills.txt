@@ -1,6 +1,4 @@
 #PH TAGS
-tagSkillClassDescription14=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription15=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oKIR4 ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription25=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDraonCC ^wto merge a known good working copy of this mastery into DAIL.
 tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDiacred ^wto merge a known good working copy of this mastery into DAIL.
 #seriously...
