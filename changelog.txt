@@ -64,7 +64,21 @@ to find the missing commas
 0054 - ?
 removed extra dirs that are generated at build time - removed from git that is
 	maybe the repo won't be as scary. (or huge) :P
-	make fully self generating DAIL module folders
+	make fully self regenerating DAIL module folders
+*update dawn of heroes mod.. again :D  make sure icy flows is updated
+*devotion is capped @ 50 ??!?!?!
+*Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
+*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
+*bony craftsman (from potion) illusion potions not useable
+*potion merchant for arch necromancer has only health/mana pots to sell, no comps
+*I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
+*(SURVIVAL MODE RELATED( think some dbr-files are referencing on missing dbr files. For example
+	Code:
+	\DAIL - Survival\database\records\proxies\ascend_1\pool_aetherial08.dbr
+	has a reference to
+	Code:
+	survival/creatures/wavespawn/ascend_1/enemy_gazer02b.dbr
+	, but as far as i can see, there is no enemy_gazer02b.dbr?! 
 *blow away the loot drops tables that conflict with grim quest
 	add back non replacing vanilla tables
 	manually grep in the legendary / epic affixes
