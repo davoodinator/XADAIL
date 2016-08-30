@@ -1,0 +1,36 @@
+^ = Task from master changelog.txt
+> = Bug from thread
+& = Action
+% = In-action
+
+
+054 - 8/30
+
+
+054 - 8/29
+&Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+	created and stored .tga DAIL/source/items/craftingparts/components/
+	created and stored .tex DAIL/assets/items/craftingparts/components/
+	componenta002_b.tex dual + 1/1
+	component_a04_coldstone_a.tex dual + 2/2
+	component_a81_wrathstone_a.tex class skill + 1
+	component_a83_taintedsoul_a.tex class skill + 3
+	component_a17_prismaticdiamond_a.tex mastery +1
+	component_a14_moltenskin_a.tex mastery +2
+	component_a01_amber_a.tex mastery +3
+
+054 - 8/28
+^Frost Knight, Priest, Illusionist misc skill malfunctions
+%Available source material missing SOURCE files :(
+
+054 - 8/27
+^artwork for elementalist
+& Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+^artwork for terror knight
+& Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+
+054 - 8/25
+^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+& database/records/ui/skill/class29/ClassTable.dbr  
+	Removed skill13.dbr entry, points to unused skill 
+	Removed skill14.dbr entry, points to unused skill
