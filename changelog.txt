@@ -7,6 +7,9 @@ GLOSSARY
 * = not done yet (if it says im trying to solve it, and the * isn't there. i solved it and was too lazy to explain or was minor edit)
 % = something pending a vote - will decide when votes hit 200+
 ^ = Something I can't figure out or just plain don't have time / interest to do it, but agree that it is a problem or interesting feature to add
+{ = Task has a question or comment.
+$ = Question or comment for marked task.
+
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -22,13 +25,11 @@ Old Polls:
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-^artwork for elementalist
-^artwork for terror knight
+^Need batch or script to modify DAIL gift component images, 100+ entries per class :( Soldier done as test.
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
 ^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
-^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
 ^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
 ^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit beyond 30 so it shouldn't matter later. also i have templated it up to 99 but only 51 will display
 ^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
@@ -68,7 +69,8 @@ removed extra dirs that are generated at build time - removed from git that is
 *update dawn of heroes mod.. again :D  make sure icy flows is updated
 *devotion is capped @ 50 ??!?!?!
 *Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
-*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
+{*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
+	$Where is _classtraing_classX.dbr for base clases? K
 *bony craftsman (from potion) illusion potions not useable
 *potion merchant for arch necromancer has only health/mana pots to sell, no comps
 *I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
@@ -90,17 +92,39 @@ removed extra dirs that are generated at build time - removed from git that is
 	no clue on this. gonna leave it till later
 *udpate uninstall option to include 1.0.0.5 path data for text_en
 *update DGA to 0.5
-*While Frost Knight is looking much better, it's still got broken parts.
-	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
-	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
-	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
-	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
-	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
-	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
-*"Priest" problems
-	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
-	update "priest" to be whatever is in the latest dawn of heroes update
 
+{*While Frost Knight is looking much better, it's still got broken parts.
+{	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
+{	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
+{	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
+{	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
+{	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
+{	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
+{*"Priest" problems
+{	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
+{	update "priest" to be whatever is in the latest dawn of heroes update
+	$File structure for these masteries are wonky. Source material offered by dev is missing SOURCE folder. K
+
+
+
+0053 
+ - 8/29
+Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+	componenta002_b.tex dual + 1/1
+	component_a04_coldstone_a.tex dual + 2/2
+	component_a81_wrathstone_a.tex class skill + 1
+	component_a83_taintedsoul_a.tex class skill + 3
+	component_a17_prismaticdiamond_a.tex mastery +1
+	component_a14_moltenskin_a.tex mastery +2
+	component_a01_amber_a.tex mastery +3
+ - 8/27 
+Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+ - 8/25
+(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+	database/records/ui/skill/class29/ClassTable.dbr  
+		Removed skill13.dbr entry, points to unused skill 
+		Removed skill14.dbr entry, points to unused skill
 0053 - 1:12 PM 8/17/2016
 review these errors -> https://www.dropbox.com/s/da9vbgrs283jf5b/grimstash%20error%20log.txt?dl=0
 	gonna just ignore those errors for now. i found all the files and tags np
