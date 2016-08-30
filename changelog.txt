@@ -53,6 +53,11 @@ to find the commas
 to find the missing commas 
 .[^, \n]$
 ***********************************************************************
+when getting new stuff from REPO
+
+git reset --hard HEAD
+git clean -f
+git pull
 ***********************************************************************
 0055 - ?
 *make crucible merger magically happen at install time
@@ -62,13 +67,16 @@ to find the missing commas
 	make it clean enough for others to contribute permutations to the builder/installer script :D
 
 0054 - ?
+add in a script to pull shit from XADAIL folder when getting updates from git (other people are contributing code now!!!!!)
 removed extra dirs that are generated at build time - removed from git that is
 	maybe the repo won't be as scary. (or huge) :P
 	make fully self regenerating DAIL module folders
+devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
+check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np. is fixed now.
+give credit to kriescher and Arendeth for making my .bat files great again
+add Kathanious as very special credit for doing DAIL's very first pull request and direct github update
 *update dawn of heroes mod.. again :D  make sure icy flows is updated
-*devotion is capped @ 50 ??!?!?!
 *Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
-*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
 *bony craftsman (from potion) illusion potions not useable
 *potion merchant for arch necromancer has only health/mana pots to sell, no comps
 *I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
@@ -83,7 +91,6 @@ removed extra dirs that are generated at build time - removed from git that is
 	add back non replacing vanilla tables
 	manually grep in the legendary / epic affixes
 	winning @ life & grim dawn
-*give credit to kriescher and Arendeth for making my .bat files great again
 *update CFTX to 0.60
 *update loss treasures to 0.2
 *Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
