@@ -22,6 +22,7 @@ Old Polls:
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
+^Ceno has finished another zenith class and has artwork for all 4 masteries
 ^Need batch or script to modify DAIL gift component images, 100+ entries per class :( Soldier done as test.
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
