@@ -85,7 +85,7 @@ removed extra dirs that are generated at build time - removed from git that is
 *Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
 	no clue on this. gonna leave it till later
 *udpate uninstall option to include 1.0.0.5 path data for text_en
-*update DGA to 0.5
+update DGA to 0.5 - cancel this. he hasn't released 0.5 yet :(
 *While Frost Knight is looking much better, it's still got broken parts.
 	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
 	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
