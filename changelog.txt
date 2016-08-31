@@ -102,6 +102,11 @@ removed extra dirs that are generated at build time - removed from git that is
 
 
 0053 
+ - 8/31 [15:26]
+ "*devotion is capped @ 50 ??!?!?!"
+ 	Checked gameengine.dbr
+ 		playerDevotionCap,59,
+	Last time I played (DAIL 046) devotion was at 55 and worked. Cap of 59 needs play tested.
  - 8/30 [23:20]
 Fixed camera zoom issue.
  - 8/29
