@@ -15,7 +15,7 @@ DAIL
 	CameraDepthFogClamp,-1.0,
 	CameraDistanceDefault,5.0,
 	CameraDistanceMax,38.0,
-	CameraDistanceMin,2.5,
+	CameraDistanceMin,10.0,
 	CameraPitchDefault,45.0,
 	CameraPitchMax,50.0,
 	CameraPitchMin,38.0,
