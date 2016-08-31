@@ -7,9 +7,6 @@ GLOSSARY
 * = not done yet (if it says im trying to solve it, and the * isn't there. i solved it and was too lazy to explain or was minor edit)
 % = something pending a vote - will decide when votes hit 200+
 ^ = Something I can't figure out or just plain don't have time / interest to do it, but agree that it is a problem or interesting feature to add
-{ = Task has a question or comment.
-$ = Question or comment for marked task.
-
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
@@ -69,11 +66,9 @@ removed extra dirs that are generated at build time - removed from git that is
 *update dawn of heroes mod.. again :D  make sure icy flows is updated
 *devotion is capped @ 50 ??!?!?!
 *Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
-{*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
-	$Where is _classtraing_classX.dbr for base clases? K
+*check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np
 *bony craftsman (from potion) illusion potions not useable
 *potion merchant for arch necromancer has only health/mana pots to sell, no comps
-*I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
 *(SURVIVAL MODE RELATED( think some dbr-files are referencing on missing dbr files. For example
 	Code:
 	\DAIL - Survival\database\records\proxies\ascend_1\pool_aetherial08.dbr
@@ -92,22 +87,22 @@ removed extra dirs that are generated at build time - removed from git that is
 	no clue on this. gonna leave it till later
 *udpate uninstall option to include 1.0.0.5 path data for text_en
 *update DGA to 0.5
-
-{*While Frost Knight is looking much better, it's still got broken parts.
-{	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
-{	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
-{	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
-{	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
-{	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
-{	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
-{*"Priest" problems
-{	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
-{	update "priest" to be whatever is in the latest dawn of heroes update
-	$File structure for these masteries are wonky. Source material offered by dev is missing SOURCE folder. K
-
+*While Frost Knight is looking much better, it's still got broken parts.
+	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
+	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
+	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
+	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
+	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
+	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
+*"Priest" problems
+	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
+	update "priest" to be whatever is in the latest dawn of heroes update
+	
 
 
 0053 
+ - 8/30 [23:20]
+Fixed camera zoom issue.
  - 8/29
 Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
 	componenta002_b.tex dual + 1/1
@@ -121,7 +116,7 @@ Added DAIL gift component image variety to playerclass01 (Soldier) items/craftin
 Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
 Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
  - 8/25
-(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+"(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version"
 	database/records/ui/skill/class29/ClassTable.dbr  
 		Removed skill13.dbr entry, points to unused skill 
 		Removed skill14.dbr entry, points to unused skill
