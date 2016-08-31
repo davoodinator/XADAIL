@@ -1,10 +1,8 @@
 # = Task from master changelog.txt
-> = Bug from thread
-* = Inaction
 
 
 053 - 8/30
-"*I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
+#"I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
 database/records/game/gameengine.dbr
 Vanilla
 	CameraDepthFogClamp,-1.0,
@@ -39,10 +37,6 @@ Added DAIL gift component image variety to playerclass01 (Soldier) items/craftin
 	component_a17_prismaticdiamond_a.tex mastery +1
 	component_a14_moltenskin_a.tex mastery +2
 	component_a01_amber_a.tex mastery +3
-
-053 - 8/28
-#Frost Knight, Priest, Illusionist misc skill malfunctions
-*Available source material missing SOURCE files :(
 
 053 - 8/27
 #artwork for elementalist
