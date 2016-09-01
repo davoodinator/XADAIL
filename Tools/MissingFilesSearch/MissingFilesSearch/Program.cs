@@ -11,7 +11,7 @@ namespace MissingFilesSearch
             var arguments = new Arguments.ArgumentReader(args).GetArgs();
             if(!string.IsNullOrWhiteSpace(arguments.Path))
             {
-                var files = Search.Searcher.GetFiles(arguments.Path, arguments.GrimDawnPath, "dbr");
+                var files = Search.Searcher.GetFiles(arguments, "dbr");
                 var sbuilder = new StringBuilder();
                 foreach (var item in files)
                 {

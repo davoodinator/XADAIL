@@ -16,6 +16,7 @@
             result.Help = GetBoolValue(nameof(result.Help));
             result.Path = GetStringValue(nameof(result.Path));
             result.GrimDawnPath = GetStringValue(nameof(result.GrimDawnPath));
+            result.IgnorePattern = GetStringValue(nameof(result.IgnorePattern));
             return result;
         }
 
