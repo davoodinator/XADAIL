@@ -23,10 +23,12 @@ REM GOTO END ECHO
 GOTO :ENDECHO
 
 :UPDATE
+copy /Y "%BATCH_DIR%updatearcs.bat" "%BATCH_DIR%%TARGET%\resources"
 PUSHD "%BATCH_DIR%%TARGET%\resources"
 robocopy "%BATCH_DIR%\DAILmergeGQ" "%BATCH_DIR%%TARGET%" /S /NFL /NDL
 ECHO call updatearcs.bat
 call updatearcs.bat
+del /Q updatearcs.bat
 POPD
 GOTO :EOF
 
