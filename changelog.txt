@@ -22,13 +22,12 @@ Old Polls:
 ***********************************************************************
 ***********************************************************************
 ***********************************************************************
-^artwork for elementalist
-^artwork for terror knight
+^Ceno releasing now class, Champion, and own artwork for Elementalist and Terror Knight
+^script for DAIL gift icon assortment, playerclass01 complete as test, 100+ entries per mastery by hand :(
 ^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
 ^see additional file anm_problems.txt
 ^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
 ^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
-^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
 ^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
 ^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit beyond 30 so it shouldn't matter later. also i have templated it up to 99 but only 51 will display
 ^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
@@ -71,7 +70,6 @@ add in a script to pull shit from XADAIL folder when getting updates from git (o
 removed extra dirs that are generated at build time - removed from git that is
 	maybe the repo won't be as scary. (or huge) :P
 	make fully self regenerating DAIL module folders
-devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
 check demolitionist and occultist max mastery levels -> I think I needn to do a little replacer for training.dbr for the first 6 masteries. i blew it away last update.. this is np. is fixed now.
 give credit to kriescher and Arendeth for making my .bat files great again
 add Kathanious as very special credit for doing DAIL's very first pull request and direct github update
@@ -107,7 +105,35 @@ add Kathanious as very special credit for doing DAIL's very first pull request a
 *"Priest" problems
 	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
 	update "priest" to be whatever is in the latest dawn of heroes update
-
+053 - 8/31 [18:00]
+devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
+	database/records/game/gameengine.dbr
+		playerDevotionCap,59,
+		Changed back to 55, know working value
+053 - 8/30
+Fixed "I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
+      "camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321"
+		database/records/game/gameengine.dbr
+			restored camera to default settings
+053 - 8/29
+Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+	componenta002_b.tex dual + 1/1
+	component_a04_coldstone_a.tex dual + 2/2
+	component_a81_wrathstone_a.tex class skill + 1
+	component_a83_taintedsoul_a.tex class skill + 3
+	component_a17_prismaticdiamond_a.tex mastery +1
+	component_a14_moltenskin_a.tex mastery +2
+	component_a01_amber_a.tex mastery +3
+053 - 8/27
+artwork for elementalist
+	Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+artwork for terror knight
+	 Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+053 - 8/25
+Fixed  (H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+	database/records/ui/skill/class29/ClassTable.dbr  
+		Removed skill13.dbr entry, points to unused skill 
+		Removed skill14.dbr entry, points to unused skill
 0053 - 1:12 PM 8/17/2016
 review these errors -> https://www.dropbox.com/s/da9vbgrs283jf5b/grimstash%20error%20log.txt?dl=0
 	gonna just ignore those errors for now. i found all the files and tags np
