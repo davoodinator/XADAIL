@@ -1,7 +1,7 @@
 call paths
 
 copy "%SOURCE_PATH%\VanillaBak\VanillaBak.7z" "%SOURCE_PATH%\XADAIL\VanillaBak" /y 
-pause
+
 robocopy "%SOURCE_PATH%\XADAIL" "%SOURCE_PATH%." *.bat *.txt *.nsi README /XO /xd *.*
 robocopy "%SOURCE_PATH%\XADAIL\DAIL" "%SOURCE_PATH%\DAIL" /NDL /NFL /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak
 robocopy "%SOURCE_PATH%\XADAIL\DAIL - RIFT" "%SOURCE_PATH%\DAIL - RIFT" /NDL /NFL /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
