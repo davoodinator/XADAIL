@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/playerclass08/summon_hawk_mod_buff.dbr,
+pointBlank,0,

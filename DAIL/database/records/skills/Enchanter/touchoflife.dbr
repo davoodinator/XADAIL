@@ -1,7 +1,7 @@
 templateName,database/templates/skill_targetedspawnpet.tpl,
 ActorName,,
 Class,Skill_TargetedSpawnPet,
-FileDescription,,
+FileDescription,Faerie,
 petBurstSpawn,,
 petLimit,1,
 spawnObjectsTimeToLive,1.0,

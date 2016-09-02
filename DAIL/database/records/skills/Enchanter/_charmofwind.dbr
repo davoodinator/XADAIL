@@ -1,0 +1,8 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/enchanter/charmofwind_buff.dbr,
+instantCast,0,
+fileNameHistoryEntry,mods/dawnofheroes/records/skills/enchanter/charmofwind.dbr,
+fileNameHistoryEntry,mods/dawnofheroes/records/skills/enchanter/_charmofwind.dbr,

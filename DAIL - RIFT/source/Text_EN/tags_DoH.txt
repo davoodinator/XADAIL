@@ -1,7 +1,8 @@
 tagClassDescFK=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescENCH=Grove Keepers are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagClassDescMage=Master of the energies of Fire, Ice, and Air, the Mage channels the power of the elements to burn, freeze and electify whole hosts of opponents at once.
+tagClassDescMage=Master of the energies of Fire, Ice, and Air, the Mage channels the power of the elements to burn, freeze and electrify whole hosts of opponents at once.
 tagClassDescDemon=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
+tagClassDescStalker=Stalker
 #Class07
 tagClass11SkillName00=Frost Knight
 tagClass11SkillDescription00=Frost Knight is a hybrid melee class, master of two-handed weapons and frost magic.
