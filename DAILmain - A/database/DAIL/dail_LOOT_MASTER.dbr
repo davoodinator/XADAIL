@@ -1,4 +1,2 @@
 templateName,database/templates/lootmastertable.tpl,
 Class,LootMasterTable,
-lootWeight1,800,
-lootWeight2,200,

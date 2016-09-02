@@ -1,7 +1,7 @@
 templateName,database/templates/skill_buffselftoggled.tpl,
 ActorName,,
 Class,Skill_BuffSelfToggled,
-FileDescription,,
+FileDescription,Barkskin,
 instantCast,0,
 skillActiveLifeCost,,
 skillActiveManaCost,,

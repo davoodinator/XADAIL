@@ -492,14 +492,14 @@ Section /o "(ASX)" SEC10
   File /oname=Text_En.arc ".\DAILficulties\Text_En.arc.ASX"
 SectionEnd
 
-Section /o "FIX DB/TXT to 1.0.0.4 Hotfix2" SEC98
+Section /o "FIX DB/TXT to 1.0.0.5 Hotfix2" SEC98
   SetOutPath "$INSTDIR\database"
   SetOverwrite on
-  File /oname=database.arz ".\VanillaBak\database.arz.1004HF2"
+  File /oname=database.arz ".\VanillaBak\database.arz.1005HF2"
 
   SetOutPath "$INSTDIR\resources\"
   SetOverwrite on
-  File /oname=Text_En.arc ".\VanillaBak\text_en.arc.1004HF1"
+  File /oname=Text_En.arc ".\VanillaBak\text_en.arc.1005"
 SectionEnd
 
 /*

@@ -1,5 +1,8 @@
 #Items
 tagArtifact={^R}
+tagPotionXP01={^C}Lesser Potion of Mentor
+tagPotionXP01Desc=Increases experience gained from killing monsters.
+tagPotionXP02={^C}Potion of Mentor
 tagEnchFrost01={^L}Frost Essence
 tagEnchFire01={^L}Fire Essence
 tagEnchShock01={^L}Shock Essence
