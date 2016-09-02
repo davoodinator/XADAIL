@@ -64,8 +64,35 @@ git pull
 	.bat file
 	various options available
 	make it clean enough for others to contribute permutations to the builder/installer script :D
+*blow away the loot drops tables that conflict with grim quest
+	add back non replacing vanilla tables
+	manually grep in the legendary / epic affixes
+	winning @ life & grim dawn
+*Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
+	no clue on this. gonna leave it till later
+*While Frost Knight is looking much better, it's still got broken parts.
+	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
+	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
+	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
+	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
+	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
+	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
+*"Priest" problems
+	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
+	update "priest" to be whatever is in the latest dawn of heroes update
+*Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
+*bony craftsman (from potion) illusion potions not useable
+*potion merchant for arch necromancer has only health/mana pots to sell, no comps
+*I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
+*(SURVIVAL MODE RELATED( think some dbr-files are referencing on missing dbr files. For example
+	Code:
+	\DAIL - Survival\database\records\proxies\ascend_1\pool_aetherial08.dbr
+	has a reference to
+	Code:
+	survival/creatures/wavespawn/ascend_1/enemy_gazer02b.dbr
+	, but as far as i can see, there is no enemy_gazer02b.dbr?! 
 
-0054 - ?
+0054 - 2016-09-02 1:43 AM
 add in a script to pull shit from XADAIL folder when getting updates from git (other people are contributing code now!!!!!)
 removed extra dirs that are generated at build time - removed from git that is
 	maybe the repo won't be as scary. (or huge) :P
@@ -102,34 +129,7 @@ update dawn of heroes mod.. again :D  make sure icy flows is updated updated to 
 update CFTX to 0.61
 updated hybrid tags 2016-09-02
 update loss treasures to 0.2 - seems i did already before.. ? ok 
-*Oh! I found vendor potions in SX. I'm not finding them on B, but I transferred some over... they do nothing.
-*bony craftsman (from potion) illusion potions not useable
-*potion merchant for arch necromancer has only health/mana pots to sell, no comps
-*I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?
-*(SURVIVAL MODE RELATED( think some dbr-files are referencing on missing dbr files. For example
-	Code:
-	\DAIL - Survival\database\records\proxies\ascend_1\pool_aetherial08.dbr
-	has a reference to
-	Code:
-	survival/creatures/wavespawn/ascend_1/enemy_gazer02b.dbr
-	, but as far as i can see, there is no enemy_gazer02b.dbr?! 
 update uninstall option to include 1.0.0.5 path data for text_en
-*blow away the loot drops tables that conflict with grim quest
-	add back non replacing vanilla tables
-	manually grep in the legendary / epic affixes
-	winning @ life & grim dawn
-*Someone mentioned it before but can also confirm Illusionist's changeling pets being stationary. 
-	no clue on this. gonna leave it till later
-*While Frost Knight is looking much better, it's still got broken parts.
-	It looks like Frost Aura is not itself, but rather one of the old attack skills, including the modifiers.
-	The second modifier has a tag not found error for the name as well, tagFKSkillName02C.
-	Howling Wind is missing the graphic (description mentions a cone of cold) and bizarrely has poison damage.
-	Path of Frost's built-in devotion skill has another tag not found error for the pet it summons, tagPetWraith.
-	Hoarfrost modifier for Frost Blast says it increases the AoE, but has no radius stat to do so.
-	Cold Steel reads as a WPS (and was before IIRC) but only has passive stats, including acid and poison damage, not to mention a cold to acid conversion.
-*"Priest" problems
-	Still no offensive summons in Priest like there should be either, makes the pet bonuses it has useless by itself.
-	update "priest" to be whatever is in the latest dawn of heroes update
 
 0053 - 1:12 PM 8/17/2016
 review these errors -> https://www.dropbox.com/s/da9vbgrs283jf5b/grimstash%20error%20log.txt?dl=0
