@@ -1,0 +1,60 @@
+
+
+************************************************************************************
+************************************************************************************
+
+List of and versions of mods in the DAIL compilation
+
+************************************************************************************
+************************************************************************************
+
+
+
+
+MASTERIES
+****************
+Arlequin
+Engineer
+Coronus
+NCFF
+	Ranger
+	Fangshi
+	Cenobite
+Darkest Dawn
+	Necromancer
+	Illusionist
+Dawn of Heros
+	Frost Knight
+	Priest
+Grim Quest
+	Spirit
+	Hunting
+	Nature
+	Warefare
+	Defense
+	Soldier
+	Rogue
+	Earth
+	Storm
+	Dream
+Zenith
+	Terror Knight
+	Priest
+Diacred
+	Elwar
+	Alchemist
+	
+
+ALTERNATE PLAY MODES
+****************
+Survival
+
+Rift
+
+
+GAME CHANGES
+****************
+Cornucopia
+Stash
+
+
