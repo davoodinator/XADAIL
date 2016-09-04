@@ -23,14 +23,14 @@ Engineer [1.7 ](2016 07 31,updated in 051)(1.6 in 043)
 Coronus [1.3.0] (1.2.0 in 043)(Coronus 2.0 in production)		$$$$$$$$$$$$
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
-NCFF [0.61] (0.58 in 051)										$$$$$$$$$$$$
+NCFF [0.61] (0.58 in 051)						$$$$$$$$$$$$
 	http://www.grimdawn.com/forums/showthread.php?t=38158
 	Necromancer
 	Ranger
 	Fangshi
 	Cenobite
 
-Darkest Dawn [1.1] (1.0 in 051)									$$$$$$$$$$$$
+Darkest Dawn [1.1] (1.0 in 051)						$$$$$$$$$$$$
 	http://www.grimdawn.com/forums/showthread.php?t=39917
 	Arch-Necromancer
 	Illusionist
@@ -53,7 +53,7 @@ Grim Quest [1.2] (Up to date 9/3/2016)
 	Storm
 	Dream
 
-Zenith [0.3] (0.2c in 053)										$$$$$$$$$$$$
+Zenith [0.3] (0.2c in 053)						$$$$$$$$$$$$
 	http://www.grimdawn.com/forums/showthread.php?t=40486
 	Terror Knight
 	Priest
@@ -66,7 +66,7 @@ DGA [0.4.2B] (Up to date 9/3/2016)
 	Dynamically Generated Areas
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38585&highlight=mapping
 
-Grim Dawn: Eternal [0.977] (0.967 in 053)						$$$$$$$$$$$$
+Grim Dawn: Eternal [0.977] (0.967 in 053)				$$$$$$$$$$$$
 	http://www.grimdawn.com/forums/showthread.php?t=39543
 	Pre-Crucible survival
 	{Fight classic Grim Dawn monsters and bosses along with new ones
