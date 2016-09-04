@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petSkillName,records/skills/frostknightclass/pets/wintersgift.dbr,
+petChanges,,
