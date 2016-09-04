@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+ActorName,,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,,
+buffSkillName,records/skills/nonplayerskills/godskills/aria_blindingbolt_buff.dbr,
+projectileNames,records/skills/nonplayerskills/godskills/effects/aria_blindingbolt_projectilefx01.dbr,

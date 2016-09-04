@@ -18,7 +18,7 @@ namespace MissingFilesSearch
                     sbuilder.AppendLine(item.ToString());
                     sbuilder.AppendLine("");
                 }
-                File.WriteAllText(string.Format("missing.{0:yyyyMMddHHmmss}.txt", System.DateTime.Now), sbuilder.ToString());
+                File.WriteAllText(string.Format("missing.{0:yyyyMMddHHmmss}.log", System.DateTime.Now), sbuilder.ToString());
             }            
         }
     }
