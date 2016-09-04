@@ -16,6 +16,7 @@ tagSkillClassDescription10=Fangshis follow both the law of the Heaven and the Ea
 tagSkillClassDescription11=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagSkillClassDescription28=Cenobites were the Elite Vanguard of the army sent from the Northern Provinces to quell the grim dawn in Southern Cairn.  Many of them died but those who lived learned to train others in their ways of armour mastery.  Furthermore, amongst all of the nations and creeds both Light, Dark and other - only those trained as Cenobites have the temperment to become paladins.
+tagSkillClassDescription13=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
 
 tagSkillClassName01=Soldier
 tagSkillClassName02=Demolitionist
