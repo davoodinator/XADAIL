@@ -522,11 +522,8 @@ SectionEnd
 
 Function .onInit
 StrCpy $1 ${SEC01}
-ReadRegStr $R0 HKCU "Software\Valve\Steam" "SteamExe"
-${StrReplaceV4} $R0 "/" "\" "$R0"
-${StrReplaceV4} $R0 "steam.exe" "" "$R0"
-;${StrReplaceV4} $R0 "\\" "\" "$R0"
-StrCpy $INSTDIR "$R0SteamApps\common\grim dawn"
+ReadRegStr $R0 HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 219990" "InstallLocation"
+StrCpy $INSTDIR "$R0"
 FunctionEnd
 
 !insertmacro MUI_FUNCTION_DESCRIPTION_BEGIN
