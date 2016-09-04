@@ -543,22 +543,22 @@ local player = Game.GetLocalPlayer()
 local god = Character.Get(objectId)
 local dbrPath = god:GetName()
 local godName = ""
-	if (dbrPath == "survival/creatures/gods/alkamos.dbr") then godName = "ALKAMOS"
-	elseif (dbrPath == "survival/creatures/gods/depravitie.dbr") then godName = "DEPRAVITIE"
-	elseif (dbrPath == "survival/creatures/gods/zaulkahn.dbr") then godName = "ZAULKAHN"
-	elseif (dbrPath == "survival/creatures/gods/urzog.dbr") then godName = "URZOG"
-	elseif (dbrPath == "survival/creatures/gods/sabrina.dbr") then godName = "SABRINA"
-	elseif (dbrPath == "survival/creatures/gods/aria.dbr") then godName = "ARIA"
-	elseif (dbrPath == "survival/creatures/gods/beanies.dbr") then godName = "BEANIES"
-	elseif (dbrPath == "survival/creatures/gods/harun_skeleton.dbr") then godName = "HARUN"
-	elseif (dbrPath == "survival/creatures/gods/mogdrogen.dbr") then godName = "MOGDROGEN"
-	elseif (dbrPath == "survival/creatures/gods/raznar.dbr") then godName = "RAZNAR"
+	if (string.find(dbrPath, "alkamos")) then godName = "ALKAMOS"
+	elseif (string.find(dbrPath, "depravitie")) then godName = "DEPRAVITIE"
+	elseif (string.find(dbrPath, "zaulkahn")) then godName = "ZAULKAHN"
+	elseif (string.find(dbrPath, "urzog")) then godName = "URZOG"
+	elseif (string.find(dbrPath, "sabrina")) then godName = "SABRINA"
+	elseif (string.find(dbrPath, "aria")) then godName = "ARIA"
+	elseif (string.find(dbrPath, "beanies")) then godName = "BEANIES"
+	elseif (string.find(dbrPath, "harun_skeleton")) then godName = "HARUN"
+	elseif (string.find(dbrPath, "mogdrogen")) then godName = "MOGDROGEN"
+	elseif (string.find(dbrPath, "raznar")) then godName = "RAZNAR"
 	end
-	player:GiveToken("GOD_"..godName.."_KILLED")	
+	player:GiveToken("GOD_"..godName.."_KILLED")
 	isUpdating = 0
 	waveInProcess = 0
 	randomWave = 0
-	UI.Notify("tagGodKilled")
+	UI.Notify("tagGodKilled")	
 	gd.wavespawn.unlockDoor()
 	--player:GiveExperience(115000)
 end

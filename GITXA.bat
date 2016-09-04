@@ -3,6 +3,7 @@ call paths
 copy "%SOURCE_PATH%\XADAIL\VanillaBak\VanillaBak.7z" "%SOURCE_PATH%\VanillaBak" /y 
 copy "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills\30_MasteriesClassSelection.7z" "%SOURCE_PATH%\DAIL\database\records\ui\skills" /y
 copy "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills\99_MasteriesClassSelection.7z" "%SOURCE_PATH%\DAIL\database\records\ui\skills" /y
+xcopy "%SOURCE_PATH%\XADAIL\MissingFilesSearch.*" "%SOURCE_PATH%" /y /i
 
 robocopy "%SOURCE_PATH%\XADAIL" "%SOURCE_PATH%." *.bat *.txt *.nsi README /XO /xd *.*
 robocopy "%SOURCE_PATH%\XADAIL\DAIL" "%SOURCE_PATH%\DAIL" /NDL /NFL /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak

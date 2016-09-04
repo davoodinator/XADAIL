@@ -32,6 +32,7 @@ namespace MissingFilesSearch.Search
             var ignorePatterns = (string.IsNullOrWhiteSpace(ignorePattern) ? "!!!!" : ignorePattern)
                 .Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries).ToList();
             references.AddRange(text.AsParallel().Where(x => x.EndsWith("." + pattern + ","))
+                .Where(x => !x.Split(new [] { ',' }, StringSplitOptions.RemoveEmptyEntries)[0].Equals("fileNameHistoryEntry", StringComparison.InvariantCultureIgnoreCase))
                 .Select(x => x.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries)[1].Replace("/", "\\"))
                 .SelectMany(x => x.Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries))
                 .Where(x => !ignorePatterns.Any(y => x.Contains(y)))
@@ -47,11 +48,11 @@ namespace MissingFilesSearch.Search
             {
                 _counter++;
                 var percent = (_counter * 100 / _count);
-                if (_percent != percent)
+                var update = _percent != percent;
+                if (update)
                 {
-                    _percent = percent;
-                    Console.SetCursorPosition(0, 0);
-                    Console.Write("Validating files: {0}/{1} ({2}%)", _counter, _count, percent);
+                    _percent = percent;                    
+                    Console.Write("\rValidating files: {0}/{1} ({2}%)", _counter, _count, percent);
                 }
             }
         }
