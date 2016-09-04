@@ -1,14 +1,18 @@
+[9/3/2016 22:30] K
+
+****************************************************************
+****************************************************************
 
 Expanded notes and comments from Kathanious
 
-################################################################
-^ = Task from master changelog.txt
-> = Bug from thread
-$ = Comment
-################################################################
+****************************************************************
+****************************************************************
 
-$Need script to apply DAIL gift to all masteries. PlayerClass01 done as test, 100+ entries per class :(
-$Ceno release new mastery, Champion, and artwork for Elementalist and Terror Knight
+054 - 9/3
+DAIL 2.0!
+	Git Issue function now utilized to track work tasks
+	Forum thread restructure for better information control and access
+	Produced changelogVersions.txt
 
 053 - 8/31 [18:00]
 Synced with master. Reapplied lost data due to out of sync.
@@ -38,7 +42,7 @@ DAIL
 	CameraPitchMin,38.0,
 
 053 - 8/29
-&Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
 	created and stored .tga DAIL/source/items/craftingparts/components/
 	created and stored .tex DAIL/assets/items/craftingparts/components/
 	componenta002_b.tex dual + 1/1
@@ -50,13 +54,13 @@ DAIL
 	component_a01_amber_a.tex mastery +3
 
 053 - 8/27
-^artwork for elementalist
-& Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
-^artwork for terror knight
-& Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+artwork for elementalist
+	Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+artwork for terror knight
+	Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
 
 053 - 8/25
-^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
-& database/records/ui/skill/class29/ClassTable.dbr  
-	Removed skill13.dbr entry, points to unused skill 
-	Removed skill14.dbr entry, points to unused skill
+(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+	database/records/ui/skill/class29/ClassTable.dbr  
+		Removed skill13.dbr entry, points to unused skill 
+		Removed skill14.dbr entry, points to unused skill
