@@ -59,6 +59,15 @@ git clean -f
 git pull
 ***********************************************************************
 0055 - ?
+*MISC UI
+	30 mastery UI restored.. for now!
+	*Cenobite class selection points to Fangshi
+	*Fangshi tree titled Coronus
+	*Square icons with round borders look like crap, Ranger, Fangshi, Arelquin, Priest's "Great Charm of Water" icon, Frost Knight's "Glaciacian" icon, Terror Knight "Blood Rage" "Lust for Carnage"
+	*Engineer skills beyond T9? Missing 3 skill information.
+	*Terror Knight tagSkillClassDescription13 missing
+
+
 *make crucible merger magically happen at install time
 *make all of the actual modules built using ARZballer.exe from Jiaco
 	.bat file
