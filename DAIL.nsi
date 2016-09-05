@@ -522,8 +522,9 @@ SectionEnd
 
 Function .onInit
 StrCpy $1 ${SEC01}
-ReadRegStr $R0 HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 219990" "InstallLocation"
-StrCpy $INSTDIR "$R0"
+SetRegView 64
+ReadRegStr $INSTDIR HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 219990" "InstallLocation"
+SetRegView 32
 FunctionEnd
 
 !insertmacro MUI_FUNCTION_DESCRIPTION_BEGIN
