@@ -6,5 +6,5 @@ rem MissingFilesSearch.exe /path:"E:\Working\Grim Dawn\mods\XADAIL-1\DAIL\databa
 rem /path path to check
 rem /GrimDawnPath path to extracted GD extracted game files
 rem /IgnorePattern ignore files that contain any of these patterns 
-MissingFilesSearch.exe /path:"%BATCH_DIR%DAIL\database" /GrimDawnPath:"E:\Working\Grim Dawn\database"
-MissingFilesSearch.exe /path:"%BATCH_DIR%DAIL - Survival\database" /GrimDawnPath:"E:\Working\Grim Dawn\database" /IgnorePattern:"\sounds\;\loottables\\"
+MissingFilesSearch.exe /path:"%BATCH_DIR%DAIL\database" /GrimDawnPath:"E:\Working\Grim Dawn\database" /IgnorePattern:"\sounds\;passive_totaldamageabsorption01;\loottables\\"
+rem MissingFilesSearch.exe /path:"%BATCH_DIR%DAIL - Survival\database" /GrimDawnPath:"E:\Working\Grim Dawn\database" /IgnorePattern:"\sounds\;\loottables\\"
