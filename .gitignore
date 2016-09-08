@@ -54,3 +54,4 @@ Temporary Items
 /Tools/MissingFilesSearch/MissingFilesSearch/obj/Debug/MissingFilesSearch.csprojResolveAssemblyReference.cache
 /Tools/MissingFilesSearch/MissingFilesSearch/obj/Debug/MissingFilesSearch.exe
 /Tools/MissingFilesSearch/MissingFilesSearch/obj/Debug/MissingFilesSearch.pdb
+*.log
