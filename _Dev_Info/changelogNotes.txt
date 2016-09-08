@@ -27,7 +27,8 @@ Expanded notes and comments from Kathanious
 
 
 
-
+054 9/8 [18:00]
+Merged UI updates with master
 
 054 9/7 [19:00]
 Fixed - *Missing Terror Knight#12 and Illusionist#13 skills_classselectedimage
