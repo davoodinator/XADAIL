@@ -1,7 +1,4 @@
-tagWaWelcomeDGA=^gWelcome To Dynamically Generated Areas (DGA) MOD [v0.4.0]
-tagWaPlayerIsNearCaravan=^rItem cannot be used near a Caravan (Stash)
-tagWaScrollSpecialReceived=You received a Scroll to open a Portal to the next Area
-tagWaContainerSpawned=Killing your Enemy spawned a Special Chest for you to loot
+tagWaWelcomeDGA=^gWelcome To Dynamically Generated Areas (DGA) MOD [v0.3.1]
 
 # Everything related to DGA (easier to include for other projects)
 
@@ -17,20 +14,13 @@ tagWaNPC_Artifact01=The Archaeologist
 tagWaNPC_Guide01=DGA-Settings | Guide | Information
 tagWaNPC_EnemySouls01=Enemy Souls 
 tagWaNPC_Collector01=Collector
-tagWaNPC_GameType01_PROF=Vanilla
-tagWaNPC_GameType02_PROF=DGA
-tagWaNPC_GameType03_PROF=OMEGA
-tagWaNPC_Souleater01_NAME=Soul Eater
-
-tagWaNPC_FactionTable_14=Portal-Master
-tagWaNPC_FactionTable_14b=Bounty Table
 
 tagWaRift00_Hideout_00=Hideout Rift
 tagWaWorld00_MapStart=Map Entrance
 tagWaWorld00_MapPortals=Portal Spawn (Hideout)
 
 tagWaPortal_00_MapExit00=Return To Hideout
-tagWaPortal_Endless_PortToStart=Port back to Start
+tagWaPortal_Endless_PortToStart=Teleport back to Start
 tagWaPortal_00_EndlessNextArea_00=Go To Next Area
 tagWaPortal_00_EndlessReturnToBridge_00=Return to Portal-Bridge
 tagWaPortal_00_EndlessReturnToStart_00=Return to Endless Start
@@ -44,8 +34,6 @@ tagWaPortal_00_Map07=Map07 - Portal
 tagWaPortal_00_MapX=Laboratory - Portal
 tagWaPortal_00_Endless01=Endless Circle - Portal
 tagWaPortal_00_Endless02=Endless Worlds - Portal
-
-tagWaPortal_00_ReturnToHideout=Return To Hideout
 
 tagWaWorld00_Hideout=Hideout
 tagWaWorld00_Map01=Canyon
@@ -185,12 +173,6 @@ tagWaDGARewardKey03A_DESC=Key to get a special container at the reward NPC
 tagWaChestRewardKey01Desc=Copper Chest
 tagWaChestRewardKey02Desc=Silver Chest
 tagWaChestRewardKey03Desc=Gold Chest
-#
-tagWaScrollReturnHideout_NAME=Portal Scroll (Hideout)
-tagWaScrollReturnHideout_DESC="Opens a Portal to take you back to the Hideout. The Settings | Guide can remove the scroll from your inventory or give you a new one."
-tagWaCannotUsePortalScrollHidoutInHideout=You cannot use Portal Scroll (Hideout) while you are in your hideout or before killing at least 10 enemies!
-
-
 # CRAFTER
 tagWaNPC_BlacksmithDGANormal_DESC=Normal
 tagWaNPC_BlacksmithDGANormal_PROFESSION=DGA Crafter
@@ -203,12 +185,9 @@ tagWaNPC_BlacksmithDGAUltimate_PROFESSION=DGA Crafter
 tagWaEventNewMonsters=New enemies have arrived, enjoy!
 
 # Faction
-tagWaRewardBountyDGA01_NAME=Magical Container
-tagWaRewardBountyDGA01_DESC="Bounty Reward from the Portal-Masters. Contains: Iron Bits and Random Items (small chance on a legendary)" ----------------------------- ^rUsing this near the Stash will result in losing the container! You can however store it in your stash.
-tagWaBountyToken_DGA_PM_NAME=Bounty Token (Portal Masters)
-tagWaBountyToken_DGA_PM_DESC="Item required to complete Bounties"
 
-# Specials/Uniques
+
+# Specials/Uniques (Coming With v0.1.1)
 
 
 # Chests
@@ -222,8 +201,6 @@ tagWaChestSpecial01Desc=^pSpecial Chest (Basic DGA)
 tagWaChestBoss01Desc=Boss Chest
 
 tagDunes01=some Dunes?
-tagEnemyHarpyA02=fixed Common Harpy!
-tagEnemyHarpyB02=fixed Champion Harpy!
 
 tagWaNPC_QuestDGAMain01_DESC=DGA
 tagWaNPC_QuestDGAMain01_PROFESSION=Quest Line
@@ -231,4 +208,4 @@ tagWaNPC_QuestDGAMain01_PROFESSION=Quest Line
 
 tagWaEventGlobalHeroReward01=Congratulations you killed enough Heroes to recieve a Key
 tagWaSpecialBossSpawned=A Boss has come to kill you!
-tagWaSpecialBossDeafeated=Congratulations, you defeated the Boss. You can go back to you Hideout.
+tagWaSpecialBossDeafeated=Congratulations, you defeated the Boss

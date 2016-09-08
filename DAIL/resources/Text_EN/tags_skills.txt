@@ -1,6 +1,9 @@
 #PH TAGS
-tagSkillClassDescription25=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDraonCC ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDiacred ^wto merge a known good working copy of this mastery into DAIL.
+tagSkillClass25Name=
+tagSkillClassDescription25=^yAwaiting more heroes to step forward and defend Cairn. Do you have what it takes? Captain John Bourbon wants you!
+tagSkillClass30Name=
+tagSkillClassDescription30=^yAwaiting more heroes to step forward and defend Cairn. Do you have what it takes? Captain John Bourbon wants you!
+
 #seriously...
 tagSkillClassDescriptionPH=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission to merge a known good working copy of this mastery into DAIL.
 #END OF PH TAGS
@@ -16,6 +19,11 @@ tagSkillClassDescription10=Fangshis follow both the law of the Heaven and the Ea
 tagSkillClassDescription11=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagSkillClassDescription28=Cenobites were the Elite Vanguard of the army sent from the Northern Provinces to quell the grim dawn in Southern Cairn.  Many of them died but those who lived learned to train others in their ways of armour mastery.  Furthermore, amongst all of the nations and creeds both Light, Dark and other - only those trained as Cenobites have the temperment to become paladins.
+tagSkillClassDescription13=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
+tagClass25SkillName00=Send me an Angel
+tagClass25SkillDescription00=Right now
+tagClass30SkillName00=Send me an Angel
+tagClass30SkillDescription00=Right now
 
 tagSkillClassName01=Soldier
 tagSkillClassName02=Demolitionist
@@ -42,12 +50,12 @@ tagSkillClassName21=Rogue
 tagSkillClassName22=Earth
 tagSkillClassName23=Storm
 tagSkillClassName24=Dream
-tagSkillClassName25=^pPH Stargazer
+tagSkillClassName25=
 tagSkillClassName26=[ms]Priest[fs]Priestess
 tagSkillClassName27=Engineer
 tagSkillClassName28=Cenobite
 tagSkillClassName29=[ms]Arlequin[fs]Harlequin
-tagSkillClassName30=^pPH Elwar
+tagSkillClassName30=
 tagSkillClassName31=^pPH Alchemist
 tagSkillClassName32=^pPH Mage
 tagSkillClassName33=^pPH Voidcaller

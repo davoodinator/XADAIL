@@ -1,0 +1,89 @@
+PLEASE HELP with these files
+Many of them do not use dynamic references. they are hard references to specific folders. I got lazy and didn't look for a proper implementation method.
+
+I am trying to fix it slowly
+
+[DAIL] Build instructions.
+
+so you have downloaded the .zip from github? your a masochist. congratulations.
+
+decompress everything into \grim dawn\mods\
+
+then start by doing the following
+
+1. Propogate any files that i forgot to with  "SKILLMERGER.bat" from the root of \mods\
+2. Load the asset manager
+3. go through every mod that has "DAIL" at the start and hit F7 on each
+4. after each mod is run. choose archive -> compact
+5. once this is done run "GQMERGE.bat" from the root of \mods\
+6. after that mess is run - you need to load NSIS
+7. load DAIL.nsi and hit CTRL+F9
+8. repeat for DAIL-LITE.nsi
+9. thats it you have built DAIL.  upload it to nexus and tell the world of its arrival.
+
+******************************************
+FOLDERS
+******************************************
+\DAIL\					BASE MOD which is vanilla+ lots of map modifications
+\DAIL - RIFT\			THIS IS RIFTS/DGA MOD FROM WAREBARE+ALEXEI
+\DAIL - Survival\		THIS IS ETERNAL MOD FROM PRINCESS LUNA
+(Might add others if mod authors give permission)
+
+the other 6 folders are root game replacers for database.arz to choose different settings
+A = tiny spiders
+B = Grimmest 0.5 (regular spawns, slightly increased star mobs and full grimmest boss scripts)
+S = full Grimmest everything
+NG = No Grimmest
+
+Finally:
+\VanillaBak\
+This folder contains the un-install files needed to reset your grim dawn game back to how it was before DAIL. (SADFACE)
+
+Combinations of the above include
+(X)   = Hard Mode (increased xp, enemy difficulty, lower enemy population and 10-100% loot quality increase)
+(S)   = S class mode - prepare for your GPU and CPU to melt. full grimmest everything.
+(B)   = Medium Grimmest - this is essentially boss script upgrades and x2 heroes with regular other spawns
+(NG)  = Vanilla Difficulty (No Grimmest)
+(A)   = Tiny Spiders + S Mode
+(AB)  = Tiny Spiders + B Mode
+(AX)  = Tiny Spiders + X Mode
+(ANG) = Tiny Spiders + Vanilla Mode
+(SX)  = Raid Mode. its X mode with S spawns
+(ASX) = Tiny Spiders + Raid Mode
+
+******************************************
+Individual files sitting in the root dir:
+******************************************
+DAIL*.NSI are the NSS scripts to build versions of DAIL. older ones are there for posterity. if someone wants to update this and make it sexier . please suggest update to it.  it currently need a proper uninstall option also remember to go into \VanillaBak\ and decompress the .7z files without path into the folder so that NSIS can pull the vanilla files out
+SKILLMERGER.BAT brings files from \DAIL\ into the other folders as needed in the case of some shared data that needs to be edited. if someone can suggest a better file. I will merge it in.
+GQMERGE.bat run after SKILLMERGER.BAT and also AFTER you have compiled the assets in asset manager and "compacted" them.  this batch file will add all the missing Titan Quest assets missing from the regular DAIL folders.
+changelog.txt = obvious
+README = this file
+XAGIT.bat = brings only the changed files from this working folder to a subfolder named XADAIL which should be your git repo folder.. you can edit this if you want. just offering it for convenience. youll have to edit this heavily to make it work - if someone can suggest a better file I will merge it in
+DAIL\
+
+******************************************
+Special files of interest for the modding curious
+******************************************
+\DAIL\database\DAIL\
+dail builder 0.bat	manually created file that preps the DAIL folders for the skill+ merchants, their loot tables and item dbrs
+dail builder 1.bat	auto generated file that creates some data for above
+dail builder 2.bat	auto generated file that creates some data for above
+*.xlsm				auto generator for dail builder 1/2
+dail_base.dbr	base file for +1 to specific skills components
+dail_base2.dbr	base file for +x to ALL skills for specific mastery components
+dail_base3dbr	base file for +3 and +5 to specific skills components
+modeling skillups to 100 v2.xlsm  -> a way to build skills
+masteries 2016 06 26.xlsm -> a way to build the code for item drops (it builds dail builder 1 and 2 .bat, dail builder 0.bat is hardcoded)
+
+
+note to self
+    Hit ~ to open up the repository in the Git Shell
+    Run 'git add -A' to stage the changes
+    Run 'git commit -m "your commit message here"' to commit the changes
+	Run git push to upload the damn stuff
+	
+remove bad (>100mb) files accidentally included in working dir
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.DAIL\"/' -f HEAD
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.debug\"/' -f HEAD
+	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.good\"/' -f HEAD	
