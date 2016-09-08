@@ -3284,6 +3284,7 @@ tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
 tagPetZanniSwordA01=Zanni Sword
 tagPetRodeoPigA02=Porkchop the Rodeo Pig
 #Class07
+
 tagClass29SkillName00=Arlequin
 tagClass29SkillDescription00=With a laugh and a blade, turn the tide!
 
