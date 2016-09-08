@@ -1,0 +1,43 @@
+[9/8/2016 18:00] K
+
+[DAIL] GitHub
+
+So you want to contribute to DAIL?
+
+Create an account at github.com
+
+Locate the davoodinator/XADAIL repository.
+	Fork this repository. It will mirror the files at YourName/XADIAL
+
+Clone or Download the repository into Grim Dawn/mods
+
+Copy the contents of Grim Dawn/mods/XADAIL into Grim Dawn/mods
+
+You will have two complete file systems on your computer.
+	mods/XADAIL
+	Contents of mods/XADAIL
+		mods/DAIL
+		mods/DAIL - Rift
+		mods/etc...
+		
+The files in Grim Dawn/mods are your working files. Make your alterations here and test play.
+
+The files in Grim Dawn/mods/XADAIL will be your source should you need to revert any changes, 
+	and this directory is used for creating Pull requests and merging updated changes from the master.
+	https://www.sitepoint.com/quick-tip-synch-a-github-fork-via-the-command-line/
+	
+Once your alterations are ready, run the XAGIT.bat file. It may require some editing to function correctly.
+	This batch merges your changes from working to the mods/XADAIL material
+
+From there, you will merge your changes with your Forked profile on github.com
+
+Almost finaly step, create a Pull request with the master, davoodinator/XADAIL, to send your changes.
+
+Final step, Davood does quality control and merges your changes.
+
+This system does feel like it takes the long way around, but it is necessary to work with Grim Dawn.
+	If you view the flow chart at https://www.sitepoint.com/quick-tip-synch-a-github-fork-via-the-command-line/
+		you will see how it all plays out. Our addition is to create the working material in Grim Dawn/mods so
+		the asset manager can compile the material, and so the game can find the mod to run.
+	
+	
