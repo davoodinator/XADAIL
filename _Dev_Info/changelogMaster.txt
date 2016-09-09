@@ -1,27 +1,3 @@
-123TEST
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LATEST CHANGES 
 ***********************************************************************
 ***********************************************************************
@@ -82,7 +58,10 @@ git reset --hard HEAD
 git clean -f
 git pull
 ***********************************************************************
-0055 - ?
+0055 - 
+[9/8/2016]K Merged Mastery Selection UI improvement
+
+
 *MISC UI
 	30 mastery UI restored.. for now!
 	*Cenobite class selection points to Fangshi
