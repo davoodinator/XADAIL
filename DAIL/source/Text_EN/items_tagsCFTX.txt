@@ -1,0 +1,131 @@
+tagPXNCFF1=Necromancer's
+tagPXNCFF2=Ranger's
+tagPXNCFF3=Fangshi's
+tagPXNCFF4=Cenobite's
+
+tagPXNCFFB_1=Deathlord's
+tagPXNCFFB_2=Sniper's
+tagPXNCFFB_3=Xianren's
+tagPXNCFFB_4=Cleric's
+
+tagPXNCFFB_1_7=Death Knight's
+tagPXNCFFB_1_8=Dragoon's
+tagPXNCFFB_1_9=Kensai's
+tagPXNCFFB_1_10=Templar's
+tagPXNCFFB_2_7=Efreet's
+tagPXNCFFB_2_8=Gunslinger's
+tagPXNCFFB_2_9=Fire Diviner's
+tagPXNCFFB_2_10=Zoroastrian's
+tagPXNCFFB_3_7=Demonologist's
+tagPXNCFFB_3_8=Demon Hunter's
+tagPXNCFFB_3_9=Thaumaturge's
+tagPXNCFFB_3_10=Witch Acolyte's
+tagPXNCFFB_4_7=Dread Assassin's
+tagPXNCFFB_4_8=Slayer's
+tagPXNCFFB_4_9=Ninja's
+tagPXNCFFB_4_10=Templar Assassin's
+tagPXNCFFB_5_7=Archlich's
+tagPXNCFFB_5_8=Der Freisch¨¹tz's
+tagPXNCFFB_5_9=Astrologer's
+tagPXNCFFB_5_10=Diviner's
+tagPXNCFFB_6_7=Spirit Walker's
+tagPXNCFFB_6_8=Wild Hunter's
+tagPXNCFFB_6_9=Geomancer's
+tagPXNCFFB_6_10=Witch Doctor's
+tagPXNCFFB_7_8=Witcher's
+tagPXNCFFB_7_9=Exorcist's
+tagPXNCFFB_7_10=Shadow Priest's
+tagPXNCFFB_8_9=Disenchanter's
+tagPXNCFFB_8_10=Inquisitor's
+tagPXNCFFB_9_10=Anchorite's
+
+tagSXNCFF_07=of Azrael
+tagSXNCFF_08=of Dead Shot
+tagSXNCFF_09=of Five Elements
+tagSXNCFF_10=of Paradise
+
+tagSXNCFF2_07=of Living Dead
+tagSXNCFF2_08=of Ruthless Hunter
+tagSXNCFF2_09=of Truth Seeker
+tagSXNCFF2_10=of Crusader
+
+tagEPNCFF_H_01=Circlet of Taboo
+tagEPNCFF_H_02=Hunter's Visor
+tagEPNCFF_H_03=Blue Cloud Crown
+tagEPNCFF_H_04=Justicar's Helm
+tagEPNCFF_H_05=Skull of Dominator
+tagEPNCFF_H_06=Miraclice
+tagEPNCFF_H_07=Mask of Firecon
+tagEPNCFF_H_07S=Conflagration
+tagEPNCFF_H_07SD=Your body filled with the flame of rage.
+tagEPNCFF_H_08=Wretch
+tagEPNCFF_H_08S=Preemptive Strike
+tagEPNCFF_H_08SD=A preemptive strike can deal fatal damage. However it will take a while when out of combat to reset the effect.{^n}{^n}^oThis ability must be toggled to maintain its effect.
+tagEPNCFF_H_08SS=Preemptive Strike - Reset
+tagEPNCFF_H_09=Arcane Vision
+tagEPNCFF_H_10=Crown of Sword King
+tagEPNCFF_H_11=Helm of Earth Spirit
+tagEPNCFF_H_12=Samadhi Crown
+tagEPNCFF_H_13=Sacred Faceguard
+tagEPNCFF_H_14=Thunder Hood
+tagEPNCFF_H_14S=Thunder Ward
+tagEPNCFF_H_14SD=The ward of thunder shields you from harm.
+tagEPNCFF_H_15=Evil Crown of Thorns
+tagEPNCFF_H_101=Fallen Knight's Face
+
+tagEPNCFF_S_01=Pauldrons of Abyss
+tagEPNCFF_S_02=Commandant Epaulets
+tagEPNCFF_S_03=Mantle of Poison Ivy
+tagEPNCFF_S_04=Shoulderguards of Holy Flame
+tagEPNCFF_S_05=Bone Shoulderguard
+tagEPNCFF_S_06=Wild Stalker's Mantle
+tagEPNCFF_S_07=Blue Cloud Mantle
+tagEPNCFF_S_08=Justicar's Shoulderguard
+
+tagEPNCFF_C_01=Undertaker's Cloth
+tagEPNCFF_C_02=Chivalrous Chestguard
+tagEPNCFF_C_03=Blue Cloud Raiment
+tagEPNCFF_C_04=Blessing Breastplate
+tagEPNCFF_C_05=Shadow Suit
+tagEPNCFF_C_06=Annihilate Robes
+tagEPNCFF_C_07=Jacket of Battleground
+tagEPNCFF_C_08=Woods Keeper's Jacket
+tagEPNCFF_C_09=Jacket of Sword Dance
+tagEPNCFF_C_10=Vestment of Eidolon
+tagEPNCFF_C_11=Templar Assassin's Shadow Coat
+tagEPNCFF_C_12=Chosen Plate
+
+tagEPNCFF_A_01=Nether Grasp
+tagEPNCFF_A_02=Claw of Primeval Woodlurker
+tagEPNCFF_A_03S=Bloodthirsty
+tagEPNCFF_A_03SD=Crisis makes you bloodthirsty.
+tagEPNCFF_A_03=Touch of Rock
+tagEPNCFF_A_04=Divined Shoot Gloves
+tagEPNCFF_A_05=Hands of Ghoul
+tagEPNCFF_A_05S=Life Leech
+tagEPNCFF_A_06=Chivalrous Gauntlets
+tagEPNCFF_A_07=Weaved Green Gauntlets
+tagEPNCFF_A_08=Dominate Bracers
+
+tagEPNCFF_W_01=Cord of Ghoul
+tagEPNCFF_W_02=Falconer's Belt
+tagEPNCFF_W_03=Astal Chains
+tagEPNCFF_W_04=Justicar's Waist Support
+tagEPNCFF_W_05=Cremation Toolkit
+tagEPNCFF_W_06=Ice Field Girdle
+tagEPNCFF_W_07=Dragon Skin Girdle
+tagEPNCFF_W_08=Coil of Chaos
+
+tagEPNCFF_L_01=Pale Legguards
+tagEPNCFF_L_02=Tricker's Trousers
+tagEPNCFF_L_02S=Lightning Reflexes
+tagEPNCFF_L_03=Blue Cloud Legwraps
+tagEPNCFF_L_04=Lionheart Legplates 
+
+tagEPNCFF_F_01=Steps of Ghoul
+tagEPNCFF_F_02=Chivalrous Tales
+tagEPNCFF_F_03=Haruhi
+tagEPNCFF_F_04=Missionary Treads
+
+tagEPNCFF_SET_01=Upper Blue Cloud
+tagEPNCFF_SET_01b=Beyond Blue Cloud
