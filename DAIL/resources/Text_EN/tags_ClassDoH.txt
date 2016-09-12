@@ -9,14 +9,13 @@
 
 
 #Masteries
-tagSkillClassDescription11=Frost Knight
 tagClassNameFK=Frost Knight
 tagClassENCH=[ms]Priest[fs]Priestess
 tagClassEnchName=[ms]Priest[fs]Priestess
 tagClassEnchDesc=Priests and Priestess are from the original order of Empyreon who still have some of the power of their lost god, their very presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 
 
-
+tagSkillClassDescription11=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescENCH=Grove Keepers are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 tagClassDescMage=Master of the energies of Fire, Ice, and Air, the Mage channels the power of the elements to burn, freeze and electrify whole hosts of opponents at once.
