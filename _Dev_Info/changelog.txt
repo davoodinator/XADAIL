@@ -1,0 +1,126 @@
+[9/12/2016 18:00] K
+
+****************************************************************
+****************************************************************
+
+Changelog 2.00
+
+****************************************************************
+****************************************************************
+* = from XADAIL/Issue
+
+
+[2.0 9/12 0800]
+Pull 57
+
+[2.0 9/10]
+Updated Priest - updated to v 3.4
+	Test play good.
+	
+[2.0 9/10 21:00]
+Pull 52
+Improved - Tag orginization and removed double entries
+
+Improvement - Arlequin 
+	All skills now functions
+	Varius UI fixes
+	Redesigned what was once an incomplete buff based on raven/storm spirit
+
+Fixed - *Various Frost Knight issues - Updated to v 3.4
+	Frost Aura, Pet, UI tweaks
+	Test play good
+
+Fixed - *Engineer missing 3 bottom cross over skills. 
+	Requires special template to compile, included in source
+
+Fixed - *Missing Terror Knight#12 and Illusionist#13 skills_classselectedimage
+
+Fixed - *Selection buttons
+	Class selection UI polished
+
+Fixed - *Terror Knight tagSkillClassDescription13 missing
+
+Fixed - *Cenobite#28 
+	Class selection points to Fangshi
+		Incorrect pointer in UI/classtable.dbr
+	Class Image of Fangshi
+		tags_classselectedimage28 = Cenobite
+			Incorrect pointer in UI/classimage
+
+Fixed - *Fangshi#10 tree titled button Coronus#9(Cor)
+	tagSkillClassName10=Fangshi
+		Incorrect pointer in UI/classtable.dbr
+		
+Fixed - *Arch Necro#14 missing images, class table still functions - missing all image source material
+	Forgot GQmerge.bat after first compile
+
+Fixed - *Illusionist#15 missing images, class table still functions - missing all image source  material
+	Forgot GQmerge.bat after first compile
+		
+*Square icons with round borders look off
+	Done - Priest's "Great Charm of Water" icon, Frost Knight's "Glaciacian" icon, Terror Knight "Blood Rage" "Lust for Carnage" ?
+	Done - Fangshi
+	Ranger -
+	Necro - 
+	Cenobite - 
+		
+Fixed - *Missing spear tex
+	Forgot GQmerge.bat after first compile
+	
+[2.0 - 9/3]
+DAIL 2.0!
+	Git Issue function now utilized to track work tasks
+	Forum thread restructure for better information control and access
+	Produced various txt instructions in /_Dev_Info 
+
+054 - 8/31 [18:00]
+Synced with master. Reapplied lost data due to out of sync.
+devotion is capped @ 50 ??!?!?! - really??!?!? doesn't seem like it to me.
+	database/records/game/gameengine.dbr
+		playerDevotionCap,59,
+		Changed back to 55, know working value
+		Chanbged back to 59 after release :(
+054 - 8/30
+Fixed - "I can't zoom out as far in DAIL as I am in vanilla - any advice or is something wrong?"
+Fixed - "camera acting weird. please read this http://steamcommunity.com/app/219990/discussions/1/357286663687417334/?tscn=1470506321"
+	database/records/game/gameengine.dbr
+		restord to vanilla
+Vanilla
+	CameraDepthFogClamp,-1.0,
+	CameraDistanceDefault,35.0,
+	CameraDistanceMax,45.0,
+	CameraDistanceMin,20.0,
+	CameraPitchDefault,48.0,
+	CameraPitchMin,38.0,
+DAIL
+	CameraDepthFogClamp,-1.0,
+	CameraDistanceDefault,5.0,
+	CameraDistanceMax,38.0,
+	CameraDistanceMin,2.5,
+	CameraPitchDefault,45.0,
+	CameraPitchMax,50.0,
+	CameraPitchMin,38.0,
+
+054 - 8/29
+Added DAIL gift component image variety to playerclass01 (Soldier) items/craftingparts/components
+	created and stored .tga DAIL/source/items/craftingparts/components/
+	created and stored .tex DAIL/assets/items/craftingparts/components/
+	componenta002_b.tex dual + 1/1
+	component_a04_coldstone_a.tex dual + 2/2
+	component_a81_wrathstone_a.tex class skill + 1
+	component_a83_taintedsoul_a.tex class skill + 3
+	component_a17_prismaticdiamond_a.tex mastery +1
+	component_a14_moltenskin_a.tex mastery +2
+	component_a01_amber_a.tex mastery +3
+
+054 - 8/27
+artwork for elementalist
+	Elementalist - Added mastery select and portrait images - source Eliag@deviantArt
+artwork for terror knight
+	Terror Knight - Added mastery select and portrait images - source Benedickbanna@deviantArt
+
+054 - 8/25
+Fixed - *(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+	database/records/ui/skill/class29/ClassTable.dbr  
+		Removed skill13.dbr entry, points to unused skill 
+		Removed skill14.dbr entry, points to unused skill
