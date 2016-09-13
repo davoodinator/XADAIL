@@ -13,6 +13,17 @@ tagSkillClassDescription_TQ06=The rogue is unmatched at dealing rapid damage to 
 //Studying the mysteries of terrestrial gods, learn to draw upon the Earth’s essence and harness powers of rock and flame.  By the force of Earth, temper iron with heat from your hands, project molten rock at enemies, and bind mighty earth spirits to your will.  Such mastery puts an almost god-like capacity for mass destruction into human hands but offers little in the way of defense.  
 tagSkillClassDescription_TQ07=Adept at raining down destruction over large hordes of enemies.  With most skills designed to deal damage, the Pyromancer relies on a colossal Earth Elemental to hold the attention of enemies. 
 //Following the mysteries of celestial gods teaches control over the destructive properties of weather.  Command lightning strikes, project frozen shards of ice, and hold enemies at bay with arctic wind.  Storm mastery combines devastatingly precise damage with an array of magical defenses.
+
+tagClassName16=Defense
+tagClassName17=Hunting
+tagClassName18=Spirit
+tagClassName19=Warfare
+tagClassName20=Nature
+tagClassName21=Stealth
+tagClassName22=Earth
+tagClassName23=Storm
+tagClassName24=Dream
+
 tagSkillClassDescription_TQ08=Excels at dealing massive lightning and cold damage to single opponents or small groups.  The Stormcaller has limited personal defenses but can slow, freeze, and stun enemies with frost and thunder attacks.
 tagSkillClassDescription_TQ09=Drawing power from the dream world, the Seer uses sheer force of will to dominate the battlefield.  The arcane workings of the psyche, time, and reality itself are all playthings for those who have mastered the secrets of the mind.
 
