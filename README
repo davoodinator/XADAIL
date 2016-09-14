@@ -87,20 +87,3 @@ remove bad (>100mb) files accidentally included in working dir
 	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.DAIL\"/' -f HEAD
 	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.debug\"/' -f HEAD
 	git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch \"/DAIL - RIFT/database/DAIL/Maps.arc.good\"/' -f HEAD	
-	
-***********************************************************************
-Some notes:
-http://www.grimdawn.com/forums/showpost.php?p=421510&postcount=2520 how to hack .exe > 2gb memory
-***********************************************************************
-GREP SEARCH FOR , missing at end of lines in .dbr files
-to find the commas 
-.,$
-to find the missing commas 
-.[^, \n]$
-***********************************************************************
-when getting new stuff from REPO
-
-git reset --hard HEAD
-git clean -f
-git pull
-***********************************************************************

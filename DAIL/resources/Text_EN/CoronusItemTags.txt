@@ -1,0 +1,13 @@
+tagPrefixCoronus01=Summoner's
+tagPrefixCoronus02=Grigori's
+tagPrefixCoronus03=Healer's
+
+tagSuffixCoronus01=of Undeath
+tagSuffixCoronus02=of Phaedra
+tagSuffixCoronus03=of Worsening
+
+tagBlueprintCoronus01=^g Lost recipe of the Coronus
+tagBlueprint_WeaponCoronus=Coronus specialized crafted caster weapon
+tagItema02_sceptercoronus="Remember to die"
+
+tagHandsDCoronus01=Coronus Gloves of Mastery

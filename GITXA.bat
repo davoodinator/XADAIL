@@ -5,6 +5,7 @@ copy "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills\30_MasteriesClassSele
 copy "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills\99_MasteriesClassSelection.7z" "%SOURCE_PATH%\DAIL\database\records\ui\skills" /y
 xcopy "%SOURCE_PATH%\XADAIL\MissingFilesSearch.*" "%SOURCE_PATH%" /y /i
 
+robocopy "%SOURCE_PATH%\XADAIL\_Dev_info" "%SOURCE_PATH%\_Dev_info" /XO /xd *.*
 robocopy "%SOURCE_PATH%\XADAIL" "%SOURCE_PATH%." *.bat *.txt *.nsi README /XO /xd *.*
 robocopy "%SOURCE_PATH%\XADAIL\DAIL" "%SOURCE_PATH%\DAIL" /NDL /NFL /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak
 robocopy "%SOURCE_PATH%\XADAIL\DAIL - RIFT" "%SOURCE_PATH%\DAIL - RIFT" /NDL /NFL /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL

@@ -1,0 +1,129 @@
+LATEST CHANGES 
+***********************************************************************
+***********************************************************************
+***********************************************************************
+***********************************************************************
+GLOSSARY
+* = not done yet (if it says im trying to solve it, and the * isn't there. i solved it and was too lazy to explain or was minor edit)
+% = something pending a vote - will decide when votes hit 200+
+^ = something i will leave for later version or someone else to do. and otherwise don't see myself working on for a while unless im really bored
+***********************************************************************
+***********************************************************************
+***********************************************************************
+***********************************************************************
+Polls
+Active: None
+Old Polls:
+%(http://www.strawpoll.me/10679140) (YES) revert to the legendary/epic affixes.  I added a twist though. I manually merged it with most of the GQ lootaffixes.  let's see if it breaks anything
+%(http://www.strawpoll.me/10551741/) (NO) remove legendary/epic affixes. you can keep the items you already got but new ones won't drop anymore at least not until DGA has post100 leveling
+%(http://www.strawpoll.me/10550732/) (NO) remove depravities from the grimmest portion of DAIL mod
+%(http://www.strawpoll.me/10562759/) (YES) devotion shrines combat only
+***********************************************************************
+***********************************************************************
+***********************************************************************
+***********************************************************************
+Procrastination - also stuff other people can work on if they are keeners
+^artwork for elementalist
+^artwork for terror knight
+^add the lazy mod for people who want auto pickups of stuff - needs more research - I haven't checked it yet
+^see additional file anm_problems.txt
+^survival mode i can't seem to fix the god spawn issues and the random crashing. use at your own risk.
+^add/test a pull script to put stuff back into my offline work dir when I merge something from the wild (if it ever happens) put a bunch of pauses before it runs to be sure it doesn't run by accident. and make it only work if run from the git dir itself.
+^(H)arlequin weird icon in upper left fixed or not fixed. its driving me nuts was there with original Atrosatiro version
+^if you play multiplayer with other people, if other players aren't in a close vicinity when the (component vendor) npcs appear - it won't be visible to others once they get there, only to the first player
+^remove voidcaller items - i'd need an actual list.  not interested in diffing this out right now. it will be a pain.  im expecting Crate to raise the mastery limit  so it shouldn't matter later
+^update graphics and naming conventions on the skill components - this is column A in all of the spreadsheet tabs if someone wants to update it and pass it over i will take it spreadsheet name is "masteries yyyy mm dd.xlsm" under \DAIL\database\DAIL\
+^reverse spear models
+***********************************************************************
+***********************************************************************
+GREP SEARCH FOR ; missing at end of lines in .dbr files
+to find the commas 
+.,$
+to find the missing commas 
+.[^, \n]$
+***********************************************************************
+***********************************************************************
+0050 - planned stable release
+
+0049 - ?
+fixed some scripts for merging scripts that merged scripts
+*soldier+defense=soldier??? wtf? After restarting session, my defense+soldier (called soldier) now suddenly has 2x soldier masteries in the mastery-window. But I can still use defense abilities that I had on my actionbar. 
+*Doing "And Not a Drop to Drink" quest. "Viloth the Corruptor" did not spawn in Devil's Aquifer, unable to finish quest. "Primordian, the Forgotten One" was in it's place.
+*create UI for 99 masteries.. just in case
+*added a loading screen replacement - will be improved in the future
+*GAH where is this ? 91% + health item is still kicking around wtf. how do i fix this. loading up diff tool black arts. must sacrifice pixels
+*update omega scripts in x mode (whuups) add it as a script mk
+*THIS IS FOR SCREENSHOTS people keep showing me issues. i need to know which version. differentiate each mode with a little (X etc) in the upper left next to the difficulty.  IE x mode 0049 on ult is ULTIMATE (X 0049)
+*fix survival crashing on  round 8 / 9 - faction related?
+*merge DGA 0.4
+*merge darkest dawn masteries ! 0.93
+
+0048 - 6:44 PM 7/14/2016
+Legandary bosses aren't dropping boss souls from Omega at all! Tried both "minor" legendaries like that wasp Okami mentioned and bosses like Warden. But essence requirement for omega went from 40 to 28, so some parts of v0.5 work!
+tag issues with CFTX drops
+add AngryWeasel as a component vendor and OP credits for doing this : https://www.youtube.com/watch?v=JhV_wq_G-rE
+re-import DGA tags.. my editing has caused some to dissapear! damn merger thinking my updates are more up to date :( - my updates are up to date. something is up with DGA ill let warebare sort it out
+mogdrogan fix from 0047 didnt work fro everyone. made a better mogdrogan fix. cough up those iron bits people! now it works for reals i tested it :P
+food/drinks give mana again. yay i broke it in 0042 i think
+create spreadsheet update for 99 masteries... just in case. added some unused masteries to it in advance if we want to start naming them. 272 missing names people. get to it !
+add Aaron Barton and SL AM to credits for names
+test the omega changes - works
+check for baron wradlith in spined cove - fix if needed - hes there
+update omega mod to 0.52
+this seems like a vanilla problem. can someone tell me i not crazy on this? if so lets complain to crate.  -> Hey, still having an issue with some items rolling with the "Replicating Missile" proc on them, however the cooldown is sometimes replaced with an energy cost
+more x-mode stuff: Just set healthGainOnKillPct to 100 and healthGainOnKillDifficulty to 0 for every entity in records/creatures/enemies/boss&quest. 
+
+0047 - 4:08 AM 7/13/2016
+spirit mastery fixed again ;[ derp
+write a fing tool to check for commas in all .dbr files. - nah here is a grep search for that -> this is the search  .[^, \n]$
+fixed a bug in a dbr file with my new search !
+add a page on github pages for hybrid names done you can see link here -> https://davoodinator.github.io/XADAIL/
+(component vendor click) Also, if you have a bunch of these text items in your inventory each time you enter a game you get the red text for each of them. So if you have 20 you get 20 messages.  gonna fix this with what im doing on next line
+clicky summons in pack = annoying. make a potion that uses a skill slot. is stackable and chooses a random npc 
+	step 1 get teh potion to drop and stack in inventory
+	step 2 get the clicky added to dbr files
+	step 3 get it to actually trigger the dail.summon.npc()
+the "Rhowari Legacy"-quest is broken now. The quest-npc gives you the quest, you find spirit/runed stone as normal - but once you arrive at the shrine it's still cleansed from previous DAIL versions. - added option to the quest giver if you have over 100k iron
+increase overall loot quality in x mode
+	drop rates are the same but loot quality has been drastically increased, every item will have a prefix and suffix, no item will have only a prefix or only a suffix.
+update omega mod to 0.5
+
+0046 - 10:05 PM 7/11/2016
+Njorunn : Rupture skill-tag is still bugged in 0045 (elementalist tree  TagClass12SkillName12B not found (Elementalist) fix it 
+no xp again. whoops fixed for real. modeled the formula and everything
+customize component vendor popups to have specific text for specific vendor - nah.. now you can choose when to summon them it doesn't matter
+Discord Days: @Davood - only getting demo and soldier scrolls! Had 5 so far and no other mastery is dropping. - i played with the RNG a little. lets see how it works out.
+check "Grove keeper" skill... was attached to rogue. wtf  -   fixed.   priest was renamed back to priest :D even though the file says ench.. too many name changes makes jack a very sad boy
+nope. no idea why its crashing randomly. check hex codes used for quests in survival - add in code to gate the codes used or change them to the multiplayer codes always... testing :(
+skip this for now - 0.4 DGA is coming soon check that missing harpy tag in DGA. is it me or is it DGA ? :P i need a screenshot damnit.  i keep killing them too fast.
+Light of Empyrion is bugged too.It procs on your attacks instead of being on when you get hit, and instead now it hits yourself somehow. is this somethign i need to fix?  re-merged cornucopia. seems lots of files were missing
+some affix bugs. i think its fixed
+update to ncff 0.55 - done with some of the affixes and items. but not all. there were too many. far too many :(
+setup magic clicking script from Ceno for ease-of-building - hmm nah its going to take less time to click myself than to get it working right ;o
+
+0045 - 2:02 PM 7/11/2016
+added a 'lite' installer for those who dont care much for extra audio - installer went from 328 MB down to 141 MB - already uploaded a 0044 BUILD version of it. in teh future I will try and make this and the other one even smaller (TQ masteries adds 100 megs by itself ...)
+something is wrong we are seeing too many soldier and demo vendors popping. this isnt random there are 35 possible npcs we should see more variety - i think i fixed it. lets see what people say....
+soldiers arlequin gift of dail +1/+1 not working. say unknown skill for arlequin side.
+scale x-mode xp to playerLevel/10*(base xp reward formula)
+Loot quality has been increased slightly overall for X/AX mode. where as in regular modes there is a chance of 0 affixes on epic/leg items.  in X/AX mode. leg/epic items ALWAYS have affixes :D
+removed cornucopia affix changes - they are really really bugged atm. im not going to fix them since they are in flux
+lower crossing zombeis not giving xp in x mode - going to ask for a screenshot of the zombie names and location. so i can trace it.
+cant fix this. will make it "intended" for now - adding it to TODO: for whenever. Discord Days: And if you play multiplayer with other people, if other players aren't in a close vicinity when the npc appears - it won't be visible to others once they get there, only to the first player
+Discord Days: Apprentice staff bp still drops and crashes if you hover mouse over it - REMOVE IT - removed blueprint from drop tables
+update installer documentation. WTF is X/AX mode anywways.
+think about deconstructing items quest / something - nevermind wanebare is taking care of it
+tagCraftWeap2Scythe01 -> missing tag from Dawn of Heroes
+TagClass12SkillName12B not found (Elementalist) fix it
+fix (H)arlequin  and terror knight mastery skillups so no gaps for special modifiers - not sure this was the problem.  maybe remove the decimals.. hmmm
+dga crystal reflect too much??? - so what. let wanebare worry about this.
+Pre add credit for Okami29 new mod : (http://www.grimdawn.com/forums/showthread.php?p=408819) Lost Treasures - not available yet
+added some placerholders for donate buttons on github page
+tagShoulderENCH01 tag issue
+change the npc spawns to expendable click items intead of npc spawns in the wild.  the click item will appear in your inventory :D make sure you have room - still broken atm.. skills won trigger
+the dismantle function doesn't work in DGA for some reasons. - not sure. let's see how DGA 0.4 pans out.. i comapred my rifts folder its identical wehre it matters.. with  DGA 0.31
+update dawn of heroes to 2.1
+update omega mod to 0.4
+check xp of x mode to see if it is working on stuff. - it works after clean build. derp derp derp derp derp
+
+0044 - 4:57 AM 7/9/2016
