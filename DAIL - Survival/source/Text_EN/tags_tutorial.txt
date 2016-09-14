@@ -12,13 +12,13 @@ tagLoadingTip10={^g}Tip: {^w}[DAIL 0054] Credit goes to Ceno and adoomgod for Co
 tagLoadingTip11={^g}Tip: {^w}[DAIL 0054] Credit goes to Princessluna for eternal mod aka DAIL survival.
 tagLoadingTip12={^g}Tip: {^w}[DAIL 0054] Credit goes to 3Jiou for the Frost Knight and Enchanter masteries
 tagLoadingTip13={^g}Tip: {^w}[DAIL 0054] Credit goes to Ceno for Zenith Masteries (Elementalist, Terror Knight)
-tagLoadingTip14={^g}Tip: {^w}[DAIL 0054] Credit goes to (Not Released) Kir4 for the Darkest Dawn Masteries (Arch Necromancer and Illusionist)
-tagLoadingTip15={^g}Tip: {^w}[DAIL 0054] Credit goes to  ASYLUM101 For the 9 Grim Quest Masteries (Titan Quest Influenced)
-tagLoadingTip16={^g}Tip: {^w}[DAIL 0054] Credit goes to  Koba0100 for the Engineer Mastery
-tagLoadingTip17={^g}Tip: {^w}[DAIL 0054] Credit goes to (Not Released) DraonCC for the Stargazer Mastery
+tagLoadingTip14={^g}Tip: {^w}[DAIL 0054] Credit goes to Kir4 for the Darkest Dawn Masteries (Arch Necromancer and Illusionist)
+tagLoadingTip15={^g}Tip: {^w}[DAIL 0054] Credit goes to ASYLUM101 For the 9 Grim Quest Masteries (Titan Quest Influenced)
+tagLoadingTip16={^g}Tip: {^w}[DAIL 0054] Credit goes to Koba0100 for the Engineer Mastery
+tagLoadingTip17={^g}Tip: {^w}[DAIL 0054] Credit goes to PH
 tagLoadingTip18={^g}Tip: {^w}[DAIL 0054] Credit goes to Atrosatiro for the Arlequin/Harlequin Mastery
-tagLoadingTip19={^g}Tip: {^w}[DAIL 0054] Credit goes to (Not Released) Diacred for the Elwar mastery
-tagLoadingTip20={^g}Tip: {^w}[DAIL 0054] Credit goes to (Not Released) 1less1 for the Diablo1 Remake Mod and DAIL - Diablo mode
+tagLoadingTip19={^g}Tip: {^w}[DAIL 0054] Credit goes to PH
+tagLoadingTip20={^g}Tip: {^w}[DAIL 0054] Credit goes to PH
 
 #Tutorial Pages
 

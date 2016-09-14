@@ -1,4 +1,4 @@
-templateName,database/templates/skilltree.tpl,
+templateName,database/templates/skilltree_expanded.tpl,
 ActorName,,
 Class,SkillTree,
 FileDescription,TestAgain,

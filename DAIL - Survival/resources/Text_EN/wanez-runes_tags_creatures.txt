@@ -1,3 +1,0 @@
-# RUNES
-
-tagWaRunesNPC_Crafter01=Materia Merger

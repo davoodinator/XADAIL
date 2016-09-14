@@ -1,7 +1,7 @@
 call paths
 
 rem prep the root - mirror the root - ignore the subdirs when mirroring
-robocopy "%SOURCE_PATH%\" "%SOURCE_PATH%\XADAIL" /XO *.bat *.txt *.nsi README /MIR /xd *.*
+robocopy "%SOURCE_PATH%\" "%SOURCE_PATH%\XADAIL" /XO *.bat *.txt *.nsi README /MIR /xd *.* /xf cl*.txt
 copy "%SOURCE_PATH%\DAIL\database\records\ui\skills\30_MasteriesClassSelection.7z" "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills" /y
 copy "%SOURCE_PATH%\DAIL\database\records\ui\skills\99_MasteriesClassSelection.7z" "%SOURCE_PATH%\XADAIL\DAIL\database\records\ui\skills" /y
 
