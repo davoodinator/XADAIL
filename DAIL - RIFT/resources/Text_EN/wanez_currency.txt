@@ -1,0 +1,39 @@
+# CURRENCY || ANTIQUITIES
+tagWaCurrencyNormal01_NAME=Antique Coin (Currency)
+tagWaCurrencyNormal01_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal02_NAME=Antique Book Page (Currency)
+tagWaCurrencyNormal02_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal03_NAME=Antique Cup (Currency)
+tagWaCurrencyNormal03_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal04_NAME=Antique Mirror (Currency)
+tagWaCurrencyNormal04_DESC="An Archaeologist would love to have this antiquity!"
+tagWaCurrencyNormal05_NAME=Antique Vase (Currency)
+tagWaCurrencyNormal05_DESC="An Archaeologist would love to have this antiquity!"
+
+# TOKEN || ESSENCE
+tagWaUpgradeTokenBeginner_NAME=Essence: Artifact (Normal)
+tagWaUpgradeTokenBeginner_DESC="This Essence is used to empower Artifacts (Beginner) or create Crafting-Materials!"
+tagWaEssenceEverlasting01_NAME=Essence: Everlasting
+tagWaEssenceEverlasting01_DESC="An Essence used to craft Antique Items, can only drop in Endless-DGA"
+
+# SOULS
+tagWaSoulCommon_NAME=Soul: Common (DGA)
+tagWaSoulCommon_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulChampion_NAME=Soul: Champion (DGA)
+tagWaSoulChampion_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulHero_NAME=Soul: Hero (DGA)
+tagWaSoulHero_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulNemesis_NAME=Soul: Nemesis (DGA)
+tagWaSoulNemesis_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulBoss_NAME=Soul: Boss (DGA)
+tagWaSoulBoss_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulRaid_NAME=Soul: Raid Boss (DGA)
+tagWaSoulRaid_DESC="Special Soul to trade with Soul-Eaters."
+tagWaSoulSouleater_NAME=Soul: Soul Eater (DGA)
+tagWaSoulSouleater_DESC="Special Soul to trade with Soul-Eaters."
+tagWaSoulAethercrystal_NAME=Soul: Aether Crystal (DGA)
+tagWaSoulAethercrystal_DESC="Souls can be used for a variety of things, trade them with Soul-Collectors and Soul-Eaters."
+tagWaSoulUber_NAME=Soul: Uber (DGA)
+tagWaSoulUber_DESC="Special Soul to trade with Soul-Eaters."
+
+tagWaEmpty=

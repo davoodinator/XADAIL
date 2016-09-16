@@ -1,0 +1,57 @@
+#NPCS
+tagDailDavoodFactioner=^oDavood the ^wAetherial Interdictor
+tagDailHardyFactioner=^oHardy the ^wAetherial Interdictor
+tagDailKhalanosFactioner=^oKhalanos the ^wAetherial Interdictor
+tagDailThentyZShopping=^oThentyZ The Cenobite Arch Deacon Nomenclature Seat of Elemental Advancement and Naming of Things
+
+#DAIL SPAWNS
+DAIL_AETHERIAL_POP=^rYou feel an aetherial rift open for a moment and your pockets begin to glow... you better check your packs!!!!!?!?!
+DAIL_AETHERIAL_POP2=^rYou feel an aetherial rift open from the glowing potion you smashed on the ground....! SOMETHING HAS STEPPED THROUGH!!?!?!?
+DAIL_AETHERIAL_ITEM=^rGlowing Scroll
+DAIL_AETHERIAL_ITEM2=^rYou feel like something is ready to burst from this bubbling potion......
+DAILsummonskilldisplay=^rSummon a friendly Aetherial
+DAILsummonskilldetails=^rThis skill summons a friendly Aetherial who will help you in exchange for something......
+
+#DAIL NEMESIS NOTIFIERS
+DAIL_NEMESIS_AETHERIAL=^rYou feel like the Aether has ripped open and something powerful has stepped through...!
+DAIL_NEMESIS_CTHONIAN=^rYou feel a primal urge to kill pass over you as something from the Cthonian void rips into this world. !
+DAIL_NEMESIS_KYMON=^rYou hear blades singing in the air as if alive... The Iron Maiden draws near!
+DAIL_NEMESIS_NECRO=^rThe hair on your neck begins to quiver as you feel a presence nearby.....
+DAIL_NEMESIS_OUTLAW=^rYou feel as if someone is watching you.. someone with a very strong intention to kill you...
+DAIL_NEMESIS_UNDEAD=^rYou feel a chill pass over you as you begin to notice the faint smell of lavender....
+
+#DAIL MERCHANTS
+tagDailThentyZShopping0001=^oThentyZ the ^wSoldier ^oEmissary of ^wCrate
+tagDailThentyZShopping0002=^oLumera Relendra the ^wDemolitionist ^oEmissary of ^wCrate
+tagDailThentyZShopping0003=^oTynor the ^wOccultist ^oEmissary of ^wCrate
+tagDailThentyZShopping0004=^oTT300 the ^wNightblade ^oEmissary of ^wCrate
+tagDailThentyZShopping0005=^oKhalanos the ^wArcanist ^oEmissary of ^wCrate
+tagDailThentyZShopping0006=^oPrincessLuna the ^wShaman ^oEmissary of ^wCrate
+tagDailThentyZShopping0007=^oÁvohaj the ^wNecromancer ^oEmissary of ^wCFTX
+tagDailThentyZShopping0008=^oHelskerm the ^wRanger ^oEmissary of ^wCFTX
+tagDailThentyZShopping0009=^oMorrolan Edrien the ^wCoronus ^oEmissary of ^wSomerled
+tagDailThentyZShopping0010=^oVizas the ^wFangshi ^oEmissary of ^wCFTX
+tagDailThentyZShopping0011=^oLordShigan the ^wFrost Knight ^oEmissary of ^wCeno
+tagDailThentyZShopping0012=^oSpace Chefke the ^wElementalist ^oEmissary of ^wCeno
+tagDailThentyZShopping0013=^oChris Baisan the ^wTerror Knight ^oEmissary of ^w3Jiou
+tagDailThentyZShopping0014=^oOkami29 the ^wArch Necromancer ^oEmissary of ^wKir4
+tagDailThentyZShopping0015=^oNatATon the ^wIllusionist ^oEmissary of ^wKir4
+tagDailThentyZShopping0016=^oJiaco the ^wDefense ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0017=^oMamba the ^wHunting ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0018=^oCyberreefer the ^wSpirit ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0019=^oAdoomgod the ^wWarfare ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0020=^oElfe the ^wNature ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0021=^oAngryWeasel the ^wRogue ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0022=^oAzri Kun the ^wEarth ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0023=^oOleg Martynov the ^wStorm ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0024=^oDeathbit the ^wDream ^oEmissary of ^wASYLUM101
+tagDailThentyZShopping0025=^oTrevor Manson the ^wStargazer ^oEmissary of ^wDraonCC
+tagDailThentyZShopping0026=^oSL AM the ^wPriest ^oEmissary of ^w3Jiou
+tagDailThentyZShopping0027=^oRorschachrev the ^wEngineer ^oEmissary of ^wKoba0100
+tagDailThentyZShopping0028=^oAaron Barton the ^wCenobite ^oEmissary of ^wCFTX
+tagDailThentyZShopping0029=^rKieran Cooper the ^wArleqin ^oEmissary of ^wAtrosatiro
+tagDailThentyZShopping0030=^rPLACEHOLDER the ^wElwar ^oEmissary of ^wDiacred
+
+#components
+dailCompDesc0000000=^pThis is a test item mk?
+dailCompText0000000=^oThis feels warm to the ^wtouch, almost familiar ^w(This component fits into all Jewellery slots including the ^wBelt And Shoulder)
