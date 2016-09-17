@@ -41,58 +41,58 @@ robocopy "%BATCH_DIR%DAIL\database\records\creatures" "%BATCH_DIR%DAIL - SURVIVA
 robocopy "%BATCH_DIR%DAIL\database\records\creatures" "%BATCH_DIR%DAIL - RIFT\database\records\creatures" /S /NFL /NDL
 
 rem ASSET REPLICATION
-robocopy "%BATCH_DIR%DAIL\assets\Custom" "%BATCH_DIR%DAIL - RIFT\assets\Custom" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\Custom" "%BATCH_DIR%DAIL - SURVIVAL\assets\Custom" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\effects" "%BATCH_DIR%DAIL - RIFT\assets\effects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\effects" "%BATCH_DIR%DAIL - SURVIVAL\assets\effects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\fx" "%BATCH_DIR%DAIL - RIFT\assets\fx" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\fx" "%BATCH_DIR%DAIL - SURVIVAL\assets\fx" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\ingameui" "%BATCH_DIR%DAIL - RIFT\assets\ingameui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\ingameui" "%BATCH_DIR%DAIL - SURVIVAL\assets\ingameui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\items" "%BATCH_DIR%DAIL - RIFT\assets\items" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\items" "%BATCH_DIR%DAIL - SURVIVAL\assets\items" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\meshes" "%BATCH_DIR%DAIL - RIFT\assets\meshes" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\meshes" "%BATCH_DIR%DAIL - SURVIVAL\assets\meshes" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\soundeffects" "%BATCH_DIR%DAIL - RIFT\assets\soundeffects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\soundeffects" "%BATCH_DIR%DAIL - SURVIVAL\assets\soundeffects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\sounds" "%BATCH_DIR%DAIL - RIFT\assets\sounds" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\sounds" "%BATCH_DIR%DAIL - SURVIVAL\assets\sounds" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\text_en" "%BATCH_DIR%DAIL - RIFT\assets\text_en" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\text_en" "%BATCH_DIR%DAIL - SURVIVAL\assets\text_en" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\textures" "%BATCH_DIR%DAIL - RIFT\assets\textures" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\textures" "%BATCH_DIR%DAIL - SURVIVAL\assets\textures" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\ui" "%BATCH_DIR%DAIL - RIFT\assets\ui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\ui" "%BATCH_DIR%DAIL - SURVIVAL\assets\ui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\wanez" "%BATCH_DIR%DAIL - SURVIVAL\assets\wanez" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\wanez-dga" "%BATCH_DIR%DAIL - SURVIVAL\assets\wanez-dga" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\xpack" "%BATCH_DIR%DAIL - RIFT\assets\xpack" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\assets\xpack" "%BATCH_DIR%DAIL - SURVIVAL\assets\xpack" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\Custom" "%BATCH_DIR%DAIL - RIFT\source\Custom" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\Custom" "%BATCH_DIR%DAIL - SURVIVAL\source\Custom" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\effects" "%BATCH_DIR%DAIL - RIFT\source\effects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\effects" "%BATCH_DIR%DAIL - SURVIVAL\source\effects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\fx" "%BATCH_DIR%DAIL - RIFT\source\fx" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\fx" "%BATCH_DIR%DAIL - SURVIVAL\source\fx" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\ingameui" "%BATCH_DIR%DAIL - RIFT\source\ingameui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\ingameui" "%BATCH_DIR%DAIL - SURVIVAL\source\ingameui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\items" "%BATCH_DIR%DAIL - RIFT\source\items" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\items" "%BATCH_DIR%DAIL - SURVIVAL\source\items" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\meshes" "%BATCH_DIR%DAIL - RIFT\source\meshes" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\meshes" "%BATCH_DIR%DAIL - SURVIVAL\source\meshes" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\soundeffects" "%BATCH_DIR%DAIL - RIFT\source\soundeffects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\soundeffects" "%BATCH_DIR%DAIL - SURVIVAL\source\soundeffects" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\sounds" "%BATCH_DIR%DAIL - RIFT\source\sounds" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\sounds" "%BATCH_DIR%DAIL - SURVIVAL\source\sounds" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\text_en" "%BATCH_DIR%DAIL - RIFT\source\text_en" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\text_en" "%BATCH_DIR%DAIL - SURVIVAL\source\text_en" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\textures" "%BATCH_DIR%DAIL - RIFT\source\textures" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\textures" "%BATCH_DIR%DAIL - SURVIVAL\source\textures" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\ui" "%BATCH_DIR%DAIL - RIFT\source\ui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\ui" "%BATCH_DIR%DAIL - SURVIVAL\source\ui" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\wanez" "%BATCH_DIR%DAIL - SURVIVAL\source\wanez" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\wanez-dga" "%BATCH_DIR%DAIL - SURVIVAL\source\wanez-dga" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\xpack" "%BATCH_DIR%DAIL - RIFT\source\xpack" /S /NFL /NDL /MIR /XD
-robocopy "%BATCH_DIR%DAIL\source\xpack" "%BATCH_DIR%DAIL - SURVIVAL\source\xpack" /S /NFL /NDL /MIR /XD
+robocopy "%BATCH_DIR%DAIL\assets\Custom" "%BATCH_DIR%DAIL - RIFT\assets\Custom" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\Custom" "%BATCH_DIR%DAIL - SURVIVAL\assets\Custom" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\effects" "%BATCH_DIR%DAIL - RIFT\assets\effects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\effects" "%BATCH_DIR%DAIL - SURVIVAL\assets\effects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\fx" "%BATCH_DIR%DAIL - RIFT\assets\fx" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\fx" "%BATCH_DIR%DAIL - SURVIVAL\assets\fx" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\ingameui" "%BATCH_DIR%DAIL - RIFT\assets\ingameui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\ingameui" "%BATCH_DIR%DAIL - SURVIVAL\assets\ingameui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\items" "%BATCH_DIR%DAIL - RIFT\assets\items" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\items" "%BATCH_DIR%DAIL - SURVIVAL\assets\items" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\meshes" "%BATCH_DIR%DAIL - RIFT\assets\meshes" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\meshes" "%BATCH_DIR%DAIL - SURVIVAL\assets\meshes" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\soundeffects" "%BATCH_DIR%DAIL - RIFT\assets\soundeffects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\soundeffects" "%BATCH_DIR%DAIL - SURVIVAL\assets\soundeffects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\sounds" "%BATCH_DIR%DAIL - RIFT\assets\sounds" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\sounds" "%BATCH_DIR%DAIL - SURVIVAL\assets\sounds" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\text_en" "%BATCH_DIR%DAIL - RIFT\assets\text_en" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\text_en" "%BATCH_DIR%DAIL - SURVIVAL\assets\text_en" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\textures" "%BATCH_DIR%DAIL - RIFT\assets\textures" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\textures" "%BATCH_DIR%DAIL - SURVIVAL\assets\textures" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\ui" "%BATCH_DIR%DAIL - RIFT\assets\ui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\ui" "%BATCH_DIR%DAIL - SURVIVAL\assets\ui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\wanez" "%BATCH_DIR%DAIL - SURVIVAL\assets\wanez" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\wanez-dga" "%BATCH_DIR%DAIL - SURVIVAL\assets\wanez-dga" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\xpack" "%BATCH_DIR%DAIL - RIFT\assets\xpack" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\assets\xpack" "%BATCH_DIR%DAIL - SURVIVAL\assets\xpack" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\Custom" "%BATCH_DIR%DAIL - RIFT\source\Custom" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\Custom" "%BATCH_DIR%DAIL - SURVIVAL\source\Custom" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\effects" "%BATCH_DIR%DAIL - RIFT\source\effects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\effects" "%BATCH_DIR%DAIL - SURVIVAL\source\effects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\fx" "%BATCH_DIR%DAIL - RIFT\source\fx" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\fx" "%BATCH_DIR%DAIL - SURVIVAL\source\fx" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\ingameui" "%BATCH_DIR%DAIL - RIFT\source\ingameui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\ingameui" "%BATCH_DIR%DAIL - SURVIVAL\source\ingameui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\items" "%BATCH_DIR%DAIL - RIFT\source\items" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\items" "%BATCH_DIR%DAIL - SURVIVAL\source\items" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\meshes" "%BATCH_DIR%DAIL - RIFT\source\meshes" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\meshes" "%BATCH_DIR%DAIL - SURVIVAL\source\meshes" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\soundeffects" "%BATCH_DIR%DAIL - RIFT\source\soundeffects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\soundeffects" "%BATCH_DIR%DAIL - SURVIVAL\source\soundeffects" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\sounds" "%BATCH_DIR%DAIL - RIFT\source\sounds" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\sounds" "%BATCH_DIR%DAIL - SURVIVAL\source\sounds" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\text_en" "%BATCH_DIR%DAIL - RIFT\source\text_en" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\text_en" "%BATCH_DIR%DAIL - SURVIVAL\source\text_en" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\textures" "%BATCH_DIR%DAIL - RIFT\source\textures" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\textures" "%BATCH_DIR%DAIL - SURVIVAL\source\textures" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\ui" "%BATCH_DIR%DAIL - RIFT\source\ui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\ui" "%BATCH_DIR%DAIL - SURVIVAL\source\ui" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\wanez" "%BATCH_DIR%DAIL - SURVIVAL\source\wanez" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\wanez-dga" "%BATCH_DIR%DAIL - SURVIVAL\source\wanez-dga" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\xpack" "%BATCH_DIR%DAIL - RIFT\source\xpack" /S /NFL /NDL  /XD
+robocopy "%BATCH_DIR%DAIL\source\xpack" "%BATCH_DIR%DAIL - SURVIVAL\source\xpack" /S /NFL /NDL  /XD
 
 rem DATABASE REPLICATION
 robocopy "%BATCH_DIR%DAIL\database\DAIL" "%BATCH_DIR%DAIL - RIFT\database\DAIL" /S /NFL /NDL /IF *.dbr
@@ -125,8 +125,8 @@ robocopy "%BATCH_DIR%DAIL\database\records\xpack" "%BATCH_DIR%DAIL - RIFT\databa
 robocopy "%BATCH_DIR%DAIL\database\records\xpack" "%BATCH_DIR%DAIL - SURVIVAL\database\records\xpack" /S /NFL /NDL  /IF *.dbr /xf crafting_table.dbr
 
 rem build SX and ASX mode
-robocopy "%BATCH_DIR%DAILmain - X\database" "%BATCH_DIR%DAILmain - SX\database" /S /NFL /NDL /IF *.dbr
-robocopy "%BATCH_DIR%DAILmain - AX\database" "%BATCH_DIR%DAILmain - ASX\database" /S /NFL /NDL /IF *.dbr
+robocopy "%BATCH_DIR%DAILmain - X\database" "%BATCH_DIR%DAILmain - SX\database" /S /NFL /NDL /IF *.dbr *.tpl
+robocopy "%BATCH_DIR%DAILmain - AX\database" "%BATCH_DIR%DAILmain - ASX\database" /S /NFL /NDL /IF *.dbr *.tpl
 
 rem grab the limit_unlimited.dbr from S mode
 copy ".\DAILmain - S\database\records\proxies\proxypoolequation_01.dbr" ".\DAILmain - SX\database\records\proxies\proxypoolequation_01.dbr" /y
