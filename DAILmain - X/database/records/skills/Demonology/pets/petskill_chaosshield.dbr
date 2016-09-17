@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffother.tpl,
+ActorName,,
+Class,Skill_BuffOther,
+FileDescription,,
+buffSkillName,records/skills/demonology/pets/petskill_chaosshield_buff.dbr,
+fileNameHistoryEntry,mods/dawnofheroes/records/skills/demonology/pets/petskill_chaosshield.dbr,

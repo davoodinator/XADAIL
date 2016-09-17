@@ -20,7 +20,7 @@ Arlequin [1.0] (Up to date 9/3/2016)
 Engineer [1.7 ](2016 07 31,updated in 051)(1.6 in 043)
 	http://www.grimdawn.com/forums/showthread.php?t=41693
 
-$$$$Coronus [1.3.0] (1.2.0 in 043)(Coronus 2.0 in production)		
+Coronus [2.0] (Up to date 9/15/2016)		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
 $$$$NCFF [0.61] (0.58 in 051)										
@@ -30,7 +30,7 @@ $$$$NCFF [0.61] (0.58 in 051)
 	Fangshi
 	Cenobite
 	
-$$$$Darkest Dawn [1.1] (1.0 in 051)									
+Darkest Dawn [1.1] (Up to date 9/14/2016)									
 	http://www.grimdawn.com/forums/showthread.php?t=39917
 	Arch-Necromancer
 	Illusionist
@@ -39,6 +39,7 @@ Dawn of Heros [3.4, 6.13.2] (Up to date 9/10/2016)
 	http://www.grimdawn.com/forums/showthread.php?t=40542
 	Frost Knight
 	Priest
+	Voidcaller
 
 Grim Quest [1.2] (Up to date 9/3/2016)
 	http://www.grimdawn.com/forums/showthread.php?t=39503
@@ -53,11 +54,15 @@ Grim Quest [1.2] (Up to date 9/3/2016)
 	Storm
 	Dream
 
-$$$$Zenith [0.3] (0.2c in 053)										
+Zenith [0.3] (Up to date 9/14/2016)										
 	http://www.grimdawn.com/forums/showthread.php?t=40486
 	Terror Knight
 	Elementalist
-
+	
+Demon Hunter [2.0] (Up to date 9/14/2016)
+	http://www.grimdawn.com/forums/showthread.php?t=45271
+	
+	
 ALTERNATE PLAY MODES
 ****************
 

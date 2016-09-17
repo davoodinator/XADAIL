@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,0,
+buffSkillName,records/skills/playerclass08/dd_decellerate1_buff.dbr,

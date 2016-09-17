@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,reaper's call,
+buffSkillName,records/skills/playerclass07/dd_reaperstouch3_buff.dbr,

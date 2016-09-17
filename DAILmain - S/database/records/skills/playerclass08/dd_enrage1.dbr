@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/playerclass08/dd_enrage1_buff.dbr,
+pointBlank,0,
+fileNameHistoryEntry,mods/darkestdawn/records/skills/playerclass08/dd_enrage1.dbr,
