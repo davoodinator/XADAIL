@@ -1,0 +1,1353 @@
+#########################
+#####	Smith
+
+tagNPC_transmogsmith=^oTibia the Tailor
+tagStoreTitle_transmogsmith=^rBony craftsman
+tagStoreDesc_transmog_1=Tibia uses ancient arkovian techniques 
+tagStoreDesc_transmog_2=to scam..ehm.. craft your equipment into legendary gear of old. No refunds.
+tagStoreDesc_transmog_3=
+tagStoreDesc_transmog_4=^gCompletion bonus:^r currently unavailable.
+tagTransmogScroll=Sexy Blueprint
+
+
+
+#########################
+#####	Item usable skill
+tagConsumableTransmogDesc=^y"What's in the box?!?!" ^n^h -Last words of Master Millus, as he reached for the crate presented to him by Oswald Hargate at the Arcanum Society.
+tagConsumableTransmog=CrateBox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#########################
+#####	swords1h
+
+tagTransmogTextSword1h=Slice 'em up in style.
+
+tagTransmoga00_sword001=Illusion: Shiv
+tagTransmoga01_sword001=Illusion: Gla
+tagTransmoga01_sword002=Illusion: Scrapmetal Razor
+tagTransmoga02_sword001=Illusion: Scrapmetal Shortsword
+tagTransmoga02_sword002=Illusion: Tarnished Carver
+tagTransmoga03_sword001=Illusion: Tarnished Shortsword
+tagTransmoga03_sword002=Illusion: Tarnished Razor
+tagTransmoga04_sword001=Illusion: Iron Broadsword
+tagTransmoga04_sword002=Illusion: Tarnished Butcher
+tagTransmoga05_sword001=Illusion: Iron Longsword
+tagTransmoga05_sword002=Illusion: Iron Cutlass
+tagTransmoga06_sword001=Illusion: Steel Broadsword
+tagTransmoga06_sword002=Illusion: Tarnished Mangler
+tagTransmoga07_sword001=Illusion: Steel Longsword
+tagTransmoga07_sword002=Illusion: Steel Bonesaw
+tagTransmoga08_sword001=Illusion: Raider Fellblade
+tagTransmoga08_sword002=Illusion: Raider Sabre
+tagTransmoga09_sword001=Illusion: Assault Broadsword
+tagTransmoga10_sword001=Illusion: Assault Cutlass
+tagTransmoga11_sword001=Illusion: Exalted Conqueror
+tagTransmoga11_sword002=Illusion: Exalted Butcher
+tagTransmogb000_sword=Illusion: Gladius
+tagTransmogb001_sword=Illusion: Salazar's Sovereign Blade
+tagTransmogb002_sword=Illusion: Spectral Broadsword
+tagTransmogb003_sword=Illusion: Spectral Longsword
+tagTransmogb004_sword=Illusion: Honed Longsword
+tagTransmogb005_sword=Illusion: Honed Broadsword
+tagTransmogb006_sword=Illusion: Honed Conqueror
+tagTransmogb007_sword=Illusion: Malkadarr's Dreadblade
+tagTransmogb008_sword=Illusion: Manticore Longsword
+tagTransmogb009a_sword=Illusion: Bonecarver
+tagTransmogb010a_sword=Illusion: Boneblade
+tagTransmogb011a_sword=Illusion: Dermapteran Claw
+tagTransmogb012a_sword=Illusion: Dermapteran Slicer
+tagTransmogb013a_sword=Illusion: Bloodlord's Blade
+
+tagTransmogc010_sword=Illusion: Soulthief
+tagTransmogc011_sword=Illusion: Chillblaze
+tagTransmogc012_sword=Illusion: Spinecarver
+tagTransmogc013_sword=Illusion: Assassin's Calling
+tagTransmogc014_sword=Illusion: Razor of the Blind Assassin
+tagTransmogc015_sword=Illusion: Stormseeker's Sabre
+tagTransmogc016_sword=Illusion: Willie's Razor
+tagTransmogc017_sword=Illusion: Bloodborn Sabre
+tagTransmogc018_sword=Illusion: Lightning Rod
+tagTransmogc019_sword=Illusion: Hound's Bite
+tagTransmogc020_sword=Illusion: Omen
+tagTransmogc021_sword=Illusion: Madness
+tagTransmogc022_sword=Illusion: Blood Carver
+tagTransmogc023_sword=Illusion: Willie's Razor
+tagTransmogc024_sword=Illusion: Duelist's Sabre
+tagTransmogc025_sword=Illusion: Magistrate's Censor
+tagTransmogc026_sword=Illusion: Flamebrand
+tagTransmogc027_sword=Illusion: Bloodreaper's Claw
+
+tagTransmogd001_sword=Illusion: Crimson Spike
+tagTransmogd002_sword=Illusion: Crystallum
+tagTransmogd003_sword=Illusion: Grim Fate
+tagTransmogd004_sword=Illusion: Mindwarp
+tagTransmogd005_sword=Illusion: Beronath Reforged
+tagTransmogd006_sword=Illusion: Bloodsong
+tagTransmogd007_sword=Illusion: Nex
+tagTransmogd008_sword=Illusion: Ortus
+tagTransmogd009_sword=Illusion: Deathmarked Claw
+tagTransmogd010_sword=Illusion: Stormheart
+tagTransmogd011_sword=Illusion: Reaver's Claw
+
+
+#########################
+#####	axe1h	
+
+tagTransmogTextAxe1h=Chop 'em up in style.
+
+tagTransmoga01_axe000=Illusion: Woodsman's Axe
+tagTransmoga01_axe001=Illusion: Sawblade
+tagTransmoga02_axe001=Illusion: Sawblade
+tagTransmoga02_axe002=Illusion: Hatchet
+tagTransmoga03_axe001=Illusion: Sawblade
+tagTransmoga03_axe002=Illusion: Cleaver
+tagTransmoga04_axe001=Illusion: Double Axe
+tagTransmoga05_axe001=Illusion: Hatchet
+tagTransmoga05_axe002=Illusion: Battle Axe
+tagTransmoga06_axe001=Illusion: Cleaver
+tagTransmoga06_axe002=Illusion: Bearded Axe
+tagTransmoga07_axe001=Illusion: Heavy Axe
+tagTransmoga07_axe002=Illusion: Crescent Axe
+tagTransmoga08_axe001=Illusion: Battle Axe
+tagTransmoga08_axe002=Illusion: Crescent Axe
+tagTransmoga09_axe001=Illusion: Battle Axe
+tagTransmoga10_axe001=Illusion: Heavy Axe
+tagTransmoga11_axe001=Illusion: Blade Axe
+tagTransmoga11_axe002=Illusion: Double Axe
+tagTransmogb000_axe=Illusion: Sawblade
+tagTransmogb001_axe=Illusion: Spectral Cleaver
+tagTransmogb002_axe=Illusion: Spectral Battle Axe
+tagTransmogb003_axe=Illusion: Pit Master's Axe
+tagTransmogb004a_axe=Illusion: Bonecleaver
+tagTransmogb005a_axe=Illusion: Bonescythe
+tagTransmogb006a_axe=Illusion: Olman's Axe
+
+tagTransmogc011_axe=Illusion: Notched Bone of a Thousand Deaths
+tagTransmogc012_axe=Illusion: Corpse Desecrator
+tagTransmogc013_axe=Illusion: Chonag'Ri
+tagTransmogc014_axe=Illusion: Asterkarn Cleaver
+tagTransmogc015_axe=Illusion: Hellclaw Slicer
+tagTransmogc016_axe=Illusion: Cruel Edge
+tagTransmogc017_axe=Illusion: Reaper's Touch
+tagTransmogc018_axe=Illusion: Gorefeast
+tagTransmogc019_axe=Illusion: Storm's Edge
+tagTransmogc020_axe=Illusion: Krieg's Cleaver
+tagTransmogc021_axe=Illusion: Maleficus
+tagTransmogc022_axe=Illusion: Doomsaw of Gluttony
+tagTransmogc023_axe=Illusion: Thirsting Maw
+tagTransmogc024_axe=Illusion: Immaterial Edge
+tagTransmogc025_axe=Illusion: Bloodreaper's Cleaver
+
+tagTransmogd001_axe=Illusion: Butcher of Burrwitch
+tagTransmogd002_axe=Illusion: Crescent Moon
+tagTransmogd003_axe=Illusion: Brutallax
+tagTransmogd004_axe=Illusion: Earthsplitter
+tagTransmogd005_axe=Illusion: Damnation
+tagTransmogd006_axe=Illusion: Deathmarked Decapitator
+
+
+#########################
+#####	blunt1h	
+
+tagTransmogTextBlunt1h=Knock 'em up in style. No, not that...
+
+tagTransmoga00_blunt001=Illusion: Club
+tagTransmoga01_blunt001=Illusion: Mace
+tagTransmoga01_blunt002=Illusion: Mace
+tagTransmoga02_blunt001=Illusion: Ball Mace
+tagTransmoga02_blunt002=Illusion: Flanged Mace
+tagTransmoga02_blunt003=Illusion: Club
+tagTransmoga03_blunt001=Illusion: Morningstar
+tagTransmoga03_blunt002=Illusion: Mallet
+tagTransmoga04_blunt001=Illusion: Flanged Mace
+tagTransmoga04_blunt002=Illusion: Truncheon
+tagTransmoga04_blunt003=Illusion: Club
+tagTransmoga05_blunt001=Illusion: Bladed Mace
+tagTransmoga05_blunt002=Illusion: Bludgeon
+tagTransmoga06_blunt001=Illusion: Bludgeon
+tagTransmoga06_blunt002=Illusion: Warhammer
+tagTransmoga07_blunt001=Illusion: Morningstar
+tagTransmoga07_blunt002=Illusion: Warhammer
+tagTransmoga07_blunt003=Illusion: Warhammer
+tagTransmoga08_blunt001=Illusion: Bladed Mace
+tagTransmoga08_blunt002=Illusion: Warmace
+tagTransmoga09_blunt001=Illusion: Bladed Mace
+tagTransmoga09_blunt002=Illusion: Warhammer
+tagTransmoga10_blunt001=Illusion: Warhammer
+tagTransmoga11_blunt001=Illusion: Warmace
+tagTransmoga11_blunt002=Illusion: Mallet
+
+tagTransmogb001_blunta=Illusion: Warden's Verdict
+tagTransmogb001_bluntb=Illusion: Warden's Judgement
+tagTransmogb004_blunt=Illusion: Spectral Morningstar
+tagTransmogb005_blunt=Illusion: Spectral Bludgeon
+tagTransmogb006_blunt=Illusion: Kilrian's Skullbreaker
+tagTransmogb007a_torch=Illusion: Skinner's Torch
+tagTransmogb007b2_torch=Illusion: Skinner's Torch
+tagTransmogb009_blunt=Illusion: Adept's Bladed Mace
+tagTransmogb010_blunt=Illusion: Adept's Morningstar
+tagTransmogb011_blunt=Illusion: Adept's Flanged Mace
+tagTransmogb012a_blunt=Illusion: Mutant Arm
+tagTransmogb013a_blunt=Illusion: Mutant Bludgeon
+
+
+tagTransmogc009_blunt=Illusion: Defiance
+tagTransmogc010_blunt=Illusion: Aethersteel Arbiter
+tagTransmogc011_blunt=Illusion: Fist of the Blind Assassin
+tagTransmogc013_blunt=Illusion: Black Hand of Sanar'Siin
+tagTransmogc014_blunt=Illusion: Progenitor
+tagTransmogc015_blunt=Illusion: War's Rebuke
+tagTransmogc016_blunt=Illusion: Gavel of Barthollem
+tagTransmogc017_blunt=Illusion: Chillsteel Redeemer
+tagTransmogc018_blunt=Illusion: Aetherwoe
+tagTransmogc019_blunt=Illusion: Anarchy
+tagTransmogc020_blunt=Illusion: Touch of Malice
+tagTransmogc021_blunt=Illusion: Bonesnap Gavel
+tagTransmogc022_blunt=Illusion: Sacred Hammer of Eternal Wrath
+tagTransmogc023_blunt=Illusion: Blessed Torch
+tagTransmogc024_blunt=Illusion: Spiritcrusher
+tagTransmogc025_blunt=Illusion: Guardsman's Hammer
+
+tagTransmogd001_blunt=Illusion: Death Omen
+tagTransmogd002_blunt=Illusion: Beacon of the Winter's Veil
+tagTransmogd003_blunt=Illusion: Agony
+tagTransmogd004_blunt=Illusion: Herald of Blazing Ends
+tagTransmogd005_blunt=Illusion: Plaguebearer of Dreeg
+tagTransmogd006_blunt=Illusion: Dawnbreaker's Sledge
+tagTransmogm01_groblestaff001=Illusion: Crude Staff
+tagTransmogm03_groblestaff001=Illusion: Pine Staff
+tagTransmogm05_groblestaff001=Illusion: Cedar Staff
+tagWeaponArcaneA006=Oak Staff
+tagTransmogm07_groblestaff001=Illusion: Blackwood Staff
+
+
+#########################
+#####	caster	
+
+tagTransmogTextCaster=Who doesn't sparkle these days?
+
+tagTransmoga01_dagger001=Illusion: Sacrifical Knife 
+tagTransmoga02_scepter001=Illusion: Wand 
+tagTransmoga03_scepter001=Illusion: Scepter
+tagTransmoga04_dagger001=Illusion: Arcane Dagger
+tagTransmoga04_scepter001=Illusion: Arcane Wand
+tagTransmoga05_dagger001=Illusion: Spellblade
+tagTransmoga06_scepter001=Illusion: Ritual Wand
+tagTransmoga07_scepter001=Illusion: Ritual Scepter
+tagTransmoga08_dagger001=Illusion: Ritual Blade
+tagTransmoga09_dagger001=Illusion: Exalted Dagger
+tagTransmoga09_scepter001=Illusion: Exalted Scepter
+tagTransmogb000_dagger=Illusion: Sacrifical Knife
+tagTransmogb001_dagger001=Illusion: Adept's Dagger
+tagTransmogb002_dagger001=Illusion: Adept's Spellblade
+tagTransmogb003_dagger001=Illusion: Master's Spellblade
+tagTransmogb004_scepter001=Illusion: Adept's Wand
+tagTransmogb005_scepter001=Illusion: Adept's Scepter
+tagTransmogb006_scepter001=Illusion: Master's Scepter
+tagTransmogb007a_dagger=Illusion: Witch's Spellblade
+tagTransmogb008a_dagger=Illusion: Boneshiv
+tagTransmogb009a_dagger=Illusion: Bonespike
+tagTransmogb010a_dagger=Illusion: Rift Scourge Claw
+tagTransmogb011a_dagger=Illusion: Rift Scourge Slicer
+tagTransmogb012a_scepter=Illusion: Bloodsworn Wand
+tagTransmogb013a_scepter=Illusion: Bloodsworn Scepter
+tagTransmogb014a_dagger=Illusion: Loxmere's Frostblade
+tagTransmogb015a_dagger=Illusion: Slithtongue
+
+tagTransmogc011_scepter=Illusion: Sparkstone Scepter
+tagTransmogc012_scepter=Illusion: Firestorm Scepter
+
+tagTransmogc016_dagger=Illusion: Spellweaver
+tagTransmogc017_scepter=Illusion: Blightstone Invoker
+tagTransmogc018_scepter=Illusion: Cosmic Invoker
+tagTransmogc019_scepter=Illusion: Stormtrap
+tagTransmogc020_dagger=Illusion: Hellrune Carver
+tagTransmogc021_dagger=Illusion: Glacierborn Spellblade
+tagTransmogc022_dagger=Illusion: Bloodied Dagger of the Covenant
+tagTransmogc023_scepter=Illusion: Blackwood Wand
+tagTransmogc024_scepter=Illusion: Burning Hatred
+tagTransmogc025_scepter=Illusion: Spellfire Wand
+tagTransmogc026_scepter=Illusion: Chillheart Scepter
+tagTransmogc027_dagger=Illusion: Stormcaller's Spellblade
+tagTransmogc028_dagger=Illusion: Voidblade
+tagTransmogc029_dagger=Illusion: Plagueblood Carver
+tagTransmogc030_dagger=Illusion: Soulcarver
+tagTransmogc031_scepter=Illusion: Cortosian Invoker
+tagTransmogc032_scepter=Illusion: Coldsnap
+tagTransmogc033_scepter=Illusion: Lifebinder
+tagTransmogc034_dagger=Illusion: Skyshard Spellblade
+tagTransmogc035_dagger=Illusion: Tainted Blade of Nera'Val
+tagTransmogc036_dagger=Illusion: Fiendblood Spellblade
+tagTransmogd001_scepter=Illusion: Touch of Purity
+tagTransmogd002_scepter=Illusion: Black Scourge
+tagTransmogd003_scepter=Illusion: Wrath of the Ascendant
+tagTransmogd004_scepter=Illusion: Soulbearer
+tagTransmogd005_scepter=Illusion: Olexra's Chill
+tagTransmogd006_scepter=Illusion: Panetti's Replicating Wand
+tagTransmogd007_scepter=Illusion: Spark of Ultos
+tagTransmogd008_dagger=Illusion: Shard of Asterkarn
+tagTransmogd009_dagger=Illusion: Venomlash
+tagTransmogd010_dagger=Illusion: Warpfire
+tagTransmogd011_dagger=Illusion: Temporal Tempest
+tagTransmogd012_dagger=Illusion: Dracarris
+tagTransmogd013_dagger=Illusion: Fang of Ch'thon
+tagTransmogd014_dagger=Illusion: Basilisk Claw
+tagTransmogd015_scepter=Illusion: Clairvoyant's Wand
+tagTransmogd016_dagger=Illusion: Runed Dagger of Dreeg
+tagTransmogd017_scepter=Illusion: Trozan's Starkeeper
+
+
+
+#########################
+#####	melee2h
+
+tagTransmogTextMelee2h=For those who must compensate for something.
+
+tagTransmoga01_axe2h001=Illusion: Great Axe
+tagTransmoga01_sword2h001=Illusion: Greatsword
+tagTransmoga02_blunt2h001=Illusion: Maul
+tagTransmoga03_axe2h001=Illusion: Great Axe
+tagTransmoga03_sword2h001=Illusion: Warsword
+tagTransmoga04_blunt2h001=Illusion: Maul
+tagTransmoga04_sword2h001=Illusion: Claymore
+tagTransmoga05_axe2h001=Illusion: Scythe
+tagTransmoga06_blunt2h001=Illusion: Sledgehammer
+tagTransmoga06_sword2h001=Illusion: Claymore
+tagTransmoga07_axe2h001=Illusion: Halberd
+tagTransmoga07_blunt2h001=Illusion: Warmaul
+tagTransmoga08_axe2h001=Illusion: War Axe
+tagTransmoga08_sword2h001=Illusion: Claymore
+tagTransmoga09_blunt2h001=Illusion: Warmaul
+tagTransmoga09_sword2h001=Illusion: Warsword
+tagTransmoga10_axe2h001=Illusion: Halberd
+tagTransmoga10_sword2h001=Illusion: Greatsword
+tagTransmoga11_axe2h001=Illusion: War Axe
+tagTransmoga11_blunt2h001=Illusion: Sledgehammer
+tagTransmoga11_sword2h001=Illusion: Claymore
+tagTransmogb001a_blunt2h=Illusion: Troll Bonesmasher
+tagTransmogb002a_blunt2h=Illusion: Troll Bonecrusher
+tagTransmogb003_axe2h=Illusion: Brutal Great Axe
+tagTransmogb004_axe2h=Illusion: Brutal Carver
+tagTransmogb005_axe2h=Illusion: Brutal Decapitator
+tagTransmogb006a_axe2h=Illusion: Alkamos' Scythe
+tagTransmogb007a_axe2h=Illusion: Spectral War Axe
+tagTransmogb008a_blunt2h=Illusion: Spectral Warmaul
+tagTransmogb009a_sword2h=Illusion: Alkamos' Warsword
+tagTransmogb010a_blunt2h=Illusion: Archon's Warmaul
+tagTransmogb011a_axe2h=Illusion: Obsidian Headsplitter
+tagTransmogb012a_axe2h=Illusion: Obsidian War Cleaver
+tagTransmogb013a_sword2h=Illusion: Hevill's Greatsword
+
+tagTransmogc013_sword2h=Illusion: Razorleaf Glaive
+tagTransmogc014_axe2h=Illusion: Scythe of Tenebris
+tagTransmogc015_blunt2h=Illusion: Warhammer of Heavenly Judgment
+tagTransmogc016_axe2h=Illusion: Champion of the Light
+tagTransmogc017_axe2h=Illusion: Wildcaller's Decapitator
+tagTransmogc018_blunt2h=Illusion: Shar'Zul's Furnace
+tagTransmogc019_sword2h=Illusion: Wrathmourne
+tagTransmogc020_axe2h=Illusion: Trollgut Eviscerator
+tagTransmogc021_axe2h=Illusion: Blessed Cleaver of Mogdrogen
+tagTransmogc022_sword2h=Illusion: Gutwrench Eviscerator
+tagTransmogc023_axe2h=Illusion: Massacre
+tagTransmogc024_sword2h=Illusion: Slithbane
+tagTransmogc025_axe2h=Illusion: Falcon's Claw
+tagTransmogc026_blunt2h=Illusion: Tremor
+tagTransmogc027_sword2h=Illusion: Conduit
+tagTransmogc028_axe2h=Illusion: Boneshard Lacerator
+tagTransmogc029_blunt2h=Illusion: Golemfist Gavel
+tagTransmogc030_sword2h=Illusion: Wrathblade
+tagTransmogc031_axe2h=Illusion: Farmstead Liberator
+tagTransmogc032_blunt2h=Illusion: Alvarick's Rebuke
+tagTransmogc033_axe2h=Illusion: Prismatic Eviscerator
+tagTransmogc034_blunt2h=Illusion: Shar'Zul's Incinerator
+tagTransmogc035_axe2h=Illusion: Wildcaller's Decapitator
+tagTransmogd001_blunt2h=Illusion: Stonefist Rebuke
+tagTransmogd002_axe2h=Illusion: The Guillotine
+tagTransmogd003_sword2h=Illusion: Nightshade's Reach
+tagTransmogd004_blunt2h=Illusion: Obsidian Juggernaut
+tagTransmogd005_blunt2h=Illusion: Infernal Brimstone
+tagTransmogd006_axe2h=Illusion: Stormreaver
+tagTransmogd007_sword2h=Illusion: Bane of the Winter King
+tagTransmogd008_sword2h=Illusion: Temporal Arcblade
+tagTransmogd009_blunt2h=Illusion: Wildblood Crusher
+tagTransmogd010_axe2h=Illusion: Ultos' Stormseeker
+tagTransmogd011_blunt2h=Illusion: Leviathan
+
+
+
+#########################
+#####	guns2h
+
+tagTransmogTextGuns2h=
+
+tagTransmoga01_gun2h000=Illusion: Musket
+tagTransmoga01_gun2h001=Illusion: Musket
+tagTransmoga01_gun2h002=Illusion: Flintlock Rifle
+tagTransmoga01_gun2h003=Illusion: Crossbow
+tagTransmoga02_gun2h001=Illusion: Bolt-Action Rifle
+tagTransmoga02_gun2h002=Illusion: Blunderbuss
+tagTransmoga02_gun2h003=Illusion: Crossbow
+tagTransmoga03_gun2h001=Illusion: Bolt-Action Rifle
+tagTransmoga03_gun2h002=Illusion: Revolving Cannon
+tagTransmoga03_gun2h003=Illusion: Arbalest
+tagTransmoga04_gun2h001=Illusion: Repeating Rifle
+tagTransmoga04_gun2h002=Illusion: Shotgun
+tagTransmoga04_gun2h003=Illusion: Heavy Crossbow
+tagTransmoga05_gun2h001=Illusion: Carbine
+tagTransmoga05_gun2h002=Illusion: Revolving Cannon
+tagTransmoga05_gun2h003=Illusion: Arbalest
+tagTransmoga06_gun2h001=Illusion: Carbine
+tagTransmoga06_gun2h002=Illusion: Blunderbuss
+tagTransmoga06_gun2h003=Illusion: Arbalest
+tagTransmoga07_gun2h001=Illusion: Carbine
+tagTransmoga07_gun2h002=Illusion: Breechloading Rifle
+tagTransmoga07_gun2h003=Illusion: Crossbow
+tagTransmoga08_gun2h001=Illusion: Revolving Rifle
+tagTransmoga08_gun2h002=Illusion: Shotgun
+tagTransmoga08_gun2h003=Illusion: Scorpion
+tagTransmoga09_gun2h001=Illusion: Carbine
+tagTransmoga09_gun2h002=Illusion: Blunderbuss
+tagTransmoga10_gun2h001=Illusion: Shotgun
+tagTransmoga10_gun2h003=Illusion: Scorpion
+tagTransmoga11_gun2h001=Illusion: Carbine
+tagTransmoga11_gun2h003=Illusion: Scorpion
+tagTransmogb001_gun2h=Illusion: Spectral Crossbow
+tagTransmogb002_gun2h=Illusion: Spectral Arbalest
+tagTransmogb003_gun2h=Illusion: Rotating Rifle
+tagTransmogb004_gun2h=Illusion: Frontloading Rifle
+tagTransmogb005_gun2h=Illusion: Shrapnel Gun
+tagTransmogb006a_gun2h=Illusion: Fleshwarped Rifle
+tagTransmogb007a_gun2h=Illusion: Fleshwarped Carbine
+tagTransmogb008a_gun2h=Illusion: Ghavlin's Crossbow
+
+tagTransmogc012_gun2h=Illusion: Wretched Crow of Bysmiel
+tagTransmogc013_gun2h=Illusion: Ulda'Jax
+
+tagTransmogc017_gun2h=Illusion: Wrathbringer
+tagTransmogc018_gun2h=Illusion: Thunderclap
+
+tagTransmogc020_gun2h=Illusion: Sharpshooter's Bolt Rifle
+
+tagTransmogc022_gun2h=Illusion: Nar's Arcane Destroyer
+tagTransmogc023_gun2h=Illusion: Warpbreath Arbalest
+tagTransmogc024_gun2h=Illusion: Wrathsteel Repeater
+tagTransmogc025_gun2h=Illusion: Flame Keeper's Repeater
+tagTransmogc026_gun2h=Illusion: Boltspitter
+tagTransmogc027_gun2h=Illusion: Malady
+tagTransmogc028_gun2h=Illusion: Curse of Burrwitch
+tagTransmogc029_gun2h=Illusion: Blackwood Arbalest
+tagTransmogc030_gun2h=Illusion: Frigid Quillbreath
+tagTransmogc031_gun2h=Illusion: Stake-Thrower
+tagTransmogc032_gun2h=Illusion: Arachnid's Embrace
+tagTransmogc033_gun2h=Illusion: Sparkbolt Arbalest
+tagTransmogc034_gun2h=Illusion: Huntsman
+tagTransmogc035_gun2h=Illusion: Eye
+tagTransmogc036_gun2h=Illusion: Hellmaw Shotgun
+tagTransmogc037_gun2h=Illusion: Devil's Mark
+tagTransmogc038_gun2h=Illusion: Will of Fate
+tagTransmogc039_gun2h=Illusion: Scarlet Marksman
+tagTransmogc040_gun2h=Illusion: Salt-core Bolter
+tagTransmogc041_gun2h=Illusion: Brimstone Repeater
+
+tagTransmogd001_gun2h=Illusion: Silverbolt
+tagTransmogd002_gun2h=Illusion: Quillthrower of Dreeg
+tagTransmogd003_gun2h=Illusion: The Northern Wyrm
+tagTransmogd004_gun2h=Illusion: Raka'Jax
+tagTransmogd005_gun2h=Illusion: The Adversary
+tagTransmogd006_gun2h=Illusion: Witching Hour
+tagTransmogd007_gun2h=Illusion: Hellborne
+tagTransmogd008_gun2h=Illusion: Vortex of Souls
+tagTransmogd009_gun2h=Illusion: Gutripper
+tagTransmogd010_gun2h=Illusion: Harbinger of Eternal Suffering
+tagTransmogd011_gun2h=Illusion: Ulzuin's Flamespreader
+tagTransmogd012_gun2h=Illusion: Valdun's Rifle
+
+
+
+#########################
+#####	guns1h
+
+tagTransmogTextGuns1h=
+
+tagTransmoga01_gun1h001=Illusion: Hand-Blunderbuss
+tagTransmoga01_gun1h002=Illusion: Howdah
+tagTransmoga02_gun1h001=Illusion: Hand-Blunderbuss
+tagTransmoga02_gun1h002=Illusion: Pepperbox Gun
+tagTransmoga03_gun1h001=Illusion: Hand Cannon
+tagTransmoga03_gun1h002=Illusion: Howdah
+tagTransmoga04_gun1h001=Illusion: Revolver
+tagTransmoga04_gun1h002=Illusion: Sixgun
+tagTransmoga04_gun1h003=Illusion: Pepperbox Gun
+tagTransmoga05_gun1h001=Illusion: Derringer
+tagTransmoga05_gun1h002=Illusion: Howdah
+tagTransmoga06_gun1h001=Illusion: Hand-Blunderbuss
+tagTransmoga06_gun1h002=Illusion: Repeater
+tagTransmoga06_gun1h003=Illusion: Scope Revolver
+tagTransmoga07_gun1h001=Illusion: Hand Cannon
+tagTransmoga07_gun1h002=Illusion: Sixgun
+tagTransmoga07_gun1h003=Illusion: Volley Gun
+tagTransmoga08_gun1h001=Illusion: Howdah
+tagTransmoga08_gun1h002=Illusion: Revolver
+tagTransmoga09_gun1h001=Illusion: Howdah
+tagTransmoga10_gun1h001=Illusion: Hand-Blunderbuss
+tagTransmoga10_gun1h002=Illusion: Volley Gun
+tagTransmoga11_gun1h001=Illusion: Hand-Blunderbuss
+tagTransmoga11_gun1h002=Illusion: Derringer
+tagTransmogb001_gun1h=Illusion: Double-Barrel Pistol
+tagTransmogb002_gun1h=Illusion: Hand Mortar
+tagTransmogb003_gun1h=Illusion: Shrapnel Pistol
+tagTransmogb004a_gun1h=Illusion: Bloodsworn Pistol
+tagTransmogb005a_gun1h=Illusion: Bloodsworn Repeater
+tagTransmogb006a_gun1h=Illusion: Francis' Gun
+
+tagTransmogc013_gun1h=Illusion: The Mediator
+tagTransmogc014_gun1h=Illusion: Frigid Barrel of the Relentless North
+tagTransmogc015_gun1h=Illusion: Burrwitch Peacekeeper
+
+tagTransmogc018_gun1h=Illusion: Corpseflayer
+tagTransmogc019_gun1h=Illusion: Earthscorcher
+tagTransmogc020_gun1h=Illusion: Chillborer
+tagTransmogc021_gun1h=Illusion: Leander Greene's Hand Cannon
+tagTransmogc022_gun1h=Illusion: Witchstalker
+tagTransmogc023_gun1h=Illusion: Orwell's Revolver
+tagTransmogc024_gun1h=Illusion: Slugger
+tagTransmogc025_gun1h=Illusion: 3rd Company's Revolver
+tagTransmogc026_gun1h=Illusion: Mutiny
+tagTransmogc027_gun1h=Illusion: Outlaw's Retribution
+tagTransmogc028_gun1h=Illusion: Slime Bolter
+tagTransmogc029_gun1h=Illusion: Soulflayer
+tagTransmogc030_gun1h=Illusion: Plagueborne Revolver
+tagTransmogc031_gun1h=Illusion: Marauder's Fury
+tagTransmogc032_gun1h=Illusion: Marauder's Justice
+tagTransmogc033_gun1h=Illusion: Apothecary's Injector
+tagTransmogc034_gun1h=Illusion: Oathbreaker
+tagTransmogd001_gun1h=Illusion: Deviltongue
+tagTransmogd002_gun1h=Illusion: Havoc
+tagTransmogd003_gun1h=Illusion: Exonerator
+tagTransmogd004_gun1h=Illusion: Exterminus
+tagTransmogd005_gun1h=Illusion: Arcanum Sigillis
+tagTransmogd006_gun1h=Illusion: Deathdealer's Sidearm
+tagTransmogd007_gun1h=Illusion: Demonslayer's Life-Ender
+tagTransmogd008_gun1h=Illusion: Barrelsmith's Salvo
+tagTransmogd009_gun1h=Illusion: Barrelsmith's Crossfire
+
+
+#########################
+#####	chest
+
+tagTransmogTextChest=
+
+tagTransmogChest01=Illusion: Chestname
+tagTransmoga00_torso001=Illusion: Clothing1
+tagTransmoga00_torso002=Illusion: Clothing Blue
+tagTransmoga00_torso003=Illusion: Clothing White
+tagTransmoga00_torso004=Illusion: Patchwork Jacket
+tagTransmoga01_torso001=Illusion: Novice Tunic
+tagTransmoga01_torso002=Illusion: Quilted Coat
+tagTransmoga01_torso003=Illusion: Leather Jacket
+tagTransmoga02_torso001=Illusion: Leather Coat
+tagTransmoga02_torso001b=Illusion: Quilted Armor
+tagTransmoga02_torso002=Illusion: Salvaged Armor
+tagTransmoga02_torso003=Illusion: Hide Jacket
+tagTransmoga02_torso004=Illusion: Apprentice Tunic
+tagTransmoga03_torso001=Illusion: Patchwork Doublet
+tagTransmoga03_torso001b=Illusion: Brigandine Armor
+tagTransmoga03_torso002=Illusion: Padded Trenchcoat
+tagTransmoga03_torso003=Illusion: Brigandine Jacket
+tagTransmoga03_torso004=Illusion: Leather Vestment
+tagTransmoga04_torso001=Illusion: Engraved Coat
+tagTransmoga04_torso002=Illusion: Plate Armor
+tagTransmoga04_torso003=Illusion: Salvaged Breastplate
+tagTransmoga04_torso004=Illusion: Restored Raiment
+tagTransmoga05_torso001=Illusion: Infantry Doublet
+tagTransmoga05_torso001b=Illusion: Chain Armor
+tagTransmoga05_torso002=Illusion: Combat Trenchcoat
+tagTransmoga05_torso003=Illusion: Infantry Chestguard
+tagTransmoga05_torso004=Illusion: Embroidered Raiment
+tagTransmoga06_torso001=Illusion: Bronze Cuirass
+tagTransmoga06_torso002=Illusion: Splinted Surcoat
+tagTransmoga06_torso003=Illusion: Plate Harness
+tagTransmoga06_torso004=Illusion: Ornate Robe
+tagTransmoga07_torso001=Illusion: Frontier Hauberk
+tagTransmoga07_torso002=Illusion: Heavy Surcoat
+tagTransmoga07_torso004=Illusion: Gilded Vestment
+tagTransmoga08_torso001=Illusion: Hinterland Breastplate
+tagTransmoga08_torso002=Illusion: Assault Chainmail
+tagTransmoga08_torso004=Illusion: Opulent Robe
+tagTransmoga09_torso001=Illusion: Imperial Hauberk
+tagTransmoga09_torso002=Illusion: Imperial Platemail
+tagTransmoga09_torso004=Illusion: Imperial Raiment
+tagTransmoga10_torso001=Illusion: Assault Hauberk6
+tagTransmoga10_torso002=Illusion: Exalted Platemail
+tagTransmoga10_torso004=Illusion: Exalted Vestment
+b001 bcd b002 bc
+tagTransmogb002d_torso=Illusion: Murderer's Breastplate
+b003ab
+tagTransmogb003c_torso=Illusion: Fortified Doublet
+b006ab
+tagTransmogb006c_torso=Illusion: Haunted Robes
+b007ab
+tagTransmogb007c_torso=Illusion: Haunted Vestment
+b008ab
+tagTransmogb008c_torso=Illusion: Ascended Robes
+b009ab
+tagTransmogb009c_torso=Illusion: Ascended Vestment
+b010abc
+tagTransmogb010d_torso=Illusion: Fleshwarped Cuirass
+b011abc
+tagTransmogb011d_torso=Illusion: Fleshwarped Platemail
+b012abc b013ab
+tagTransmogb013c_torso=Illusion: Bloodsworn Vestments
+c000-c006
+tagTransmogc007_torso=Illusion: Explorer's Tunic
+c008-c011
+tagTransmogc012_torso=Illusion: Obsidian-Plate Cuirass
+tagTransmogc013_torso=Illusion: Magnison's Trench Coat
+tagTransmogc014_torso=Illusion: Vestment of Mourning
+tagTransmogc015_torso=Illusion: Spidersilk Hauberk
+tagTransmogc016_torso=Illusion: Cloth of Unspeakable Invocation
+c017 c018
+tagTransmogc019_torso=Illusion: Stealth Jacket of the Blind Assassin
+tagTransmogc020_torso=Illusion: Sharpshooter's Coat
+tagTransmogc021_torso=Illusion: Dawnguard Plate
+c022 c023
+tagTransmogc024_torso=Illusion: Eastern Robes
+c025
+tagTransmogc026_torso=Illusion: Wildspeaker Coat
+tagTransmogc027_torso=Illusion: Praetorian Chestguard
+tagTransmogc028_torso=Illusion: Voidforged Battle Plate
+tagTransmogc029_torso=Illusion: Flame Keeper's Jacket
+tagTransmogc030_torso=Illusion: Callidor's Vestments
+tagTransmogc031_torso=Illusion: Myrmidon Chestguard
+tagTransmogc032_torso=Illusion: Surcoat of Mogdrogen
+tagTransmogc033_torso=Illusion: Nighthunter's Chestguard
+tagTransmogc034_torso=Illusion: Gunslinger's Jacket
+tagTransmogc035_torso=Illusion: Malduin's Cloth
+tagTransmogc036_torso=Illusion: Doomforged Breastplate
+tagTransmogc037_torso=Illusion: Fanatic's Overcoat
+tagTransmogc038_torso=Illusion: Fused Carapace Armor
+tagTransmogc039_torso=Illusion: Skinflayer Raiment
+tagTransmogc040_torso=Illusion: Zolhan's Battle Plate
+tagTransmogc041_torso=Illusion: Guardsman's Breastplate
+tagTransmogc043_torso=Illusion: Bloodreaper's Coat
+tagTransmogc044_torso=Illusion: Miasma Robes
+tagTransmogc045_torso=Illusion: Wildcaller's Skins
+tagTransmogc046_torso=Illusion: Herald's Jacket
+tagTransmogc047_torso=Illusion: Chestguard of Perdition
+d000
+tagTransmogd001_torso=Illusion: Fiendscale Jacket
+tagTransmogd002_torso=Illusion: Devil's Cage Hauberk
+tagTransmogd003_torso=Illusion: Shroud of Illusion
+tagTransmogd004_torso=Illusion: Vestments of the Great Guardian
+tagTransmogd005_torso=Illusion: Dread Armor of Azragor
+tagTransmogd006_torso=Illusion: Korvoran's Chestguard
+tagTransmogd007_torso=Illusion: Fiendmaster Raiment
+tagTransmogd008_torso=Illusion: Divinesteel Hauberk
+tagTransmogd009_torso=Illusion: Chestguard of Justice
+tagTransmogd010_torso=Illusion: Beastcaller's Shroud
+tagTransmogd011_torso=Illusion: Demonslayer's Jacket
+tagTransmogd012_torso=Illusion: Clairvoyant's Robe
+tagTransmogd013_torso=Illusion: Markovian's Platemail
+tagTransmogd014_torso=Illusion: Ulzuin's Chestguard
+tagTransmogd015_torso=Illusion: Vestments of Dreeg
+tagTransmogd016_torso=Illusion: Deathmarked Jacket
+tagTransmogd017_torso=Illusion: Iskandra's Vestments
+tagTransmogd018_torso=Illusion: Ultos' Cuirass
+tagTransmogd019_torso=Illusion: Frostdread Cuirass
+tagTransmogd020_torso=Illusion: Trozan's Vestments
+tagTransmogd021_torso=Illusion: Valdun's Jacket
+tagTransmogm01_torso002=Illusion: Bloodstained Tunic
+tagTransmogm01_torso002b=Illusion: Bloodstained Robes
+tagTransmogm01_torso001=Illusion: Air
+tagTransmogm01_torso001a=Illusion: Air Tan
+tagTransmogm01_torso001b=Illusion: Air Brown
+tagTransmogm01_torso001c=Illusion: Air Grey
+tagTransmogm01_torso001d=Illusion: Air Belt
+tagTransmogm01_torso001e=Illusion: Air Bandolier
+tagTransmogm01_torso001f=Illusion: Air Bandolier Tan
+
+
+
+#########################
+#####	feet
+
+tagTransmogTextFeet=Trotters for every occasion.
+
+tagTransmoga01_feet01=Illusion: Footpads
+tagTransmoga01_feet02=Illusion: Boots1
+tagTransmoga02_feet01=Illusion: Boots2
+tagTransmoga02_feet02=Illusion: Greaves1
+tagTransmoga03_feet01=Illusion: Greaves2
+tagTransmoga03_feet02=Illusion: Treads1
+tagTransmoga04_feet01=Illusion: Boots3
+tagTransmoga04_feet02=Illusion: Boots4
+tagTransmoga05_feet01=Illusion: Greaves3
+tagTransmoga05_feet02=Illusion: Boots5
+tagTransmoga06_feet01=Illusion: Sabatons1
+tagTransmoga06_feet02=Illusion: Treads2
+tagTransmoga07_feet01=Illusion: Greaves4
+tagTransmoga07_feet02=Illusion: Greaves5
+tagTransmoga08_feet01=Illusion: Sabatons2
+tagTransmoga08_feet02=Illusion: Treads3
+tagTransmoga09_feet01=Illusion: Sabatons3
+tagTransmoga09_feet02=Illusion: Treads4
+tagTransmogb001_feet=Illusion: Adept's Boots
+tagTransmogb002_feet=Illusion: Squire's Boots
+tagTransmogb003_feet=Illusion: Adept's Greaves
+tagTransmogb004_feet=Illusion: Squire's Greaves
+c00-c004
+tagTransmogc005_feet=Illusion: Explorer's Footpads
+c006-c009
+tagTransmogc010_feet=Illusion: Hellion Greaves
+tagTransmogc011_feet=Illusion: Serpentine Wraps
+tagTransmogc012_feet=Illusion: Desecrator Treads
+tagTransmogc013_feet=Illusion: Spellsage Boots
+tagTransmogc014_feet=Illusion: Magelord's Greaves
+tagTransmogc015_feet=Illusion: Molten Walkers
+tagTransmogc016_feet=Illusion: Windborne Greaves
+tagTransmogc017_feet=Illusion: Boots of Unseeing Swiftness
+tagTransmogc018_feet=Illusion: Stonewrought Groundbreakers
+tagTransmogc019_feet=Illusion: Bloodhound Greaves
+tagTransmogc020_feet=Illusion: Final March
+tagTransmogc021_feet=Illusion: Rifthound Leather Boots
+tagTransmogc022_feet=Illusion: Dreadnought Footpads
+d000
+tagTransmogd001_feet=Illusion: Golemborn Greaves
+tagTransmogd002_feet=Illusion: Wyrmscale Footguards
+tagTransmogd003_feet=Illusion: Venomspine Greaves
+tagTransmogd004_feet=Illusion: Voidwalker Footpads
+tagTransmogd005_feet=Illusion: Boneshatter Treads
+tagTransmogd006_feet=Illusion: Wraithwalkers
+tagTransmogd007_feet=Illusion: Windshear Greaves
+tagTransmogd008_feet=Illusion: Stormtitan Treads
+tagTransmogd009_feet=Illusion: Footpads of the Grey Magi
+tagTransmogd010_feet=Illusion: Earthshatter Treads
+
+
+#########################
+#####	hands
+
+tagTransmogTextHands=
+
+tagTransmoga01_hands01=Illusion: Grips1
+tagTransmoga01_hands02=Illusion: Grips2
+tagTransmoga02_hands01=Illusion: Gloves1
+tagTransmoga02_hands02=Illusion: Gauntlets1
+tagTransmoga03_hands01=Illusion: Vambraces1
+tagTransmoga03_hands02=Illusion: Gloves2
+tagTransmoga04_hands01=Illusion: Gloves3
+tagTransmoga04_hands02=Illusion: Gauntlets2
+tagTransmoga05_hands01=Illusion: Vambraces2
+tagTransmoga05_hands02=Illusion: Handguards1
+tagTransmoga06_hands01=Illusion: Gloves4
+tagTransmoga06_hands02=Illusion: Gauntlets3
+tagTransmoga07_hands01=Illusion: Gauntlets4
+tagTransmoga07_hands02=Illusion: Handguards2
+tagTransmoga08_hands01=Illusion: Gauntlets5
+tagTransmoga08_hands02=Illusion: Handguards3
+tagTransmoga09_hands01=Illusion: Vambraces3
+tagTransmoga09_hands02=Illusion: Handguards4
+tagTransmogb001_hands=Illusion: Adept's Gloves
+tagTransmogb002_hands=Illusion: Squire's Gauntlets
+tagTransmogb003_hands=Illusion: Adept's Grips
+tagTransmogb004_hands=Illusion: Squire's Handguards
+c000-c008
+tagTransmogc009_hands=Illusion: Runic Bracers
+tagTransmogc010_hands=Illusion: Blacksteel Gauntlets
+tagTransmogc011_hands=Illusion: Silktouch Handwraps
+c013,c014
+tagTransmogc015_hands=Illusion: Dawnguard Gauntlets
+c016,c017
+tagTransmogc018_hands=Illusion: Eastern Gloves
+c019
+tagTransmogc020_hands=Illusion: Obsidian Grasp
+tagTransmogc021_hands=Illusion: Doomtouch
+tagTransmogc022_hands=Illusion: Dreadchill Grasp
+tagTransmogc023_hands=Illusion: Shadow's Grasp
+tagTransmogc024_hands=Illusion: Zealot's Gauntlets
+tagTransmogc025_hands=Illusion: Bladedancer's Handguards
+tagTransmogc026_hands=Illusion: Spellbinder's Grip
+tagTransmogc027_hands=Illusion: Soul's Touch
+tagTransmogc028_hands=Illusion: Embergrip Handguards
+tagTransmogc029_hands=Illusion: Inscribed Bracers
+tagTransmogc030_hands=Illusion: Brawler's Gloves
+tagTransmogc031_hands=Illusion: Quickdraw Gloves
+tagTransmogc032_hands=Illusion: Thundertouch Bracers
+tagTransmogc033_hands=Illusion: Marauder's Gloves
+tagTransmogc034_hands=Illusion: Apothecary's Touch
+tagTransmogc035_hands=Illusion: Handguards of Perdition
+d000
+tagTransmogd001_hands=Illusion: Grasp of Unchained Might
+tagTransmogd002_hands=Illusion: Touch of the Everliving Grove
+tagTransmogd003_hands=Illusion: Voidsteel Gauntlets
+tagTransmogd004_hands=Illusion: Necromancer's Deathgrips
+tagTransmogd005_hands=Illusion: Wyrmbone Handguards
+tagTransmogd006_hands=Illusion: Iceskorn Talons
+tagTransmogd007_hands=Illusion: Viperfang Grips
+tagTransmogd008_hands=Illusion: Aethereach
+tagTransmogd009_hands=Illusion: Colossal Grasp
+tagTransmogd010_hands=Illusion: Handguards of Justice
+tagTransmogd011_hands=Illusion: Harbinger's Grasp
+
+
+#########################
+#####	head
+
+tagTransmogTextHead=
+
+b001-bc b002-bc b003-bc b004-bc  b005-bc b006-bc b011ab b012ab b013abc b014abc b015ab b016abcd
+c000 c001 c002 c003 c004 c005 c006 c008 c009 c010 c011 c012 c017 c018 c024 c025 c026 d000
+tagTransmoga01_head001=Illusion: Helm1
+tagTransmoga01_head002=Illusion: Casque1
+tagTransmoga01_head003=Illusion: Cap1
+tagTransmoga01_head004=Illusion: Circlet1
+tagTransmoga02_head001=Illusion: Cap2
+tagTransmoga02_head002=Illusion: Helm2
+tagTransmoga02_head003=Illusion: Hat1
+tagTransmoga02_head005=Illusion: Coif Brown
+tagTransmoga03_head001=Illusion: Cap3
+tagTransmoga03_head002=Illusion: Helmet1
+tagTransmoga03_head004=Illusion: Diadem1
+tagTransmoga04_head001=Illusion: Helmet2
+tagTransmoga04_head002=Illusion: Basinet1
+tagTransmoga04_head003=Illusion: Hat2
+tagTransmoga04_head005=Illusion: Hood1
+tagTransmoga05_head001=Illusion: Mask1
+tagTransmoga05_head002=Illusion: Helm3
+tagTransmoga05_head004=Illusion: Coronet1
+tagTransmoga06_head001=Illusion: Mask2
+tagTransmoga06_head002=Illusion: Casque2
+tagTransmoga06_head003=Illusion: Hat3
+tagTransmoga06_head005=Illusion: Mask3
+tagTransmoga07_head001=Illusion: Helm4
+tagTransmoga07_head002=Illusion: Basinet2
+tagTransmoga07_head004=Illusion: Diadem2
+tagTransmoga08_head001=Illusion: Coif2
+tagTransmoga08_head002=Illusion: Helm5
+tagTransmoga08_head003=Illusion: Hat4
+tagTransmoga08_head005=Illusion: Visage1
+tagTransmoga09_head001=Illusion: Basinet3
+tagTransmoga09_head002=Illusion: Casque3
+tagTransmoga09_head004=Illusion: Coronet2
+tagTransmoga10_head001=Illusion: Basinet4
+tagTransmoga10_head002=Illusion: Helm6
+tagTransmoga10_head003=Illusion: Hat5
+tagTransmoga10_head005=Illusion: Visage
+tagTransmogb001d_head=Illusion: Incendiary Helm
+tagTransmogb002d_head=Illusion: Incendiary Casque
+tagTransmogb003d_head=Illusion: Ascended Helm
+tagTransmogb004d_head=Illusion: Ascended Casque
+tagTransmogb005d_head=Illusion: Murderer's Coif
+tagTransmogb006d_head=Illusion: Murderer's Cowl
+tagTransmogb007_head=Illusion: Adept's Hood
+tagTransmogb008_head=Illusion: Ranger's Helm
+tagTransmogb009_head=Illusion: Adept's Circlet
+tagTransmogb010_head=Illusion: Ranger's Casque
+tagTransmogb011c_head=Illusion: Ascended Circlet
+tagTransmogb012c_head=Illusion: Ascended Diadem
+tagTransmogb013d_head=Illusion: Fleshwarped Helm
+tagTransmogb014d_head=Illusion: Fleshwarped Casque
+tagTransmogb015c_head=Illusion: Spectral Crown
+tagTransmogb016e_head=Illusion: Milton's Casque
+tagTransmogc007_head=Illusion: Explorer's Cover
+tagTransmogc013_head=Illusion: Glory of the Silver Knight
+tagTransmogc014_head=Illusion: Terror of the Grove
+tagTransmogc015_head=Illusion: Spiritweaver Circlet
+tagTransmogc016_head=Illusion: Shadowspark Hood
+tagTransmogc019_head=Illusion: Cowl of the Blind Assassin
+tagTransmogc020_head=Illusion: Sharpshooter's Glass Eye
+tagTransmogc021_head=Illusion: Unholy Visage of the Covenant
+tagTransmogc022_head=Illusion: Cowl of the Paragon
+tagTransmogc023_head=Illusion: Dawnguard Helm
+tagTransmogc027_head=Illusion: Praetorian Faceguard
+tagTransmogc028_head=Illusion: Frostshard Crown
+tagTransmogc029_head=Illusion: Circlet of Burning Rage
+tagTransmogc030_head=Illusion: Eyes of the Reaper
+tagTransmogc031_head=Illusion: Myrmidon Visor
+tagTransmogc032_head=Illusion: Cowl of Mogdrogen
+tagTransmogc033_head=Illusion: Stormcaller's Circlet
+tagTransmogc034_head=Illusion: Berserker's Cowl
+tagTransmogc035_head=Illusion: Nether Crown
+tagTransmogc036_head=Illusion: Crown of Command
+tagTransmogc037_head=Illusion: Templar's Headguard
+tagTransmogc038_head=Illusion: Eye of the Beholder
+tagTransmogc039_head=Illusion: Mask of Delirium
+tagTransmogc040_head=Illusion: Tempest of the Void
+tagTransmogc041_head=Illusion: Guardsman's Helm
+tagTransmogc043_head=Illusion: Maiven's Hood
+tagTransmogc044_head=Illusion: Bloodreaper's Cowl
+tagTransmogc045_head=Illusion: Miasma Hood
+tagTransmogc046_head=Illusion: Eyes of Flame
+tagTransmogc047_head=Illusion: Wildcaller's Cowl
+tagTransmogc048_head=Illusion: Herald's Mask
+tagTransmogc049_head=Illusion: Faceguard of Perdition
+tagTransmogd001_head=Illusion: Maw of Despair
+tagTransmogd002_head=Illusion: Dread-Mask of Gurgoth
+tagTransmogd003_head=Illusion: Whisperer of Secrets
+tagTransmogd004_head=Illusion: Abyssal Mask
+tagTransmogd005_head=Illusion: Circlet of the Great Serpent
+tagTransmogd006_head=Illusion: Mask of Infernal Truth
+tagTransmogd007_head=Illusion: Faceguard of Justice
+tagTransmogd008_head=Illusion: Beastcaller's Cowl
+tagTransmogd009_head=Illusion: Mask of the Harbinger
+tagTransmogd010_head=Illusion: Demonslayer's Hat
+tagTransmogd011_head=Illusion: Clairvoyant's Hat
+tagTransmogd012_head=Illusion: Markovian's Visor
+tagTransmogd013_head=Illusion: Ulzuin's Headguard
+tagTransmogd014_head=Illusion: Hood of Dreeg
+tagTransmogd015_head=Illusion: Deathmarked Hood
+tagTransmogd016_head=Illusion: Iskandra's Hood
+tagTransmogd017_head=Illusion: Ultos' Hood
+tagTransmogd018_head=Illusion: Crown of the Winter King
+tagTransmogd019_head=Illusion: Trozan's Hat
+tagTransmogd020_head=Illusion: Valdun's Hat
+tagTransmogd021_head=Illusion: Outcast's Secret
+tagTransmogm01_head_caster_01=Illusion: Hat Brown
+tagTransmogm01_head_caster_02=Illusion: Hat Black
+tagTransmogm02_head_hood_01=Illusion: Coif Red
+tagTransmogm02_head_hood_02=Illusion: Coif Red Mouthpiece
+
+
+#########################
+#####	legs
+
+tagTransmogTextLegs=
+
+c000 c001 c002 c003 c005 c006 c007 c008 d000
+tagTransmoga00_legs01=Illusion: Pants1
+tagTransmoga01_legs01=Illusion: Pants2
+tagTransmoga01_legs02=Illusion: Breeches1
+tagTransmoga02_legs01=Illusion: Leggings1
+tagTransmoga02_legs02=Illusion: Pants3
+tagTransmoga03_legs01=Illusion: Legwraps1
+tagTransmoga03_legs02=Illusion: Breeches2
+tagTransmoga04_legs01=Illusion: Legwraps2
+tagTransmoga04_legs02=Illusion: Chausses1
+tagTransmoga05_legs01=Illusion: Pants4
+tagTransmoga05_legs02=Illusion: Legguards1
+tagTransmoga06_legs01=Illusion: Leggings2
+tagTransmoga06_legs02=Illusion: Chausses2
+tagTransmoga07_legs01=Illusion: Leggings3
+tagTransmoga07_legs02=Illusion: Legguards2
+tagTransmoga08_legs01=Illusion: Leggings4
+tagTransmoga08_legs02=Illusion: Legguards3
+tagTransmoga09_legs01=Illusion: Leggings5
+tagTransmoga09_legs02=Illusion: Chausses3
+tagTransmogc004_legs=Illusion: Explorer's Trousers
+tagTransmogc009_legs=Illusion: Flesheater Legwraps
+tagTransmogc010_legs=Illusion: Shadeleather Leggings
+tagTransmogc011_legs=Illusion: Hulking Legguards
+tagTransmogc012_legs=Illusion: Eastern Legguards
+tagTransmogc013_legs=Illusion: Bladeguard Leggings
+tagTransmogc014_legs=Illusion: Rifthound Legwraps
+tagTransmogc015_legs=Illusion: Spellweave Legwraps
+tagTransmogc016_legs=Illusion: Mistwalker Leggings
+tagTransmogc017_legs=Illusion: Hermit's Legguards
+tagTransmogc018_legs=Illusion: Swampdweller's Legguards
+tagTransmogc019_legs=Illusion: Soiled Trousers
+tagTransmogc020_legs=Illusion: Slithscale Legwraps
+tagTransmogc021_legs=Illusion: Templar's Leg Armor
+tagTransmogc022_legs=Illusion: Legplates of Valor
+tagTransmogd001_legs=Illusion: Demonbone Legplates
+tagTransmogd002_legs=Illusion: Boneweave Leggings
+tagTransmogd003_legs=Illusion: Deathwhisper Leggings
+tagTransmogd004_legs=Illusion: Hellforged Legplates
+tagTransmogd005_legs=Illusion: Fateweaver's Leggings
+tagTransmogd006_legs=Illusion: Wraithborne Legwraps
+tagTransmogd007_legs=Illusion: Arcane Harmony Leggings
+tagTransmogd008_legs=Illusion: Thornhide Legguards
+tagTransmogd009_legs=Illusion: Nidalla's Legwraps
+tagTransmogd010_legs=Illusion: Legwraps of the Tranquil Mind
+tagTransmogd011_legs=Illusion: Chausses of Barbaros
+tagTransmogd012_legs=Illusion: Stormcage Legguards
+tagTransmogd013_legs=Illusion: Pretty Great Pants
+tagTransmogd014_legs=Illusion: Wildshorn Legguards
+
+
+#########################
+#####	shoulders
+
+tagTransmogTextPads=Makes you look bigger.
+
+b001 bc b002 bc b003 bc b004 bc b005 bc b006 bc b007ab b008ab b009ab b010ab b011ab b012abc b013abc b014ab b015ab b016ab b017ab b018ab b019ab b020ab b021ab b022ab b023ab b024ab b025ab 
+c000 c001-6 c010 c015 d000
+tagTransmoga02_shoulder01=Illusion: Spaulders1
+tagTransmoga02_shoulder02=Illusion: Shoulderplates1
+tagTransmoga03_shoulder01=Illusion: Mantle1
+tagTransmoga03_shoulder02=Illusion: Spaulders2
+tagTransmoga03_shoulder03=Illusion: Shoulderguard1
+tagTransmoga04_shoulder01=Illusion: Shoulderguard2
+tagTransmoga04_shoulder02=Illusion: Pauldrons1
+tagTransmoga05_shoulder01=Illusion: Spaulders3
+tagTransmoga05_shoulder02=Illusion: Spaulders4
+tagTransmoga06_shoulder01=Illusion: Mantle2
+tagTransmoga06_shoulder02=Illusion: Shoulderplates2
+tagTransmoga06_shoulder03=Illusion: Shoulderguard3
+tagTransmoga07_shoulder01=Illusion: Epaulets1
+tagTransmoga07_shoulder02=Illusion: Pauldrons2
+tagTransmoga08_shoulder01=Illusion: Spaulders5
+tagTransmoga08_shoulder02=Illusion: Shoulderplates3
+tagTransmoga09_shoulder01=Illusion: Spaulders6
+tagTransmoga09_shoulder02=Illusion: Shoulderplates4
+tagTransmogb001d_shoulder=Illusion: Incendiary Spaulders
+tagTransmogb002d_shoulder=Illusion: Incendiary Shoulderplates
+tagTransmogb003d_shoulder=Illusion: Ascended Spaulders 
+tagTransmogb004d_shoulder=Illusion: Ascended Shoulderplates
+tagTransmogb005d_shoulder=Illusion: Murderer's Spaulders
+tagTransmogb006d_shoulder=Illusion: Murderer's Epaulets
+tagTransmogb007c_shoulder=Illusion: Isaac's Spaulders
+tagTransmogb008c_shoulder=Illusion: Haunted Mantle
+tagTransmogb009c_shoulder=Illusion: Haunted Shoulderpad
+tagTransmogb010c_shoulder=Illusion: Ascended Mantle
+tagTransmogb011c_shoulder=Illusion: Ascended Epaulets
+tagTransmogb012d_shoulder=Illusion: Fleshwarped Spaulders
+tagTransmogb013d_shoulder=Illusion: Fleshwarped Pauldrons
+tagTransmogb014c_shoulder=Illusion: Valdaran's Mantle
+tagTransmogb015c_shoulder=Illusion: Valdaran's Shoulderguard
+tagTransmogb016c_shoulder=Illusion: Benn'Jahr's Shoulderguards
+tagTransmogb017c_shoulder=Illusion: Benn'Jahr's Pauldrons
+tagTransmogb018c_shoulder=Illusion: Moosilauke's Shoulderguards
+tagTransmogb019c_shoulder=Illusion: Moosilauke's Pauldrons
+tagTransmogb020c_shoulder=Illusion: Iron Maiden's Mantle
+tagTransmogb021c_shoulder=Illusion: Iron Maiden's Shoulderguard
+tagTransmogb022c_shoulder=Illusion: Zantarin's Mantle
+tagTransmogb023c_shoulder=Illusion: Zantarin's Shoulderguard
+tagTransmogb024c_shoulder=Illusion: Fabius' Shoulderguard
+tagTransmogb025c_shoulder=Illusion: Fabius' Pauldron
+tagTransmogc007_shoulder=Illusion: Shellshock Epaulets
+tagTransmogc008_shoulder=Illusion: Decorated Pauldrons
+tagTransmogc009_shoulder=Illusion: Mantle of the Patron
+tagTransmogc012_shoulder=Illusion: Unholy Mantle of the Covenant
+tagTransmogc013_shoulder=Illusion: Shoulderguard of the Paragon
+tagTransmogc014_shoulder=Illusion: Dawnguard Epaulets
+tagTransmogc016_shoulder=Illusion: Praetorian Shoulderguard
+tagTransmogc017_shoulder=Illusion: Alchemist's Mantle
+tagTransmogc018_shoulder=Illusion: Chillmane Mantle
+tagTransmogc019_shoulder=Illusion: Amarastan Pauldrons
+tagTransmogc020_shoulder=Illusion: Flame Keeper's Pauldrons
+tagTransmogc021_shoulder=Illusion: Callidor's Mantle
+tagTransmogc022_shoulder=Illusion: Razorback's Spined Mantle
+tagTransmogc023_shoulder=Illusion: Astral Mantle
+tagTransmogc024_shoulder=Illusion: Warlord's Spaulders
+tagTransmogc025_shoulder=Illusion: Grenadier Shoulderguard
+tagTransmogc026_shoulder=Illusion: Mantle of the Weeping Eye
+tagTransmogc027_shoulder=Illusion: Guardsman's Spaulders
+tagTransmogc028_shoulder=Illusion: Brimstone Shoulderguard
+tagTransmogc029_shoulder=Illusion: Shoulderguards of Perdition
+tagTransmogc030_shoulder=Illusion: Spaulders of Mogdrogen
+tagTransmogd001_shoulder=Illusion: Fateweaver's Mantle
+tagTransmogd002_shoulder=Illusion: Divinesteel Shoulderguard
+tagTransmogd003_shoulder=Illusion: Bloodfury Spaulders
+tagTransmogd004_shoulder=Illusion: Shadowflame Mantle
+tagTransmogd005_shoulder=Illusion: Titan Pauldrons
+tagTransmogd006_shoulder=Illusion: Chilldread Mantle
+tagTransmogd007_shoulder=Illusion: Vileblood Mantle
+tagTransmogd008_shoulder=Illusion: Fiendflesh Mantle
+tagTransmogd009_shoulder=Illusion: Shoulderguards of Justice
+tagTransmogd010_shoulder=Illusion: Beastcaller's Shoulderpads
+tagTransmogd011_shoulder=Illusion: Dawnbreaker's Shoulderguard
+tagTransmogd012_shoulder=Illusion: Wildblood Mantle
+tagTransmogd013_shoulder=Illusion: Clairvoyant's Mantle
+tagTransmogd014_shoulder=Illusion: Markovian's Vanguard
+tagTransmogd015_shoulder=Illusion: Ulzuin's Shoulderguard
+tagTransmogd016_shoulder=Illusion: Mantle of Dreeg
+tagTransmogd017_shoulder=Illusion: Deathmarked Shoulderguard
+tagTransmogd018_shoulder=Illusion: Iskandra's Pauldrons
+tagTransmogd019_shoulder=Illusion: Ultos' Spaulders
+tagTransmogd020_shoulder=Illusion: Mantle of Mogdrogen
+tagTransmogd021_shoulder=Illusion: Trozan's Mantle
+tagTransmogm01_shoulder01=Illusion: Shoulderplates01
+tagTransmogm01_shoulder01b=Illusion: Spaulders02
+tagTransmogm01_shoulder01c=Illusion: Pauldrons03
+tagTransmogm01_shoulder01d=Illusion: Spaulders04
+
+
+
+#########################
+#####	medal
+
+tagTransmogTextMedal=A shiny medal just for you.
+
+b003ab b004ab b005ab c000-8 c011 c014-16 c018 d000 medal_visible
+tagTransmoga001_medal01=Illusion: Ribbon
+tagTransmoga002_medal01=Illusion: Badge
+tagTransmoga003_medal01=Illusion: Mark
+tagTransmoga004_medal01=Illusion: Crest
+tagTransmoga005_medal01=Illusion: Star
+tagTransmoga006_medal01=Illusion: Imperial Crest
+tagTransmoga007_medal01=Illusion: Imperial Star
+tagTransmogb001_medal=Illusion: Ranger's Ribbon
+tagTransmogb002_medal=Illusion: Ranger's Badge
+tagTransmogb003c_medal=Illusion: Ikrix Scale
+tagTransmogb004c_medal=Illusion: Kymon's Badge
+tagTransmogb005c_medal=Illusion: Bloodsworn Sigil
+tagTransmogc009_medal=Illusion: Vanguard Star
+tagTransmogc010_medal=Illusion: Badge of the Crimson Company
+tagTransmogc012_medal=Illusion: Unholy Sigil of the Covenant
+tagTransmogc013_medal=Illusion: Ribbon of Valiance
+tagTransmogc017_medal=Illusion: Mark of the False Gods
+tagTransmogc019_medal=Illusion: Mogdrogen Sigil
+tagTransmogc020_medal=Illusion: Illusionist's Mark
+tagTransmogc021_medal=Illusion: Black Star of Deceit
+tagTransmogc022_medal=Illusion: Mark of the Nymph
+tagTransmogc023_medal=Illusion: Star of Frozen Skies
+tagTransmogc024_medal=Illusion: Volcanum
+tagTransmogc025_medal=Illusion: Mark of Fierce Resolve
+tagTransmogc026_medal=Illusion: Myrmidon Revered Star
+tagTransmogc027_medal=Illusion: Beast Slayer's Mark
+tagTransmogc028_medal=Illusion: Badge of Tenacity
+tagTransmogc029_medal=Illusion: Insignia of Justice
+tagTransmogc030_medal=Illusion: Crimson Heart
+tagTransmogc031_medal=Illusion: Enchanter's Insignia
+tagTransmogc032_medal=Illusion: Heretic's Sigil
+tagTransmogc033_medal=Illusion: Gutworm's Bloody Seal
+tagTransmogc034_medal=Illusion: Combat Medic's Mark
+tagTransmogc035_medal=Illusion: Mark of the Templar
+tagTransmogc036_medal=Illusion: Arcanum Sigil
+tagTransmogc037_medal=Illusion: Tempest Sigil
+tagTransmogc038_medal=Illusion: Bloodreaper's Mark
+tagTransmogc039_medal=Illusion: Apothecary's Sign
+tagTransmogd001_medal=Illusion: Mark of the Apostate
+tagTransmogd002_medal=Illusion: Badge of Mastery
+tagTransmogd003_medal=Illusion: Pyroclasm Mark
+tagTransmogd004_medal=Illusion: Sigil of the Bear King
+tagTransmogd005_medal=Illusion: Blood Sigil of Ch'Thon
+tagTransmogd006_medal=Illusion: Direwolf Crest
+tagTransmogd007_medal=Illusion: Undying Oath
+tagTransmogd008_medal=Illusion: Markovian's Stratagem
+tagTransmogd009_medal=Illusion: Mark of Dark Dreams
+tagTransmogd010_medal=Illusion: Mark of Anathema
+tagTransmogd011_medal=Illusion: Mark of Divinity
+tagTransmogd012_medal=Illusion: Beastcaller's Talisman
+
+
+
+#########################
+#####	shields
+
+tagTransmogTextShield=Shiny, for extra crowd-control.
+
+c000-8 c011-14 d000
+tagTransmoga00_shield01=Illusion: Plank Shield1
+tagTransmoga01_shield01=Illusion: Buckler1
+tagTransmoga01_shield02=Illusion: Round Shield1
+tagTransmoga02_shield01=Illusion: Heater Shield1
+tagTransmoga02_shield02=Illusion: Round Shield2
+tagTransmoga03_shield01=Illusion: War Shield1
+tagTransmoga03_shield02=Illusion: Tower Shield1
+tagTransmoga04_shield01=Illusion: Heater Shield2
+tagTransmoga04_shield02=Illusion: Rondache1
+tagTransmoga05_shield01=Illusion: Tower Shield2
+tagTransmoga06_shield01=Illusion: Heater Shield3
+tagTransmoga06_shield02=Illusion: Aegis1
+tagTransmoga07_shield01=Illusion: Tower Shield3
+tagTransmoga08_shield01=Illusion: Kite Shield1
+tagTransmoga08_shield02=Illusion: Aegis2
+tagTransmoga09_shield01=Illusion: Kite Shield2
+tagTransmoga10_shield01=Illusion: Tower Shield4
+tagTransmogb000_shield=Illusion: Buckler2
+tagTransmogb001b_shielda=Illusion: Warden's Bulwark1
+tagTransmogb001b_shieldb=Illusion: Warden's Fortress1
+tagTransmogb001c_shielda=Illusion: Warden's Bulwark2
+tagTransmogb001c_shieldb=Illusion: Warden's Fortress2
+tagTransmogb001d_shielda=Illusion: Warden's Bulwark3
+tagTransmogb001d_shieldb=Illusion: Warden's Fortress3
+tagTransmogb001_shielda=Illusion: Warden's Bulwark4
+tagTransmogb001_shieldb=Illusion: Warden's Fortress4
+tagTransmogb002b_shield=Illusion: Spectral Shield1
+tagTransmogb002c_shield=Illusion: Spectral Shield2
+tagTransmogb002d_shield=Illusion: Spectral Shield3
+tagTransmogb002_shield=Illusion: Spectral Shield4
+tagTransmogb003b_shield=Illusion: Spectral War Shield1
+tagTransmogb003c_shield=Illusion: Spectral War Shield2
+tagTransmogb003d_shield=Illusion: Spectral War Shield3
+tagTransmogb003_shield=Illusion: Spectral War Shield4
+tagTransmogb004_shield=Illusion: Battle Shield
+tagTransmogb005_shield=Illusion: Siege Shield
+tagTransmogb006_shield=Illusion: Sovereign Shield
+tagTransmogb007a_shield=Illusion: Trog Bonewall1
+tagTransmogb007b_shield=Illusion: Trog Bonewall2
+tagTransmogb007c_shield=Illusion: Trog Bonewall3
+tagTransmogb007d_shield=Illusion: Trog Bonewall4
+tagTransmogb008a_shield=Illusion: Vampiric Bonewall1
+tagTransmogb008b_shield=Illusion: Vampiric Bonewall2
+tagTransmogb008c_shield=Illusion: Vampiric Bonewall3
+tagTransmogb008d_shield=Illusion: Vampiric Bonewall4
+tagTransmogb009a_shield=Illusion: Obsidian Guard1
+tagTransmogb009b_shield=Illusion: Obsidian Guard2
+tagTransmogb009c_shield=Illusion: Obsidian Guard3
+tagTransmogb009d_shield=Illusion: Obsidian Guard4
+tagTransmogb010a_shield=Illusion: Obsidian Bulwark1
+tagTransmogb010b_shield=Illusion: Obsidian Bulwark2
+tagTransmogb010c_shield=Illusion: Obsidian Bulwark3
+tagTransmogb010d_shield=Illusion: Obsidian Bulwark4
+tagTransmogb011a_shield=Illusion: Fleshwarped Shield1
+tagTransmogb011b_shield=Illusion: Fleshwarped Shield2
+tagTransmogb011c_shield=Illusion: Fleshwarped Shield3
+tagTransmogb011d_shield=Illusion: Fleshwarped Shield4
+tagTransmogb012a_shield=Illusion: Fleshwarped Bulwark1
+tagTransmogb012b_shield=Illusion: Fleshwarped Bulwark2
+tagTransmogb012c_shield=Illusion: Fleshwarped Bulwark3
+tagTransmogb012d_shield=Illusion: Fleshwarped Bulwark4
+tagTransmogb013a_shield=Illusion: Bernard's Slightly-Chewed Buckler1
+tagTransmogb013b_shield=Illusion: Bernard's Slightly-Chewed Buckler2
+tagTransmogb013c_shield=Illusion: Bernard's Slightly-Chewed Buckler3
+
+tagTransmogc009_shield=Illusion: Dawnshard Bulwark
+tagTransmogc010_shield=Illusion: Templar's Faith
+
+tagTransmogc015_shield=Illusion: The Gladiator
+tagTransmogc016_shield=Illusion: Blazeguard Arbiter
+tagTransmogc017_shield=Illusion: Vanguard of the Legion
+tagTransmogc018_shield=Illusion: Myrmidon's Guard
+tagTransmogc019_shield=Illusion: Defender of Devil's Crossing
+tagTransmogc020_shield=Illusion: Spiriteater Bulwark
+tagTransmogc021_shield=Illusion: Flamebreaker
+tagTransmogc022_shield=Illusion: Elementium
+tagTransmogc023_shield=Illusion: Devil's Grin
+tagTransmogc024_shield=Illusion: Maw of the Beast
+tagTransmogc025_shield=Illusion: Crest of the Black Legion
+tagTransmogc026_shield=Illusion: Lichguard
+tagTransmogc027_shield=Illusion: Ravna's Guard
+tagTransmogc028_shield=Illusion: Guardsman's Defender
+tagTransmogc029_shield=Illusion: Shield of Perdition
+tagTransmogc030_shield=Illusion: Oathbreaker's Guard
+tagTransmogd001_shield=Illusion: Meat Shield
+tagTransmogd002_shield=Illusion: The Final Stop
+tagTransmogd003_shield=Illusion: The Untouchable
+tagTransmogd004_shield=Illusion: Will of the Living
+tagTransmogd005_shield=Illusion: Skybreach Bulwark
+tagTransmogd006_shield=Illusion: Siegebreaker
+tagTransmogd007_shield=Illusion: Zolhan's Revenge
+tagTransmogd008_shield=Illusion: Dawnbreaker's Duty
+tagTransmogd009_shield=Illusion: Markovian's Bulwark
+
+
+#########################
+#####	focus
+
+tagTransmogTextFocus=You really do judge a book by its cover.
+
+b001 bc b002abc b003a b004a b005a b006ab b007ab b008abc b009abc b010abcd b011abcd b012abc b013abc 
+b014abcd b015abcd b016abcd b017abcd b018abcd b019abcd b020abcd b021abcd b022abcd b023abcd b024ab 
+c000-9 c013-15
+d000
+tagTransmoga01_focus01=Illusion: Musty Tome
+tagTransmoga01_focus02=Illusion: Runed Bone
+tagTransmoga02_focus01=Illusion: Fleshbound Tome
+tagTransmoga02_focus02=Illusion: Fiendish Effigy
+tagTransmoga03_focus01=Illusion: Runebound Archive
+tagTransmoga03_focus02=Illusion: Etched Horn
+tagTransmoga04_focus01=Illusion: Leatherbound Spellbook
+tagTransmoga04_focus02=Illusion: Glyphed Skull
+tagTransmoga05_focus01=Illusion: Eldritch Tome
+tagTransmoga05_focus02=Illusion: Savage Effigy
+tagTransmoga06_focus01=Illusion: Arcane Codex
+tagTransmoga06_focus02=Illusion: Eldritch Effigy
+tagTransmoga07_focus01=Illusion: Exalted Codex
+tagTransmoga07_focus02=Illusion: Exalted Effigy
+tagTransmogb001d_focus=Illusion: Zarthuzellan's Codex
+tagTransmogb002d_focus=Illusion: Rolderathis' Tome
+tagTransmogb003b_focus=Illusion: Occult Horn
+tagTransmogb004b_focus=Illusion: Occult Skull
+tagTransmogb005b_focus=Illusion: Occult Effigy
+tagTransmogb006c_focus=Illusion: Witch's Effigy
+tagTransmogb007c_focus=Illusion: Pulsing Shard
+tagTransmogb008d_focus=Illusion: Bloodsworn Tome
+tagTransmogb009d_focus=Illusion: Bloodsworn Codex
+tagTransmogb010e_focus=Illusion: Groble Toxic Idol
+tagTransmogb011e_focus=Illusion: Groble Toxic Effigy
+tagTransmogb013a_focus=Illusion: Yeti Horn
+tagTransmogb013d_focus=Illusion: Yeti Horn
+tagTransmogb014e_focus=Illusion: Groble Sky Idol
+tagTransmogb015e_focus=Illusion: Groble Sky Effigy
+tagTransmogb016e_focus=Illusion: Groble Stone Idol
+tagTransmogb017e_focus=Illusion: Groble Stone Effigy
+tagTransmogb018e_focus=Illusion: Groble Ember Idol
+tagTransmogb019e_focus=Illusion: Groble Ember Effigy
+tagTransmogb020e_focus=Illusion: Groble Death Idol
+tagTransmogb021e_focus=Illusion: Groble Death Effigy
+tagTransmogb022e_focus=Illusion: Gazer Eye
+tagTransmogb023e_focus=Illusion: Overseer Eye
+tagTransmogb024c_focus=Illusion: Karvor's Conjuring Bone
+tagTransmogc010_focus=Illusion: Sacred Texts of Menhir
+tagTransmogc011_focus=Illusion: Nocturnis
+tagTransmogc012_focus=Illusion: Channeling Orb of the Covenant
+tagTransmogc016_focus=Illusion: Scorcher's Archive
+tagTransmogc017_focus=Illusion: Deathlord's Tome
+tagTransmogc018_focus=Illusion: Callidor's Codex
+tagTransmogc019_focus=Illusion: Dementia
+tagTransmogc020_focus=Illusion: Crushing Will
+tagTransmogc021_focus=Illusion: Heretic's Tome
+tagTransmogc022_focus=Illusion: Malformed Effigy
+tagTransmogc023_focus=Illusion: Stormcaller's Effigy
+tagTransmogc024_focus=Illusion: Banshee's Misery
+tagTransmogc025_focus=Illusion: Wyrmclaw
+tagTransmogc026_focus=Illusion: Black Grimoire of Og'Napesh
+tagTransmogc027_focus=Illusion: Edrick's Backscratcher
+tagTransmogc028_focus=Illusion: Storm Scion
+tagTransmogc029_focus=Illusion: Maiven's Tome
+tagTransmogc030_focus=Illusion: Tome of Plagues
+tagTransmogd001_focus=Illusion: Fiend's Resolve
+tagTransmogd002_focus=Illusion: Aldanar's Vanity
+tagTransmogd003_focus=Illusion: Codex of Lies
+tagTransmogd004_focus=Illusion: Tome of Names
+tagTransmogd005_focus=Illusion: Blood Orb of Ch'thon
+tagTransmogd006_focus=Illusion: Speaker for the Dead
+tagTransmogd007_focus=Illusion: Eye of Dominion
+tagTransmogd008_focus=Illusion: Tome of the Arcane Wastes
+tagTransmogd009_focus=Illusion: Skull of Gul'Amash
+tagTransmogd010_focus=Illusion: Wretched Tome of Nar'Adin
+tagTransmogd011_focus=Illusion: Codex of Eternal Storms
+tagTransmogd012_focus=Illusion: Consumption of Agrivix
+tagTransmogd013_focus=Illusion: Invoker's Blaze
+tagTransmogd014_focus=Illusion: Iskandra's Texts
