@@ -1,37 +1,42 @@
-Edit [9/16/2016 19:00] K
+Edit [9/17/2016 12:00] K
 
 ****************************************************************
 ****************************************************************
 
-Changelog 2.0
+	Changelog 55
 
 ****************************************************************
 ****************************************************************
 
-[2.0 9/16]
-Pull
-	Successful git sync to master
 
-[2.0 9/15 19:00]
+
+[55 9/17]
+Mastery
+	Update - Coronus 2.0 
+
+Pull #67
+	Successful repo merge
+
+[55 9/15 19:00]
 Mastery UI
 	Added color codes
 	Switched buttons to group by dev
 			
-[2.0 9/14 18:00]
+[55 9/14 18:00]
 Masteries
 	Merged - Voidcaller  (Enumeration #25)
 	Merged - Demon Hunter (Enumeration #30)
 	Update - Darkest Dawn 1.1
 	Update - Zenith 0.3
 	
-[2.0 9/12 0800]
+[55 9/12 0800]
 Pull 57
 
-[2.0 9/10]
+[55 9/10]
 Updated Priest - updated to v 3.4
 	Test play good.
 	
-[2.0 9/10 21:00]
+[55 9/10 21:00]
 Pull 52
 Improved - Tag orginization and removed double entries
 
@@ -81,8 +86,8 @@ Fixed - *Illusionist#15 missing images, class table still functions - missing al
 Fixed - *Missing spear tex
 	Forgot GQmerge.bat after first compile
 	
-[2.0 - 9/3]
-DAIL 2.0!
+[55 - 9/3]
+DAIL organization.
 	Git Issue function now utilized to track work tasks
 	Forum thread restructure for better information control and access
 	Produced various txt instructions in /_Dev_Info 
