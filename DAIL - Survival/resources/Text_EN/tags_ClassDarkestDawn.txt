@@ -1,0 +1,281 @@
+﻿
+#CLASS ARCH Necromancer
+#ENUMERATION 14
+
+#CLASS Illusionist
+#ENUMERATION 15
+
+
+
+tagSkillClassDescription14=Followers of Uroboruuk, the legendary original Necromancer, study dark arts some consider "unholy". To the skilled Necromancer, death is but a threshold that may be crossed both ways, as they wield arcane energies to command walking bones and spirits alike. Should the conjured dead not suffice, a Necromancer's affinity towards life allows them to claim it with their own hands and morbid spells. 
+tagSkillClassDescription15=Rumored to be a small sect within the Emperor's Nightblades, Illusionists are semi-mythical manipulators and puppetmasters. They kill not with a whirlwind of blades, but with a drop of rage directly instilled into a target's head, with paralysis, and with confusion. The battlefield is but a play waiting to be orchestrated, and the Illusionist's willpower determines the outcome.
+
+
+# Arch Necromancer
+
+## skills
+tagClass14SkillName00A=Arch Necromancer
+tagClass14SkillDescription00A=The connection to souls long gone from this world.
+
+tagClass14SkillName01A=Conjure Skeleton Warrior
+tagClass14SkillDescription01A=The most basic art of the Arch Necromancer. Conjure skeletal soldiers to fight and die in your stead. ^oSkeletons scale with pet bonuses. The number of summonable skeletons increases with skill level.
+
+tagClass14SkillName02A=Veteran Bonemen
+tagClass14SkillDescription02A=As your dominance over skeletal entities grows, the warrior ia able to rediscover one of its old skills - a sweeping attack that covers a wide arc.
+
+tagClass14SkillName03A=Abyssal Charge
+tagClass14SkillDescription03A=The former Soldier remembers yet another combat move. He charges into the fight head on, striking down the foe with overwhelming foe.
+
+tagClass14SkillName04A=Lord of Bones
+tagClass14SkillDescription04A=In a final step of mastery, your undead minions recall advanced defensive maneuvers, greatly increasing their survivability.
+
+tagClass14SkillName05A=Bone Lance
+tagClass14SkillDescription05A=Uroboruuk's followers were hunted down ever since they started existing. To defend themselves against attackers, they started turning the bones they command into weapons. The first of those weapons is a piercing spear.
+
+tagClass14SkillName06A=Evisceration
+tagClass14SkillDescription06A=The spear impales the target, causing intense pain and bleeding.
+
+#transmuter
+tagClass14SkillName06A_Transmuter=Sheer Cold
+tagClass14SkillDescription06A_Transmuter=Not content with a mere physical impact, you encase the bone spear with the chill of death itself.
+
+tagClass14SkillName07A=Splinter
+tagClass14SkillDescription07A=As the accelerated bone is driven into the flesh, it destroys and prepares for further injury.
+
+tagClass14SkillName08A=Bone's Marrow
+tagClass14SkillDescription08A=Your overwhelming magical prowess connects prey and hunter. You watch as the bone spear sucks the very life out of your unlucky victim, revitalizing your worn-out body.
+
+tagClass14SkillName09A=The Rot
+tagClass14SkillDescription09A=To accelerate the shift from life and death, you command a nefarious plague that cripples and damages while it eats itself from victim to victim. ^oThe Rot spreads further and faster as you level up the skill.
+
+#transmuter
+tagClass14SkillName10A=Synergetic Link
+tagClass14SkillDescription10A=Using an incantation looked down upon by some Arch Necromancers, the ever gestalting bacteria transfer the target's flesh to their master, restoring their physical shape.
+
+tagClass14SkillName11A=Necrosis
+tagClass14SkillDescription11A=The plague induces the chilling feeling of upcoming death, as it ravages the immune system and sabotages any attempts to avoid the inevitable.
+
+tagClass14SkillName12A=Infestation
+tagClass14SkillDescription12A=In its final stage, the Rot clings and infests muscle fibers, disabling the affected's ability to move and resist.
+
+tagClass14SkillName13A=Corrosion
+tagClass14SkillDescription13A=A spell that raises a barrage of piercing bones from the ground, violently stopping approaching fools in their tracks.
+
+tagClass14SkillName14A=Atonement
+tagClass14SkillDescription14A=Corrosion's spikes harden, increasing their destructive and disruptive power.
+
+tagClass14SkillName15A=Exoskeletal Armor
+tagClass14SkillDescription15A=To the Arch Necromancer, bones are loyal servants, deadly weapons, and heavy armor. This spell offers the protection one would expect from such a morbid suit, while cutting into the flesh of the ones that dare strike it. ^oThis skill needs to be toggled on to apply its effect.
+
+tagClass14SkillName16A=Bizarre Shell
+tagClass14SkillDescription16A=By selecting sharper bones for your makeshift armor, you greatly increase its harmful potential.
+
+tagClass14SkillName17A=Reaper's Touch
+tagClass14SkillDescription17A=Channeling their control over life into regular weaponry, Arch Necromancers rip the will to live right out of their unlucky victims.
+
+tagClass14SkillName18A=Reaper's Claim
+tagClass14SkillDescription18A=Adding more energy intensifies the claim and increase the reaper's rewards.
+
+tagClass14SkillName19A=Reaper's Call
+tagClass14SkillDescription19A=You share pieces of the life you claim, powering up the combat efforts of those under your command.
+
+tagClass14SkillName20A=Rite of Binding
+tagClass14SkillDescription20A=In an effort to overwhelm a dedicated foe, sacrifices are needed. In this most dangerous of spells, the Arch Necromancer harrows away at their own body to send their minions into a frenzy.
+
+tagClass14SkillName21A=Flesh to Power
+tagClass14SkillDescription21A=By offering their very own flesh, risky Arch Necromancers greatly enhance the rite's effect, sending their minions into a killing spree.
+
+tagClass14SkillName22A=Conjure Lich
+tagClass14SkillDescription22A=The mightiest servant available to necromancers, the Lich used to be a powerful mage himself in his lifetime. With strong spells at his disposal, he makes for a formidable ally. ^oThe Lich scales with pet bonuses. Only one Lich may be summoned at any given time.
+
+tagClass14SkillName23A=Soul Nova
+tagClass14SkillDescription23A=The Lich unleashes a large amount of destructive energy in a singular, radial blast.
+
+tagClass14SkillName24A=Miasma
+tagClass14SkillDescription24A=By focusing his ancient magic into a concentrated wave, the Lich eats away at the very essence of the soul.
+
+tagClass14SkillName25A=Ancient Rites
+tagClass14SkillDescription25A=In anticipation of a battle that your minions might not be able to win, you train your connection to destructive arcane forces.
+
+tagClass14SkillName26A=Circle of Protection
+tagClass14SkillDescription26A=Experience with the unliving leads to understanding of their strengths and weaknesses.
+
+tagClass14SkillName27A=Tongues of Old
+tagClass14SkillDescription27A=To command an army, one must know their tongue - even if it is a tongue lost to the ages.
+
+tagClass14SkillName28A=Duality
+tagClass14SkillDescription28A=Contemplating over the interaction between life and death opens up a new source of power.
+
+tagClass14SkillName29A=Conjure Skeleton Marksman
+tagClass14SkillDescription29A=These advanced skeletal troops retain their ability to use ranged weaponry, offering support from a distance. ^oSkeleton Marksmen scale with pet bonuses. The number of summonable Skeleton Marksmen increases with skill level.
+
+tagClass14SkillName30A=Arrowhail
+tagClass14SkillDescription30A=The skeletal marksman learns to unleash its shots in quicker and more devastating fashion, unleashing a deadly rain of missiles.
+
+tagClass14SkillName31A=Uroboruuk's Ascendancy
+tagClass14SkillDescription31A=The whereabouts of master Arch Necromancer Uroboruuk remain shrouded in mystery, just like the extend of his power. Did he achieve immortality, becoming a God that gives life and death as he pleases, or did he fall to the corruption like most of the world? Either way - your devotion has brought you closer to understanding.
+
+tagClass14SkillName32A=Malkadarr's Teeth
+tagClass14SkillDescription32A=The Arch Necromancer Malkadarr is said to have developed this technique in times of need. When surrounded by a gang of bandits, he split his bone spear, unleashing a flurry of small spikes that cleared out his foes in an instance.
+
+tagClass14SkillName33A=Rift
+tagClass14SkillDescription33A=The taint of the ritual overflows in a chasm of blood and chaotic energies.
+
+## necro pets
+
+tagPetRegularWeaponAttack=Weapon Attack
+tagPetRegularWeaponAttackDesc=A regular attack with the equipped weapon.
+
+tagPetRegularWeaponAttack2=Sniper Shot
+tagPetRegularWeaponAttack2Desc=A well-aimed shot that causes extra damage.
+
+tagPetRegularWeaponAttack3=Soul Bolt
+tagPetRegularWeaponAttack3Desc=Soul Bolt Desc
+
+tagPetSkeletonWarrior00=Conjured Skeleton Warrior
+tagPetSkeletonArcher00=Conjured Skeleton Marksman
+tagPetLich00=Conjured Lich
+
+# Illusionist
+tagClass15SkillName00A=Illusionist
+tagClass15SkillDescription00A=The ability to manipulate others with sheer willpower.
+
+## skills
+
+tagClass15SkillName01A=Sands of Sleep
+tagClass15SkillDescription01A=The Illusionist's gaze is like the weight of the world, reeling the helpless creature in with a fake promise of rest.
+
+tagClass15SkillName02A=Troubled Dreams
+tagClass15SkillDescription02A=But this sleep offers no rest; it consumes the target's body like a dark void, a nightmare made reality.
+
+tagClass15SkillName03A=Dream Eater
+tagClass15SkillDescription03A=And in the dark void, the masterful Illusionist lurks, sucking the lifeforce directly out of the unlucky target - so that it may never wake up again.
+
+tagClass15SkillName04A=Enrage
+tagClass15SkillDescription04A=The Illusionist's touch is like a sharp needle, aimed at the very rage dwelling within every living being. It turns comerade to traitor, ally to enemy, and husband to murderer.
+
+tagClass15SkillName05A=Furious Onslaught
+tagClass15SkillDescription05A=Rage not only blinds the eye; it also overcharges the body with a fury that allows it to surpass its usual limitations. The turned foe becomes a berserker in battle, a whirlwind of death.
+
+tagClass15SkillName06A=Hysteria
+tagClass15SkillDescription06A=The Illusionist deeply ingrains their fearsome magic, causing it to make the target fight with a zealot's fury, blind to any alliance it may have had once.
+
+tagClass15SkillName07A=Amygdala's Cut
+tagClass15SkillDescription07A=The legendary Illusionist Amygdala was famous for infusing her weaponry with magic that would build up and disable the target. ^oWhen used as your default weapon attack, Amygdala's Cut will amplify the power of every fourths strike.
+
+tagClass15SkillName08A=Mindfray
+tagClass15SkillDescription08A=A skilled user of the technique, your arcane injection breaks the target's will and bones alike.
+
+tagClass15SkillName09A=Cryptomnesia
+tagClass15SkillDescription09A=By spontaneously combusting the stored energy, your attacks disable the ability to go through complex motions.
+
+tagClass15SkillName10A=Edge of Sanity
+tagClass15SkillDescription10A=Absolute mastery over Amygdala's technique directly cuts the will to live out of the target, leaving it intensely vulnerable.
+
+tagClass15SkillName11A=Standstill
+tagClass15SkillDescription11A=This spell is a popular defensive tool, as it first slows down everyone nearby, before bringing them to a complete standstill.
+
+tagClass15SkillName12A=Downfall
+tagClass15SkillDescription12A=Standstill resonates with the target's inner organs, causing slow, permanent damage.
+
+tagClass15SkillName13A=Summon Changelings
+tagClass15SkillDescription13A=A manifestation of nightmares, these small creatures do not gnaw on the flesh, but on the mind. ^oChangelings scale with pet bonuses. The number of summonable Changelings increases with skill level. The spell summons multiple Changelings at once.
+
+tagClass15SkillName14A=Clustering Illusion
+tagClass15SkillDescription14A=Upon death, the changeling bursts into an arcane cloud of frost and shock, taking their attackers with them.
+
+tagClass15SkillName15A=Retaliating Echoes
+tagClass15SkillDescription15A=Wrapped in a shroud of disruptive magic, merely touching the changeling disheartens the attacker, and renders him vulnerable to follow-up attacks.
+
+tagClass15SkillName16A=Amygdala's Sight
+tagClass15SkillDescription16A=At the height of her ability, combat Illusionist Amygdala was able to analyze and dig up any opponent's weaknesses within the blink of an eye. This technique may only be a shadow of what she could do, but its the most any living Illusionist can hope to achieve.
+
+tagClass15SkillName17A=Focalism
+tagClass15SkillDescription17A=With concentration comes the mental durability needed to maintain the Illusionist's tools in both manipulation and mayhem.
+
+tagClass15SkillName18A=Halo Effect
+tagClass15SkillDescription18A=You've begun to channel your skill into an impressive aura that strikes fear into the hearts of foes, and inspiration into your own.
+
+tagClass15SkillName19A=Mind Cage
+tagClass15SkillDescription19A=Afraid to follow the fate of some of their most prominent members, many Illusionists make strengthening their mind agains Aetherial forces a priority.
+
+# no idea what happened to this one
+tagClass15SkillName20A=Lucid Dream
+tagClass15SkillDescription20A=Lucid Dream Desc
+
+tagClass15SkillName21A=Decellerate
+tagClass15SkillDescription21A=An early, yet fundamental art to master. The Illusionist is a spinner of intricacies, but the battlefield moves too fast to deceive an army. With great mental effort, you can slow down any number of attackers, preparing them for the play to unfold.
+
+tagClass15SkillName22A=Reckless Abandon
+tagClass15SkillDescription22A=In their desperate attempts to overcome your magical barrier, helpless foes neglect their defenses and remain wide open.
+
+tagClass15SkillName23A=Vanish
+tagClass15SkillDescription203=Your physical form is unstable; whenever taking a hit, you completely disappear for the blink of an eye.
+
+tagClass15SkillName24A=Hive Mind
+tagClass15SkillDescription24A=Using your mental capacities to coordinate your minions' attacks, you increase their combat performance.
+
+tagClass15SkillName25A=Dirk Throw
+tagClass15SkillDescription25A=Unlike their Nightblade brethren, Illusionists focus on singular thrown blades, catching the foes that escape their mindbending magic off-guard.
+
+tagClass15SkillName26A=Cerebella's Curious Vapors
+tagClass15SkillDescription26A=Cerebella is said to have been a masterful manipulator of motion. She applied toxins on her thrown daggers to weaken her targets' minds, before infusing her magic and controlling them like puppets.
+
+tagClass15SkillName27A=Dispersion
+tagClass15SkillDescription27A=The knife gets charged with a volatile arcane charge, adding a considerable target area to the effects it carries.
+
+tagClass15SkillName28A=Striat's Blink
+tagClass15SkillDescription278=A technique developed by Striat, one of the original Illusionists. After becoming a "taken", Striat lost the trust of his comerades and was forced into exile. The next generation of Illusionists tried to hunt him down with considerable manpower, but he used this ability to vanish instantly and escape without bloodshed. ^oThis skill directly teleports the caster to the target location.
+
+tagClass15SkillName29A=Gyrus' Sphere of Repulsion
+tagClass15SkillDescription29A=Gyrus was a Spellbinder learning under master Maiven. Not content with mere protection, he built upon Maiven's signature spell and enhanced it with disruptive properties that would damage the attacker.
+
+tagClass15SkillName30A=Insomnia
+tagClass15SkillDescription30A=By readjusting the spell to cause waking hallucination, you allow the target to keep moving, while greatly increasing the rate at which their body decays.
+
+tagClass15SkillName31A=Chain Summoning
+tagClass15SkillDescription31A=At the cost of intense amounts of energy, you unleash hordes of living nightmares into the world.
+
+tagClass15SkillName32A=Spontaneous Replication
+tagClass15SkillDescription32A=Having taught gunslingers in her arts, Amygdala eventually added a technique that would multiple missiles and enhance them with piercing properties. ^oThis skill requires a two-handed ranged weapon.
+
+tagClass15SkillName33A=Twist and Fade
+tagClass15SkillDescription33A=Jumping through the twisted space itself unloads a sudden burden on the physique of nearby entities, hurting and stunning them.
+
+tagClass15SkillName34A=My Reflection
+tagClass15SkillDescription34A=In a great effort of large-scale manipulation, this spell creates a doppelganger that aims to mimic the caster's abilities. ^oThe Shadow gains additional abilities at skill levels 2,4,8,12,16 and 20. It scales with player damage bonuses.
+
+tagClass15SkillName35A=Chasing Shadows
+tagClass15SkillDescription35A=The Shadow's presence chills nearby enemies to their very core, sucking their energy straight out of them to maintain its spellcasting.
+
+tagClass15SkillName36A=Equilibrium
+tagClass15SkillDescription36A=In seeking inner silence, the sharpness of your mind and reactions become quicker.
+
+## Illusionist pets
+tagPetChangeling00=Changeling
+tagPetShadow00=Shadow
+tagPetShadowRegularAttack00=Shadow's Touch
+
+### ITEMS
+
+tagPrefixDD000=Arch Necromancer's
+tagPrefixDD001=Illusionist's
+
+tagPrefixDD002=Spellbinder's
+tagPrefixDD003=Sapper's
+tagPrefixDD004=Jester's
+tagPrefixDD005=Outlander's
+tagPrefixDD006=Sentinel's
+tagPrefixDD007=Infernalist's
+tagPrefixDD008=Hierophant's
+tagPrefixDD009=Reaper's
+tagPrefixDD010=Ritualist's
+tagPrefixDD011=Defiler's
+tagPrefixDD012=Seeker's
+tagPrefixDD013=Channeler's
+tagPrefixDD014=Usurper's
+
+# item names and description
+
+tagItemNameDD0000=Gyrus's Eye
+tagItemNameDD0001=Cerebella's Embrace
