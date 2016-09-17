@@ -4798,6 +4798,206 @@ dailCompTextDream=^oThis feels warm to the touch, almost familiar ^w(This compon
 
 
 
+ dailCompDescDemon1=^pDemon's Gift of DAIL
+ dailCompDescDemon2=^pDemon's Gift of DAIL
+ dailCompDescDemon3=^pDemon's Gift of DAIL
+ dailCompDescDemon4=^pDemon's Gift of DAIL
+ dailCompDescDemon5=^pDemon's Gift of DAIL
+ dailCompDescDemon6=^pDemon's Gift of DAIL
+ dailCompDescDemon7=^pDemon's Gift of DAIL
+ dailCompDescDemon8=^pDemon's Gift of DAIL
+ dailCompDescDemon9=^pDemon's Gift of DAIL
+ dailCompDescDemon10=^pDemon's Gift of DAIL
+ dailCompDescDemon11=^pDemon's Gift of DAIL
+ dailCompDescDemon12=^pDemon's Gift of DAIL
+ dailCompDescDemon13=^pDemon's Gift of DAIL
+ dailCompDescDemon14=^pDemon's Gift of DAIL
+ dailCompDescDemon15=^pDemon's Gift of DAIL
+ dailCompDescDemon16=^pDemon's Gift of DAIL
+ dailCompDescDemon17=^pDemon's Gift of DAIL
+ dailCompDescDemon18=^pDemon's Gift of DAIL
+ dailCompDescDemon19=^pDemon's Gift of DAIL
+ dailCompDescDemon20=^pDemon's Gift of DAIL
+ dailCompDescDemon21=^pDemon's Gift of DAIL
+ dailCompDescDemon22=^pDemon's Gift of DAIL
+ dailCompDescDemon23=^pDemon's Gift of DAIL
+ dailCompDescDemon24=^pDemon's Gift of DAIL
+ dailCompDescDemon25=^pDemon's Gift of DAIL
+ dailCompDescDemon26=^pDemon's Gift of DAIL
+ dailCompDescDemon27=^pDemon's Gift of DAIL
+ dailCompDescDemon28=^pDemon's Gift of DAIL
+ dailCompDescDemon29=^pDemon's Gift of DAIL
+ dailCompDescDemon30=^pDemon's Gift of DAIL
+ dailCompDescDemon31=^pDemon's Gift of DAIL
+ dailCompDescDemon32=^pDemon's Gift of DAIL
+ dailCompDescDemon33=^pDemon's Gift of DAIL
+ dailCompDescDemon34=^pDemon's Gift of DAIL
+ dailCompDescDemon35=^pDemon's Gift of DAIL
+ dailCompDescDemon36=^pDemon's Gift of DAIL
+ dailCompDescDemon37=^pDemon's Gift of DAIL
+ dailCompDescDemon38=^pDemon's Gift of DAIL
+ dailCompDescDemon39=^pDemon's Gift of DAIL
+ dailCompDescDemon40=^pDemon's Gift of DAIL
+ dailCompDescDemon41=^pDemon's Gift of DAIL
+ dailCompDescDemon42=^pDemon's Gift of DAIL
+ dailCompDescDemon43=^pDemon's Gift of DAIL
+ dailCompDescDemon44=^pDemon's Gift of DAIL
+ dailCompDescDemon45=^pDemon's Gift of DAIL
+ dailCompDescDemon46=^pDemon's Gift of DAIL
+ dailCompDescDemon47=^pDemon's Gift of DAIL
+ dailCompDescDemon48=^pDemon's Gift of DAIL
+ dailCompDescDemon49=^pDemon's Gift of DAIL
+ dailCompDescDemon50=^pDemon's Gift of DAIL
+ dailCompDescDemon51=^pDemon's Gift of DAIL
+ dailCompDescDemon52=^pDemon's Gift of DAIL
+ dailCompDescDemon53=^pDemon's Gift of DAIL
+ dailCompDescDemon54=^pDemon's Gift of DAIL
+ dailCompDescDemon55=^pDemon's Gift of DAIL
+ dailCompDescDemon56=^pDemon's Gift of DAIL
+ dailCompDescDemon57=^pDemon's Gift of DAIL
+ dailCompDescDemon58=^pDemon's Gift of DAIL
+ dailCompDescDemon59=^pDemon's Gift of DAIL
+ dailCompDescDemon60=^pDemon's Gift of DAIL
+ dailCompDescDemon61=^pDemon's Gift of DAIL
+ dailCompDescDemon62=^pDemon's Gift of DAIL
+ dailCompDescDemon63=^pDemon's Gift of DAIL
+ dailCompDescDemon64=^pDemon's Gift of DAIL
+ dailCompDescDemon65=^pDemon's Gift of DAIL
+ dailCompDescDemon66=^pDemon's Gift of DAIL
+ dailCompDescDemon67=^pDemon's Gift of DAIL
+ dailCompDescDemon68=^pDemon's Gift of DAIL
+ dailCompDescDemon69=^pDemon's Gift of DAIL
+ dailCompDescDemon70=^pDemon's Gift of DAIL
+ dailCompDescDemon71=^pDemon's Gift of DAIL
+ dailCompDescDemon72=^pDemon's Gift of DAIL
+ dailCompDescDemon73=^pDemon's Gift of DAIL
+ dailCompDescDemon74=^pDemon's Gift of DAIL
+ dailCompDescDemon75=^pDemon's Gift of DAIL
+ dailCompDescDemon76=^pDemon's Gift of DAIL
+ dailCompDescDemon77=^pDemon's Gift of DAIL
+ dailCompDescDemon78=^pDemon's Gift of DAIL
+ dailCompDescDemon79=^pDemon's Gift of DAIL
+ dailCompDescDemon80=^pDemon's Gift of DAIL
+ dailCompDescDemon81=^pDemon's Gift of DAIL
+ dailCompDescDemon82=^pDemon's Gift of DAIL
+ dailCompDescDemon83=^pDemon's Gift of DAIL
+ dailCompDescDemon84=^pDemon's Gift of DAIL
+ dailCompDescDemon85=^pDemon's Gift of DAIL
+ dailCompDescDemon86=^pDemon's Gift of DAIL
+ dailCompDescDemon87=^pDemon's Gift of DAIL
+ dailCompDescDemon=^pDemon's Gift of DAIL
+
+
+
+
+
+
+
+
+
+
+
+
+dailCompTextDemon1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemon2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemon3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemon4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon18=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon19=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon20=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon21=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon22=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon23=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon24=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon25=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon26=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon27=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon28=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon29=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon30=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemon31=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon32=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon33=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon34=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon49=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon50=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon51=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon52=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon53=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon54=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon55=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon56=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon57=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon58=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon59=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon60=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon61=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon62=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon63=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon64=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon65=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon66=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon67=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon68=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon69=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon70=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon71=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon72=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon73=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon74=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon75=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon76=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon77=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon78=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon79=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon80=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon81=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon82=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon83=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon84=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon85=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon86=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon87=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemon=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+
+
+
+
+
+
+
+
+
+
+
+
  dailCompDescEnchanter1=^pEnchanter's Gift of DAIL
  dailCompDescEnchanter2=^pEnchanter's Gift of DAIL
  dailCompDescEnchanter3=^pEnchanter's Gift of DAIL
@@ -5598,203 +5798,403 @@ dailCompText(H)arlequin=^oThis feels warm to the touch, almost familiar ^w(This 
 
 
 
- dailCompDesc(H)arlequin1=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin2=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin3=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin4=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin5=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin6=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin7=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin8=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin9=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin10=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin11=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin12=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin13=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin14=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin15=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin16=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin17=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin18=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin19=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin20=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin21=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin22=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin23=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin24=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin25=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin26=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin27=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin28=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin29=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin30=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin31=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin32=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin33=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin34=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin35=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin36=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin37=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin38=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin39=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin40=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin41=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin42=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin43=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin44=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin45=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin46=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin47=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin48=^p(H)arlequin's Gift of DAIL
- dailCompDesc(H)arlequin=^p(H)arlequin's Gift of DAIL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dailCompText(H)arlequin1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompText(H)arlequin2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompText(H)arlequin3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
-dailCompText(H)arlequin4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
-dailCompText(H)arlequin18=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin19=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin20=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin21=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin22=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin23=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin24=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin25=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin26=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin27=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin28=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin29=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin30=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin31=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin32=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin33=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin34=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-dailCompText(H)arlequin=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ dailCompDescDemonhunter1=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter2=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter3=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter4=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter5=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter6=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter7=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter8=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter9=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter10=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter11=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter12=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter13=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter14=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter15=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter16=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter17=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter18=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter19=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter20=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter21=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter22=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter23=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter24=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter25=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter26=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter27=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter28=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter29=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter30=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter31=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter32=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter33=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter34=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter35=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter36=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter37=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter38=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter39=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter40=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter41=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter42=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter43=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter44=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter45=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter46=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter47=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter48=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter49=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter50=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter51=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter52=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter53=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter54=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter55=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter56=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter57=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter58=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter59=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter60=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter61=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter62=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter63=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter64=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter65=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter66=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter67=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter68=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter69=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter70=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter71=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter72=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter73=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter74=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter75=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter76=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter77=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter78=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter79=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter80=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter81=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter82=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter83=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter84=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter85=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter86=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter87=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter88=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter89=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter90=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter91=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter92=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter93=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter94=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter95=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter96=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter97=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter98=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter99=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter=^pDemonhunter's Gift of DAIL
+dailCompTextDemonhunter1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter18=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter19=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter20=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter21=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter22=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter23=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter24=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter25=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter26=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter27=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter28=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter29=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter30=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter31=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter32=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter33=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter34=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter49=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter50=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter51=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter52=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter53=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter54=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter55=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter56=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter57=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter58=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter59=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter60=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter61=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter62=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter63=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter64=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter65=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter66=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter67=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter68=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter69=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter70=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter71=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter72=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter73=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter74=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter75=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter76=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter77=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter78=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter79=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter80=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter81=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter82=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter83=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter84=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter85=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter86=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter87=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter88=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter89=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter90=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter91=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter92=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter93=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter94=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter95=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter96=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter97=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter98=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter99=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+ dailCompDescDemonhunter1=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter2=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter3=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter4=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter5=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter6=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter7=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter8=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter9=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter10=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter11=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter12=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter13=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter14=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter15=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter16=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter17=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter18=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter19=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter20=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter21=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter22=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter23=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter24=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter25=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter26=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter27=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter28=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter29=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter30=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter31=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter32=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter33=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter34=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter35=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter36=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter37=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter38=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter39=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter40=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter41=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter42=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter43=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter44=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter45=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter46=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter47=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter48=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter49=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter50=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter51=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter52=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter53=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter54=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter55=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter56=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter57=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter58=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter59=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter60=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter61=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter62=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter63=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter64=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter65=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter66=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter67=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter68=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter69=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter70=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter71=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter72=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter73=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter74=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter75=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter76=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter77=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter78=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter79=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter80=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter81=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter82=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter83=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter84=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter85=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter86=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter87=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter88=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter89=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter90=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter91=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter92=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter93=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter94=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter95=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter96=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter97=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter98=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter99=^pDemonhunter's Gift of DAIL
+ dailCompDescDemonhunter=^pDemonhunter's Gift of DAIL
+dailCompTextDemonhunter1=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter2=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter3=^oThis feels warm to the touch, almost familiar ^w(This component fits into the amulet only)
+dailCompTextDemonhunter4=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter5=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter6=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter7=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter8=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter9=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter10=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter11=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter12=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter13=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter14=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter15=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter16=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter17=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter18=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter19=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter20=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter21=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter22=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter23=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter24=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter25=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter26=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter27=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter28=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter29=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter30=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter31=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter32=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter33=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter34=^oThis feels warm to the touch, almost familiar ^w(This component fits into all Jewellery slots including the Belt And Shoulder)
+dailCompTextDemonhunter35=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter36=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter37=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter38=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter39=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter40=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter41=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter42=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter43=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter44=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter45=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter46=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter47=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter48=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter49=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter50=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter51=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter52=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter53=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter54=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter55=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter56=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter57=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter58=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter59=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter60=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter61=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter62=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter63=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter64=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter65=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter66=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter67=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter68=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter69=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter70=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter71=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter72=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter73=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter74=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter75=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter76=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter77=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter78=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter79=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter80=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter81=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter82=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter83=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter84=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter85=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter86=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter87=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter88=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter89=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter90=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter91=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter92=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter93=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter94=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter95=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter96=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter97=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter98=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter99=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)
+dailCompTextDemonhunter=^oThis feels warm to the touch, almost familiar ^w(This component only fits into the Medal Slot)

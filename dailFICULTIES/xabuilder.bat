@@ -43,60 +43,60 @@ COPY tags_uimain.txt .\source_X\ /y
 COPY tags_uimain.txt .\source_SX\ /y
 COPY tags_uimain.txt .\source_ASX\ /y
 
-echo tagRDifficultyTitle01=Normal(S 0054) >> .\source_S\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(A 0054) >> .\source_A\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(ANG 0054) >> .\source_ANG\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(NG 0054) >> .\source_NG\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(B 0054) >> .\source_B\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(AB 0054) >> .\source_AB\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(AX 0054) >> .\source_AX\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(X 0054) >> .\source_X\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(SX 0054) >> .\source_SX\tags_uimain.txt
-echo tagRDifficultyTitle01=Normal(ASX 0054) >> .\source_ASX\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(S 0055) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(A 0055) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(ANG 0055) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(NG 0055) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(B 0055) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(AB 0055) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(AX 0055) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(X 0055) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(SX 0055) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle01=Normal(ASX 0055) >> .\source_ASX\tags_uimain.txt
 
-echo tagChallengeDifficulty=Veteran(S 0054) >> .\source_S\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(A 0054) >> .\source_A\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(ANG 0054) >> .\source_ANG\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(NG 0054) >> .\source_NG\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(B 0054) >> .\source_B\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(AB 0054) >> .\source_AB\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(AX 0054) >> .\source_AX\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(X 0054) >> .\source_X\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(SX 0054) >> .\source_SX\tags_uimain.txt
-echo tagChallengeDifficulty=Veteran(ASX 0054) >> .\source_ASX\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(S 0055) >> .\source_S\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(A 0055) >> .\source_A\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(ANG 0055) >> .\source_ANG\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(NG 0055) >> .\source_NG\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(B 0055) >> .\source_B\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(AB 0055) >> .\source_AB\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(AX 0055) >> .\source_AX\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(X 0055) >> .\source_X\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(SX 0055) >> .\source_SX\tags_uimain.txt
+echo tagChallengeDifficulty=Veteran(ASX 0055) >> .\source_ASX\tags_uimain.txt
 
-echo tagRDifficultyTitle02=Elite(S 0054) >> .\source_S\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(A 0054) >> .\source_A\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(ANG 0054) >> .\source_ANG\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(NG 0054) >> .\source_NG\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(B 0054) >> .\source_B\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(AB 0054) >> .\source_AB\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(AX 0054) >> .\source_AX\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(X 0054) >> .\source_X\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(SX 0054) >> .\source_SX\tags_uimain.txt
-echo tagRDifficultyTitle02=Elite(ASX 0054) >> .\source_ASX\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(S 0055) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(A 0055) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(ANG 0055) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(NG 0055) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(B 0055) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(AB 0055) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(AX 0055) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(X 0055) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(SX 0055) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle02=Elite(ASX 0055) >> .\source_ASX\tags_uimain.txt
 
-echo tagRDifficultyTitle03=Ultimate(S 0054) >> .\source_S\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(A 0054) >> .\source_A\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(ANG 0054) >> .\source_ANG\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(NG 0054) >> .\source_NG\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(B 0054) >> .\source_B\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(AB 0054) >> .\source_AB\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(AX 0054) >> .\source_AX\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(X 0054) >> .\source_X\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(SX 0054) >> .\source_SX\tags_uimain.txt
-echo tagRDifficultyTitle03=Ultimate(ASX 0054) >> .\source_ASX\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(S 0055) >> .\source_S\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(A 0055) >> .\source_A\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(ANG 0055) >> .\source_ANG\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(NG 0055) >> .\source_NG\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(B 0055) >> .\source_B\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(AB 0055) >> .\source_AB\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(AX 0055) >> .\source_AX\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(X 0055) >> .\source_X\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(SX 0055) >> .\source_SX\tags_uimain.txt
+echo tagRDifficultyTitle03=Ultimate(ASX 0055) >> .\source_ASX\tags_uimain.txt
 
-echo tagHardcore=Hardcore(S 0054) >> .\source_S\tags_uimain.txt
-echo tagHardcore=Hardcore(A 0054) >> .\source_A\tags_uimain.txt
-echo tagHardcore=Hardcore(ANG 0054) >> .\source_ANG\tags_uimain.txt
-echo tagHardcore=Hardcore(NG 0054) >> .\source_NG\tags_uimain.txt
-echo tagHardcore=Hardcore(B 0054) >> .\source_B\tags_uimain.txt
-echo tagHardcore=Hardcore(AB 0054) >> .\source_AB\tags_uimain.txt
-echo tagHardcore=Hardcore(AX 0054) >> .\source_AX\tags_uimain.txt
-echo tagHardcore=Hardcore(X 0054) >> .\source_X\tags_uimain.txt
-echo tagHardcore=Hardcore(SX 0054) >> .\source_SX\tags_uimain.txt
-echo tagHardcore=Hardcore(ASX 0054) >> .\source_ASX\tags_uimain.txt
+echo tagHardcore=Hardcore(S 0055) >> .\source_S\tags_uimain.txt
+echo tagHardcore=Hardcore(A 0055) >> .\source_A\tags_uimain.txt
+echo tagHardcore=Hardcore(ANG 0055) >> .\source_ANG\tags_uimain.txt
+echo tagHardcore=Hardcore(NG 0055) >> .\source_NG\tags_uimain.txt
+echo tagHardcore=Hardcore(B 0055) >> .\source_B\tags_uimain.txt
+echo tagHardcore=Hardcore(AB 0055) >> .\source_AB\tags_uimain.txt
+echo tagHardcore=Hardcore(AX 0055) >> .\source_AX\tags_uimain.txt
+echo tagHardcore=Hardcore(X 0055) >> .\source_X\tags_uimain.txt
+echo tagHardcore=Hardcore(SX 0055) >> .\source_SX\tags_uimain.txt
+echo tagHardcore=Hardcore(ASX 0055) >> .\source_ASX\tags_uimain.txt
 
 rem rename text_en.arc.1004HF1 text_en.arc.1004HF1.arc
 rem Arhivetool.exe text_en.arc.1004HF1.arc -update . ..\DAIL\source\Text_EN\DAIL_hybrid_tags.txt 6

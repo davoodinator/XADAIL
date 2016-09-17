@@ -89,7 +89,7 @@ FunctionEnd
 !undef Var0
 
 !define PRODUCT_NAME "DAIL Installer"
-!define PRODUCT_VERSION "0052-Crucible"
+!define PRODUCT_VERSION "0055-Crucible"
 !define PRODUCT_PUBLISHER "Davoodinator"
 !define PRODUCT_WEB_SITE "www.twitch.tv/davoodinator"
 
