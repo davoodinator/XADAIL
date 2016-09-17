@@ -1,4 +1,4 @@
-templateName,database/templates/skill_attackprojectiledebuf.tpl,
-Class,Skill_AttackProjectileDebuf,
-buffSkillName,records/skills/playerClass10/rootglab_buff.dbr,
-projectileNames,records/fx/skillClass10/aetherialsummon_fxprojectile.dbr,
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/skills/playerclass10/rootglab_buff.dbr,
+pointBlank,0,
