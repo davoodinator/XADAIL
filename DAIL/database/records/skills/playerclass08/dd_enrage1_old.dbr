@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/playerclass08/dd_enrage1_buff.dbr,
+fileNameHistoryEntry,mods/darkestdawn/records/skills/playerclass08/dd_enrage1.dbr,

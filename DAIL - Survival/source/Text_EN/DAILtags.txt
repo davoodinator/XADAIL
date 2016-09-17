@@ -1,3 +1,6 @@
+
+#DAIL GIFT TAGS
+
 #NPCS
 tagDailDavoodFactioner=^oDavood the ^wAetherial Interdictor
 tagDailHardyFactioner=^oHardy the ^wAetherial Interdictor

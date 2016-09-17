@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,Exoskeletal Armor,
+instantCast,0,
+buffSkillName,records/skills/playerclass07/dd_exoskeletalarmor1_buff.dbr,

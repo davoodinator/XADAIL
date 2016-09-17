@@ -26,10 +26,13 @@ The files in Grim Dawn/mods/XADAIL will be your source should you need to revert
 	and this directory is used for creating Pull requests and merging updated changes from the master.
 	https://www.sitepoint.com/quick-tip-synch-a-github-fork-via-the-command-line/
 	
+Now, to populate your changes into the other versions of DAIL.	
+		Run SKILLMERGER.BAT
+	
 Once your alterations are ready, run the XAGIT.bat file. It may require some editing to function correctly.
 	This batch merges your changes from working to the mods/XADAIL material
 
-From there, you will merge your changes with your Forked profile on github.com
+From there, you will PULL your changes in local/XADAIL to your Forked profile on github.com
 
 Almost finaly step, create a Pull request with the master, davoodinator/XADAIL, to send your changes.
 

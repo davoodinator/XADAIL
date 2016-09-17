@@ -1,0 +1,140 @@
+#CLASS ELEMENTALIST
+#ENUMERATION 12
+
+#CLASS TERROR KNIGHT
+#ENUMERATION 13
+
+tagSkillClassDescription12=Traditionally, Elementalists were persons of entertainment in Elonis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
+tagSkillClassDescription13=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
+
+#***********************************************************************************************************************************
+#TERROR KNIGHT
+
+tagClass13SkillName00A=Terror Knight
+tagClass13SkillDescription00A=A vanguard of chaos and carnage.
+
+tagClass13SkillName01A=Banish
+tagClass13SkillDescription01A=Smash your foe out of this life and into the next one. ^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
+tagClass13SkillName01B=Blood Rage
+tagClass13SkillDescription01B=Push yourself past your limits to crush your opponent beneath insurmountable power.
+tagClass13SkillName01C=Smite
+tagClass13SkillDescription01C="I threw down my enemy, and he fell from the high place, and broke the mountain-side where he smote it in his ruin."
+
+tagClass13SkillName02A=Suit Up
+tagClass13SkillDescription02A=Don armor worthy of a Knight of Enolis.
+tagClass13SkillName02B=Hand Armor
+tagClass13SkillName02C=Leg Armor
+tagClass13SkillName02D=Torso Armor
+tagClass13SkillName02E=Head Armor
+
+tagClass13SkillName03A=Conquer
+tagClass13SkillDescription03A=Proclaim your victory before a fight even starts.
+tagClass13SkillName03B=Fortuna Adiuvat Fortis
+tagClass13SkillDescription03B=Victory will come to those with great willpower; even if they stole it from others.
+
+tagClass13SkillName04A=Engage
+tagClass13SkillDescription04A=Your enemies need not come to you; you shall come to them. ^oRequires a melee weapon.
+tagClass13SkillName04B=Deadly Assault
+tagClass13SkillDescription04B=Charge forth with unyielding force.
+tagClass13SkillName04C=Nowhere to Hide
+tagClass13SkillDescription04C=Push your assault ever onward with heightened frequency.
+
+tagClass13SkillName05A=Gore
+tagClass13SkillDescription05A=Impale an enemy upon your weapon with ferocity to make the lesser-willed flee. ^oRequires a melee weapon.
+tagClass13SkillName05B=Lust for Carnage
+tagClass13SkillDescription05B=Slice apart your surrounding foes; grow empowered upon their demise. ^oRequires a two-handed melee weapon.
+tagClass13SkillName05C=Carnivorous Slaughter
+tagClass13SkillDescription05C=Obliterate a target with a tremendous show of strength, and feast upon the damage done. ^oRequires a two-handed melee weapon.
+
+tagClass13SkillName06A=Blood Siphon
+tagClass13SkillDescription06A=Terror Knights excel against groups of foes. You shall be no different.
+tagClass13SkillName06B=Thirst
+tagClass13SkillDescription06B=There is much vigor to take from your enemies, and you are quite thirsty. Drink on!
+
+tagClass13SkillName07A=Well of Fears
+tagClass13SkillDescription07A=Conjure a pool of terrific power that decays the rational thought of your enemies.
+tagClass13SkillName07B=Swarm of Fears
+tagClass13SkillDescription07B=Degrade the will of your foes to push on.
+
+tagClass13SkillName08A=Soldier of Madness
+tagClass13SkillDescription08A=While they further the spread of insanity, one must not forget that Terror Knights are just that - Knights, like any other.
+
+tagClass13SkillName09A=Evocation of Terror
+tagClass13SkillDescription09A=A weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world. ^oRequires a two-handed melee weapon.
+
+tagClass13SkillName10A=Entropic Reign
+tagClass13SkillDescription10A=Your foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
+
+#***********************************************************************************************************************************
+#ELEMENTALIST
+
+tagClass12SkillName00A=Elementalist
+tagClass12SkillDescription00A=Tricks of the trade for conjuration and sorcery.
+
+tagClass12SkillName01A=Ice Wall
+tagClass12SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies. {^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
+
+tagClass12SkillName02A=Fireball
+tagClass12SkillDescription02A=Hurl a conglomeration of molten rock toward your enemies.
+tagClass12SkillName02B=Barrage
+tagClass12SkillDescription02B=Bury your opponents in an onslaught of volcanic stone.
+tagClass12SkillName01C=Hellfire
+tagClass12SkillDescription01C=The flames of hell are unrelenting in their assault.
+
+tagClass12SkillName03A=Chain Lightning
+tagClass12SkillDescription03A=Dazzle a crowd in an electrifying display of elementalism!
+tagClass12SkillName03B=Restructure
+tagClass12SkillDescription03B=Feed material energies into the power which surges from you.
+
+tagClass12SkillName04A=Elemental Armoring
+tagClass12SkillDescription04A=You conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
+
+tagClass12SkillName05A=Rider of the Storm
+tagClass12SkillDescription05A=A maelstrom of the elements surround and empowers you.
+
+tagClass12SkillName06A=Ice Surge
+tagClass12SkillDescription06A=Condense the air ahead of you into shards of ice.
+tagClass12SkillName06B=Cold Snap
+tagClass12SkillDescription06B=The area around you snaps to frigidity, occasionally bursting out violently.
+
+tagClass12SkillName07A=Frost Armor
+tagClass12SkillDescription07A=Protect yourself with the strength of ice.
+
+tagClass12SkillName08A=Flameblade
+tagClass12SkillDescription08A=Originally used to wow crowds, this more potent sorcery is used to tear enemies asunder.
+
+tagClass12SkillName09A=Breathe Fire
+tagClass12SkillDescription09A=Another incendiary conjuration historically used for entertainment and now made to burn assailants to ash.
+tagClass12SkillName09B=Exhumation
+tagClass12SkillDescription09B=Your volcanic voice erodes the flesh of even the sturdiest of targets.
+
+tagClass12SkillName10A=Stormcaller
+tagClass12SkillDescription10A=The might of the Stormcaller God, Selik, is so great that nothing will persist in its presence for long. Likewise, however, calling upon such power is truly taxing on an individual.
+tagClass12SkillName10B=Thunderclap
+tagClass12SkillDescription10B=As your power increases, you grow more attuned to the might of Selik and so can sustain greater forces from the Stormcaller God for longer periods of time.
+
+tagClass12SkillName11A=Sprite
+tagClass12SkillDescription11A=A surge of intense thermal and electrical energies rains down upon your foes from the skies above, muting their very existence.
+
+tagClass12SkillName12A=Rupture
+tagClass12SkillDescription12A=Smash the earth at your feet, forcing the flames beneath the surface to punch through to your plane with violent force.
+tagClass12SkillName12B=Fire Pillar
+tagClass12SkillDescription12B=Scorching flames rocket out of the earth.
+
+tagClass12SkillName13A=Citadel of Ice
+tagClass12SkillDescription13A=Expend energy to shield yourself from all harm behind a bulwark of tremendous defenses. ^oThis skill immobilizes you for its duration. It will also end prematurely if you run out of Energy.
+
+tagClass12SkillName14A=Fire Affinity
+tagClass12SkillDescription14A=Flames can breathe new life into your being or scorch your enemies to cinder.
+tagClass12SkillName14B=Lightning Affinity
+tagClass12SkillDescription14B=Lightning can excite you to unparalleled levels or bring your enemies to a halt.
+tagClass12SkillName14C=Cold Affinity
+tagClass12SkillDescription14C=No armor is sturdier than that of ice, and no attacks hit harder than those likewise.
+
+tagClass12SkillName15A=Refuel
+tagClass12SkillDescription15A=Take from the arcane power of your enemies to further your own.
+
+tagClass12SkillName16A=Elemental Flow
+tagClass12SkillDescription16A=As your vitality comes and goes, so, too, do your offenses and defenses.
+
+

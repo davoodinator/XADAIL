@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petChanges,,
+petSkillName,records/skills/demonology/pets/petskill_imp_viciousbite.dbr,
+fileNameHistoryEntry,mods/dawnofheroes/records/skills/demonology/devourer_petmodifier_bite.dbr,

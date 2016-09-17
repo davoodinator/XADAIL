@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+ActorName,,
+Class,Skill_AttackBuffRadius,
+FileDescription,,
+buffSkillName,records/skills/playerclassdemonhunter/marked_for_death_buff.dbr,
+pointBlank,0,
+fileNameHistoryEntry,mods/demonhunter/records/skills/playerclassdemonhunter/marked_for_death.dbr,

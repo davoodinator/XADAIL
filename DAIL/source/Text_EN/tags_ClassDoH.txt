@@ -3,28 +3,33 @@
 #CLASS FROST KNIGHT
 #ENUMERATION 11
 
+#CLASS VOIDCALLER
+#ENUMERATION 25
+
 #CLASS GROVE KEEPER, PRIEST
 #ENUMERATION 26
 
 
 
 #Masteries
-tagClassNameFK=Frost Knight
-tagClassENCH=[ms]Priest[fs]Priestess
-tagClassEnchName=[ms]Priest[fs]Priestess
+tagClassNameFK=^lFrost Knight
+tagSkillClassNameFrostKnight=^lFrost Knight
+tagClassENCH=Priest
+tagClassEnchName=Priest
 tagClassEnchDesc=Priests and Priestess are from the original order of Empyreon who still have some of the power of their lost god, their very presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-
-
+tagClassDemonName=^lVoidcaller
+tagClassDemonDesc=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
+tagClassDescDemon=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
+tagClassDemonDescription=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
+tagSkillDemonDescription=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
 tagSkillClassDescription11=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescFK=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
 tagClassDescENCH=Grove Keepers are well-known supporters whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagClassDescMage=Master of the energies of Fire, Ice, and Air, the Mage channels the power of the elements to burn, freeze and electrify whole hosts of opponents at once.
-tagClassDescDemon=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
-tagClassDescStalker=Stalker
+
 
 #Class Frost Knight
 tagPetWraith=Ice Revenant
-tagClassSkillNameFK=Frost Knight
+tagClassSkillNameFK=^lFrost Knight
 tagClassDescFK00=Frost Knight is a hybrid melee class, master of two-handed weapons and frost magic.
 tagFKSkillName01A=Sweeping Strike
 tagFKSkillDesc01A={^S}Offensive {^n}{^n}{^w}Instantly strike up to 3 adjacent enemies with melee weapon.
@@ -95,11 +100,74 @@ tagFKSkillName16B=Obliterate
 tagFKSkillDesc16B={^S}Offensive {^n}{^n}{^w}Focuses the power of ice within the Revenant's weapon and unleashes a bone shattering blast at the target, chilling them to the bone and exploding outwards, causing severe damage to adjacent enemies.
 tagFKSkillName17=PH
 tagFKSkillDesc17=PH
-
 tagPetWraith=Revenant
 
-#ClassPriest
 
+#Class Voidcaller
+tagPetDemonImp=Devourer
+tagPetDemonHarbinger=Harbinger
+tagPetDemonTentacle=Tentacle
+tagDemonSkill01=Summon Devourer
+tagDemonSkill01A=Bite
+tagDemonDesc01={^S}Summon {^n}{^n}{^w}Summons a chthonian devourer. ^oScales with pet damage bonuses.
+tagDemonSkill01B=Chaos Strike
+tagDemonDesc01B={^S}Offensive {^n}{^n}{^w}The devourer travels through the Void at insane speed and reappears in front of the target, dealing moderate damage and stealing their life.
+tagDemonSkill01C=Flame Vomit
+tagDemonDesc01C={^S}Offensive {^n}{^n}{^w}Deals ^oFire ^wdamage to all enemies in front of the Devourer, burning and disorienting them for a short time.
+tagDemonSkill01D=Piercing Howl
+tagDemonDesc01D={^S}Crowd Control {^n}{^n}{^w}The Devourer howls, weakening adjacent enemies and dominating their body, petrifying them for a short time.
+tagDemonSkill02=Summon Harbinger
+tagDemonSkill02A=Voidfire Bolt
+tagDemonDesc02={^S}Summon {^n}{^n}{^w}Summons a chthonian harbinger. ^oScales with pet damage bonuses.
+tagDemonSkill02B=Chaos Shield
+tagDemonSkill02C=Obsidian Prison
+tagDemonDesc02C={^S}Crowd Control {^n}{^n}{^w}Encages the enemy in a obsidian prison for a short time, making them unable to move and stealing their life and energy.
+tagDemonSkill02D=Decay
+tagDemonDesc02D={^S}Offensive {^n}{^n}{^w}Desecrates the ground, quickly depleting life forces of any opponents within its area of effect.
+tagDemonSkill03=Foul Growth
+tagDemonDesc03={^S}Utility {^n}{^n}{^w}Sacrifice your own life, boosting health regeneration of your minions for a short time.
+tagDemonSkill03A=Somatic Desecration
+tagDemonDesc03A={^S}Modifier {^n}{^n}{^w}Desecrate your body, causing all your summoned minions to quickly regenerate their energy for a short time.
+tagDemonSkill04=Grievous Mutilation
+tagDemonDesc04={^S}Offensive {^n}{^n}{^w}Teleports to the target in the blink of an eye, causing severe damage to all adjacent enemies. ^oRequires a two-handed melee weapon.
+tagDemonSkill04A=Master's Fervor
+tagDemonDesc04A={^S}Modifier {^n}{^n}{^w}Enrages all your summoned minions for a short time after successful attack with Grievous Mutilation.
+tagDemonSkill04B=Master's Fervor
+tagDemonSkill04C=Bloodlust
+tagDemonDesc04C={^S}Modifier {^n}{^n}{^w}All your summoned minions cause targets to bleed while also replenish a portion of their own life on each attack, for a short time after successful attack with Grievous Mutilation.
+tagDemonSkill05=Tenebrous Distortion
+tagDemonDesc05={^S}Utility {^n}{^n}{^w}The Voidcaller distorts the fabric of reality, nullifying all damage taken for a short time in exchange for a small portion of their own life.
+tagDemonSkill06=Merciless Subjugation
+tagDemonDesc06={^S}Utility {^n}{^n}{^w}Enrages all your summoned minions for a short time at cost of their defenses.
+tagDemonSkill07=Grim Fortitude
+tagDemonDesc07={^S}Passive {^n}{^n}{^w}Empowers your minions, boosting their life and regeneration speed.
+tagDemonSkill08=Inexorable Doom
+tagDemonDesc08={^S}Passive {^n}{^n}{^w}Nothing can stop an emmissary of Chaos and their loyal minions!
+tagDemonSkill09=Chaos Affinity
+tagDemonDesc09={^S}Passive {^n}{^n}{^w}Years of practicing in occult arts of summoning chthonian beings and controlling the wild powers of the Void allow you and your minions to attack with {^M}Chaos {^W}and {^O}Fire {^W}with increased effectiveness.
+tagDemonSkill10=Chaos Vortex
+tagDemonDesc10={^S}Crowd Control {^n}{^n}{^w}Creates a vortex at the targeted location that deals {^M}Chaos {^W}damage and pulls all enemies to its center.
+tagDemonSkill11=Chaos Fury
+tagDemonDesc11={^S}Crowd Control {^n}{^n}{^w}Unleashes fury of Chaos at the targeted location, stunning all targets and decreasing their offensive and defensive capabilities.
+tagDemonSkill11A=Empowered Fury
+tagDemonDesc11A={^S}Transmuter {^n}{^n}{^w}Allows to cast Chaos Fury more often, but this skill no longer stuns your enemies.
+tagDemonSkill11B=Embrace of Chaos
+tagDemonDesc11B={^S}Modifier {^n}{^n}{^w}Boosts total damage of your minions after you successfully cast Chaos Fury.
+tagDemonSkill12=Call of the Void
+tagDemonSkill12A=Flail
+tagDemonDesc12={^S}Self Buff {^n}{^n}{^w}Whenever you kill an enemy, you summon a tentacle that attacks all adjacent enemies for a short time.
+tagDemonSkill13=Entropy
+tagDemonDesc13={^S}Self Buff {^n}{^n}{^w}Surrounds the Voidcaller with the raw power of the Void that slowly depletes life forces of all enemies around the caster and degenerates their natural resistances to damage.
+tagDemonSkill13A=Devourer of Souls
+tagDemonDesc13A={^S}Modifier {^n}{^n}{^w}While Entropy is active, gives a chance to absorb a slain enemy's soul, boosting the power of entopy around you for a short time.
+tagDemonSkill14=Chaos Lash
+tagDemonDesc14={^S}Offensive {^n}{^n}{^w}Strikes the target with the entropic energies of the Chaos, causing {^O}Fire {^W}and {^M}Chaos {^W}damage.
+tagDemonSkill14A=Void Fire
+tagDemonDesc14A={^S}Modifier {^n}{^n}{^w}Creates a fissure on the ground that emits destructive energies of the Chaos.
+tagDemonSkill14B=Reaping Lash
+tagDemonDesc14B={^S}Modifier {^n}{^n}{^w}Your Chaos Lash hits additional targets and drains their life, transfering it to you.
+
+#ClassPriest
 tagPetFaerie=Faerie
 tagEnchSkill01=Barkskin
 tagEnchSkill01B=Entangling Vines

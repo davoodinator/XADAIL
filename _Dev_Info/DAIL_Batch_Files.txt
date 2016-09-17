@@ -1,7 +1,18 @@
-[9/8/2016 18:30] K
+Edit [9/16/2016 18:30] K
 
 [DAIL] Batch Process
 
 DAIL batch processes and their functions:
 
-WIP
+
+
+SKILLMERGER.BAT brings files from \DAIL\ into the other folders as needed in the case of some shared 
+	data that needs to be edited. if someone can suggest a better file. I will merge it in.
+
+GQMERGE.bat run after SKILLMERGER.BAT and also AFTER you have compiled the assets in asset manager and 
+	"compacted" them.  this batch file will add all the missing Titan Quest assets missing from the 
+	regular DAIL folders.
+
+XAGIT.bat = brings only the changed files from this working folder to a subfolder named XADAIL which 
+	should be your git repo folder.. you can edit this if you want. just offering it for convenience. 
+	you'll have to edit this heavily to make it work - if someone can suggest a better file I will merge it in

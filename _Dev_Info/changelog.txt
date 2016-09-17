@@ -1,15 +1,29 @@
-[9/12/2016 18:00] K
+Edit [9/16/2016 19:00] K
 
 ****************************************************************
 ****************************************************************
 
-Changelog 2.00
+Changelog 2.0
 
 ****************************************************************
 ****************************************************************
-* = from XADAIL/Issue
 
+[2.0 9/16]
+Pull
+	Successful git sync to master
 
+[2.0 9/15 19:00]
+Mastery UI
+	Added color codes
+	Switched buttons to group by dev
+			
+[2.0 9/14 18:00]
+Masteries
+	Merged - Voidcaller  (Enumeration #25)
+	Merged - Demon Hunter (Enumeration #30)
+	Update - Darkest Dawn 1.1
+	Update - Zenith 0.3
+	
 [2.0 9/12 0800]
 Pull 57
 
