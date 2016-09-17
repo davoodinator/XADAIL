@@ -313,15 +313,17 @@ Section "Common Files" SEC99
   SetOutPath "$INSTDIR\mods\DAIL - Survival\resources"
   SetOverwrite on
   File /oname=textures.arc ".\DAIL - Survival\resources\textures.arc"
-  SetOutPath "$INSTDIR\mods\DAIL\resources"
-  SetOverwrite on
-  File /oname=Omega_katana.msh ".\DAIL\resources\Omega_katana.msh"
-  SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
-  SetOverwrite on
-  File /oname=Omega_katana.msh ".\DAIL - RIFT\resources\Omega_katana.msh"
-  SetOutPath "$INSTDIR\mods\DAIL - Survival\resources"
-  SetOverwrite on
-  File /oname=Omega_katana.msh ".\DAIL - Survival\resources\Omega_katana.msh"
+
+; OMEGA KATANA WAS COMMENTED OUT WITH DAIL RELEASE ZERO ZERO FIVE FIVE 0 0 5 5
+;  SetOutPath "$INSTDIR\mods\DAIL\resources"
+;  SetOverwrite on
+;  File /oname=Omega_katana.msh ".\DAIL\resources\Omega_katana.msh"
+;  SetOutPath "$INSTDIR\mods\DAIL - RIFT\resources"
+;  SetOverwrite on
+;  File /oname=Omega_katana.msh ".\DAIL - RIFT\resources\Omega_katana.msh"
+;  SetOutPath "$INSTDIR\mods\DAIL - Survival\resources"
+;  SetOverwrite on
+;  File /oname=Omega_katana.msh ".\DAIL - Survival\resources\Omega_katana.msh"
 
   SetOutPath "$INSTDIR\mods\DAIL - RIFT\database\"
   SetOverwrite on
