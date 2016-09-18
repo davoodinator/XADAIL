@@ -17,6 +17,10 @@ Mastery
 Pull #67
 	Successful repo merge
 
+Demon and Demonhunter potions and merchants added
+Arch Necromancer and Illusionist potions fixed
+lots of tag tweaks
+	
 [55 9/15 19:00]
 Mastery UI
 	Added color codes

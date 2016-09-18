@@ -1,27 +1,3 @@
-123TEST
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LATEST CHANGES 
 ***********************************************************************
 ***********************************************************************
@@ -82,6 +58,14 @@ git reset --hard HEAD
 git clean -f
 git pull
 ***********************************************************************
+git checkout -b <branch>
+
+Edit files, add and commit. Then push with the -u option:
+
+git push -u origin <branch>
+
+Git will set up the tracking information during the push.
+**************************************************
 0055 - ?
 *MISC UI
 	30 mastery UI restored.. for now!

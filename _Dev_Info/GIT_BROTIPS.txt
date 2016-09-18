@@ -1,0 +1,25 @@
+file maintained by Davoodinator
+***********************************************************************
+Some notes:
+http://www.grimdawn.com/forums/showpost.php?p=421510&postcount=2520 how to hack .exe > 2gb memory
+***********************************************************************
+GREP SEARCH FOR , missing at end of lines in .dbr files
+to find the commas 
+.,$
+to find the missing commas 
+.[^, \n]$
+***********************************************************************
+when getting new stuff from REPO
+
+git reset --hard HEAD
+git clean -f
+git pull
+***********************************************************************
+git checkout -b <branch>
+
+Edit files, add and commit. Then push with the -u option:
+
+git push -u origin <branch>
+
+Git will set up the tracking information during the push.
+**************************************************
