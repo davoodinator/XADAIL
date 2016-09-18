@@ -34,3 +34,4 @@ GOTO :EOF
 
 :ENDECHO
 echo MAKE SURE YOU CTRL+C HERE
+rem pause
