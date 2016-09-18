@@ -52,10 +52,12 @@ function dail.scripts.spawndailitems()
 		'DAIL/items/summon/dailskillsummon0022.dbr',
 		'DAIL/items/summon/dailskillsummon0023.dbr',
 		'DAIL/items/summon/dailskillsummon0024.dbr',
+		'DAIL/items/summon/dailskillsummon0025.dbr',
 		'DAIL/items/summon/dailskillsummon0026.dbr',
 		'DAIL/items/summon/dailskillsummon0027.dbr',
 		'DAIL/items/summon/dailskillsummon0028.dbr',
 		'DAIL/items/summon/dailskillsummon0029.dbr',
+		'DAIL/items/summon/dailskillsummon0030.dbr',
 		'DAIL/items/summon/cratebox.dbr',
 		'DAIL/items/summon/dailfactionsummon0001.dbr',
 		'DAIL/items/summon/dailfactionsummon0002.dbr',
@@ -93,7 +95,7 @@ function dail.scripts.spawndailitems()
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrITEM));
-	local randITEM = math.random(1, 63);
+	local randITEM = math.random(1, 65);
 --	local newNPC = Entity.Create(dbrNPC[randNPC]);
 	player:GiveItem(dbrITEM[randITEM], 1, true);
 
@@ -134,10 +136,12 @@ function dail.scripts.spawndailnpcs()
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0022.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0023.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0024.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0025.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0026.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0027.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0028.dbr',
 		'DAIL/creatures/npcs/merchants/DAILclassplusser0029.dbr',
+		'DAIL/creatures/npcs/merchants/DAILclassplusser0030.dbr',
 		'records/creatures/npcs/merchants/transmogsmith.dbr',
 		'DAIL/creatures/npcs/npcs/davood.dbr',
 		'DAIL/creatures/npcs/npcs/khalanos.dbr',
@@ -177,7 +181,7 @@ function dail.scripts.spawndailnpcs()
 	};
 --	math.randomseed(Time.Now());
 --	local randNPC = math.random(1, table.getn(dbrNPC));
-	local randNPC = math.random(1, 65);
+	local randNPC = math.random(1, 67);
 	local newNPC = Entity.Create(dbrNPC[randNPC]);
 --	local playerCoords = Game.GetLocalPlayer():GetCoords();
 --	newNPC:SetCoords(playerCoords);
