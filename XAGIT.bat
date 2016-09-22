@@ -10,6 +10,8 @@ rem copy soft mods
 robocopy "%SOURCE_PATH%\DAIL" "%SOURCE_PATH%\XADAIL\DAIL" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL *.n *.bak
 robocopy "%SOURCE_PATH%\DAIL - RIFT" "%SOURCE_PATH%\XADAIL\DAIL - RIFT" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
 robocopy "%SOURCE_PATH%\DAIL - Survival" "%SOURCE_PATH%\XADAIL\DAIL - Survival" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.map *.7z *.debug *.good *.DAIL
+robocopy "%SOURCE_PATH%\DAIL - RIFT\assets\" "%SOURCE_PATH%\XADAIL\DAIL - Survival\assets\" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z *.debug *.good *.DAIL
+robocopy "%SOURCE_PATH%\DAIL - Survival\assets\" "%SOURCE_PATH%\XADAIL\DAIL - Survival\assets\" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z *.debug *.good *.DAIL
 
 rem copy hard mods
 robocopy "%SOURCE_PATH%\DAILmain - S" "%SOURCE_PATH%\XADAIL\DAILmain - S" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
