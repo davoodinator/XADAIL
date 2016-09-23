@@ -1,4 +1,4 @@
-Edit [9/17/2016 12:00] K
+Edit [9/22/2016 22:00] K
 
 ****************************************************************
 ****************************************************************
@@ -10,17 +10,27 @@ Edit [9/17/2016 12:00] K
 
 
 
+[55 9/22 22:00]
+	Git er dun - back on track
+		Batch files updated
+		Missing Rift assets uploaded to repo
+		Fixed - UI - again
+		All classes selectable and trees present.
+		New character gains xp (DAIL vanilla mode)
+		
+[55 9/19]
+QOL - Potions/Mercs
+	Added - Demon (Void Caller)  
+	Added - Demon Hunter 
+	Fixed - Arch Necromancer 
+	Fixed - Illusionist potions fixed
+
+TAG tweaks (Davood)
+
 [55 9/17]
 Mastery
 	Update - Coronus 2.0 
 
-Pull #67
-	Successful repo merge
-
-Demon and Demonhunter potions and merchants added
-Arch Necromancer and Illusionist potions fixed
-lots of tag tweaks
-	
 [55 9/15 19:00]
 Mastery UI
 	Added color codes
@@ -32,16 +42,12 @@ Masteries
 	Merged - Demon Hunter (Enumeration #30)
 	Update - Darkest Dawn 1.1
 	Update - Zenith 0.3
-	
-[55 9/12 0800]
-Pull 57
 
 [55 9/10]
 Updated Priest - updated to v 3.4
 	Test play good.
 	
 [55 9/10 21:00]
-Pull 52
 Improved - Tag orginization and removed double entries
 
 Improvement - Arlequin 
