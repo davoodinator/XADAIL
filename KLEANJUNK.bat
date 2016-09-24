@@ -1,0 +1,13 @@
+RD /S /Q ".\DAIL\resources\"
+RD /S /Q ".\DAIL - RIFT\resources\"
+RD /S /Q ".\DAIL - Survival\resources\"
+RD /S /Q ".\DAILmain - A\resources\"
+RD /S /Q ".\DAILmain - A NG\resources\"
+RD /S /Q ".\DAILmain - AB\resources\"
+RD /S /Q ".\DAILmain - ASX\resources\"
+RD /S /Q ".\DAILmain - AX\resources\"
+RD /S /Q ".\DAILmain - B\resources\"
+RD /S /Q ".\DAILmain - S\resources\"
+RD /S /Q ".\DAILmain - SX\resources\"
+RD /S /Q ".\DAILmain - X\resources\"
+pause
