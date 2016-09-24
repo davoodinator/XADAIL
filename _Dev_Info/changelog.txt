@@ -8,8 +8,20 @@ Edit [9/22/2016 22:00] K
 ****************************************************************
 ****************************************************************
 
+[55 9/24]
+	QOL
+		_Enumeration_List.txt added to records/UI/skills and records/skills
+		Changed some class selection and class selected image names to reflect image content
+		Fixed - Mastery Selection background image
+		Fixed - Coronus skill tree and tags
+		Fixed - Fangshi tree titled Coronus
+		(re)updated Elementalist and Terror Knight
 
-
+[55 9/23]
+	Epic battle vs git Necromancer
+		/XO switches removed from batch files
+	HF Built
+	
 [55 9/22 22:00]
 	Git er dun - back on track
 		Batch files updated
