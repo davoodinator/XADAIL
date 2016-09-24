@@ -6,7 +6,9 @@ decompress everything into \grim dawn\mods\
 
 then start by doing the following
 
+-1. Decompress the contents of VanillaBak\VanillaBak.7z  into the same folder where you see it or the NSIS files won't compile.
 0. Clean out those pesky resources folders with "KLEANJUNK.bat"
+
 1. Propogate any files that i forgot to with  "SKILLMERGER.bat" from the root of \mods\
 2. Load the asset manager
 3. go through every mod that has "DAIL" at the start and hit F7 on each

@@ -14,12 +14,12 @@ robocopy "%SOURCE_PATH%\DAIL - RIFT\assets" "%SOURCE_PATH%\XADAIL\DAIL - RIFT\as
 robocopy "%SOURCE_PATH%\DAIL - Survival\assets" "%SOURCE_PATH%\XADAIL\DAIL - Survival\assets" /NDL /NFL /S /XO /xf *.arz *.arc *.7z *.debug *.good *.DAIL /XD resources
 
 rem copy hard mods
-robocopy "%SOURCE_PATH%\DAILmain - S" "%SOURCE_PATH%\XADAIL\DAILmain - S" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy "%SOURCE_PATH%\DAILmain - A" "%SOURCE_PATH%\XADAIL\DAILmain - A" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy "%SOURCE_PATH%\DAILmain - B" "%SOURCE_PATH%\XADAIL\DAILmain - B" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+robocopy "%SOURCE_PATH%\DAILmain - S" "%SOURCE_PATH%\XADAIL\DAILmain - S" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z /XD resources
+robocopy "%SOURCE_PATH%\DAILmain - A" "%SOURCE_PATH%\XADAIL\DAILmain - A" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z /XD resources
+robocopy "%SOURCE_PATH%\DAILmain - B" "%SOURCE_PATH%\XADAIL\DAILmain - B" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z /XD resources
 rem robocopy "%SOURCE_PATH%\DAILmain - AB" "%SOURCE_PATH%\XADAIL\DAILmain - AB" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 rem robocopy "%SOURCE_PATH%\DAILmain - AX" "%SOURCE_PATH%\XADAIL\DAILmain - AX" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
-robocopy "%SOURCE_PATH%\DAILmain - X" "%SOURCE_PATH%\XADAIL\DAILmain - X" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
+robocopy "%SOURCE_PATH%\DAILmain - X" "%SOURCE_PATH%\XADAIL\DAILmain - X" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z /XD resources
 rem robocopy "%SOURCE_PATH%\DAILmain - SX" "%SOURCE_PATH%\XADAIL\DAILmain - SX" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 rem robocopy "%SOURCE_PATH%\DAILmain - ASX" "%SOURCE_PATH%\XADAIL\DAILmain - ASX" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
 rem robocopy "%SOURCE_PATH%\DAILmain - A NG" "%SOURCE_PATH%\XADAIL\DAILmain - A NG" /NDL /NFL /MIR /S /XO /xf *.arz *.arc *.7z
