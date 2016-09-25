@@ -1,0 +1,26 @@
+Enumeration Reference Sheet
+
+07		class07				Necro
+08		class08				Ranger
+09		ClassCoronus		Coronus
+10		class10				Fangshi
+11		classFK				Frost Knight
+12		zenithclass02		Elementalist
+13		zenithclass01		Terror Knight
+14		class14				Arch Necro
+15		class15				Illusionist
+16		Defense				Defense
+17		Hunting				Hunting
+18		Spirit				Spirit
+19		Warfare				Warfare
+20		Nature				Nature
+21		Stealth				Stealth
+22		Earth				Earth
+23		Storm				Storm
+24		Dream				Dream
+25		Demonology			Voidcaller
+26		Enchanter			Priest
+27		ClassEngineer		Engineer
+28		class28				Cenobite
+29		class29				Arlequin
+30		ClassDemonHunter	Demon Hunter

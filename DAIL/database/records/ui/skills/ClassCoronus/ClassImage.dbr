@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/bitmapsingle.tpl,
 ActorName,,
 Class,,
-FileDescription,BitmapSingle,
+FileDescription,Class tree portrait 200x320,
 bitmapName,ui/skills/skillallocation/skills_classimagecoronus.tex,
 bitmapPositionX,20,
 bitmapPositionY,20,

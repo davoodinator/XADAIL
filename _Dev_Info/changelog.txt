@@ -1,4 +1,4 @@
-Edit [9/22/2016 22:00] K
+Edit [9/24/2016 23:00] K
 
 ****************************************************************
 ****************************************************************
@@ -9,14 +9,32 @@ Edit [9/22/2016 22:00] K
 ****************************************************************
 
 
+[55 9/24]
+UI (Pull #80)
+	Fixed - Again
+		All buttons and txt dbr labeled
+		All buttons and txt XY good
+	
+QOL (Pull #79)
+	_Enumeration_List.txt added to records/UI/skills and records/skills
+	Changed some class selection and class selected image names to reflect image content
+	Fixed - Mastery Selection background image
+	Fixed - Coronus skill tree and tags
+	Fixed - Fangshi tree titled Coronus
+	(re)updated Elementalist and Terror Knight
 
+[55 9/23]
+Epic battle vs git Necromancer
+	/XO switches removed from batch files
+HF Built
+	
 [55 9/22 22:00]
-	Git er dun - back on track
-		Batch files updated
-		Missing Rift assets uploaded to repo
-		Fixed - UI - again
-		All classes selectable and trees present.
-		New character gains xp (DAIL vanilla mode)
+Git er dun - back on track - so we thought
+	Batch files updated
+	Missing Rift assets uploaded to repo
+	Fixed - UI - again
+	All classes selectable and trees present.
+	New character gains xp (DAIL vanilla mode)
 		
 [55 9/19]
 QOL - Potions/Mercs

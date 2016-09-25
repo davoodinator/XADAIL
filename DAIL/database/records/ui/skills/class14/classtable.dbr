@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillpanectrl.tpl,
 ActorName,,
 Class,,
-FileDescription,Necromancer,
+FileDescription,Arch Necro,
 BasePane,records/ui/skills/classcommon/skills_classpanelconfiguration.dbr,
 skillTabTitle,tagSkillClassName14,
 skillPaneDescriptionTag,tagSkillClassDescription14,

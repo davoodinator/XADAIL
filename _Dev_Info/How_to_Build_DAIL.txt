@@ -1,20 +1,32 @@
-[DAIL] Build instructions.
+Edit [9/24] D
 
-so you have downloaded the .zip from github? your a masochist. congratulations.
+****************************************************************
+****************************************************************
 
-decompress everything into \grim dawn\mods\
+	[DAIL] Build instructions.
 
-then start by doing the following
+****************************************************************
+****************************************************************
 
--1. Decompress the contents of VanillaBak\VanillaBak.7z  into the same folder where you see it or the NSIS files won't compile.
-0. Clean out those pesky resources folders with "KLEANJUNK.bat"
 
-1. Propogate any files that i forgot to with  "SKILLMERGER.bat" from the root of \mods\
-2. Load the asset manager
-3. go through every mod that has "DAIL" at the start and hit F7 on each
-4. after each mod is run. choose archive -> compact
-5. once this is done run "GQMERGE.bat" from the root of \mods\
-6. after that mess is run - you need to load NSIS
-7. load DAIL.nsi and hit CTRL+F9
-8. repeat for DAIL-LITE.nsi
-9. thats it you have built DAIL.  upload it to nexus and tell the world of its arrival.
+1. Decompress the contents of VanillaBak\VanillaBak.7z  into the same folder where you see it or the NSIS files won't compile.
+
+2. Clean out those pesky resources folders with "KLEANJUNK.bat"
+
+3. Propogate any files that i forgot to with  "SKILLMERGER.bat" from the root of \mods\
+
+4. Load the asset manager
+
+5. Go through every mod that has "DAIL" at the start and hit F7 on each
+
+6. After each mod is compiled, choose archive -> compact
+
+7. Once this is done run "GQMERGE.bat" from the root of \mods\
+
+8. Load NSIS
+
+9. Load DAIL.nsi and hit CTRL+F9
+
+10. Repeat for DAIL-LITE.nsi
+
+11. Thats it you have built DAIL.  Upload it to nexus and tell the world of its arrival.

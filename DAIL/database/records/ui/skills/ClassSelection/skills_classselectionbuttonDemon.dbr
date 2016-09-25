@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/buttonstatic.tpl,
 ActorName,,
 Class,,
-FileDescription,ButtonStatic,
+FileDescription,Voidcaller,
 bitmapNameUp,custom/icons/customui_classup.tex,
 bitmapNameDown,custom/icons/customui_classdown.tex,
 bitmapNameInFocus,custom/icons/customui_classover.tex,

@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillpanectrl.tpl,
 ActorName,,
 Class,,
-FileDescription,Demonology,
+FileDescription,Voidcaller,
 BasePane,records/ui/skills/classcommon/skills_classpanelconfiguration.dbr,
 skillTabTitle,tagClassDemonName,
 skillPaneDescriptionTag,tagClassDemonDesc,

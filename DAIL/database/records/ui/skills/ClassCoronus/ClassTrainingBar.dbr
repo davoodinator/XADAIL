@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/bargraph.tpl,
 ActorName,,
 Class,,
-FileDescription,,
+FileDescription,Mastery bar appearance,
 bitmapEmptyName,,
 bitmapFullName,ui/skills/skillallocation/skills_class05trainingbar.tex,
 bitmapCapName,,

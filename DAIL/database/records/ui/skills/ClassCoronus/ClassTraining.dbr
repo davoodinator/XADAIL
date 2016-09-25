@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillbutton.tpl,
 ActorName,,
 Class,,
-FileDescription,,
+FileDescription,Mastery bar pointer,
 skillName,records/skills/playerclasscoronus/_classtraining_classcoronus.dbr,
 skillOffsetX,,
 skillOffsetY,,

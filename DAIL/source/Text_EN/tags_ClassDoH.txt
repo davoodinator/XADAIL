@@ -13,11 +13,10 @@
 
 #Masteries
 tagClassNameFK=^lFrost Knight
-tagSkillClassNameFrostKnight=^lFrost Knight
 tagClassENCH=Priest
 tagClassEnchName=Priest
 tagClassEnchDesc=Priests and Priestess are from the original order of Empyreon who still have some of the power of their lost god, their very presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
-tagClassDemonName=^lVoidcaller
+tagClassDemonName=^pVoidcaller
 tagClassDemonDesc=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
 tagClassDescDemon=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.
 tagClassDemonDescription=Masters of the art of summoning, the Voidcallers draw their power from the very depths of the Void. They equally dangerous in close combat and casting various spells that leave enemies unprotected, and their loyal chthonic minions will quickly eliminate anyone who survived the Voidcaller's attacks.

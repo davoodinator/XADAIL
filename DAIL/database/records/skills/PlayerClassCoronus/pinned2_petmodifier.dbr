@@ -1,6 +1,6 @@
 templateName,database/templates/skillsecondary_petmodifier.tpl,
 ActorName,,
 Class,SkillSecondary_PetModifier,
-FileDescription,Muscle Rollers getting ripped,
+FileDescription,Short Duration Archers,
 petSkillName,records/skills/playerclasscoronus/pets/petskill_pinned_buff.dbr,
 petChanges,,
