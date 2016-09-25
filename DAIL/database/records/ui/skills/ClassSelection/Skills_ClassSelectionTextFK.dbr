@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/textstaticstring.tpl,
 ActorName,,
 Class,,
-FileDescription,TextStringStatic,
+FileDescription,Frost Knight,
 textTag,tagClassSkillNameFK,
 style,records/ui/styles/text/style_special_skillnames.dbr,
 textBoxX,-68,

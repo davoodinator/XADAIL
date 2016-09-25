@@ -48,13 +48,13 @@ tagDailThentyZShopping0021=^oAngryWeasel the ^wRogue ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0022=^oAzri Kun the ^wEarth ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0023=^oOleg Martynov the ^wStorm ^oEmissary of ^wASYLUM101
 tagDailThentyZShopping0024=^oDeathbit the ^wDream ^oEmissary of ^wASYLUM101
-tagDailThentyZShopping0025=^oTrevor Manson the ^wStargazer ^oEmissary of ^w3Jiou
+tagDailThentyZShopping0025=^oTrevor Manson the ^wVoidcaller ^oEmissary of ^w3Jiou
 tagDailThentyZShopping0026=^oSL AM the ^wPriest ^oEmissary of ^w3Jiou
 tagDailThentyZShopping0027=^oRorschachrev the ^wEngineer ^oEmissary of ^wKoba0100
 tagDailThentyZShopping0028=^oAaron Barton the ^wCenobite ^oEmissary of ^wCFTX
 tagDailThentyZShopping0029=^rKieran Cooper the ^wArleqin ^oEmissary of ^wAtrosatiro
-tagDailThentyZShopping0030=^rKathanious the ^wDemonhunter ^oEmissary of ^wfix name later
+tagDailThentyZShopping0030=^rRam the ^wDemonhunter ^oEmissary of ^wGrimer
 
 #components
 dailCompDesc0000000=^pThis is a test item mk?
-dailCompText0000000=^oThis feels warm to the ^wtouch, almost familiar ^w(This component fits into all Jewellery slots including the ^wBelt And Shoulder)
+dailCompText0000000=^oThis feels warm to the ^wtouch, almost familiar ^w(This component fits into all Jewelery slots including the ^wBelt And Shoulder)

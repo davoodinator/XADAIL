@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/textstaticstring.tpl,
 ActorName,,
 Class,,
-FileDescription,TextStringStatic,
+FileDescription,Soldier,
 textTag,tagSkillClassName01,
 style,records/ui/styles/text/style_special_skillnames.dbr,
 textBoxX,-68,

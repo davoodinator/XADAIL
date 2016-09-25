@@ -1,4 +1,4 @@
 tagGrimmestZombieHeroH11=This Monster Has No Name
 tagGrimmestZombieHeroH12=Depravities, the Depraved
 
-tagNPC_Guard_Kath=Kathanious, Davoodian Padawan
+tagNPC_Guard_Kath=Kathanious - ^oDavoodian Padawan
