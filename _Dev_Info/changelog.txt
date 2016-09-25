@@ -11,6 +11,8 @@ Edit [9/25/2016 09:00] K
 
 [56 9/24]
 UI Fixed - Again
+	Added texture to mastery background
+		source/ui/skills/skills_classwindowbackgroundimage.tga
 	Loading screen image changed
 		source/ui/loading
 	Fixed - odd Engineer data field changes? (Tag07 instead of 27, wrong xy)
