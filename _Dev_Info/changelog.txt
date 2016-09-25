@@ -1,26 +1,31 @@
-Edit [9/24/2016 23:00] K
+Edit [9/25/2016 09:00] K
 
 ****************************************************************
 ****************************************************************
 
-	Changelog 55
+	Changelog 56
 
 ****************************************************************
 ****************************************************************
 
 
-[55 9/24]
-UI (Pull #80)
-	Fixed - Again
-		All buttons and txt dbr labeled
+[56 9/24]
+UI Fixed - Again
+	Loading screen image changed
+		source/ui/loading
+	Fixed - odd Engineer data field changes? (Tag07 instead of 27, wrong xy)
+		Skills_classselectiontable.dbr
+	Class Selection
+		All buttons and txt dbr headers labeled for tracking
 		All buttons and txt XY good
 	
-QOL (Pull #79)
-	_Enumeration_List.txt added to records/UI/skills and records/skills
+QOL 
+	_Enumeration_List.txt added to records/UI/skills, records/skills, and Dev_Info
 	Changed some class selection and class selected image names to reflect image content
+		source/ui/skills classsection and skillallocation
 	Fixed - Mastery Selection background image
-	Fixed - Coronus skill tree and tags
-	Fixed - Fangshi tree titled Coronus
+	Fixed - Coronus skill tree and tags -(re)updated
+	Fixed - Fangshi tree titled Coronus (tagclass09 overlap)
 	(re)updated Elementalist and Terror Knight
 
 [55 9/23]
