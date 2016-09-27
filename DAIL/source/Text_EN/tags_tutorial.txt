@@ -1,4 +1,5 @@
 #Loading Tips
+<<<<<<< HEAD
 tagLoadingTip01={^g}Tip: {^w}[DAIL 0056] Credit goes to NatATon for the Legendary and Epic Affixes! They wont always appear on crafted items.
 tagLoadingTip02={^g}Tip: {^w}[DAIL 0056] Credit goes to Somerled for the Coronus Mastery!
 tagLoadingTip03={^g}Tip: {^w}[DAIL 0056] Credit goes to CFTX for the Necro, Ranger and Fangshi Masteries!
@@ -19,6 +20,28 @@ tagLoadingTip17={^g}Tip: {^w}[DAIL 0056] Credit goes to PH
 tagLoadingTip18={^g}Tip: {^w}[DAIL 0056] Credit goes to Atrosatiro for the Arlequin/Harlequin Mastery
 tagLoadingTip19={^g}Tip: {^w}[DAIL 0056] Credit goes to PH
 tagLoadingTip20={^g}Tip: {^w}[DAIL 0056] Credit goes to PH
+=======
+tagLoadingTip01={^g}Tip: {^w}[DAIL 0055] Credit goes to NatATon for the Legendary and Epic Affixes! They wont always appear on crafted items.
+tagLoadingTip02={^g}Tip: {^w}[DAIL 0055] Credit goes to Somerled for the Coronus mastery.
+tagLoadingTip03={^g}Tip: {^w}[DAIL 0055] Credit goes to CFTX for the Necro, Ranger, Fangshi, and Cenobite masteries.
+tagLoadingTip04={^g}Tip: {^w}[DAIL 0055] Credit goes to Okami29 for Omega Quest (ULTIMATE ONLY) - talk to guard at south gate in Devil's Crossing.
+tagLoadingTip05={^g}Tip: {^w}[DAIL 0055] Credit goes to Jiaco for the Grimmest and arachnophobia mods! 
+tagLoadingTip06={^g}Tip: {^w}[DAIL 0055] Credit goes to Elfe for random tips on mod creation and helping out the community in general.
+tagLoadingTip07={^g}Tip: {^w}[DAIL 0055] Credit goes to WareBare and Alexei for the Rifts/Mapping mod.
+tagLoadingTip08={^g}Tip: {^w}[DAIL 0055] Credit goes to Mamba, Cyberreefer, Deathbit, Asylum and others who have taught by example.
+tagLoadingTip09={^g}Tip: {^w}[DAIL 0055] Credit goes to Grim Dawg for Good Looking Mod 
+tagLoadingTip10={^g}Tip: {^w}[DAIL 0055] Credit goes to Ceno and adoomgod for Cornucopia changes to devotions.
+tagLoadingTip11={^g}Tip: {^w}[DAIL 0055] Credit goes to Princessluna for Eternal mod aka DAIL survival.
+tagLoadingTip12={^g}Tip: {^w}[DAIL 0055] Credit goes to 3Jiou for the Frost Knight and Enchanter masteries
+tagLoadingTip13={^g}Tip: {^w}[DAIL 0055] Credit goes to Ceno for the Zenith, Elementalist and Terror Knight, masteries.
+tagLoadingTip14={^g}Tip: {^w}[DAIL 0055] Credit goes to Kir4 for the Darkest Dawn, Necromancer and Illusionist, masteries.
+tagLoadingTip15={^g}Tip: {^w}[DAIL 0055] Credit goes to ASYLUM101 For the 9 Grim Quest Masteries (Titan Quest Influenced)
+tagLoadingTip16={^g}Tip: {^w}[DAIL 0055] Credit goes to Koba0100 for the Engineer mastery
+tagLoadingTip17={^g}Tip: {^w}[DAIL 0055] Credit goes to Grimer for the Demon Hunter mastery
+tagLoadingTip18={^g}Tip: {^w}[DAIL 0055] Credit goes to Atrosatiro for the Arlequin/Harlequin mastery
+tagLoadingTip19={^g}Tip: {^w}[DAIL 0055] Credit goes to Repo Necromancer for epic syncronization battles.
+tagLoadingTip20={^g}Tip: {^w}[DAIL 0055] Credit goes to Repo Necromancer for epic syncronization battles.
+>>>>>>> 3c137834320950c22cd9eb1801ac33d3085aee42
 
 #Tutorial Pages
 
