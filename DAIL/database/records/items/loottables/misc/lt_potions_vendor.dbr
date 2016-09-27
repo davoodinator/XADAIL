@@ -1,0 +1,4 @@
+Class,LevelTable,
+templateName,database/templates/leveltable.tpl,
+levels,1,
+records,records/items/loottables/misc/tdyn_potions_vendora01.dbr,
