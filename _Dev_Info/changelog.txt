@@ -1,17 +1,8 @@
-Edit [9/25/2016 09:00] K
-
-****************************************************************
-****************************************************************
-
-	Changelog 56
-
-****************************************************************
-****************************************************************
-
 
 <<<<<<< HEAD
 =======
-Edit [9/25/2016 09:00] K
+
+Edit [9/27/2016 19:40] K
 
 ****************************************************************
 ****************************************************************
@@ -21,8 +12,30 @@ Edit [9/25/2016 09:00] K
 ****************************************************************
 ****************************************************************
 
+[56 9/27 19:40]
+
+Inquiry - Potions - DAIL gifts sequence
+	DAIL.lua >> give character >> dailRNGpot.dbr >> itemskills/dailskillsummonX >> summons >> merchants/dailclassplusserX npc >> offers >> loottabes/dailoneskill000X >> containing >> materia/classX
+	Test play does not give player potion, rather picks up at dailskillsummonX
+
+Clean-up cont.
+	Inquiry - gameengine.dnr
+		59 Devotions, increased stash
+	Inquiry - records/inventor/dismantle
+		Omega orb
+	Inquiry - records/inventor/crafting
+		GQ generic spear/staff production
+	Inquiry - records/items/lootchest/chestloottables/moneygerators
+		changed for less money drop?
+	Inquiry - records/items/lootchests
+		mod wanez entries
+	Removed - records/items/loreobjects
+		vanilla dbr (in back-up if needed)
+	Removed - records/items/lootchests/oneshotchests
+		vanilla dbr (in  back-up if needed)
 
 [56 9/26 20:35]
+Pull #80 Merged
 Clean-up
 	Removed - Skelethon tags/items
 	Removed - Autoloot files 
