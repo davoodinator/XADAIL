@@ -23,7 +23,7 @@ Engineer [1.7 ](2016 07 31,updated in 051)(1.6 in 043)
 Coronus [2.0] (Up to date 9/17/2016)		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
-$$$$NCFF [0.61] (0.58 in 051)										
+NCFF [0.61] (0.58 in 051)										
 	http://www.grimdawn.com/forums/showthread.php?t=38158
 	Necromancer
 	Ranger
@@ -71,7 +71,7 @@ DGA [0.4.2B] (Up to date 9/3/2016)
 	Dynamically Generated Areas
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38585&highlight=mapping
 
-$$$$Grim Dawn: Eternal [0.977] (0.967 in 053)							
+Grim Dawn: Eternal [0.977] (0.967 in 053)							
 	http://www.grimdawn.com/forums/showthread.php?t=39543
 	Pre-Crucible survival
 	{Fight classic Grim Dawn monsters and bosses along with new ones
@@ -95,7 +95,7 @@ Grimmer and Grimmest [0.7] (Up to date 9/3/2016)
 	{manually "curated" adding Heroes and adjusting spawn weights for a more challenging encounter.
 	{Lua scripts determining level of NPC-turned-enemy spawns were adjusted to always spawn slightly above playerLevel.
 	
-Legendary Cap Remover [2.1] (On to-do list, conflict with Grim Quest)	
+$$$Legendary Cap Remover [2.1] (On to-do list, conflict with Grim Quest)	
 	http://www.grimdawn.com/forums/showthread.php?t=37957
 	Item improvement
 	{Affixes for Legendary and Epic Items. Great Items now become much more unique.
@@ -138,7 +138,7 @@ Lost Treasures [0.2] (Up to date 9/3/2016)
 	{New crafting recipes, legendaries weapons, new monsters dropping those recipes /reagents/weapons.
 	{Weapons will give new skills or have procs.
 
-Omega [0.3] (Up to date 9/3/2016)
+$$$Omega [0.63] (0.3)
 	http://www.grimdawn.com/forums/showthread.php?t=37935
 	End-game quests
 	{Increase end-game content : new quests, items,buffs, unique boss. 
