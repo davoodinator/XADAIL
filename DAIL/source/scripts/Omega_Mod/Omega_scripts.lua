@@ -13,7 +13,7 @@ function omega.scripts.onherodeath()
 		omega.scripts.spawnomegaboss();
 	end
 	----START CALL for DAIL if Omega mod merge with DAIL.Function callDAILonherodeath() is inside DAIL.lua
-	callDAILonherodeath()
+	-- callDAILonherodeath()
 	----END CALL for DAIL mod
 end
 
@@ -22,7 +22,6 @@ function omega.scripts.onbossdeath()
 		local player = Game.GetLocalPlayer();
 		player:GiveItem('records/omega/items/questitems/Omega_Soul_Boss.dbr', 1, true);
 	end
-	callDAILonherodeath()
 end
 
 function omega.scripts.summonatfeet(objectID)
@@ -143,7 +142,7 @@ function omega.scripts.onopenchestnemesis(objectID)
 		local spOMbosschance = 0
 		math.randomseed(Time.Now())
 		spOMbosschance = math.random(1,100)
-			if spOMbosschance > 50 then
+			if spOMbosschance > 96 then
 					omega.scripts.summonatfeet(objectID)
 				else
 					if player:HasToken('OMEGA_BUFF_SPAWN') then
