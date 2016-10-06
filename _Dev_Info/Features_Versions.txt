@@ -1,4 +1,4 @@
-[10/5/2016 20:00] K
+[9/17/2016 11:00] K
 
 ************************************************************************************
 ************************************************************************************
@@ -8,6 +8,8 @@
 ************************************************************************************
 ************************************************************************************
 [Latest version](DAIL version, last update)
+$ = Needs update
+
 
 MASTERIES
 ****************
@@ -69,7 +71,7 @@ DGA [0.4.2B] (Up to date 9/3/2016)
 	Dynamically Generated Areas
 	{Feature list at http://www.grimdawn.com/forums/showthread.php?t=38585&highlight=mapping
 
-Grim Dawn: Eternal [0.977] (Up to date 10/5/2016)							
+Grim Dawn: Eternal [0.977] (0.967 in 053)							
 	http://www.grimdawn.com/forums/showthread.php?t=39543
 	Pre-Crucible survival
 	{Fight classic Grim Dawn monsters and bosses along with new ones
@@ -84,7 +86,7 @@ Grim Dawn: Eternal [0.977] (Up to date 10/5/2016)
 GAME CHANGES
 ****************
 
-Grimmer and Grimmest [0.8] (Up to date 10/5/2016)
+Grimmer and Grimmest [0.7] (Up to date 9/3/2016)
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
@@ -93,7 +95,7 @@ Grimmer and Grimmest [0.8] (Up to date 10/5/2016)
 	{manually "curated" adding Heroes and adjusting spawn weights for a more challenging encounter.
 	{Lua scripts determining level of NPC-turned-enemy spawns were adjusted to always spawn slightly above playerLevel.
 	
-Legendary Cap Remover [2.1] (v1, source material not available)	
+$$$Legendary Cap Remover [2.1] (On to-do list, conflict with Grim Quest)	
 	http://www.grimdawn.com/forums/showthread.php?t=37957
 	Item improvement
 	{Affixes for Legendary and Epic Items. Great Items now become much more unique.
@@ -136,7 +138,7 @@ Lost Treasures [0.2] (Up to date 9/3/2016)
 	{New crafting recipes, legendaries weapons, new monsters dropping those recipes /reagents/weapons.
 	{Weapons will give new skills or have procs.
 
-Omega [0.63] (Up to date 10/5/2016)
+$$$Omega [0.63] (0.3)
 	http://www.grimdawn.com/forums/showthread.php?t=37935
 	End-game quests
 	{Increase end-game content : new quests, items,buffs, unique boss. 

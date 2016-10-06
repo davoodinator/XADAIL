@@ -4,21 +4,10 @@ Edit [9/30/2016 00:00] K
 ****************************************************************
 
 	Changelog 56
-	
+
 ****************************************************************
 ****************************************************************
 
-
-
-[56 10/5/2016]
-Updates
-	Omega Quest v0.3
-		Still no hero soul drops		
-	Grim Dawn: Eternal (Survival) v0.977
-		Custom DAIL faction script changes maintained
-	Grimmer and Grimmest v0.8
-
-	
 [56 9/30 20:00]
 Clean-up cont. pt2 (where is this coming from?)
 	Frost Knight pet malfunction
