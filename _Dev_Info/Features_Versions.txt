@@ -86,7 +86,11 @@ Grim Dawn: Eternal [0.977] (0.967 in 053)
 GAME CHANGES
 ****************
 
+<<<<<<< HEAD
 Grimmer and Grimmest [0.7] (Up to date 9/3/2016)
+=======
+Grimmer and Grimmest [0.8] (0.7)
+>>>>>>> 1545e215ea30178b64a89e6976f14c0d53aaf106
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
