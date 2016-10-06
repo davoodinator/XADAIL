@@ -84,7 +84,7 @@ Grim Dawn: Eternal [0.977] (Up to date 10/5/2016)
 GAME CHANGES
 ****************
 
-Grimmer and Grimmest [0.8] (Up to date 10/5/2016)
+Grimmer and Grimmest [0.8] (0.7)
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
